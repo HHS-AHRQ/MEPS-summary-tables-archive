@@ -1,0 +1,91 @@
+Table,domain,F_region,region,F_afford_MD,afford_MD,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_MD,insure_MD,F_other_MD,other_MD
+Table 1 of region * afford_MD,0,Northeast,Northeast,0,0,4538,52459922,2236190,18.6363,0.7690,100.0000,0.0000,,,,,
+Table 1 of region * afford_MD,0,Northeast,Northeast,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of region * afford_MD,0,Northeast,Northeast,Total,,4538,52459922,2236190,18.6363,0.7690,100.0000,_,1,,,,
+Table 1 of region * afford_MD,0,Midwest,Midwest,0,0,5866,62916015,2933144,22.3508,0.9463,100.0000,0.0000,-,,,,
+Table 1 of region * afford_MD,0,Midwest,Midwest,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of region * afford_MD,0,Midwest,Midwest,Total,,5866,62916015,2933144,22.3508,0.9463,100.0000,_,1,,,,
+Table 1 of region * afford_MD,0,South,South,0,0,11963,101100336,4438269,35.9157,1.2066,100.0000,0.0000,-,,,,
+Table 1 of region * afford_MD,0,South,South,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of region * afford_MD,0,South,South,Total,,11963,101100336,4438269,35.9157,1.2066,100.0000,_,1,,,,
+Table 1 of region * afford_MD,0,West,West,0,0,8342,65017229,3511439,23.0972,1.0596,100.0000,0.0000,-,,,,
+Table 1 of region * afford_MD,0,West,West,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of region * afford_MD,0,West,West,Total,,8342,65017229,3511439,23.0972,1.0596,100.0000,_,1,,,,
+Table 1 of region * afford_MD,0,Total,Missing,0,0,30709,281493503,6784607,100.0000,0.0000,_,_,-,,,,
+Table 1 of region * afford_MD,0,Total,Missing,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of region * afford_MD,0,Total,Missing,Total,,30709,281493503,6784607,100.0000,_,_,_,1,,,,
+Table 2 of region * afford_MD,1,Northeast,Northeast,0,0,116,1314091,149306,8.9446,0.9868,61.0116,4.6488,,,,,
+Table 2 of region * afford_MD,1,Northeast,Northeast,Couldn't afford,Couldn't afford,80,839746,156049,5.7159,1.0100,38.9884,4.6488,,,,,
+Table 2 of region * afford_MD,1,Northeast,Northeast,Total,,196,2153837,238432,14.6604,1.5034,100.0000,_,1,,,,
+Table 2 of region * afford_MD,1,Midwest,Midwest,0,0,163,1644868,181010,11.1961,1.1388,57.8112,3.5827,-,,,,
+Table 2 of region * afford_MD,1,Midwest,Midwest,Couldn't afford,Couldn't afford,125,1200374,163587,8.1705,1.0487,42.1888,3.5827,,,,,
+Table 2 of region * afford_MD,1,Midwest,Midwest,Total,,288,2845242,278393,19.3666,1.6959,100.0000,_,1,,,,
+Table 2 of region * afford_MD,1,South,South,0,0,281,2786677,242928,18.9680,1.4376,46.2645,2.7652,-,,,,
+Table 2 of region * afford_MD,1,South,South,Couldn't afford,Couldn't afford,412,3236677,293055,22.0310,1.6662,53.7355,2.7652,,,,,
+Table 2 of region * afford_MD,1,South,South,Total,,693,6023354,419276,40.9989,2.1127,100.0000,_,1,,,,
+Table 2 of region * afford_MD,1,West,West,0,0,220,1957320,232929,13.3228,1.4431,53.3465,3.6332,-,,,,
+Table 2 of region * afford_MD,1,West,West,Couldn't afford,Couldn't afford,214,1711746,162118,11.6513,1.0744,46.6535,3.6332,,,,,
+Table 2 of region * afford_MD,1,West,West,Total,,434,3669067,294344,24.9741,1.7522,100.0000,_,1,,,,
+Table 2 of region * afford_MD,1,Total,Missing,0,0,780,7702957,415639,52.4314,1.7552,_,_,-,,,,
+Table 2 of region * afford_MD,1,Total,Missing,Couldn't afford,Couldn't afford,831,6988543,406363,47.5686,1.7552,_,_,,,,,
+Table 2 of region * afford_MD,1,Total,Missing,Total,,1611,14691500,640325,100.0000,_,_,_,1,,,,
+Table 1 of region * insure_MD,0,Northeast,Northeast,,,4538,52459922,2236190,18.6363,0.7690,100.0000,0.0000,,0,0,,
+Table 1 of region * insure_MD,0,Northeast,Northeast,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of region * insure_MD,0,Northeast,Northeast,,,4538,52459922,2236190,18.6363,0.7690,100.0000,_,1,Total,,,
+Table 1 of region * insure_MD,0,Midwest,Midwest,,,5866,62916015,2933144,22.3508,0.9463,100.0000,0.0000,-,0,0,,
+Table 1 of region * insure_MD,0,Midwest,Midwest,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of region * insure_MD,0,Midwest,Midwest,,,5866,62916015,2933144,22.3508,0.9463,100.0000,_,1,Total,,,
+Table 1 of region * insure_MD,0,South,South,,,11963,101100336,4438269,35.9157,1.2066,100.0000,0.0000,-,0,0,,
+Table 1 of region * insure_MD,0,South,South,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of region * insure_MD,0,South,South,,,11963,101100336,4438269,35.9157,1.2066,100.0000,_,1,Total,,,
+Table 1 of region * insure_MD,0,West,West,,,8342,65017229,3511439,23.0972,1.0596,100.0000,0.0000,-,0,0,,
+Table 1 of region * insure_MD,0,West,West,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of region * insure_MD,0,West,West,,,8342,65017229,3511439,23.0972,1.0596,100.0000,_,1,Total,,,
+Table 1 of region * insure_MD,0,Total,Missing,,,30709,281493503,6784607,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of region * insure_MD,0,Total,Missing,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of region * insure_MD,0,Total,Missing,,,30709,281493503,6784607,100.0000,_,_,_,1,Total,,,
+Table 2 of region * insure_MD,1,Northeast,Northeast,,,171,1936704,228978,13.1825,1.4469,89.9188,1.7823,,0,0,,
+Table 2 of region * insure_MD,1,Northeast,Northeast,,,25,217132,38623,1.4779,0.2628,10.0812,1.7823,,Insurance related,Insurance related,,
+Table 2 of region * insure_MD,1,Northeast,Northeast,,,196,2153837,238432,14.6604,1.5034,100.0000,_,1,Total,,,
+Table 2 of region * insure_MD,1,Midwest,Midwest,,,261,2612557,255436,17.7828,1.5632,91.8220,1.7206,-,0,0,,
+Table 2 of region * insure_MD,1,Midwest,Midwest,,,27,232685,56010,1.5838,0.3722,8.1780,1.7206,,Insurance related,Insurance related,,
+Table 2 of region * insure_MD,1,Midwest,Midwest,,,288,2845242,278393,19.3666,1.6959,100.0000,_,1,Total,,,
+Table 2 of region * insure_MD,1,South,South,,,632,5402352,386406,36.7720,1.9866,89.6901,1.5314,-,0,0,,
+Table 2 of region * insure_MD,1,South,South,,,61,621002,102211,4.2269,0.6679,10.3099,1.5314,,Insurance related,Insurance related,,
+Table 2 of region * insure_MD,1,South,South,,,693,6023354,419276,40.9989,2.1127,100.0000,_,1,Total,,,
+Table 2 of region * insure_MD,1,West,West,,,380,3301496,268424,22.4721,1.6154,89.9819,1.8838,-,0,0,,
+Table 2 of region * insure_MD,1,West,West,,,54,367571,77246,2.5019,0.5128,10.0181,1.8838,,Insurance related,Insurance related,,
+Table 2 of region * insure_MD,1,West,West,,,434,3669067,294344,24.9741,1.7522,100.0000,_,1,Total,,,
+Table 2 of region * insure_MD,1,Total,Missing,,,1444,13253109,592070,90.2094,0.8903,_,_,-,0,0,,
+Table 2 of region * insure_MD,1,Total,Missing,,,167,1438390,145123,9.7906,0.8903,_,_,,Insurance related,Insurance related,,
+Table 2 of region * insure_MD,1,Total,Missing,,,1611,14691500,640325,100.0000,_,_,_,1,Total,,,
+Table 1 of region * other_MD,0,Northeast,Northeast,,,4538,52459922,2236190,18.6363,0.7690,100.0000,0.0000,,,,0,0
+Table 1 of region * other_MD,0,Northeast,Northeast,,,0,,,,,,,,,,Other,Other
+Table 1 of region * other_MD,0,Northeast,Northeast,,,4538,52459922,2236190,18.6363,0.7690,100.0000,_,1,,,Total,
+Table 1 of region * other_MD,0,Midwest,Midwest,,,5866,62916015,2933144,22.3508,0.9463,100.0000,0.0000,-,,,0,0
+Table 1 of region * other_MD,0,Midwest,Midwest,,,0,,,,,,,,,,Other,Other
+Table 1 of region * other_MD,0,Midwest,Midwest,,,5866,62916015,2933144,22.3508,0.9463,100.0000,_,1,,,Total,
+Table 1 of region * other_MD,0,South,South,,,11963,101100336,4438269,35.9157,1.2066,100.0000,0.0000,-,,,0,0
+Table 1 of region * other_MD,0,South,South,,,0,,,,,,,,,,Other,Other
+Table 1 of region * other_MD,0,South,South,,,11963,101100336,4438269,35.9157,1.2066,100.0000,_,1,,,Total,
+Table 1 of region * other_MD,0,West,West,,,8342,65017229,3511439,23.0972,1.0596,100.0000,0.0000,-,,,0,0
+Table 1 of region * other_MD,0,West,West,,,0,,,,,,,,,,Other,Other
+Table 1 of region * other_MD,0,West,West,,,8342,65017229,3511439,23.0972,1.0596,100.0000,_,1,,,Total,
+Table 1 of region * other_MD,0,Total,Missing,,,30709,281493503,6784607,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of region * other_MD,0,Total,Missing,,,0,,,,,_,_,,,,Other,Other
+Table 1 of region * other_MD,0,Total,Missing,,,30709,281493503,6784607,100.0000,_,_,_,1,,,Total,
+Table 2 of region * other_MD,1,Northeast,Northeast,,,101,1036008,169621,7.0518,1.0920,48.1006,4.6582,,,,0,0
+Table 2 of region * other_MD,1,Northeast,Northeast,,,95,1117829,139240,7.6087,0.9252,51.8994,4.6582,,,,Other,Other
+Table 2 of region * other_MD,1,Northeast,Northeast,,,196,2153837,238432,14.6604,1.5034,100.0000,_,1,,,Total,
+Table 2 of region * other_MD,1,Midwest,Midwest,,,145,1355683,176090,9.2277,1.1176,47.6474,3.4076,-,,,0,0
+Table 2 of region * other_MD,1,Midwest,Midwest,,,143,1489559,161966,10.1389,1.0234,52.3526,3.4076,,,,Other,Other
+Table 2 of region * other_MD,1,Midwest,Midwest,,,288,2845242,278393,19.3666,1.6959,100.0000,_,1,,,Total,
+Table 2 of region * other_MD,1,South,South,,,453,3700960,309492,25.1912,1.7322,61.4435,2.5970,-,,,0,0
+Table 2 of region * other_MD,1,South,South,,,240,2322394,217937,15.8077,1.2974,38.5565,2.5970,,,,Other,Other
+Table 2 of region * other_MD,1,South,South,,,693,6023354,419276,40.9989,2.1127,100.0000,_,1,,,Total,
+Table 2 of region * other_MD,1,West,West,,,255,1983965,184764,13.5042,1.2017,54.0727,3.7122,-,,,0,0
+Table 2 of region * other_MD,1,West,West,,,179,1685102,212378,11.4699,1.3315,45.9273,3.7122,,,,Other,Other
+Table 2 of region * other_MD,1,West,West,,,434,3669067,294344,24.9741,1.7522,100.0000,_,1,,,Total,
+Table 2 of region * other_MD,1,Total,Missing,,,954,8076616,434404,54.9748,1.6833,_,_,-,,,0,0
+Table 2 of region * other_MD,1,Total,Missing,,,657,6614883,375899,45.0252,1.6833,_,_,,,,Other,Other
+Table 2 of region * other_MD,1,Total,Missing,,,1611,14691500,640325,100.0000,_,_,_,1,,,Total,

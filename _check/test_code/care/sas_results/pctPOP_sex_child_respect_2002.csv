@@ -1,0 +1,37 @@
+Table,domain,F_SEX,SEX,F_child_respect,child_respect,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of SEX * child_respect,0,Male,Male,Don't know/Non-response,Don't know/Non-response,1,3042,3042,0.0013,0.0013,0.0027,0.0027,
+Table 1 of SEX * child_respect,0,Male,Male,Inapplicable,Inapplicable,13699,112516421,2391233,48.1365,0.2740,99.6016,0.0604,
+Table 1 of SEX * child_respect,0,Male,Male,Sometimes/Never,Sometimes/Never,2,12963,10450,0.0055,0.0045,0.0115,0.0093,
+Table 1 of SEX * child_respect,0,Male,Male,Usually,Usually,18,156305,41494,0.0669,0.0175,0.1384,0.0362,
+Table 1 of SEX * child_respect,0,Male,Male,Always,Always,42,277738,51361,0.1188,0.0220,0.2459,0.0456,
+Table 1 of SEX * child_respect,0,Male,Male,Total,Missing,13762,112966470,2402259,48.3290,0.2742,100.0000,_,1
+Table 1 of SEX * child_respect,0,Female,Female,Don't know/Non-response,Don't know/Non-response,1,12889,12889,0.0055,0.0055,0.0107,0.0107,-
+Table 1 of SEX * child_respect,0,Female,Female,Inapplicable,Inapplicable,15736,120318195,2481758,51.4742,0.2707,99.6191,0.0539,
+Table 1 of SEX * child_respect,0,Female,Female,Sometimes/Never,Sometimes/Never,2,12787,9751,0.0055,0.0042,0.0106,0.0081,
+Table 1 of SEX * child_respect,0,Female,Female,Usually,Usually,15,82699,24946,0.0354,0.0107,0.0685,0.0207,
+Table 1 of SEX * child_respect,0,Female,Female,Always,Always,51,351621,59749,0.1504,0.0255,0.2911,0.0492,
+Table 1 of SEX * child_respect,0,Female,Female,Total,Missing,15805,120778191,2488904,51.6710,0.2742,100.0000,_,1
+Table 1 of SEX * child_respect,0,Total,,Don't know/Non-response,Don't know/Non-response,2,15931,13243,0.0068,0.0057,_,_,-
+Table 1 of SEX * child_respect,0,Total,,Inapplicable,Inapplicable,29435,232834616,4704954,99.6107,0.0407,_,_,
+Table 1 of SEX * child_respect,0,Total,,Sometimes/Never,Sometimes/Never,4,25750,14293,0.0110,0.0061,_,_,
+Table 1 of SEX * child_respect,0,Total,,Usually,Usually,33,239003,48415,0.1022,0.0204,_,_,
+Table 1 of SEX * child_respect,0,Total,,Always,Always,93,629359,79107,0.2693,0.0339,_,_,
+Table 1 of SEX * child_respect,0,Total,,Total,Missing,29567,233744660,4720652,100.0000,_,_,_,1
+Table 2 of SEX * child_respect,1,Male,Male,Don't know/Non-response,Don't know/Non-response,25,152793,33645,0.2807,0.0629,0.5489,0.1229,
+Table 2 of SEX * child_respect,1,Male,Male,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of SEX * child_respect,1,Male,Male,Sometimes/Never,Sometimes/Never,256,1566396,140501,2.8774,0.2458,5.6273,0.4752,
+Table 2 of SEX * child_respect,1,Male,Male,Usually,Usually,802,5272902,296638,9.6862,0.4973,18.9431,0.8899,
+Table 2 of SEX * child_respect,1,Male,Male,Always,Always,2951,20843367,667279,38.2889,0.6557,74.8806,1.0039,
+Table 2 of SEX * child_respect,1,Male,Male,Total,Missing,4034,27835458,814765,51.1332,0.6789,100.0000,_,1
+Table 2 of SEX * child_respect,1,Female,Female,Don't know/Non-response,Don't know/Non-response,18,120742,31622,0.2218,0.0578,0.4539,0.1185,-
+Table 2 of SEX * child_respect,1,Female,Female,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of SEX * child_respect,1,Female,Female,Sometimes/Never,Sometimes/Never,249,1547642,130850,2.8430,0.2219,5.8178,0.4413,
+Table 2 of SEX * child_respect,1,Female,Female,Usually,Usually,707,4984814,264263,9.1570,0.4078,18.7387,0.8043,
+Table 2 of SEX * child_respect,1,Female,Female,Always,Always,2843,19948446,626002,36.6449,0.6725,74.9895,0.8853,
+Table 2 of SEX * child_respect,1,Female,Female,Total,Missing,3817,26601645,797480,48.8668,0.6789,100.0000,_,1
+Table 2 of SEX * child_respect,1,Total,,Don't know/Non-response,Don't know/Non-response,43,273534,49239,0.5025,0.0914,_,_,-
+Table 2 of SEX * child_respect,1,Total,,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of SEX * child_respect,1,Total,,Sometimes/Never,Sometimes/Never,505,3114039,224375,5.7204,0.3747,_,_,
+Table 2 of SEX * child_respect,1,Total,,Usually,Usually,1509,10257717,459624,18.8432,0.6881,_,_,
+Table 2 of SEX * child_respect,1,Total,,Always,Always,5794,40791813,1151209,74.9338,0.7706,_,_,
+Table 2 of SEX * child_respect,1,Total,,Total,Missing,7851,54437102,1432877,100.0000,_,_,_,1

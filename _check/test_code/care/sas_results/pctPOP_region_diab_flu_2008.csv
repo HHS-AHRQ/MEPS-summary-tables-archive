@@ -1,0 +1,61 @@
+Table,domain,F_region,region,F_diab_flu,diab_flu,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of region * diab_flu,1,Northeast,Northeast,Missing,Missing,0,,,,,,,
+Table 1 of region * diab_flu,1,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,3,45413,26538,0.2262,0.1318,1.2267,0.7105,
+Table 1 of region * diab_flu,1,Northeast,Northeast,In the past year,In the past year,194,2429402,228501,12.1033,1.0685,65.6219,3.3656,
+Table 1 of region * diab_flu,1,Northeast,Northeast,More than 1 year ago,More than 1 year ago,38,401699,78499,2.0013,0.3845,10.8505,2.0129,
+Table 1 of region * diab_flu,1,Northeast,Northeast,Never had flu shot,Never had flu shot,62,825610,110241,4.1132,0.5399,22.3010,2.7911,
+Table 1 of region * diab_flu,1,Northeast,Northeast,Total,,297,3702124,262951,18.4440,1.1742,100.0000,_,1
+Table 1 of region * diab_flu,1,Midwest,Midwest,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_flu,1,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,4,31834,17318,0.1586,0.0861,0.7863,0.4219,
+Table 1 of region * diab_flu,1,Midwest,Midwest,In the past year,In the past year,229,2833873,250557,14.1184,1.1347,70.0005,2.7832,
+Table 1 of region * diab_flu,1,Midwest,Midwest,More than 1 year ago,More than 1 year ago,43,426504,67330,2.1248,0.3323,10.5352,1.6685,
+Table 1 of region * diab_flu,1,Midwest,Midwest,Never had flu shot,Never had flu shot,71,756149,111272,3.7671,0.5484,18.6779,2.4681,
+Table 1 of region * diab_flu,1,Midwest,Midwest,Total,,347,4048360,291796,20.1689,1.2910,100.0000,_,1
+Table 1 of region * diab_flu,1,South,South,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_flu,1,South,South,Don't know/Non-response,Don't know/Non-response,11,97773,39394,0.4871,0.1984,1.2795,0.5270,
+Table 1 of region * diab_flu,1,South,South,In the past year,In the past year,429,4440760,314912,22.1239,1.3314,58.1159,2.4118,
+Table 1 of region * diab_flu,1,South,South,More than 1 year ago,More than 1 year ago,96,1000856,137342,4.9863,0.6648,13.0981,1.6395,
+Table 1 of region * diab_flu,1,South,South,Never had flu shot,Never had flu shot,221,2101823,216254,10.4713,1.0199,27.5064,2.4336,
+Table 1 of region * diab_flu,1,South,South,Total,,757,7641211,418600,38.0685,1.6102,100.0000,_,1
+Table 1 of region * diab_flu,1,West,West,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_flu,1,West,West,Don't know/Non-response,Don't know/Non-response,3,18731,11221,0.0933,0.0559,0.4002,0.2375,
+Table 1 of region * diab_flu,1,West,West,In the past year,In the past year,275,2992873,232535,14.9105,1.0668,63.9426,3.2448,
+Table 1 of region * diab_flu,1,West,West,More than 1 year ago,More than 1 year ago,60,663572,143503,3.3059,0.6978,14.1772,2.7509,
+Table 1 of region * diab_flu,1,West,West,Never had flu shot,Never had flu shot,102,1005388,139938,5.0088,0.6732,21.4801,2.4706,
+Table 1 of region * diab_flu,1,West,West,Total,,440,4680565,326034,23.3186,1.4126,100.0000,_,1
+Table 1 of region * diab_flu,1,Total,Missing,Missing,Missing,0,,,,,_,_,-
+Table 1 of region * diab_flu,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,21,193750,51415,0.9653,0.2580,_,_,
+Table 1 of region * diab_flu,1,Total,Missing,In the past year,In the past year,1127,12696909,528204,63.2560,1.4391,_,_,
+Table 1 of region * diab_flu,1,Total,Missing,More than 1 year ago,More than 1 year ago,237,2492631,227382,12.4183,1.0409,_,_,
+Table 1 of region * diab_flu,1,Total,Missing,Never had flu shot,Never had flu shot,456,4688970,302122,23.3604,1.3208,_,_,
+Table 1 of region * diab_flu,1,Total,Missing,Total,,1841,20072260,678200,100.0000,_,_,_,1
+Table 2 of region * diab_flu,2,Northeast,Northeast,Missing,Missing,4713,4713,218.50858,15.0937,0.6708,100.0000,0.0000,
+Table 2 of region * diab_flu,2,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of region * diab_flu,2,Northeast,Northeast,In the past year,In the past year,0,,,,,,,
+Table 2 of region * diab_flu,2,Northeast,Northeast,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of region * diab_flu,2,Northeast,Northeast,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of region * diab_flu,2,Northeast,Northeast,Total,,4713,4713,218.50858,15.0937,0.6708,100.0000,_,1
+Table 2 of region * diab_flu,2,Midwest,Midwest,Missing,Missing,6209,6209,295.97128,19.8847,0.8620,100.0000,0.0000,-
+Table 2 of region * diab_flu,2,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of region * diab_flu,2,Midwest,Midwest,In the past year,In the past year,0,,,,,,,
+Table 2 of region * diab_flu,2,Midwest,Midwest,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of region * diab_flu,2,Midwest,Midwest,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of region * diab_flu,2,Midwest,Midwest,Total,,6209,6209,295.97128,19.8847,0.8620,100.0000,_,1
+Table 2 of region * diab_flu,2,South,South,Missing,Missing,11775,11775,521.27056,37.7102,1.1887,100.0000,0.0000,-
+Table 2 of region * diab_flu,2,South,South,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of region * diab_flu,2,South,South,In the past year,In the past year,0,,,,,,,
+Table 2 of region * diab_flu,2,South,South,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of region * diab_flu,2,South,South,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of region * diab_flu,2,South,South,Total,,11775,11775,521.27056,37.7102,1.1887,100.0000,_,1
+Table 2 of region * diab_flu,2,West,West,Missing,Missing,8528,8528,434.69069,27.3114,1.1175,100.0000,0.0000,-
+Table 2 of region * diab_flu,2,West,West,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of region * diab_flu,2,West,West,In the past year,In the past year,0,,,,,,,
+Table 2 of region * diab_flu,2,West,West,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of region * diab_flu,2,West,West,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of region * diab_flu,2,West,West,Total,,8528,8528,434.69069,27.3114,1.1175,100.0000,_,1
+Table 2 of region * diab_flu,2,Total,Missing,Missing,Missing,31225,31225,838.53145,100.0000,0.0000,_,_,-
+Table 2 of region * diab_flu,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,
+Table 2 of region * diab_flu,2,Total,Missing,In the past year,In the past year,0,,,,,_,_,
+Table 2 of region * diab_flu,2,Total,Missing,More than 1 year ago,More than 1 year ago,0,,,,,_,_,
+Table 2 of region * diab_flu,2,Total,Missing,Never had flu shot,Never had flu shot,0,,,,,_,_,
+Table 2 of region * diab_flu,2,Total,Missing,Total,,31225,31225,838.53145,100.0000,_,_,_,1

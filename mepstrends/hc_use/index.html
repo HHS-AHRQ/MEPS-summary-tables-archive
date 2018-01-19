@@ -1,0 +1,761 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8"/>
+
+ <head profile="http://www.w3.org/2005/10/profile">
+
+   <title> MEPS summary tables </title>
+
+   <link rel="icon" href="../src/custom/img/OC_M_square.png" type="image/png">
+
+   <link rel="stylesheet" href="../src/vendor/DataTables/datatables.min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+   
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues. More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if IE]><link rel="stylesheet" href="https://www.ahrq.gov/resources/css/ie.css" type="text/css" media="print" charset="utf-8">
+<![endif]-->
+
+  <!-- Errors loading .css : custom version saved and loaded in template.html
+    <link rel="stylesheet" href="https://www.ahrq.gov/resources/css/style.css
+  -->
+
+
+  <link rel="stylesheet" href="https://www.ahrq.gov/resources/css/960_12_col.css">
+  <link rel="stylesheet" href="https://www.ahrq.gov/resources/css/adapt.css">
+
+  <!-- More ideas for your head section here: h5bp.com/d/head-Tips -->
+  <script>
+    var docready=[],$=function(){return{ready:function(fn){docready.push(fn)}}};
+  </script>
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements &amp; feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+  <script>
+    var $;
+    var navbase = "https://www.ahrq.gov";
+  </script>
+  <script src="https://www.ahrq.gov/resources/js/libs/modernizr-2.5.3.min.js"></script>
+
+
+   <link rel="stylesheet" href="../src/ahrq/css/ahrq_style.css">
+   <link rel="stylesheet" href="../src/ahrq/css/third_party.css">
+
+
+   <link href="https://www.ahrq.gov/resources/css/widget118.css" rel="stylesheet">
+   <link href="https://www.ahrq.gov/resources/css/widgetbig058.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="../src/vendor/uswds-1.1.0/css/uswds.css">
+   <link rel="stylesheet" href="../src/custom/css/custom.css">
+
+ </head>
+
+ <body id = "top">
+
+   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+   
+
+<!-- T:GtAHRQCommon -->
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+
+
+
+		<!-- googleoff: all-->
+		<header id="tiptop">
+
+    <div id="mobile-left">
+        <a href="#" class="open-btn"><img src="https://www.ahrq.gov/resources/img/menu-icon.png" alt="menu-icon" width="32" height="32"><span>More</span></a>
+        <a href="#" class="close-btn"><img src="https://www.ahrq.gov/resources/img/mobile-close-icon.png" alt="mobile-close-icon" width="20" height="20"></a>
+    </div>
+		<!--
+    <div id="tablet">
+        <div id="mobile-back-btn">
+            <a href="#"><img src="https://www.ahrq.gov/resources/img/mobile-back-btn-icon.png" alt="mobile-back-btn-icon" width="64" height="31" class="mobile-back-btn"> Back</a>
+        </div>
+        <div id="menu-tablet"></div>
+        <div id="a-z-tablet"></div>
+        <div id="search-tablet">
+            <div id="mobile-search-tool">
+                <form name="searchForm-banner_searchform" method="get" action="https://search.ahrq.gov/search" id="banner_searchform">
+                    <label for="search-input" style="display: none;">Search ahrq.gov</label>
+                    <input name="q" type="text" value="" size="11" onfocus="this.value='';" id="search-input">
+                    <input type="hidden" name="entqr" value="0">
+                    <input type="hidden" name="output" value="xml_no_dtd">
+                    <input type="hidden" name="proxystylesheet" value="AHRQ_GOV">
+                    <input type="hidden" name="client" value="AHRQ_GOV">
+                    <input type="hidden" name="site" value="default_collection">
+                    <input type="submit" value="Search" class="mobile-search-button">
+                </form>
+            </div>
+        </div>
+    </div>
+    <nav class="tablet">
+        <ul>
+            <li id="menu-btn">
+                <a href="#"><img src="https://www.ahrq.gov/resources/img/menu-icon.png" alt="menu-icon" width="32" height="32"><span>Menu</span></a>
+            </li>
+            <li id="search-btn">
+                <a href="#"><img src="https://www.ahrq.gov/resources/img/mobile-search-icon.png" alt="mobile-search-icon" width="32" height="32"></a>
+            </li>
+        </ul>
+    </nav>
+
+
+    <div id="skipmenu">
+        <a href="#skip" class="skippy" id="top" name="top">Skip Navigation</a>
+    </div>
+		-->
+		
+    <div id="header-gradient"></div>
+        <div class="clearfix"></div>
+    <div id="header-container" class="container_12"><!-- start: id=header-container -->
+        <div id="utility-container"><!-- start: id=utility-container -->
+            <div id="hhs-link" class="grid_4">
+                <a href="https://www.hhs.gov/"><img src="https://www.ahrq.gov/resources/img/hhs-logo.png" alt="hhs-logo" width="25" height="28" /><span>U.S. Department of Health &amp; Human Services</span></a>
+            </div>
+            <nav id="utility">
+
+            <ul>
+                                                        <li>
+<span><a href="https://www.ahrq.gov/cpi/about/index.html">About Us</a></span>
+</li>
+                                                <li>
+<span><a href="https://www.ahrq.gov/cpi/about/careers/index.html">Careers</a></span>
+</li>
+                                                <li>
+<span><a href="https://www.ahrq.gov/contact/index.html">Contact Us</a></span>
+</li>
+                                                <li>
+<span><a href="https://www.ahrq.gov/topics/informacion-en-espanol/index.html">Español</a></span>
+</li>
+                                                <li>
+<span><a href="https://info.ahrq.gov/">FAQ</a></span>
+</li>
+                            </ul>
+                    <div id="email-updates">
+                    <a href="https://subscriptions.ahrq.gov/accounts/USAHRQ/subscriber/new"><img src="https://www.ahrq.gov/resources/img/primary-mailist-icon.png" alt="Sign up for email updates" title="Sign up for Email Updates" width="16" height="16" /> Email Updates</a>
+                </div>
+            </nav>
+        </div><!-- end: id=utility-container -->
+        <div id="brand-search-container"><!-- start: id=brand-search-container -->
+
+<!-- T:SnImageLink -->
+			<span><a href="https://www.ahrq.gov/index.html">
+<img src="https://www.ahrq.gov/images/ahrq-logo.png" alt="AHRQ--Agency for Healthcare Research and Quality: Advancing Excellence in Health Care" title="AHRQ--Agency for Healthcare Research and Quality: Advancing Excellence in Health Care" border="0" height="63" width="568" />
+</a></span>
+
+<div id="search-tool">
+<div>
+<form name="searchForm-banner_searchform" method="get" action="https://search.ahrq.gov/search" id="banner_searchform">
+    <label for="search-input" style="display: none;">Search ahrq.gov</label>
+    <input name="q" type="text" value="" size="11" onfocus="this.value='';" id="search-input" value=""/>
+    <input type="hidden" name="entqr" value="0" />
+    <input type="hidden" name="output" value="xml_no_dtd" />
+    <input type="hidden" name="proxystylesheet" value="AHRQ_GOV" />
+    <input type="hidden" name="client" value="AHRQ_GOV" />
+    <input type="hidden" name="site" value="default_collection" />
+    <input type="image" src="https://www.ahrq.gov/resources/img/search-icon.png" placeholder="Search" alt="search" class="search-icon" title="Search" width="16" height="18" />
+</form>
+</div>
+</div>
+        </div><!-- end: id=brand-search-container -->
+    </div><!-- end: id=header-container -->
+    <a name="skip" tabindex="-1"></a>
+
+
+
+					</header>
+					<!--googleon: all-->
+
+
+
+   <header id = "meps-header-container">
+
+     <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+
+       <div class="em-logo navbar-brand" id="logo">
+         <h1>
+          <em class="usa-logo-text">
+            <a href="../home/index.html" title="MEPS summary tables home" aria-label="Home">
+                <img src="../src/custom/img/oc_meps_logo_blue.png" width = '83px' height = '24px' alt="MEPS"> summary tables
+            </a>
+          </em>
+          </h1>
+        </div>
+
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+        </button>
+
+       <div class="collapse navbar-collapse" id="navbarNavDropdown">
+         <ul class="navbar-nav right">
+
+           <li class="nav-item dropdown">
+             <a class="nav-link dropdown-toggle em-nav-dropdown" href = "" id="hc-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               Household Component Tables
+             </a>
+             <div class="dropdown-menu em-nav-dropdown-menu" aria-labelledby="hc-dropdown">
+
+               
+<a class="dropdown-item" href="../hc_use/">
+  <span>Use, expenditures, and population</span>
+</a>
+<a class="dropdown-item" href="../hc_ins/">
+  <span>Health insurance</span>
+</a>
+<a class="dropdown-item" href="../hc_care/">
+  <span>Accessibility and quality of care</span>
+</a>
+<a class="dropdown-item" href="../hc_cond/">
+  <span>Medical conditions</span>
+</a>
+<a class="dropdown-item" href="../hc_pmed/">
+  <span>Prescribed drugs</span>
+</a>
+
+
+             </div>
+           </li>
+
+           <li class="nav-item">
+             <a class="nav-link" href="https://meps.ahrq.gov/mepsweb/" id = 'meps-home-link'>
+               MEPS Home
+             </a>
+           </li>
+
+         </ul>
+       </div>
+     </nav>
+
+   </header>
+
+
+    <div class="usa-overlay"></div>
+    <div role = "main" id = "page-container">
+
+      <main id="main-content">
+         
+<div class="info-box ">
+  <div class="full-screen">
+    <h2>
+      Use, expenditures, and population
+      <img src="../src/custom/img/icon_use.png" alt="dollars" class="app-image"/>
+    </h2>
+    <p>These MEPS summary tables provide statistics on health care utilization and expenditures. Types of data available include number of people, percentage of people with an expense, total expenditures, mean and median expenditures per person, total number of health care events, mean number of events per person, and mean spending per event. Data can be grouped by event type (such as prescription medicines or dental visits), by source of payment (such as Medicare or Medicaid), or by demographic characteristics (such as age, race, or sex).</p>
+    <p>
+Use the options below to select a statistic of interest, the data view ("Trends over time" or "Cross-sectional"), data years, and grouping variables. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by up to two grouping variables. Once a grouping variable is selected, a dropdown menu will appear, enabling selection of specific levels in each group.</p>
+    <p>
+After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.</p>
+  </div>
+</div>
+<div class="row full-screen">
+  <div class="col-sm-12 col-md-3" id="meps-form-container">
+    <form class="usa-form-large">
+      <label for="stat">Select statistic:</label>
+      <select id="stat"><optgroup label="Population">
+<option value="totPOP" selected>Number of people</option>
+<option value="pctEXP">Percent of population with an expense (%)</option>
+</optgroup>
+<optgroup label="Expenditures">
+<option value="totEXP">Total expenditures ($)</option>
+<option value="meanEXP0">Mean expenditure per person ($)</option>
+<option value="meanEXP">Mean expenditure per person with expense ($)</option>
+<option value="medEXP">Median expenditure per person with expense ($)</option>
+</optgroup>
+<optgroup label="Utilization">
+<option value="totEVT">Total number of events</option>
+<option value="avgEVT">Mean events per person</option>
+<option value="meanEVT">Mean expenditure per event ($)</option>
+</optgroup></select>
+      <input id="showSEs" type="checkbox" name="showSEs" value="showSEs" class=""/>
+      <label for="showSEs">Show standard errors</label>
+      <div id="control-totals">(Standard errors are approximately zero for control totals)</div>
+      <fieldset id="data-view" class="usa-fieldset-inputs usa-sans shiny-input-radiogroup em-fieldset">
+        <legend class="em-legend">Select data view:</legend>
+        <ul class="usa-unstyled-list">
+          <div class="shiny-options-group">
+            <li style="display: inline-block; padding-right: 30px;">
+              <input id="data-view-trend" type="radio" name="data-view" value="trend" checked="checked"/>
+              <label for="data-view-trend">Trends over time</label>
+            </li>
+            <li style="display: inline-block; padding-right: 30px;">
+              <input id="data-view-cross" type="radio" name="data-view" value="cross"/>
+              <label for="data-view-cross">Cross-sectional</label>
+            </li>
+          </div>
+        </ul>
+      </fieldset>
+      <fieldset>
+        <legend class="usa-sr-only">Select years</legend>
+        <div class="flex-parent">
+          <div class="flex-child-fill year-start">
+            <label for="year-start">Year:</label>
+            <select id="year-start"><option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996" selected>1996</option></select>
+          </div>
+          <div class="flex-child-fill year-main">
+            <label for="year">to:</label>
+            <select id="year"><option value="2015" selected>2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option></select>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="">
+        <label for="colGrp" class="">Group by (columns):</label>
+        <div role="group">
+          <div role="group">
+            <select id="colGrp"><option value="ind" selected>(none)</option>
+<optgroup label="Event characteristics">
+<option value="event">Event type</option>
+<option value="sop">Source of payment</option>
+</optgroup>
+<optgroup label="Demographics">
+<option value="agegrps">Age groups</option>
+<option value="region">Census region</option>
+<option value="married">Marital status</option>
+<option value="race">Race/ethnicity</option>
+<option value="sex">Sex</option>
+</optgroup>
+<optgroup label="Socio-economic status">
+<option value="education">Education</option>
+<option value="employed">Employment status</option>
+<option value="insurance">Insurance coverage</option>
+<option value="poverty">Poverty status</option>
+</optgroup>
+<optgroup label="Health variables">
+<option value="health">Perceived health status</option>
+<option value="mnhlth">Perceived mental health</option>
+</optgroup></select>
+          </div>
+          <div>
+            <div class="dropdown black-text" id="colDrop">
+              <button type="button" class="usa-accordion-button dropdown-toggle shiny-bound-input arrow-button" data-toggle="dropdown" aria-expanded="false">Select Levels</button>
+              <ul class="dropdown-menu dropdown-menu-form" aria-labelledby="colDrop">
+                <fieldset id="colLevels" class="usa-fieldset-inputs usa-sans shiny-input-checkboxgroup">
+                  
+                  <legend class="usa-sr-only"></legend>
+                  <ul class="usa-unstyled-list">
+                    <div class="shiny-options-group">
+                      <li>
+                        <input id="colLevels-" type="checkbox" name="colLevels" value=""/>
+                        <label for="colLevels-"></label>
+                      </li>
+                    </div>
+                  </ul>
+                </fieldset>
+                <button class="action-button  usa-button-outline" id="colReset" type="button">Reset</button>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+      <fieldset class="hide-if-trend">
+        <fieldset class="">
+          <label for="rowGrp" class="">Group by (rows):</label>
+          <div role="group">
+            <div role="group">
+              <select id="rowGrp"><option value="ind" selected>(none)</option>
+<optgroup label="Event characteristics">
+<option value="event">Event type</option>
+<option value="sop">Source of payment</option>
+</optgroup>
+<optgroup label="Demographics">
+<option value="agegrps">Age groups</option>
+<option value="region">Census region</option>
+<option value="married">Marital status</option>
+<option value="race">Race/ethnicity</option>
+<option value="sex">Sex</option>
+</optgroup>
+<optgroup label="Socio-economic status">
+<option value="education">Education</option>
+<option value="employed">Employment status</option>
+<option value="insurance">Insurance coverage</option>
+<option value="poverty">Poverty status</option>
+</optgroup>
+<optgroup label="Health variables">
+<option value="health">Perceived health status</option>
+<option value="mnhlth">Perceived mental health</option>
+</optgroup></select>
+            </div>
+            <div>
+              <div class="dropdown black-text" id="rowDrop">
+                <button type="button" class="usa-accordion-button dropdown-toggle shiny-bound-input arrow-button" data-toggle="dropdown" aria-expanded="false">Select Levels</button>
+                <ul class="dropdown-menu dropdown-menu-form" aria-labelledby="rowDrop">
+                  <fieldset id="rowLevels" class="usa-fieldset-inputs usa-sans shiny-input-checkboxgroup">
+                    
+                    <legend class="usa-sr-only"></legend>
+                    <ul class="usa-unstyled-list">
+                      <div class="shiny-options-group">
+                        <li>
+                          <input id="rowLevels-" type="checkbox" name="rowLevels" value=""/>
+                          <label for="rowLevels-"></label>
+                        </li>
+                      </div>
+                    </ul>
+                  </fieldset>
+                  <button class="action-button  usa-button-outline" id="rowReset" type="button">Reset</button>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </fieldset>
+        <button class="action-button  usa-button" id="switchRC" type="button">Switch rows/columns</button>
+      </fieldset>
+    </form>
+  </div>
+  <div class="col-sm-12 col-md-9">
+    <ul id="meps-tabs" class="nav nav-pills">
+      <li class="active">
+        <a data-toggle="tab" href="#table-tab" id="table-pill">
+          <span class="tab-title table-tab">Table</span>
+        </a>
+      </li>
+      <li class="">
+        <a data-toggle="tab" href="#plot-tab" id="plot-pill">
+          <span class="tab-title plot-tab">Plot</span>
+        </a>
+      </li>
+      <li class="">
+        <a data-toggle="tab" href="#code-tab" id="code-pill">
+          <span class="tab-title code-tab">Code</span>
+        </a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div id="table-tab" class="tab-pane active">
+        <div class="caption-block">
+          <a id="dl-table" title="" data-original-title="Download table" tabindex="0" class="em-tooltip usa-button download-button">
+            <span class="usa-sr-only">Download table</span>
+          </a>
+          <span id="table-caption" role="region" aria-live="polite" class="caption"></span>
+        </div>
+        <div id="loading">Loading data...</div>
+        <table id="meps-table" cellspacing="0" width="100%"></table>
+        <div id="table-footnotes" role="region" aria-live="polite">
+          <aside id="suppress"> -- Estimates suppressed due to inadequate precision (see <a target="_blank_" href="https://meps.ahrq.gov/survey_comp/precision_guidelines.shtml">FAQs</a> for details).</aside>
+          <aside id="RSE">* Relative standard error is greater than 30%</aside>
+        </div>
+      </div>
+      <div id="plot-tab" class="tab-pane">
+        <div class="caption-block plot-dependent">
+          <a id="dl-plot" title="" data-original-title="Download plot" tabindex="0" class="em-tooltip usa-button download-button">
+            <span class="usa-sr-only">Download plot</span>
+          </a>
+          <span id="plot-caption" role="region" aria-live="polite" class="caption"></span>
+        </div>
+        <div id="meps-plot" class="plot-dependent"></div>
+        <div id="plot-warning">No non-missing data available for selections. Please try again.</div>
+        <div id="plot-footnotes" class="in-front plot-dependent" role="region" aria-live="polite">
+          <aside id="plot-suppress">Some estimates suppressed due to inadequate precision (see <a target="_blank_" href="https://meps.ahrq.gov/survey_comp/precision_guidelines.shtml">FAQs</a> for details).</aside>
+        </div>
+      </div>
+      <div id="code-tab" class="tab-pane">
+        <div class="code-select">
+          <label for="code-language">Select programming language:</label>
+          <select id="code-language"><option value="R" selected>R</option>
+<option value="SAS">SAS</option></select>
+          <a id="dl-code" title="" data-original-title="Download code" tabindex="0" class="em-tooltip usa-button download-button">
+            <span class="usa-sr-only">Download code</span>
+          </a>
+        </div>
+        <p>To run the code, first download and unzip the required public use data files from the
+              <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
+              data files page</a>, and save them to your computer. More information on downloading and analyzing
+              MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
+              href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
+              <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
+              error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
+              lonely PSUs.</p>
+        <p>The following code can be used to generate the selected estimates, where the SAS transport data
+                 files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
+                 for the most recent year selected:</p>
+        <pre id="code" role="region" aria-live="polite"></pre>
+      </div>
+    </div>
+    <div id="hc-info">
+      <div id="source" class="in-front"></div>
+      <h3>Notes</h3>
+      <div id="notes" role="region" aria-live="polite"></div>
+      <p>This tool is provided as a convenience. It is the responsibility of the user to review
+        results for statistical significance and overall reasonableness.</p>
+      <h3>About the data</h3>
+      <p>The MEPS Household Component collects data on all members of sample households
+        who are in-scope for the survey.  These data can be used to produce nationally
+        representative estimates of medical conditions, health status, use of medical
+        care services, charges and payments, access to care, satisfaction with care,
+        health insurance coverage, income, and employment. The target population
+        represented in the tables and figures is persons in the U.S. civilian
+        non-institutionalized population for all or part of the year.</p>
+      <h3>Suggested citation</h3>
+      <div id="citation"></div>
+    </div>
+  </div>
+</div>
+
+      </main>
+
+    </div>
+
+  <footer class="usa-footer usa-footer-medium" role="contentinfo">
+    <div id="em-top-button-container" class="container_12">
+        <a href="#tiptop" id="top-button">Back to top
+          <img src="../src/custom/img/top-button-icon.png"
+               alt="Go back to top" width="25" height="25"/></a>
+    </div>
+
+    <div class="usa-footer-primary-section">
+      <div class="usa-grid full-screen">
+
+          <a href="https://meps.ahrq.gov/mepsweb/index.jsp" title="MEPS home" aria-label="Home">
+             <img src = "../src/custom/img/oc_meps_logo_blue.png" alt = "MEPS" height = "50px" id = 'MEPS_img'>
+          </a>
+
+          <div class = 'inline right'>
+            <a class = 'right usa-button usa-button-big usa-button-outline external-link'
+               href="https://github.com/HHS-AHRQ/MEPS-summary-tables" target="_blank">
+              View on GitHub <img src="../src/custom/img/externallink.gif" alt="External Link" height="14" width="14">
+            </a>
+
+            <a class = 'right usa-button usa-button-big usa-button-secondary'
+               href = 'mailto:mepsprojectdirector@ahrq.hhs.gov?Subject=MEPS%20summary%20tables'>
+              Send feedback
+            </a>
+          </div>
+
+      </div>
+    </div>
+  </footer>
+
+  
+<footer>
+  <!-- I put this directly in template.html - Emily
+    <div id="top-button-container" class="container_12">
+        <a href="#tiptop" id="top-button">Back to top<img src="https://www.ahrq.gov/resources/img/top-button-icon.png"
+                                                          alt="Go back to top" width="25" height="25"/></a>
+    </div>
+  -->
+    <div id="footer-separator"></div>
+    <div id="median-container">
+        <div id="median" class="container_12">
+            <a href="https://www.ahrq.gov/index.html" class="grid_2 alpha"><img
+                    src="https://www.ahrq.gov/resources/img/ahrq-footer-logo.png" alt="AHRQ" width="70" height="30"/></a>
+
+            <nav id="legal">
+                <ul class="grid_6">
+                        <li><span><a href="https://www.ahrq.gov/policy/electronic/accessibility/index.html">Accessibility</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/electronic/disclaimers/index.html">Disclaimers</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/eeo/index.html">EEO</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/electronic/about/policyix.html">Electronic Policies</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/foia/index.html">FOIA</a></span></li>
+
+						<li><span><a href="https://www.hhs.gov/digitalstrategy">HHS Digital Strategy</a></span></li>
+
+                        <li><span><a href="https://www.hhs.gov/civil-rights/for-individuals/nondiscrimination/index.html">HHS Nondiscrimination Notice</a></span></li>
+
+                        <li><span><a href="https://oig.hhs.gov/">Inspector General</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/electronic/plain-writing/index.html">Plain Writing Act</a></span></li>
+
+                        <li><span><a href="https://www.ahrq.gov/policy/electronic/privacy/index.html">Privacy Policy</a></span></li>
+
+                        <li><span><a href="https://www.hhs.gov/plugins.html">Viewers &amp; Players</a></span></li>
+                </ul>
+            </nav>
+
+            <div id="social-container" class="alpha grid_3">
+
+                <div id="social">
+                    <span>Get Social</span>
+
+                    <ul class="addthis_toolbox addthis_32x32_style addthis_default_style">
+                        <li><a class="addthis_button_facebook_follow tooltip_link" addthis:userid="ahrq.gov"></a></li>
+                        <li><a class="addthis_button_twitter_follow tooltip_link" addthis:userid="ahrqnews"></a></li>
+                        <li><a class="addthis_button_youtube_follow tooltip_link" addthis:userid="AHRQHealthTV"></a>
+                        </li>
+                        <li><a class="addthis_button_linkedin_follow tooltip_link" addthis:usertype="company"
+                               addthis:userid="agency-for-healthcare-research-and-quality"></a></li>
+                    </ul>
+
+                    <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-502d46502ced1308"></script>
+                    
+                    <script src="https://code.jquery.com/jquery-latest.js"></script>
+                    <script type="text/javascript">
+                        $(document).ready(function () {
+                            if ($('#social  li').css('margin-left') != '10px') {
+                                $("#social  li a").hover(function () {
+                                    $(this).stop().attr('title', '');
+                                });
+                            }
+                            if ($('#pub-utility-buttons #utility-groups .utility').css('margin-right') != '20px') {
+                                $(".content-button .toc-dropdown").css("display", "none");
+                            }
+                        });
+                    </script>
+
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div id="seo-container">
+        <div id="seo" class="container_12">
+
+            <nav id="footer-utility" class="alpha grid_2 omega">
+                <ul>
+                    <li>
+                        <span><a href="https://www.ahrq.gov/index.html">Home</a></span>
+                    </li>
+                    <li>
+                        <span><a href="https://www.ahrq.gov/cpi/about/index.html">About Us</a></span>
+                    </li>
+                    <li>
+                        <span><a href="https://www.ahrq.gov/cpi/about/careers/index.html">Careers</a></span>
+                    </li>
+                    <li>
+                        <span><a href="https://www.ahrq.gov/contact/index.html">Contact Us</a></span>
+                    </li>
+                    <li>
+                        <span><a href="https://www.ahrq.gov/Sitemap.html">Sitemap</a></span>
+                    </li>
+                    <li>
+                        <span><a href="https://info.ahrq.gov/">FAQ</a></span>
+                    </li>
+                </ul>
+            </nav>
+            <nav id="footer-primary" class="alpha grid_6 omega"><!-- T:SnFooterNav -->
+                <div>
+
+                    <ul class="col2">
+                        <li><strong><a href="https://www.ahrq.gov/topics/index.html">Topics</a></strong></li>
+                        <li><strong><a href="https://www.ahrq.gov/professionals/index.html">Programs</a></strong></li>
+                        <li><strong><a href="https://www.ahrq.gov/research/index.html">Research</a></strong></li>
+                        <li><strong><a href="https://www.ahrq.gov/data/main-redirect-page.html">Data</a></strong></li>
+                    </ul>
+                    <ul class="col2">
+                        <li><strong><a href="https://www.ahrq.gov/data/tools-main-redirect-page.html">Tools</a></strong>
+                        <li><strong><a href="https://www.ahrq.gov/funding/index.html">Funding &amp; Grants</a></strong>
+                        <li><strong><a href="https://www.ahrq.gov/news/index.html">News &amp; Events</a></strong>
+                        <li><strong><a href="https://www.ahrq.gov/cpi/index.html">About</a></strong></li>
+                    </ul>
+                </div>
+            </nav>
+            <div id="gov-info" class="alpha grid_4">
+                <ul>
+                    <li><!-- T:SnGetLinksFromNavTree  -->
+
+                        <span><a href="https://www.hhs.gov">U.S. Department of Health &amp; Human Services</a></span>
+                        <br>
+                        <span><a href="https://www.whitehouse.gov">The White House</a></span>
+                        <br>
+                        <span><a href="https://www.usa.gov">USA.gov: The U.S. Government's Official Web Portal</a></span>
+                        <br></li>
+                </ul>
+                <div id="address">
+                    <b>Agency for Healthcare Research and Quality</b><br>
+                    5600 Fishers Lane<br>
+                    Rockville, MD 20857<br>
+                    <b>Telephone:</b> (301) 427-1364
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- This isn't on the regular AHRQ site
+    <div id="mission-container" class="container_12">Improving the Quality, Safety, Efficiency, and Effectiveness of
+        Health Care For All Americans
+    </div>
+    -->
+</footer>
+<!-- JavaScript at the bottom for fast page loading -->
+<!-- Don't use old version of jquery
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://www.ahrq.gov/resources/js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+-->
+<!-- scripts concatenated and minified via build script -->
+<!-- putting these in template.html after jquery load
+<script src="https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js"></script>
+<script src="https://www.ahrq.gov/resources/js/plugins.js"></script>
+-->
+<!-- This creates errors due to old jquery. Using custom ahrq_script.js instead
+  <script src="https://www.ahrq.gov/resources/js/script.js"></script>
+-->
+
+<!-- end scripts -->
+
+
+  <script src="https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js"></script>
+  <script src="https://www.ahrq.gov/resources/js/plugins.js"></script>
+  <script src="../src/ahrq/js/ahrq_script.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <script src = "../src/vendor/DataTables/datatables.min.js"></script>
+  <script src = "../src/vendor/plotly/plotly-latest.min.js"></script>
+  <script src = "../src/vendor/uswds-1.1.0/js/uswds.min.js"></script>
+
+  <script type="text/javascript" src="../src/vendor/canvg/rgbcolor.js"></script>
+  <script type="text/javascript" src="../src/vendor/canvg/StackBlur.js"></script>
+  <script type="text/javascript" src="../src/vendor/canvg/canvg.js"></script>
+
+  <script type="text/javascript" src="../src/custom/js/basic.js"></script>
+
+  
+<script src="../src/custom/js/functions.js"></script>
+<script src="json/init.js"></script>
+<script src="json/code.js"></script>
+<script src="../src/custom/js/em.js"></script>
+
+
+ </body>
+
+</html>
+

@@ -1,0 +1,97 @@
+Table,domain,F_education,education,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of education * insurance_v2X,0,Missing,Missing,"<65, Any private","<65, Any private",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"65+, Medicare only","65+, Medicare only",14,139759,47582,0.3729,0.1260,26.5536,7.7833,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",11,147064,53570,0.3924,0.1419,27.9415,8.6004,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",25,214787,50621,0.5731,0.1342,40.8085,7.7864,
+Table 1 of education * insurance_v2X,0,Missing,Missing,"65+, No medicare","65+, No medicare",2,24719,18849,0.0660,0.0504,4.6965,3.5113,
+Table 1 of education * insurance_v2X,0,Missing,Missing,Total,,52,526328,87178,1.4044,0.2276,100.0000,_,1
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"65+, Medicare only","65+, Medicare only",391,3131380,231107,8.3554,0.5745,31.0207,1.8122,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"65+, Medicare and private","65+, Medicare and private",420,4258918,299810,11.3640,0.7272,42.1905,2.1088,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"65+, Medicare and other public","65+, Medicare and other public",451,2578819,187685,6.8810,0.4925,25.5468,1.6170,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,"65+, No medicare","65+, No medicare",22,125379,38785,0.3345,0.1029,1.2421,0.3822,
+Table 1 of education * insurance_v2X,0,Less than high school,Less than high school,Total,,1284,10094496,452564,26.9349,0.9956,100.0000,_,1
+Table 1 of education * insurance_v2X,0,High school,High school,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of education * insurance_v2X,0,High school,High school,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,High school,High school,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of education * insurance_v2X,0,High school,High school,"65+, Medicare only","65+, Medicare only",365,3916765,301518,10.4510,0.7080,30.1919,1.8113,
+Table 1 of education * insurance_v2X,0,High school,High school,"65+, Medicare and private","65+, Medicare and private",686,7895733,430082,21.0680,0.8713,60.8633,1.9600,
+Table 1 of education * insurance_v2X,0,High school,High school,"65+, Medicare and other public","65+, Medicare and other public",126,1024320,136299,2.7332,0.3601,7.8958,1.0204,
+Table 1 of education * insurance_v2X,0,High school,High school,"65+, No medicare","65+, No medicare",14,136079,42656,0.3631,0.1134,1.0489,0.3277,
+Table 1 of education * insurance_v2X,0,High school,High school,Total,,1191,12972897,574864,34.6153,0.9547,100.0000,_,1
+Table 1 of education * insurance_v2X,0,Some college,Some college,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of education * insurance_v2X,0,Some college,Some college,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Some college,Some college,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Some college,Some college,"65+, Medicare only","65+, Medicare only",269,3182677,264556,8.4923,0.6267,22.9239,1.5327,
+Table 1 of education * insurance_v2X,0,Some college,Some college,"65+, Medicare and private","65+, Medicare and private",796,9687446,514197,25.8488,1.0115,69.7758,1.6752,
+Table 1 of education * insurance_v2X,0,Some college,Some college,"65+, Medicare and other public","65+, Medicare and other public",96,873137,119480,2.3298,0.3180,6.2889,0.8607,
+Table 1 of education * insurance_v2X,0,Some college,Some college,"65+, No medicare","65+, No medicare",15,140420,51990,0.3747,0.1370,1.0114,0.3704,
+Table 1 of education * insurance_v2X,0,Some college,Some college,Total,,1176,13883679,644090,37.0455,1.0983,100.0000,_,1
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of education * insurance_v2X,0,Inapplicable (age < 18),Inapplicable (age < 18),Total,,0,,,,,,_,1
+Table 1 of education * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 1 of education * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",1039,10370582,543603,27.6716,1.0903,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",1913,21989160,897857,58.6731,1.2722,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",698,4691062,297068,12.5170,0.7705,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",53,426596,83552,1.1383,0.2185,_,_,
+Table 1 of education * insurance_v2X,0,Total,Missing,Total,,3703,37477400,1230477,100.0000,_,_,_,1
+Table 2 of education * insurance_v2X,1,Missing,Missing,"<65, Any private","<65, Any private",53,438500,70874,0.1695,0.0270,49.8059,5.2311,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"<65, Public only","<65, Public only",28,133041,31143,0.0514,0.0120,15.1111,3.2391,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"<65, Uninsured","<65, Uninsured",57,308877,56171,0.1194,0.0215,35.0830,5.0825,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Missing,Missing,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Missing,Missing,Total,,138,880418,100743,0.3403,0.0379,100.0000,_,1
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"<65, Any private","<65, Any private",1704,14785127,624868,5.7150,0.2039,44.8038,1.0960,-
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"<65, Public only","<65, Public only",1385,7231746,392644,2.7953,0.1468,21.9146,1.0066,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"<65, Uninsured","<65, Uninsured",1921,10982874,522958,4.2453,0.1620,33.2817,0.9445,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Less than high school,Less than high school,Total,,5010,32999747,1144253,12.7556,0.3280,100.0000,_,1
+Table 2 of education * insurance_v2X,1,High school,High school,"<65, Any private","<65, Any private",3658,40812318,1249360,15.7755,0.3491,70.6581,0.8496,-
+Table 2 of education * insurance_v2X,1,High school,High school,"<65, Public only","<65, Public only",842,5894948,323240,2.2786,0.1187,10.2059,0.5030,
+Table 2 of education * insurance_v2X,1,High school,High school,"<65, Uninsured","<65, Uninsured",1386,11053015,458808,4.2724,0.1589,19.1360,0.6411,
+Table 2 of education * insurance_v2X,1,High school,High school,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of education * insurance_v2X,1,High school,High school,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of education * insurance_v2X,1,High school,High school,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of education * insurance_v2X,1,High school,High school,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of education * insurance_v2X,1,High school,High school,Total,,5886,57760280,1564817,22.3265,0.4012,100.0000,_,1
+Table 2 of education * insurance_v2X,1,Some college,Some college,"<65, Any private","<65, Any private",6474,80460816,2527698,31.1011,0.5776,86.0506,0.5282,-
+Table 2 of education * insurance_v2X,1,Some college,Some college,"<65, Public only","<65, Public only",464,3666916,233903,1.4174,0.0848,3.9217,0.2382,
+Table 2 of education * insurance_v2X,1,Some college,Some college,"<65, Uninsured","<65, Uninsured",954,9376393,527743,3.6243,0.1719,10.0278,0.4828,
+Table 2 of education * insurance_v2X,1,Some college,Some college,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Some college,Some college,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Some college,Some college,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Some college,Some college,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Some college,Some college,Total,,7892,93504126,2831474,36.1428,0.5749,100.0000,_,1
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Any private","<65, Any private",4484,46535932,1566278,17.9878,0.3529,63.2599,0.9813,-
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Public only","<65, Public only",4457,22302867,945395,8.6209,0.2861,30.3180,0.9355,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"<65, Uninsured","<65, Uninsured",750,4724233,343770,1.8261,0.1207,6.4220,0.4195,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of education * insurance_v2X,1,Inapplicable (age < 18),Inapplicable (age < 18),Total,,9691,73563031,2190392,28.4348,0.3404,100.0000,_,1
+Table 2 of education * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",16373,183032693,4835895,70.7489,0.6423,_,_,-
+Table 2 of education * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",7176,39229518,1498832,15.1637,0.4647,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",5068,36445392,1360992,14.0875,0.3685,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 2 of education * insurance_v2X,1,Total,Missing,Total,,28617,258707602,6413346,100.0000,_,_,_,1

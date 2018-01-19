@@ -1,0 +1,25 @@
+Table,F_race,race,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table race * insurance,Hispanic,Hispanic,"Any private, all ages","Any private, all ages",3551,21298750,1240507,6.7460,0.3612,39.0542,1.4148,
+Table race * insurance,Hispanic,Hispanic,"Public only, all ages","Public only, all ages",4735,18743754,1354855,5.9368,0.3960,34.3693,1.1434,
+Table race * insurance,Hispanic,Hispanic,"Uninsured, all ages","Uninsured, all ages",3253,14493888,1120179,4.5907,0.3271,26.5765,0.9180,
+Table race * insurance,Hispanic,Hispanic,Total,,11539,54536392,3225510,17.2735,0.9121,100.0000,_,1
+Table race * insurance,White,White,"Any private, all ages","Any private, all ages",8463,143507718,4761009,45.4538,1.0231,73.0096,0.8942,-
+Table race * insurance,White,White,"Public only, all ages","Public only, all ages",2714,35284038,1460681,11.1757,0.4195,17.9508,0.6391,
+Table race * insurance,White,White,"Uninsured, all ages","Uninsured, all ages",1279,17768209,996434,5.6278,0.3067,9.0396,0.4738,
+Table race * insurance,White,White,Total,,12456,196559965,5594453,62.2573,1.0887,100.0000,_,1
+Table race * insurance,Black,Black,"Any private, all ages","Any private, all ages",3069,18945649,1133547,6.0007,0.3634,49.9009,1.2281,-
+Table race * insurance,Black,Black,"Public only, all ages","Public only, all ages",3159,13719324,924474,4.3454,0.3025,36.1353,1.1608,
+Table race * insurance,Black,Black,"Uninsured, all ages","Uninsured, all ages",1084,5301574,357255,1.6792,0.1158,13.9638,0.5371,
+Table race * insurance,Black,Black,Total,,7312,37966547,2140812,12.0253,0.6974,100.0000,_,1
+Table race * insurance,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","Any private, all ages","Any private, all ages",546,5696789,609084,1.8044,0.1899,62.0809,3.0282,-
+Table race * insurance,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","Public only, all ages","Public only, all ages",389,2772469,296538,0.8781,0.0953,30.2131,2.3736,
+Table race * insurance,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","Uninsured, all ages","Uninsured, all ages",83,707137,129982,0.2240,0.0415,7.7060,1.3133,
+Table race * insurance,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",Total,,1018,9176395,798746,2.9065,0.2518,100.0000,_,1
+Table race * insurance,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","Any private, all ages","Any private, all ages",1762,12159903,1028448,3.8515,0.3175,69.5540,1.6495,-
+Table race * insurance,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","Public only, all ages","Public only, all ages",614,3056344,339307,0.9680,0.1050,17.4821,1.4095,
+Table race * insurance,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","Uninsured, all ages","Uninsured, all ages",367,2266434,212284,0.7179,0.0665,12.9639,0.9534,
+Table race * insurance,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",Total,,2743,17482682,1358565,5.5374,0.4168,100.0000,_,1
+Table race * insurance,Total,Missing,"Any private, all ages","Any private, all ages",17391,201608810,5234668,63.8564,0.8386,_,_,-
+Table race * insurance,Total,Missing,"Public only, all ages","Public only, all ages",11611,73575929,2333876,23.3040,0.6205,_,_,
+Table race * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",6066,40537243,1584738,12.8395,0.4369,_,_,
+Table race * insurance,Total,Missing,Total,,35068,315721982,6601572,100.0000,_,_,_,1

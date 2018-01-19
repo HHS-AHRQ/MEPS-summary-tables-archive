@@ -1,0 +1,19 @@
+DomainLabel,mnhlth,insurance,VarName,Sum,N,StdDev
+mnhlth*insurance,Missing,"Any private, all ages",count,325999,24,70364
+mnhlth*insurance,Missing,"Public only, all ages",count,307587,25,82469
+mnhlth*insurance,Missing,"Uninsured, all ages",count,95268,10,36618
+mnhlth*insurance,Excellent,"Any private, all ages",count,89415966,6885,3959112
+mnhlth*insurance,Excellent,"Public only, all ages",count,13509332,1426,756822
+mnhlth*insurance,Excellent,"Uninsured, all ages",count,11648856,1214,669206
+mnhlth*insurance,Very good,"Any private, all ages",count,67119895,5266,3768769
+mnhlth*insurance,Very good,"Public only, all ages",count,11237592,1208,733843
+mnhlth*insurance,Very good,"Uninsured, all ages",count,10414516,1039,703049
+mnhlth*insurance,Good,"Any private, all ages",count,38188413,3164,2132229
+mnhlth*insurance,Good,"Public only, all ages",count,12480279,1296,863592
+mnhlth*insurance,Good,"Uninsured, all ages",count,8355115,952,614325
+mnhlth*insurance,Fair,"Any private, all ages",count,5814156,463,417198
+mnhlth*insurance,Fair,"Public only, all ages",count,4369705,400,394306
+mnhlth*insurance,Fair,"Uninsured, all ages",count,1402029,142,154549
+mnhlth*insurance,Poor,"Any private, all ages",count,1363320,111,167218
+mnhlth*insurance,Poor,"Public only, all ages",count,1800750,167,182788
+mnhlth*insurance,Poor,"Uninsured, all ages",count,556736,47,135111

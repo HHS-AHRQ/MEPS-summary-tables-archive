@@ -1,0 +1,85 @@
+Table,domain,F_married,married,F_child_rating,child_rating,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of married * child_rating,0,Married,Married,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of married * child_rating,0,Married,Married,Inapplicable,Inapplicable,11748,123782054,3307734,49.8501,0.5633,99.9969,0.0031,
+Table 1 of married * child_rating,0,Married,Married,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Married,Married,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Married,Married,9-10 rating,9-10 rating,1,3831,3831,0.0015,0.0015,0.0031,0.0031,
+Table 1 of married * child_rating,0,Married,Married,Total,,11749,123785885,3307627,49.8516,0.5632,100.0000,_,1
+Table 1 of married * child_rating,0,Widowed,Widowed,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of married * child_rating,0,Widowed,Widowed,Inapplicable,Inapplicable,1374,15674081,631608,6.3123,0.2357,100.0000,0.0000,
+Table 1 of married * child_rating,0,Widowed,Widowed,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Widowed,Widowed,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Widowed,Widowed,9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Widowed,Widowed,Total,,1374,15674081,631608,6.3123,0.2357,100.0000,_,1
+Table 1 of married * child_rating,0,Divorced,Divorced,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of married * child_rating,0,Divorced,Divorced,Inapplicable,Inapplicable,2317,26359320,850949,10.6155,0.3144,100.0000,0.0000,
+Table 1 of married * child_rating,0,Divorced,Divorced,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Divorced,Divorced,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Divorced,Divorced,9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Divorced,Divorced,Total,,2317,26359320,850949,10.6155,0.3144,100.0000,_,1
+Table 1 of married * child_rating,0,Separated,Separated,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of married * child_rating,0,Separated,Separated,Inapplicable,Inapplicable,588,5125153,337468,2.0640,0.1399,100.0000,0.0000,
+Table 1 of married * child_rating,0,Separated,Separated,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Separated,Separated,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Separated,Separated,9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Separated,Separated,Total,,588,5125153,337468,2.0640,0.1399,100.0000,_,1
+Table 1 of married * child_rating,0,Never married,Never married,Don't know/Non-response,Don't know/Non-response,1,4886,4886,0.0020,0.0020,0.0079,0.0079,-
+Table 1 of married * child_rating,0,Never married,Never married,Inapplicable,Inapplicable,6381,61086652,1697754,24.6011,0.4250,98.5386,0.1929,
+Table 1 of married * child_rating,0,Never married,Never married,0-6 rating,0-6 rating,7,52032,25601,0.0210,0.0103,0.0839,0.0412,
+Table 1 of married * child_rating,0,Never married,Never married,7-8 rating,7-8 rating,44,441635,88309,0.1779,0.0355,0.7124,0.1424,
+Table 1 of married * child_rating,0,Never married,Never married,9-10 rating,9-10 rating,50,407418,72063,0.1641,0.0284,0.6572,0.1128,
+Table 1 of married * child_rating,0,Never married,Never married,Total,,6483,61992622,1721114,24.9660,0.4277,100.0000,_,1
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,2154,15371585,776524,6.1905,0.2606,100.0000,0.0000,
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of married * child_rating,0,Inapplicable (age < 16),Inapplicable (age < 16),Total,,2154,15371585,776524,6.1905,0.2606,100.0000,_,1
+Table 1 of married * child_rating,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,1,4886,4886,0.0020,0.0020,_,_,-
+Table 1 of married * child_rating,0,Total,Missing,Inapplicable,Inapplicable,24562,247398844,5453652,99.6336,0.0486,_,_,
+Table 1 of married * child_rating,0,Total,Missing,0-6 rating,0-6 rating,7,52032,25601,0.0210,0.0103,_,_,
+Table 1 of married * child_rating,0,Total,Missing,7-8 rating,7-8 rating,44,441635,88309,0.1779,0.0355,_,_,
+Table 1 of married * child_rating,0,Total,Missing,9-10 rating,9-10 rating,51,411249,72165,0.1656,0.0285,_,_,
+Table 1 of married * child_rating,0,Total,Missing,Total,,24665,248308646,5476803,100.0000,_,_,_,1
+Table 2 of married * child_rating,1,Married,Married,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of married * child_rating,1,Married,Married,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Married,Married,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Married,Married,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Married,Married,9-10 rating,9-10 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Married,Married,Total,,0,,,,,,_,1
+Table 2 of married * child_rating,1,Widowed,Widowed,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of married * child_rating,1,Widowed,Widowed,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Widowed,Widowed,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Widowed,Widowed,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Widowed,Widowed,9-10 rating,9-10 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Widowed,Widowed,Total,,0,,,,,,_,1
+Table 2 of married * child_rating,1,Divorced,Divorced,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of married * child_rating,1,Divorced,Divorced,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Divorced,Divorced,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Divorced,Divorced,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Divorced,Divorced,9-10 rating,9-10 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Divorced,Divorced,Total,,0,,,,,,_,1
+Table 2 of married * child_rating,1,Separated,Separated,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of married * child_rating,1,Separated,Separated,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Separated,Separated,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Separated,Separated,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of married * child_rating,1,Separated,Separated,9-10 rating,9-10 rating,1,5266,5266,0.0094,0.0094,100.0000,0.0000,
+Table 2 of married * child_rating,1,Separated,Separated,Total,,1,5266,5266,0.0094,0.0094,100.0000,_,1
+Table 2 of married * child_rating,1,Never married,Never married,Don't know/Non-response,Don't know/Non-response,1,2307,2307,0.0041,0.0041,0.0361,0.0362,-
+Table 2 of married * child_rating,1,Never married,Never married,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Never married,Never married,0-6 rating,0-6 rating,50,445042,88148,0.7938,0.1542,6.9693,1.2820,
+Table 2 of married * child_rating,1,Never married,Never married,7-8 rating,7-8 rating,167,1527448,163206,2.7243,0.2799,23.9196,2.2085,
+Table 2 of married * child_rating,1,Never married,Never married,9-10 rating,9-10 rating,473,4410955,253128,7.8673,0.4014,69.0749,2.4596,
+Table 2 of married * child_rating,1,Never married,Never married,Total,,691,6385752,317024,11.3894,0.4667,100.0000,_,1
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,16,98894,35301,0.1764,0.0621,0.1991,0.0700,-
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),0-6 rating,0-6 rating,315,2360720,243115,4.2105,0.4061,4.7522,0.4564,
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),7-8 rating,7-8 rating,1516,11867448,593280,21.1664,0.8603,23.8896,0.9604,
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),9-10 rating,9-10 rating,4058,35349215,1280218,63.0478,0.9468,71.1591,1.0157,
+Table 2 of married * child_rating,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,,5905,49676278,1626672,88.6012,0.4663,100.0000,_,1
+Table 2 of married * child_rating,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,17,101201,35376,0.1805,0.0622,_,_,-
+Table 2 of married * child_rating,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of married * child_rating,1,Total,Missing,0-6 rating,0-6 rating,365,2805763,252032,5.0043,0.4107,_,_,
+Table 2 of married * child_rating,1,Total,Missing,7-8 rating,7-8 rating,1683,13394896,647888,23.8907,0.9224,_,_,
+Table 2 of married * child_rating,1,Total,Missing,9-10 rating,9-10 rating,4532,39765436,1399089,70.9245,0.9924,_,_,
+Table 2 of married * child_rating,1,Total,Missing,Total,,6597,56067296,1786267,100.0000,_,_,_,1

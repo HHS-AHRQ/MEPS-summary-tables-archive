@@ -1,0 +1,25 @@
+Table,F_education,education,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table education * insurance,Missing,Missing,"Any private, all ages","Any private, all ages",79,708160,122659,0.2366,0.0401,44.8095,4.7900,
+Table education * insurance,Missing,Missing,"Public only, all ages","Public only, all ages",76,521315,66613,0.1742,0.0222,32.9867,3.8608,
+Table education * insurance,Missing,Missing,"Uninsured, all ages","Uninsured, all ages",55,350904,60520,0.1173,0.0200,22.2038,3.2634,
+Table education * insurance,Missing,Missing,Total,,210,1580379,165740,0.5281,0.0535,100.0000,_,1
+Table education * insurance,Less than high school,Less than high school,"Any private, all ages","Any private, all ages",2086,18700919,700199,6.2489,0.1906,43.6511,1.0205,-
+Table education * insurance,Less than high school,Less than high school,"Public only, all ages","Public only, all ages",2309,13153219,519431,4.3951,0.1665,30.7018,0.8927,
+Table education * insurance,Less than high school,Less than high school,"Uninsured, all ages","Uninsured, all ages",1845,10987682,545988,3.6715,0.1553,25.6471,0.8690,
+Table education * insurance,Less than high school,Less than high school,Total,,6240,42841821,1307477,14.3156,0.3244,100.0000,_,1
+Table education * insurance,High school,High school,"Any private, all ages","Any private, all ages",4206,46049958,1397064,15.3876,0.3291,66.7441,0.7514,-
+Table education * insurance,High school,High school,"Public only, all ages","Public only, all ages",1420,11201135,492647,3.7429,0.1546,16.2348,0.6182,
+Table education * insurance,High school,High school,"Uninsured, all ages","Uninsured, all ages",1401,11743669,492263,3.9241,0.1378,17.0211,0.5484,
+Table education * insurance,High school,High school,Total,,7027,68994762,1865096,23.0546,0.3963,100.0000,_,1
+Table education * insurance,Some college,Some college,"Any private, all ages","Any private, all ages",7582,94086900,2845756,31.4391,0.5191,84.1985,0.5133,-
+Table education * insurance,Some college,Some college,"Public only, all ages","Public only, all ages",883,7850388,440795,2.6232,0.1303,7.0253,0.3359,
+Table education * insurance,Some college,Some college,"Uninsured, all ages","Uninsured, all ages",1002,9806903,534836,3.2770,0.1561,8.7762,0.4057,
+Table education * insurance,Some college,Some college,Total,,9467,111744191,3302217,37.3393,0.5572,100.0000,_,1
+Table education * insurance,Inapplicable (age < 18),Inapplicable (age < 18),"Any private, all ages","Any private, all ages",4417,46465132,1625290,15.5263,0.3287,62.7010,1.0430,-
+Table education * insurance,Inapplicable (age < 18),Inapplicable (age < 18),"Public only, all ages","Public only, all ages",4468,22879873,974089,7.6453,0.2544,30.8746,0.9478,
+Table education * insurance,Inapplicable (age < 18),Inapplicable (age < 18),"Uninsured, all ages","Uninsured, all ages",748,4760878,367086,1.5908,0.1100,6.4244,0.4262,
+Table education * insurance,Inapplicable (age < 18),Inapplicable (age < 18),Total,,9633,74105883,2297886,24.7625,0.3350,100.0000,_,1
+Table education * insurance,Total,Missing,"Any private, all ages","Any private, all ages",18370,206011069,5434528,68.8385,0.6049,_,_,-
+Table education * insurance,Total,Missing,"Public only, all ages","Public only, all ages",9156,55605929,1796174,18.5807,0.4475,_,_,
+Table education * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",5051,37650037,1422078,12.5807,0.3397,_,_,
+Table education * insurance,Total,Missing,Total,,32577,299267035,7328644,100.0000,_,_,_,1

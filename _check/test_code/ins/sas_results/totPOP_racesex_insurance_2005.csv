@@ -1,0 +1,45 @@
+Table,F_racesex,racesex,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table racesex * insurance,"Female, Asian, Hawaiian, or Pacific Islander","Female, Asian, Hawaiian, or Pacific Islander","Any private, all ages","Any private, all ages",495,4955157,380162,1.6730,0.1221,70.8553,2.9330,
+Table racesex * insurance,"Female, Asian, Hawaiian, or Pacific Islander","Female, Asian, Hawaiian, or Pacific Islander","Public only, all ages","Public only, all ages",138,1264449,207422,0.4269,0.0691,18.0807,2.3739,
+Table racesex * insurance,"Female, Asian, Hawaiian, or Pacific Islander","Female, Asian, Hawaiian, or Pacific Islander","Uninsured, all ages","Uninsured, all ages",86,773745,138078,0.2612,0.0465,11.0640,1.7481,
+Table racesex * insurance,"Female, Asian, Hawaiian, or Pacific Islander","Female, Asian, Hawaiian, or Pacific Islander",Total,,719,6993351,517065,2.3611,0.1656,100.0000,_,1
+Table racesex * insurance,"Female, Amer. Indian, AK Native, or mult. races","Female, Amer. Indian, AK Native, or mult. races","Any private, all ages","Any private, all ages",193,1857999,191919,0.6273,0.0643,55.9236,3.3722,-
+Table racesex * insurance,"Female, Amer. Indian, AK Native, or mult. races","Female, Amer. Indian, AK Native, or mult. races","Public only, all ages","Public only, all ages",162,957413,136262,0.3232,0.0456,28.8170,2.6673,
+Table racesex * insurance,"Female, Amer. Indian, AK Native, or mult. races","Female, Amer. Indian, AK Native, or mult. races","Uninsured, all ages","Uninsured, all ages",57,506974,110778,0.1712,0.0376,15.2593,2.3858,
+Table racesex * insurance,"Female, Amer. Indian, AK Native, or mult. races","Female, Amer. Indian, AK Native, or mult. races",Total,,412,3322386,346184,1.1217,0.1163,100.0000,_,1
+Table racesex * insurance,"Female, Black","Female, Black","Any private, all ages","Any private, all ages",1378,10427706,615271,3.5207,0.1914,54.4273,1.3831,-
+Table racesex * insurance,"Female, Black","Female, Black","Public only, all ages","Public only, all ages",1244,6830016,438433,2.3060,0.1377,35.6492,1.3877,
+Table racesex * insurance,"Female, Black","Female, Black","Uninsured, all ages","Uninsured, all ages",334,1901241,163547,0.6419,0.0520,9.9235,0.7032,
+Table racesex * insurance,"Female, Black","Female, Black",Total,,2956,19158963,997020,6.4686,0.2992,100.0000,_,1
+Table racesex * insurance,"Female, White","Female, White","Any private, all ages","Any private, all ages",5927,77337690,2228824,26.1113,0.4533,76.9936,0.6929,-
+Table racesex * insurance,"Female, White","Female, White","Public only, all ages","Public only, all ages",1678,15416771,674463,5.2051,0.2090,15.3482,0.5666,
+Table racesex * insurance,"Female, White","Female, White","Uninsured, all ages","Uninsured, all ages",693,7692437,414770,2.5972,0.1267,7.6582,0.3571,
+Table racesex * insurance,"Female, White","Female, White",Total,,8298,100446898,2691207,33.9136,0.5070,100.0000,_,1
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Any private, all ages","Any private, all ages",1452,9094391,663750,3.0705,0.2003,43.0054,1.5272,-
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Public only, all ages","Public only, all ages",1981,7142282,434564,2.4114,0.1364,33.7743,1.4185,
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Uninsured, all ages","Uninsured, all ages",1251,4910429,401188,1.6579,0.1215,23.2203,1.0360,
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic",Total,,4684,21147101,1249412,7.1398,0.3610,100.0000,_,1
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Any private, all ages","Any private, all ages",1435,9813909,640975,3.3134,0.1909,43.7550,1.3672,-
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Public only, all ages","Public only, all ages",1531,5735656,345754,1.9365,0.1079,25.5722,1.0754,
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Uninsured, all ages","Uninsured, all ages",1340,6879669,478317,2.3228,0.1457,30.6728,1.0694,
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic",Total,,4306,22429234,1233839,7.5727,0.3553,100.0000,_,1
+Table racesex * insurance,"Male, White","Male, White","Any private, all ages","Any private, all ages",5647,75972224,2284751,25.6503,0.4813,79.0824,0.6881,-
+Table racesex * insurance,"Male, White","Male, White","Public only, all ages","Public only, all ages",1170,10649813,517730,3.5957,0.1653,11.0858,0.4921,
+Table racesex * insurance,"Male, White","Male, White","Uninsured, all ages","Uninsured, all ages",830,9445094,496969,3.1889,0.1447,9.8318,0.4222,
+Table racesex * insurance,"Male, White","Male, White",Total,,7647,96067131,2699782,32.4348,0.5183,100.0000,_,1
+Table racesex * insurance,"Male, Black","Male, Black","Any private, all ages","Any private, all ages",1155,9307971,596579,3.1426,0.1858,55.6646,1.4494,-
+Table racesex * insurance,"Male, Black","Male, Black","Public only, all ages","Public only, all ages",780,4340416,331453,1.4654,0.1044,25.9570,1.2314,
+Table racesex * insurance,"Male, Black","Male, Black","Uninsured, all ages","Uninsured, all ages",369,3073146,247421,1.0376,0.0831,18.3784,1.1995,
+Table racesex * insurance,"Male, Black","Male, Black",Total,,2304,16721534,952853,5.6456,0.2933,100.0000,_,1
+Table racesex * insurance,"Male, Amer. Indian, AK Native, or mult. races","Male, Amer. Indian, AK Native, or mult. races","Any private, all ages","Any private, all ages",184,1843451,197981,0.6224,0.0661,56.1201,3.9711,-
+Table racesex * insurance,"Male, Amer. Indian, AK Native, or mult. races","Male, Amer. Indian, AK Native, or mult. races","Public only, all ages","Public only, all ages",128,922063,177331,0.3113,0.0592,28.0703,3.4813,
+Table racesex * insurance,"Male, Amer. Indian, AK Native, or mult. races","Male, Amer. Indian, AK Native, or mult. races","Uninsured, all ages","Uninsured, all ages",54,519318,96382,0.1753,0.0323,15.8096,2.2115,
+Table racesex * insurance,"Male, Amer. Indian, AK Native, or mult. races","Male, Amer. Indian, AK Native, or mult. races",Total,,366,3284832,361034,1.1090,0.1195,100.0000,_,1
+Table racesex * insurance,"Male, Asian, Hawaiian, or Pacific Islander","Male, Asian, Hawaiian, or Pacific Islander","Any private, all ages","Any private, all ages",444,4654481,401944,1.5715,0.1292,70.3777,2.5941,-
+Table racesex * insurance,"Male, Asian, Hawaiian, or Pacific Islander","Male, Asian, Hawaiian, or Pacific Islander","Public only, all ages","Public only, all ages",101,1032282,147156,0.3485,0.0489,15.6085,1.7634,
+Table racesex * insurance,"Male, Asian, Hawaiian, or Pacific Islander","Male, Asian, Hawaiian, or Pacific Islander","Uninsured, all ages","Uninsured, all ages",83,926810,170885,0.3129,0.0577,14.0138,2.1152,
+Table racesex * insurance,"Male, Asian, Hawaiian, or Pacific Islander","Male, Asian, Hawaiian, or Pacific Islander",Total,,628,6613574,555045,2.2329,0.1795,100.0000,_,1
+Table racesex * insurance,Total,Missing,"Any private, all ages","Any private, all ages",18310,205264979,5264787,69.3030,0.5957,_,_,-
+Table racesex * insurance,Total,Missing,"Public only, all ages","Public only, all ages",8913,54291161,1755404,18.3302,0.4523,_,_,
+Table racesex * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",5097,36628862,1371767,12.3669,0.3297,_,_,
+Table racesex * insurance,Total,Missing,Total,,32320,296185002,7072820,100.0000,_,_,_,1

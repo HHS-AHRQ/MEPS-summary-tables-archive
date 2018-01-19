@@ -1,0 +1,37 @@
+Table,domain,F_SEX,SEX,F_child_illness,child_illness,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of SEX * child_illness,0,Male,Male,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of SEX * child_illness,0,Male,Male,Inapplicable,Inapplicable,16365,130791703,2789353,48.5269,0.2655,99.8574,0.0309,
+Table 1 of SEX * child_illness,0,Male,Male,Sometimes/Never,Sometimes/Never,2,21042,14895,0.0078,0.0055,0.0161,0.0114,
+Table 1 of SEX * child_illness,0,Male,Male,Usually,Usually,1,11493,11493,0.0043,0.0043,0.0088,0.0088,
+Table 1 of SEX * child_illness,0,Male,Male,Always,Always,25,154289,36089,0.0572,0.0133,0.1178,0.0275,
+Table 1 of SEX * child_illness,0,Male,Male,Total,Missing,16393,130978526,2793371,48.5962,0.2636,100.0000,_,1
+Table 1 of SEX * child_illness,0,Female,Female,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of SEX * child_illness,0,Female,Female,Inapplicable,Inapplicable,18386,138412871,2858632,51.3545,0.2625,99.9041,0.0236,
+Table 1 of SEX * child_illness,0,Female,Female,Sometimes/Never,Sometimes/Never,2,6414,4616,0.0024,0.0017,0.0046,0.0033,
+Table 1 of SEX * child_illness,0,Female,Female,Usually,Usually,6,50091,21492,0.0186,0.0080,0.0362,0.0155,
+Table 1 of SEX * child_illness,0,Female,Female,Always,Always,12,76393,24262,0.0283,0.0090,0.0551,0.0175,
+Table 1 of SEX * child_illness,0,Female,Female,Total,Missing,18406,138545769,2860895,51.4038,0.2636,100.0000,_,1
+Table 1 of SEX * child_illness,0,Total,,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,-
+Table 1 of SEX * child_illness,0,Total,,Inapplicable,Inapplicable,34751,269204574,5466571,99.8814,0.0204,_,_,
+Table 1 of SEX * child_illness,0,Total,,Sometimes/Never,Sometimes/Never,4,27456,15594,0.0102,0.0058,_,_,
+Table 1 of SEX * child_illness,0,Total,,Usually,Usually,7,61584,24373,0.0228,0.0090,_,_,
+Table 1 of SEX * child_illness,0,Total,,Always,Always,37,230682,44823,0.0856,0.0166,_,_,
+Table 1 of SEX * child_illness,0,Total,,Total,Missing,34799,269524295,5473483,100.0000,_,_,_,1
+Table 2 of SEX * child_illness,1,Male,Male,Don't know/Non-response,Don't know/Non-response,1,4304,4304,0.0231,0.0231,0.0438,0.0437,
+Table 2 of SEX * child_illness,1,Male,Male,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of SEX * child_illness,1,Male,Male,Sometimes/Never,Sometimes/Never,123,745448,73031,3.9954,0.3830,7.5885,0.6887,
+Table 2 of SEX * child_illness,1,Male,Male,Usually,Usually,218,1400033,122252,7.5039,0.6174,14.2520,1.1218,
+Table 2 of SEX * child_illness,1,Male,Male,Always,Always,1061,7673616,315803,41.1289,1.0912,78.1157,1.2505,
+Table 2 of SEX * child_illness,1,Male,Male,Total,Missing,1403,9823401,371705,52.6513,1.1842,100.0000,_,1
+Table 2 of SEX * child_illness,1,Female,Female,Don't know/Non-response,Don't know/Non-response,1,7469,7469,0.0400,0.0400,0.0845,0.0846,-
+Table 2 of SEX * child_illness,1,Female,Female,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of SEX * child_illness,1,Female,Female,Sometimes/Never,Sometimes/Never,101,651971,70988,3.4944,0.3679,7.3802,0.7643,
+Table 2 of SEX * child_illness,1,Female,Female,Usually,Usually,197,1369900,134355,7.3424,0.6481,15.5070,1.3089,
+Table 2 of SEX * child_illness,1,Female,Female,Always,Always,917,6804727,317301,36.4719,1.1348,77.0282,1.3826,
+Table 2 of SEX * child_illness,1,Female,Female,Total,Missing,1216,8834066,384594,47.3487,1.1842,100.0000,_,1
+Table 2 of SEX * child_illness,1,Total,,Don't know/Non-response,Don't know/Non-response,2,11772,8620,0.0631,0.0462,_,_,-
+Table 2 of SEX * child_illness,1,Total,,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of SEX * child_illness,1,Total,,Sometimes/Never,Sometimes/Never,224,1397418,103787,7.4899,0.5263,_,_,
+Table 2 of SEX * child_illness,1,Total,,Usually,Usually,415,2769934,193844,14.8462,0.8860,_,_,
+Table 2 of SEX * child_illness,1,Total,,Always,Always,1978,14478343,511632,77.6008,0.9731,_,_,
+Table 2 of SEX * child_illness,1,Total,,Total,Missing,2619,18657467,615610,100.0000,_,_,_,1

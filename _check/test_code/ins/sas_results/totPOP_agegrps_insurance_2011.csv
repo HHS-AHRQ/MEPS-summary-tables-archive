@@ -1,0 +1,25 @@
+Table,F_agegrps,agegrps,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table agegrps * insurance,Under 5,Under 5,"Any private, all ages","Any private, all ages",956,10758179,532061,3.4578,0.1500,53.3780,1.5783,
+Table agegrps * insurance,Under 5,Under 5,"Public only, all ages","Public only, all ages",1460,8505908,436974,2.7339,0.1262,42.2030,1.5920,
+Table agegrps * insurance,Under 5,Under 5,"Uninsured, all ages","Uninsured, all ages",109,890637,126450,0.2863,0.0394,4.4190,0.5786,
+Table agegrps * insurance,Under 5,Under 5,Total,,2525,20154723,776750,6.4780,0.1959,100.0000,_,1
+Table agegrps * insurance,5-17,5-17,"Any private, all ages","Any private, all ages",3043,32254562,1438743,10.3670,0.3443,59.8088,1.3113,-
+Table agegrps * insurance,5-17,5-17,"Public only, all ages","Public only, all ages",3348,18375569,791579,5.9062,0.2258,34.0733,1.2419,
+Table agegrps * insurance,5-17,5-17,"Uninsured, all ages","Uninsured, all ages",470,3299350,282573,1.0605,0.0868,6.1179,0.4929,
+Table agegrps * insurance,5-17,5-17,Total,,6861,53929481,1815951,17.3337,0.3597,100.0000,_,1
+Table agegrps * insurance,18-44,18-44,"Any private, all ages","Any private, all ages",6582,74240423,2281494,23.8619,0.4520,66.8500,0.9319,-
+Table agegrps * insurance,18-44,18-44,"Public only, all ages","Public only, all ages",2095,13500999,668104,4.3394,0.2012,12.1570,0.5580,
+Table agegrps * insurance,18-44,18-44,"Uninsured, all ages","Uninsured, all ages",3423,23313756,936734,7.4934,0.2656,20.9929,0.7130,
+Table agegrps * insurance,18-44,18-44,Total,,12100,111055178,2808944,35.6946,0.4176,100.0000,_,1
+Table agegrps * insurance,45-64,45-64,"Any private, all ages","Any private, all ages",5321,62296152,1843255,20.0228,0.4082,75.5838,0.7529,-
+Table agegrps * insurance,45-64,45-64,"Public only, all ages","Public only, all ages",1174,8938936,410193,2.8731,0.1340,10.8456,0.4931,
+Table agegrps * insurance,45-64,45-64,"Uninsured, all ages","Uninsured, all ages",1585,11184861,430124,3.5950,0.1298,13.5706,0.5268,
+Table agegrps * insurance,45-64,45-64,Total,,8080,82419948,1997070,26.4909,0.3960,100.0000,_,1
+Table agegrps * insurance,65+,65+,"Any private, all ages","Any private, all ages",1872,23507033,1051921,7.5555,0.3121,53.9568,1.3012,-
+Table agegrps * insurance,65+,65+,"Public only, all ages","Public only, all ages",2137,19791475,875234,6.3612,0.2732,45.4283,1.3103,
+Table agegrps * insurance,65+,65+,"Uninsured, all ages","Uninsured, all ages",47,267919,53849,0.0861,0.0170,0.6150,0.1229,
+Table agegrps * insurance,65+,65+,Total,,4056,43566427,1558668,14.0028,0.4562,100.0000,_,1
+Table agegrps * insurance,Total,,"Any private, all ages","Any private, all ages",17774,203056348,5365244,65.2650,0.7664,_,_,-
+Table agegrps * insurance,Total,,"Public only, all ages","Public only, all ages",10214,69112887,2151053,22.2138,0.5960,_,_,
+Table agegrps * insurance,Total,,"Uninsured, all ages","Uninsured, all ages",5634,38956523,1376369,12.5212,0.3742,_,_,
+Table agegrps * insurance,Total,,Total,,33622,311125758,6711568,100.0000,_,_,_,1

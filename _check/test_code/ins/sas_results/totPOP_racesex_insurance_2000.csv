@@ -1,0 +1,29 @@
+Table,F_racesex,racesex,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table racesex * insurance,"Female, White and other","Female, White and other","Any private, all ages","Any private, all ages",5737,83784542,4301316,30.0944,0.5687,78.3871,0.8732,
+Table racesex * insurance,"Female, White and other","Female, White and other","Public only, all ages","Public only, all ages",1126,15182455,1048549,5.4534,0.3212,14.2044,0.8054,
+Table racesex * insurance,"Female, White and other","Female, White and other","Uninsured, all ages","Uninsured, all ages",581,7918622,611598,2.8443,0.1576,7.4085,0.3794,
+Table racesex * insurance,"Female, White and other","Female, White and other",Total,,7444,106885619,5276728,38.3921,0.6096,100.0000,_,1
+Table racesex * insurance,"Female, Black","Female, Black","Any private, all ages","Any private, all ages",1043,10886789,1227124,3.9104,0.4294,58.2373,2.6947,-
+Table racesex * insurance,"Female, Black","Female, Black","Public only, all ages","Public only, all ages",593,5260090,567795,1.8894,0.2181,28.1381,2.2866,
+Table racesex * insurance,"Female, Black","Female, Black","Uninsured, all ages","Uninsured, all ages",278,2546955,289551,0.9148,0.1017,13.6246,1.3269,
+Table racesex * insurance,"Female, Black","Female, Black",Total,,1914,18693834,1676343,6.7146,0.6028,100.0000,_,1
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Any private, all ages","Any private, all ages",1385,8380170,852163,3.0101,0.3089,49.4574,1.7192,-
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Public only, all ages","Public only, all ages",863,4385841,392195,1.5753,0.1408,25.8840,1.4733,
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic","Uninsured, all ages","Uninsured, all ages",788,4178191,463792,1.5008,0.1651,24.6585,1.1770,
+Table racesex * insurance,"Female, Hispanic","Female, Hispanic",Total,,3036,16944201,1536624,6.0862,0.5532,100.0000,_,1
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Any private, all ages","Any private, all ages",1373,8471729,763884,3.0429,0.2872,49.8015,1.7423,-
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Public only, all ages","Public only, all ages",701,3489384,271580,1.2533,0.1010,20.5125,1.2019,
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic","Uninsured, all ages","Uninsured, all ages",826,5049891,495704,1.8139,0.1763,29.6860,1.3668,
+Table racesex * insurance,"Male, Hispanic","Male, Hispanic",Total,,2900,17011004,1340424,6.1102,0.4975,100.0000,_,1
+Table racesex * insurance,"Male, Black","Male, Black","Any private, all ages","Any private, all ages",904,9888642,1018087,3.5519,0.3477,60.4614,2.5241,-
+Table racesex * insurance,"Male, Black","Male, Black","Public only, all ages","Public only, all ages",401,3596512,343954,1.2918,0.1297,21.9899,1.7509,
+Table racesex * insurance,"Male, Black","Male, Black","Uninsured, all ages","Uninsured, all ages",252,2870132,320109,1.0309,0.1120,17.5487,1.5137,
+Table racesex * insurance,"Male, Black","Male, Black",Total,,1557,16355286,1353575,5.8746,0.4673,100.0000,_,1
+Table racesex * insurance,"Male, White and other","Male, White and other","Any private, all ages","Any private, all ages",5471,80815877,4289581,29.0281,0.5907,78.8328,0.9604,-
+Table racesex * insurance,"Male, White and other","Male, White and other","Public only, all ages","Public only, all ages",838,11790963,1123509,4.2352,0.3071,11.5016,0.7504,
+Table racesex * insurance,"Male, White and other","Male, White and other","Uninsured, all ages","Uninsured, all ages",679,9908731,680165,3.5591,0.1990,9.6656,0.4965,
+Table racesex * insurance,"Male, White and other","Male, White and other",Total,,6988,102515571,5481485,36.8224,0.7101,100.0000,_,1
+Table racesex * insurance,Total,Missing,"Any private, all ages","Any private, all ages",15913,202227749,9199921,72.6378,0.7994,_,_,-
+Table racesex * insurance,Total,Missing,"Public only, all ages","Public only, all ages",4522,43705245,2288283,15.6984,0.6223,_,_,
+Table racesex * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",3404,32472522,1713461,11.6637,0.4421,_,_,
+Table racesex * insurance,Total,Missing,Total,,23839,278405516,11667171,100.0000,_,_,_,1

@@ -1,0 +1,17 @@
+Table,domain,F_ind,ind,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of ind * insurance_v2X,0,Total,Total,"<65, Any private","<65, Any private",14366,182657660,8687771,74.9753,0.8307,74.9753,0.8307,
+Table 1 of ind * insurance_v2X,0,Total,Total,"<65, Public only","<65, Public only",3189,28622053,1863247,11.7485,0.6055,11.7485,0.6055,
+Table 1 of ind * insurance_v2X,0,Total,Total,"<65, Uninsured","<65, Uninsured",3388,32344022,1710203,13.2762,0.5094,13.2762,0.5094,
+Table 1 of ind * insurance_v2X,0,Total,Total,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of ind * insurance_v2X,0,Total,Total,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of ind * insurance_v2X,0,Total,Total,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of ind * insurance_v2X,0,Total,Total,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of ind * insurance_v2X,0,Total,Total,Total,,20943,243623736,10801181,100.0000,_,100.0000,_,1
+Table 2 of ind * insurance_v2X,1,Total,Total,"<65, Any private","<65, Any private",0,,,,,,,
+Table 2 of ind * insurance_v2X,1,Total,Total,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of ind * insurance_v2X,1,Total,Total,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of ind * insurance_v2X,1,Total,Total,"65+, Medicare only","65+, Medicare only",938,11515084,729017,33.1067,1.6184,33.1067,1.6184,
+Table 2 of ind * insurance_v2X,1,Total,Total,"65+, Medicare and private","65+, Medicare and private",1522,19278876,987449,55.4281,1.6044,55.4281,1.6044,
+Table 2 of ind * insurance_v2X,1,Total,Total,"65+, Medicare and other public","65+, Medicare and other public",395,3568108,279950,10.2586,0.7546,10.2586,0.7546,
+Table 2 of ind * insurance_v2X,1,Total,Total,"65+, No medicare","65+, No medicare",41,419713,90581,1.2067,0.2644,1.2067,0.2644,
+Table 2 of ind * insurance_v2X,1,Total,Total,Total,,2896,34781780,1384675,100.0000,_,100.0000,_,1

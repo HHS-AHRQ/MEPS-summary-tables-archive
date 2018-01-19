@@ -1,0 +1,61 @@
+Table,domain,F_region,region,F_diab_chol,diab_chol,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of region * diab_chol,1,Northeast,Northeast,Missing,Missing,0,,,,,,,
+Table 1 of region * diab_chol,1,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,5,32049,11123,0.2287,0.0798,1.2335,0.4306,
+Table 1 of region * diab_chol,1,Northeast,Northeast,In the past year,In the past year,243,2375165,168413,16.9474,1.1702,91.4170,1.9809,
+Table 1 of region * diab_chol,1,Northeast,Northeast,More than 1 year ago,More than 1 year ago,15,140309,44542,1.0011,0.3200,5.4003,1.7525,
+Table 1 of region * diab_chol,1,Northeast,Northeast,Never had cholesterol checked,Never had cholesterol checked,5,50641,23934,0.3613,0.1718,1.9491,0.9315,
+Table 1 of region * diab_chol,1,Northeast,Northeast,Total,,268,2598164,160308,18.5385,1.1294,100.0000,_,1
+Table 1 of region * diab_chol,1,Midwest,Midwest,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_chol,1,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,10,71250,33876,0.5084,0.2440,2.3574,1.1656,
+Table 1 of region * diab_chol,1,Midwest,Midwest,In the past year,In the past year,297,2706757,204848,19.3134,1.3857,89.5562,1.7734,
+Table 1 of region * diab_chol,1,Midwest,Midwest,More than 1 year ago,More than 1 year ago,23,184553,43577,1.3168,0.3099,6.1062,1.4042,
+Table 1 of region * diab_chol,1,Midwest,Midwest,Never had cholesterol checked,Never had cholesterol checked,7,59853,25197,0.4271,0.1794,1.9803,0.8206,
+Table 1 of region * diab_chol,1,Midwest,Midwest,Total,,337,3022413,205635,21.5657,1.3930,100.0000,_,1
+Table 1 of region * diab_chol,1,South,South,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_chol,1,South,South,Don't know/Non-response,Don't know/Non-response,17,117156,44455,0.8359,0.3075,2.0872,0.7321,
+Table 1 of region * diab_chol,1,South,South,In the past year,In the past year,666,4870564,324240,34.7527,1.7571,86.7732,1.5035,
+Table 1 of region * diab_chol,1,South,South,More than 1 year ago,More than 1 year ago,64,466382,72577,3.3278,0.4967,8.3090,1.1932,
+Table 1 of region * diab_chol,1,South,South,Never had cholesterol checked,Never had cholesterol checked,27,158881,32765,1.1337,0.2342,2.8306,0.5977,
+Table 1 of region * diab_chol,1,South,South,Total,,774,5612984,366489,40.0500,1.9200,100.0000,_,1
+Table 1 of region * diab_chol,1,West,West,Missing,Missing,0,,,,,,,-
+Table 1 of region * diab_chol,1,West,West,Don't know/Non-response,Don't know/Non-response,9,62110,24776,0.4432,0.1757,2.2331,0.8687,
+Table 1 of region * diab_chol,1,West,West,In the past year,In the past year,322,2278559,208812,16.2581,1.3126,81.9221,2.6814,
+Table 1 of region * diab_chol,1,West,West,More than 1 year ago,More than 1 year ago,48,355482,84338,2.5365,0.5809,12.7808,2.4742,
+Table 1 of region * diab_chol,1,West,West,Never had cholesterol checked,Never had cholesterol checked,17,85220,26465,0.6081,0.1884,3.0640,0.9401,
+Table 1 of region * diab_chol,1,West,West,Total,,396,2781372,258706,19.8458,1.6078,100.0000,_,1
+Table 1 of region * diab_chol,1,Total,Missing,Missing,Missing,0,,,,,_,_,-
+Table 1 of region * diab_chol,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,41,282566,62140,2.0162,0.4303,_,_,
+Table 1 of region * diab_chol,1,Total,Missing,In the past year,In the past year,1528,12231045,458172,87.2715,0.9848,_,_,
+Table 1 of region * diab_chol,1,Total,Missing,More than 1 year ago,More than 1 year ago,150,1146727,127528,8.1822,0.8384,_,_,
+Table 1 of region * diab_chol,1,Total,Missing,Never had cholesterol checked,Never had cholesterol checked,56,354594,54082,2.5301,0.3877,_,_,
+Table 1 of region * diab_chol,1,Total,Missing,Total,,1775,14014932,508717,100.0000,_,_,_,1
+Table 2 of region * diab_chol,2,Northeast,Northeast,Missing,Missing,1782,1782,88.39683,4.7660,0.2332,30.8038,0.7173,
+Table 2 of region * diab_chol,2,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,269,269.00000,19.84943,0.7194,0.0537,4.6500,0.3172,
+Table 2 of region * diab_chol,2,Northeast,Northeast,In the past year,In the past year,2137,2137,91.58603,5.7154,0.2464,36.9404,0.8008,
+Table 2 of region * diab_chol,2,Northeast,Northeast,More than 1 year ago,More than 1 year ago,978,978.00000,49.28489,2.6157,0.1317,16.9058,0.5859,
+Table 2 of region * diab_chol,2,Northeast,Northeast,Never had cholesterol checked,Never had cholesterol checked,619,619.00000,40.19950,1.6555,0.1089,10.7001,0.6340,
+Table 2 of region * diab_chol,2,Northeast,Northeast,Total,,5785,5785,219.10728,15.4721,0.5869,100.0000,_,1
+Table 2 of region * diab_chol,2,Midwest,Midwest,Missing,Missing,2195,2195,130.36871,5.8706,0.3235,29.7546,0.7485,-
+Table 2 of region * diab_chol,2,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,345,345.00000,29.88311,0.9227,0.0773,4.6767,0.3261,
+Table 2 of region * diab_chol,2,Midwest,Midwest,In the past year,In the past year,2283,2283,111.72287,6.1059,0.2826,30.9475,0.8682,
+Table 2 of region * diab_chol,2,Midwest,Midwest,More than 1 year ago,More than 1 year ago,1293,1293,73.56630,3.4581,0.1871,17.5275,0.6001,
+Table 2 of region * diab_chol,2,Midwest,Midwest,Never had cholesterol checked,Never had cholesterol checked,1261,1261,64.63745,3.3726,0.1663,17.0937,0.5709,
+Table 2 of region * diab_chol,2,Midwest,Midwest,Total,,7377,7377,338.28095,19.7299,0.8297,100.0000,_,1
+Table 2 of region * diab_chol,2,South,South,Missing,Missing,4540,4540,205.28273,12.1423,0.4473,32.0712,0.5417,-
+Table 2 of region * diab_chol,2,South,South,Don't know/Non-response,Don't know/Non-response,577,577.00000,44.88875,1.5432,0.1155,4.0760,0.2877,
+Table 2 of region * diab_chol,2,South,South,In the past year,In the past year,4577,4577,152.73834,12.2412,0.3567,32.3326,0.6297,
+Table 2 of region * diab_chol,2,South,South,More than 1 year ago,More than 1 year ago,2284,2284,110.13628,6.1086,0.2508,16.1345,0.3948,
+Table 2 of region * diab_chol,2,South,South,Never had cholesterol checked,Never had cholesterol checked,2178,2178,98.84331,5.8251,0.2454,15.3857,0.5719,
+Table 2 of region * diab_chol,2,South,South,Total,,14156,14156,496.08064,37.8604,1.0415,100.0000,_,1
+Table 2 of region * diab_chol,2,West,West,Missing,Missing,3405,3405,198.86679,9.1067,0.4445,33.8066,0.6851,-
+Table 2 of region * diab_chol,2,West,West,Don't know/Non-response,Don't know/Non-response,375,375.00000,31.00000,1.0029,0.0796,3.7232,0.2760,
+Table 2 of region * diab_chol,2,West,West,In the past year,In the past year,2727,2727,139.61017,7.2934,0.3189,27.0751,0.7258,
+Table 2 of region * diab_chol,2,West,West,More than 1 year ago,More than 1 year ago,1762,1762,100.41414,4.7125,0.2352,17.4940,0.5871,
+Table 2 of region * diab_chol,2,West,West,Never had cholesterol checked,Never had cholesterol checked,1803,1803,114.15341,4.8221,0.2699,17.9011,0.7292,
+Table 2 of region * diab_chol,2,West,West,Total,,10072,10072,490.41717,26.9377,1.0509,100.0000,_,1
+Table 2 of region * diab_chol,2,Total,Missing,Missing,Missing,11922,11922,330.49660,31.8855,0.3385,_,_,-
+Table 2 of region * diab_chol,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,1566,1566,65.36054,4.1883,0.1547,_,_,
+Table 2 of region * diab_chol,2,Total,Missing,In the past year,In the past year,11724,11724,252.55098,31.3560,0.3847,_,_,
+Table 2 of region * diab_chol,2,Total,Missing,More than 1 year ago,More than 1 year ago,6317,6317,173.50216,16.8949,0.2662,_,_,
+Table 2 of region * diab_chol,2,Total,Missing,Never had cholesterol checked,Never had cholesterol checked,5861,5861,173.16755,15.6753,0.3387,_,_,
+Table 2 of region * diab_chol,2,Total,Missing,Total,,37390,37390,812.68813,100.0000,_,_,_,1

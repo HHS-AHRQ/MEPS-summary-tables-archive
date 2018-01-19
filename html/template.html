@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8"/>
+
+ <head profile="http://www.w3.org/2005/10/profile">
+
+   <title> MEPS summary tables </title>
+
+   <link rel="icon" href="../src/custom/img/OC_M_square.png" type="image/png">
+
+   <link rel="stylesheet" href="../src/vendor/DataTables/datatables.min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+   {{ ahrq_meta }}
+   <link rel="stylesheet" href="../src/ahrq/css/ahrq_style.css">
+   <link rel="stylesheet" href="../src/ahrq/css/third_party.css">
+
+
+   <link href="https://www.ahrq.gov/resources/css/widget118.css" rel="stylesheet">
+   <link href="https://www.ahrq.gov/resources/css/widgetbig058.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="../src/vendor/uswds-1.1.0/css/uswds.css">
+   <link rel="stylesheet" href="../src/custom/css/custom.css">
+
+ </head>
+
+ <body id = "top">
+
+   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+   {{ ahrq_header }}
+
+   <header id = "meps-header-container">
+
+     <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+
+       <div class="em-logo navbar-brand" id="logo">
+         <h1>
+          <em class="usa-logo-text">
+            <a href="../home/index.html" title="MEPS summary tables home" aria-label="Home">
+                <img src="../src/custom/img/oc_meps_logo_blue.png" width = '83px' height = '24px' alt="MEPS"> summary tables
+            </a>
+          </em>
+          </h1>
+        </div>
+
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+        </button>
+
+       <div class="collapse navbar-collapse" id="navbarNavDropdown">
+         <ul class="navbar-nav right">
+
+           <li class="nav-item dropdown">
+             <a class="nav-link dropdown-toggle em-nav-dropdown" href = "" id="hc-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               Household Component Tables
+             </a>
+             <div class="dropdown-menu em-nav-dropdown-menu" aria-labelledby="hc-dropdown">
+
+               {{ hc_navbar }}
+
+             </div>
+           </li>
+
+           <li class="nav-item">
+             <a class="nav-link" href="https://meps.ahrq.gov/mepsweb/" id = 'meps-home-link'>
+               MEPS Home
+             </a>
+           </li>
+
+         </ul>
+       </div>
+     </nav>
+
+   </header>
+
+
+    <div class="usa-overlay"></div>
+    <div role = "main" id = "page-container">
+
+      <main id="main-content">
+         {{ body }}
+      </main>
+
+    </div>
+
+  <footer class="usa-footer usa-footer-medium" role="contentinfo">
+    <div id="em-top-button-container" class="container_12">
+        <a href="#tiptop" id="top-button">Back to top
+          <img src="../src/custom/img/top-button-icon.png"
+               alt="Go back to top" width="25" height="25"/></a>
+    </div>
+
+    <div class="usa-footer-primary-section">
+      <div class="usa-grid full-screen">
+
+          <a href="https://meps.ahrq.gov/mepsweb/index.jsp" title="MEPS home" aria-label="Home">
+             <img src = "../src/custom/img/oc_meps_logo_blue.png" alt = "MEPS" height = "50px" id = 'MEPS_img'>
+          </a>
+
+          <div class = 'inline right'>
+            <a class = 'right usa-button usa-button-big usa-button-outline external-link'
+               href="https://github.com/HHS-AHRQ/MEPS-summary-tables" target="_blank">
+              View on GitHub <img src="../src/custom/img/externallink.gif" alt="External Link" height="14" width="14">
+            </a>
+
+            <a class = 'right usa-button usa-button-big usa-button-secondary'
+               href = 'mailto:mepsprojectdirector@ahrq.hhs.gov?Subject=MEPS%20summary%20tables'>
+              Send feedback
+            </a>
+          </div>
+
+      </div>
+    </div>
+  </footer>
+
+  {{ ahrq_footer }}
+  <script src="https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js"></script>
+  <script src="https://www.ahrq.gov/resources/js/plugins.js"></script>
+  <script src="../src/ahrq/js/ahrq_script.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <script src = "../src/vendor/DataTables/datatables.min.js"></script>
+  <script src = "../src/vendor/plotly/plotly-latest.min.js"></script>
+  <script src = "../src/vendor/uswds-1.1.0/js/uswds.min.js"></script>
+
+  <script type="text/javascript" src="../src/vendor/canvg/rgbcolor.js"></script>
+  <script type="text/javascript" src="../src/vendor/canvg/StackBlur.js"></script>
+  <script type="text/javascript" src="../src/vendor/canvg/canvg.js"></script>
+
+  <script type="text/javascript" src="../src/custom/js/basic.js"></script>
+
+  {{ load_js }}
+
+ </body>
+
+</html>

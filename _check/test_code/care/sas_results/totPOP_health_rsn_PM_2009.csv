@@ -1,0 +1,127 @@
+Table,domain,F_health,health,F_afford_PM,afford_PM,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_PM,insure_PM,F_other_PM,other_PM
+Table 1 of health * afford_PM,0,Missing,Missing,0,0,45,441185,82315,0.1490,0.0279,100.0000,0.0000,,,,,
+Table 1 of health * afford_PM,0,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Missing,Missing,Total,,45,441185,82315,0.1490,0.0279,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Excellent,Excellent,0,0,10709,96360158,2849735,32.5476,0.5799,100.0000,0.0000,-,,,,
+Table 1 of health * afford_PM,0,Excellent,Excellent,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Excellent,Excellent,Total,,10709,96360158,2849735,32.5476,0.5799,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Very good,Very good,0,0,10396,95925415,2472637,32.4008,0.4215,100.0000,0.0000,-,,,,
+Table 1 of health * afford_PM,0,Very good,Very good,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Very good,Very good,Total,,10396,95925415,2472637,32.4008,0.4215,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Good,Good,0,0,8954,73547374,1953475,24.8421,0.3995,100.0000,0.0000,-,,,,
+Table 1 of health * afford_PM,0,Good,Good,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Good,Good,Total,,8954,73547374,1953475,24.8421,0.3995,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Fair,Fair,0,0,2875,22151974,763844,7.4823,0.2120,100.0000,0.0000,-,,,,
+Table 1 of health * afford_PM,0,Fair,Fair,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Fair,Fair,Total,,2875,22151974,763844,7.4823,0.2120,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Poor,Poor,0,0,860,7632729,400053,2.5781,0.1256,100.0000,0.0000,-,,,,
+Table 1 of health * afford_PM,0,Poor,Poor,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of health * afford_PM,0,Poor,Poor,Total,,860,7632729,400053,2.5781,0.1256,100.0000,_,1,,,,
+Table 1 of health * afford_PM,0,Total,Missing,0,0,33839,296058835,6560326,100.0000,0.0000,_,_,-,,,,
+Table 1 of health * afford_PM,0,Total,Missing,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of health * afford_PM,0,Total,Missing,Total,,33839,296058835,6560326,100.0000,_,_,_,1,,,,
+Table 2 of health * afford_PM,1,Missing,Missing,0,0,0,,,,,,,,,,,
+Table 2 of health * afford_PM,1,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 2 of health * afford_PM,1,Missing,Missing,Total,,0,,,,,,_,1,,,,
+Table 2 of health * afford_PM,1,Excellent,Excellent,0,0,54,659699,123655,6.2225,1.0820,62.6599,7.1752,-,,,,
+Table 2 of health * afford_PM,1,Excellent,Excellent,Couldn't afford,Couldn't afford,40,393126,89409,3.7081,0.8195,37.3401,7.1752,,,,,
+Table 2 of health * afford_PM,1,Excellent,Excellent,Total,,94,1052825,146357,9.9307,1.2235,100.0000,_,1,,,,
+Table 2 of health * afford_PM,1,Very good,Very good,0,0,117,1437812,174182,13.5620,1.3913,55.4651,4.6405,-,,,,
+Table 2 of health * afford_PM,1,Very good,Very good,Couldn't afford,Couldn't afford,123,1154468,156886,10.8894,1.3952,44.5349,4.6405,,,,,
+Table 2 of health * afford_PM,1,Very good,Very good,Total,,240,2592280,226681,24.4514,1.6276,100.0000,_,1,,,,
+Table 2 of health * afford_PM,1,Good,Good,0,0,140,1584211,205799,14.9429,1.6720,44.5260,4.0061,-,,,,
+Table 2 of health * afford_PM,1,Good,Good,Couldn't afford,Couldn't afford,224,1973731,176109,18.6170,1.5020,55.4740,4.0061,,,,,
+Table 2 of health * afford_PM,1,Good,Good,Total,,364,3557941,262258,33.5599,1.7399,100.0000,_,1,,,,
+Table 2 of health * afford_PM,1,Fair,Fair,0,0,99,962605,117388,9.0797,1.0515,40.9162,3.5016,-,,,,
+Table 2 of health * afford_PM,1,Fair,Fair,Couldn't afford,Couldn't afford,173,1390020,140348,13.1112,1.1731,59.0838,3.5016,,,,,
+Table 2 of health * afford_PM,1,Fair,Fair,Total,,272,2352626,197342,22.1909,1.5917,100.0000,_,1,,,,
+Table 2 of health * afford_PM,1,Poor,Poor,0,0,42,453514,84755,4.2777,0.7975,43.3536,5.6760,-,,,,
+Table 2 of health * afford_PM,1,Poor,Poor,Couldn't afford,Couldn't afford,69,592568,83818,5.5893,0.8102,56.6464,5.6760,,,,,
+Table 2 of health * afford_PM,1,Poor,Poor,Total,,111,1046082,120896,9.8671,1.1612,100.0000,_,1,,,,
+Table 2 of health * afford_PM,1,Total,Missing,0,0,452,5097841,390875,48.0849,2.3703,_,_,-,,,,
+Table 2 of health * afford_PM,1,Total,Missing,Couldn't afford,Couldn't afford,629,5503913,334191,51.9151,2.3703,_,_,,,,,
+Table 2 of health * afford_PM,1,Total,Missing,Total,,1081,10601753,529060,100.0000,_,_,_,1,,,,
+Table 1 of health * insure_PM,0,Missing,Missing,,,45,441185,82315,0.1490,0.0279,100.0000,0.0000,,0,0,,
+Table 1 of health * insure_PM,0,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Missing,Missing,,,45,441185,82315,0.1490,0.0279,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Excellent,Excellent,,,10709,96360158,2849735,32.5476,0.5799,100.0000,0.0000,-,0,0,,
+Table 1 of health * insure_PM,0,Excellent,Excellent,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Excellent,Excellent,,,10709,96360158,2849735,32.5476,0.5799,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Very good,Very good,,,10396,95925415,2472637,32.4008,0.4215,100.0000,0.0000,-,0,0,,
+Table 1 of health * insure_PM,0,Very good,Very good,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Very good,Very good,,,10396,95925415,2472637,32.4008,0.4215,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Good,Good,,,8954,73547374,1953475,24.8421,0.3995,100.0000,0.0000,-,0,0,,
+Table 1 of health * insure_PM,0,Good,Good,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Good,Good,,,8954,73547374,1953475,24.8421,0.3995,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Fair,Fair,,,2875,22151974,763844,7.4823,0.2120,100.0000,0.0000,-,0,0,,
+Table 1 of health * insure_PM,0,Fair,Fair,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Fair,Fair,,,2875,22151974,763844,7.4823,0.2120,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Poor,Poor,,,860,7632729,400053,2.5781,0.1256,100.0000,0.0000,-,0,0,,
+Table 1 of health * insure_PM,0,Poor,Poor,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Poor,Poor,,,860,7632729,400053,2.5781,0.1256,100.0000,_,1,Total,,,
+Table 1 of health * insure_PM,0,Total,Missing,,,33839,296058835,6560326,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of health * insure_PM,0,Total,Missing,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of health * insure_PM,0,Total,Missing,,,33839,296058835,6560326,100.0000,_,_,_,1,Total,,,
+Table 2 of health * insure_PM,1,Missing,Missing,,,0,,,,,,,,0,0,,
+Table 2 of health * insure_PM,1,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Missing,Missing,,,0,,,,,,_,1,Total,,,
+Table 2 of health * insure_PM,1,Excellent,Excellent,,,75,874323,135078,8.2470,1.1408,83.0454,4.4681,-,0,0,,
+Table 2 of health * insure_PM,1,Excellent,Excellent,,,19,178502,50707,1.6837,0.4745,16.9546,4.4681,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Excellent,Excellent,,,94,1052825,146357,9.9307,1.2235,100.0000,_,1,Total,,,
+Table 2 of health * insure_PM,1,Very good,Very good,,,192,1951740,192007,18.4096,1.5511,75.2905,3.8508,-,0,0,,
+Table 2 of health * insure_PM,1,Very good,Very good,,,48,640540,117613,6.0418,1.0210,24.7095,3.8508,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Very good,Very good,,,240,2592280,226681,24.4514,1.6276,100.0000,_,1,Total,,,
+Table 2 of health * insure_PM,1,Good,Good,,,308,2917036,206489,27.5147,1.4472,81.9866,2.8178,-,0,0,,
+Table 2 of health * insure_PM,1,Good,Good,,,56,640906,123616,6.0453,1.0844,18.0134,2.8178,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Good,Good,,,364,3557941,262258,33.5599,1.7399,100.0000,_,1,Total,,,
+Table 2 of health * insure_PM,1,Fair,Fair,,,220,1911429,191706,18.0294,1.5843,81.2466,3.0795,-,0,0,,
+Table 2 of health * insure_PM,1,Fair,Fair,,,52,441197,72670,4.1615,0.6860,18.7534,3.0795,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Fair,Fair,,,272,2352626,197342,22.1909,1.5917,100.0000,_,1,Total,,,
+Table 2 of health * insure_PM,1,Poor,Poor,,,87,809882,106876,7.6391,1.0570,77.4205,4.9996,-,0,0,,
+Table 2 of health * insure_PM,1,Poor,Poor,,,24,236200,59176,2.2279,0.5412,22.5795,4.9996,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Poor,Poor,,,111,1046082,120896,9.8671,1.1612,100.0000,_,1,Total,,,
+Table 2 of health * insure_PM,1,Total,Missing,,,882,8464409,439391,79.8397,1.7407,_,_,-,0,0,,
+Table 2 of health * insure_PM,1,Total,Missing,,,199,2137344,224351,20.1603,1.7407,_,_,,Insurance related,Insurance related,,
+Table 2 of health * insure_PM,1,Total,Missing,,,1081,10601753,529060,100.0000,_,_,_,1,Total,,,
+Table 1 of health * other_PM,0,Missing,Missing,,,45,441185,82315,0.1490,0.0279,100.0000,0.0000,,,,0,0
+Table 1 of health * other_PM,0,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Missing,Missing,,,45,441185,82315,0.1490,0.0279,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Excellent,Excellent,,,10709,96360158,2849735,32.5476,0.5799,100.0000,0.0000,-,,,0,0
+Table 1 of health * other_PM,0,Excellent,Excellent,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Excellent,Excellent,,,10709,96360158,2849735,32.5476,0.5799,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Very good,Very good,,,10396,95925415,2472637,32.4008,0.4215,100.0000,0.0000,-,,,0,0
+Table 1 of health * other_PM,0,Very good,Very good,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Very good,Very good,,,10396,95925415,2472637,32.4008,0.4215,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Good,Good,,,8954,73547374,1953475,24.8421,0.3995,100.0000,0.0000,-,,,0,0
+Table 1 of health * other_PM,0,Good,Good,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Good,Good,,,8954,73547374,1953475,24.8421,0.3995,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Fair,Fair,,,2875,22151974,763844,7.4823,0.2120,100.0000,0.0000,-,,,0,0
+Table 1 of health * other_PM,0,Fair,Fair,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Fair,Fair,,,2875,22151974,763844,7.4823,0.2120,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Poor,Poor,,,860,7632729,400053,2.5781,0.1256,100.0000,0.0000,-,,,0,0
+Table 1 of health * other_PM,0,Poor,Poor,,,0,,,,,,,,,,Other,Other
+Table 1 of health * other_PM,0,Poor,Poor,,,860,7632729,400053,2.5781,0.1256,100.0000,_,1,,,Total,
+Table 1 of health * other_PM,0,Total,Missing,,,33839,296058835,6560326,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of health * other_PM,0,Total,Missing,,,0,,,,,_,_,,,,Other,Other
+Table 1 of health * other_PM,0,Total,Missing,,,33839,296058835,6560326,100.0000,_,_,_,1,,,Total,
+Table 2 of health * other_PM,1,Missing,Missing,,,0,,,,,,,,,,0,0
+Table 2 of health * other_PM,1,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 2 of health * other_PM,1,Missing,Missing,,,0,,,,,,_,1,,,Total,
+Table 2 of health * other_PM,1,Excellent,Excellent,,,58,558707,102982,5.2700,0.9347,53.0674,7.5215,-,,,0,0
+Table 2 of health * other_PM,1,Excellent,Excellent,,,36,494118,111760,4.6607,0.9906,46.9326,7.5215,,,,Other,Other
+Table 2 of health * other_PM,1,Excellent,Excellent,,,94,1052825,146357,9.9307,1.2235,100.0000,_,1,,,Total,
+Table 2 of health * other_PM,1,Very good,Very good,,,172,1801067,189404,16.9884,1.5068,69.4781,3.6636,-,,,0,0
+Table 2 of health * other_PM,1,Very good,Very good,,,68,791213,113605,7.4630,0.9829,30.5219,3.6636,,,,Other,Other
+Table 2 of health * other_PM,1,Very good,Very good,,,240,2592280,226681,24.4514,1.6276,100.0000,_,1,,,Total,
+Table 2 of health * other_PM,1,Good,Good,,,275,2572261,216112,24.2626,1.6770,72.2963,3.1497,-,,,0,0
+Table 2 of health * other_PM,1,Good,Good,,,89,985680,136119,9.2973,1.1430,27.7037,3.1497,,,,Other,Other
+Table 2 of health * other_PM,1,Good,Good,,,364,3557941,262258,33.5599,1.7399,100.0000,_,1,,,Total,
+Table 2 of health * other_PM,1,Fair,Fair,,,217,1728061,156041,16.2998,1.3120,73.4524,3.7709,-,,,0,0
+Table 2 of health * other_PM,1,Fair,Fair,,,55,624565,110694,5.8911,1.0019,26.5476,3.7709,,,,Other,Other
+Table 2 of health * other_PM,1,Fair,Fair,,,272,2352626,197342,22.1909,1.5917,100.0000,_,1,,,Total,
+Table 2 of health * other_PM,1,Poor,Poor,,,88,759746,95662,7.1662,0.9249,72.6278,5.8239,-,,,0,0
+Table 2 of health * other_PM,1,Poor,Poor,,,23,286336,75247,2.7008,0.7080,27.3722,5.8239,,,,Other,Other
+Table 2 of health * other_PM,1,Poor,Poor,,,111,1046082,120896,9.8671,1.1612,100.0000,_,1,,,Total,
+Table 2 of health * other_PM,1,Total,Missing,,,810,7419842,393417,69.9869,1.9146,_,_,-,,,0,0
+Table 2 of health * other_PM,1,Total,Missing,,,271,3181911,276597,30.0131,1.9146,_,_,,,,Other,Other
+Table 2 of health * other_PM,1,Total,Missing,,,1081,10601753,529060,100.0000,_,_,_,1,,,Total,

@@ -1,0 +1,25 @@
+Table,F_poverty,poverty,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table poverty * insurance,Negative or poor,Negative or poor,"Any private, all ages","Any private, all ages",1065,9399462,571112,2.9517,0.1708,19.9216,1.1590,
+Table poverty * insurance,Negative or poor,Negative or poor,"Public only, all ages","Public only, all ages",5513,29677471,1523148,9.3196,0.4440,62.8997,1.3062,
+Table poverty * insurance,Negative or poor,Negative or poor,"Uninsured, all ages","Uninsured, all ages",1410,8105287,531033,2.5453,0.1594,17.1787,0.8645,
+Table poverty * insurance,Negative or poor,Negative or poor,Total,,7988,47182219,1973254,14.8167,0.5519,100.0000,_,1
+Table poverty * insurance,Near-poor,Near-poor,"Any private, all ages","Any private, all ages",484,4753616,413793,1.4928,0.1275,32.0788,2.1074,-
+Table poverty * insurance,Near-poor,Near-poor,"Public only, all ages","Public only, all ages",1206,7476258,396769,2.3478,0.1253,50.4520,1.9388,
+Table poverty * insurance,Near-poor,Near-poor,"Uninsured, all ages","Uninsured, all ages",442,2588677,220487,0.8129,0.0668,17.4692,1.3539,
+Table poverty * insurance,Near-poor,Near-poor,Total,,2132,14818551,652729,4.6535,0.1962,100.0000,_,1
+Table poverty * insurance,Low income,Low income,"Any private, all ages","Any private, all ages",2227,19587953,1008192,6.1512,0.2651,44.0084,1.4873,-
+Table poverty * insurance,Low income,Low income,"Public only, all ages","Public only, all ages",2400,17696514,870607,5.5572,0.2509,39.7589,1.2586,
+Table poverty * insurance,Low income,Low income,"Uninsured, all ages","Uninsured, all ages",1095,7225139,546909,2.2689,0.1629,16.2328,1.0694,
+Table poverty * insurance,Low income,Low income,Total,,5722,44509605,1696448,13.9774,0.4096,100.0000,_,1
+Table poverty * insurance,Middle income,Middle income,"Any private, all ages","Any private, all ages",6277,67470891,2449495,21.1879,0.5350,73.2434,1.0124,-
+Table poverty * insurance,Middle income,Middle income,"Public only, all ages","Public only, all ages",1768,15404313,742000,4.8374,0.2207,16.7222,0.7212,
+Table poverty * insurance,Middle income,Middle income,"Uninsured, all ages","Uninsured, all ages",1193,9243585,571981,2.9028,0.1771,10.0344,0.5846,
+Table poverty * insurance,Middle income,Middle income,Total,,9238,92118789,2833289,28.9281,0.5764,100.0000,_,1
+Table poverty * insurance,High income,High income,"Any private, all ages","Any private, all ages",7090,107165156,3660853,33.6531,0.7715,89.4450,0.5649,-
+Table poverty * insurance,High income,High income,"Public only, all ages","Public only, all ages",630,8484506,524049,2.6644,0.1610,7.0816,0.4195,
+Table poverty * insurance,High income,High income,"Uninsured, all ages","Uninsured, all ages",362,4161596,337589,1.3069,0.1048,3.4735,0.2789,
+Table poverty * insurance,High income,High income,Total,,8082,119811259,3853389,37.6244,0.7930,100.0000,_,1
+Table poverty * insurance,Total,,"Any private, all ages","Any private, all ages",17143,208377078,5913236,65.4368,0.8241,_,_,-
+Table poverty * insurance,Total,,"Public only, all ages","Public only, all ages",11517,78739061,2548955,24.7265,0.6831,_,_,
+Table poverty * insurance,Total,,"Uninsured, all ages","Uninsured, all ages",4502,31324284,1309077,9.8368,0.3715,_,_,
+Table poverty * insurance,Total,,Total,,33162,318440423,7296597,100.0000,_,_,_,1

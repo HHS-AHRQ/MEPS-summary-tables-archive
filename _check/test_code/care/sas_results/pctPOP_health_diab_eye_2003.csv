@@ -1,0 +1,85 @@
+Table,domain,F_health,health,F_diab_eye,diab_eye,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * diab_eye,1,Missing,Missing,Missing,Missing,0,,,,,,,
+Table 1 of health * diab_eye,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * diab_eye,1,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 1 of health * diab_eye,1,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 1 of health * diab_eye,1,Missing,Missing,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 1 of health * diab_eye,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 1 of health * diab_eye,1,Excellent,Excellent,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_eye,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,1,19528,19528,0.1375,0.1381,2.6018,2.5613,
+Table 1 of health * diab_eye,1,Excellent,Excellent,In the past year,In the past year,41,492002,86314,3.4643,0.6153,65.5538,6.9810,
+Table 1 of health * diab_eye,1,Excellent,Excellent,More than 1 year ago,More than 1 year ago,21,207445,59032,1.4607,0.4054,27.6397,6.7524,
+Table 1 of health * diab_eye,1,Excellent,Excellent,Never had eye exam,Never had eye exam,2,31558,22434,0.2222,0.1576,4.2047,2.8685,
+Table 1 of health * diab_eye,1,Excellent,Excellent,Total,,65,750532,109050,5.2847,0.7594,100.0000,_,1
+Table 1 of health * diab_eye,1,Very good,Very good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_eye,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,2,17991,13077,0.1267,0.0918,0.7412,0.5381,
+Table 1 of health * diab_eye,1,Very good,Very good,In the past year,In the past year,142,1549885,145043,10.9132,0.9589,63.8514,3.4659,
+Table 1 of health * diab_eye,1,Very good,Very good,More than 1 year ago,More than 1 year ago,59,592469,85078,4.1717,0.5938,24.4082,3.1023,
+Table 1 of health * diab_eye,1,Very good,Very good,Never had eye exam,Never had eye exam,30,266985,54336,1.8799,0.3743,10.9991,2.0105,
+Table 1 of health * diab_eye,1,Very good,Very good,Total,,233,2427329,183113,17.0915,1.1750,100.0000,_,1
+Table 1 of health * diab_eye,1,Good,Good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_eye,1,Good,Good,Don't know/Non-response,Don't know/Non-response,4,29530,12669,0.2079,0.0892,0.5980,0.2561,
+Table 1 of health * diab_eye,1,Good,Good,In the past year,In the past year,340,3487281,219082,24.5549,1.2975,70.6231,2.3415,
+Table 1 of health * diab_eye,1,Good,Good,More than 1 year ago,More than 1 year ago,97,979763,131332,6.8988,0.8481,19.8418,2.3017,
+Table 1 of health * diab_eye,1,Good,Good,Never had eye exam,Never had eye exam,55,441304,70985,3.1073,0.4981,8.9371,1.3506,
+Table 1 of health * diab_eye,1,Good,Good,Total,,496,4937879,278523,34.7689,1.4678,100.0000,_,1
+Table 1 of health * diab_eye,1,Fair,Fair,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_eye,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,8,70006,27098,0.4929,0.1916,1.6733,0.6543,
+Table 1 of health * diab_eye,1,Fair,Fair,In the past year,In the past year,313,2677428,203172,18.8525,1.2475,63.9957,2.8299,
+Table 1 of health * diab_eye,1,Fair,Fair,More than 1 year ago,More than 1 year ago,115,924192,106648,6.5075,0.6976,22.0900,2.2581,
+Table 1 of health * diab_eye,1,Fair,Fair,Never had eye exam,Never had eye exam,62,512136,80427,3.6061,0.5329,12.2410,1.7312,
+Table 1 of health * diab_eye,1,Fair,Fair,Total,,498,4183763,250539,29.4590,1.3090,100.0000,_,1
+Table 1 of health * diab_eye,1,Poor,Poor,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_eye,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,4,36734,23036,0.2587,0.1630,1.9308,1.2017,
+Table 1 of health * diab_eye,1,Poor,Poor,In the past year,In the past year,151,1193117,123225,8.4011,0.8087,62.7136,3.5473,
+Table 1 of health * diab_eye,1,Poor,Poor,More than 1 year ago,More than 1 year ago,57,422214,61718,2.9729,0.4329,22.1928,2.8913,
+Table 1 of health * diab_eye,1,Poor,Poor,Never had eye exam,Never had eye exam,25,250420,56893,1.7633,0.3971,13.1628,2.7826,
+Table 1 of health * diab_eye,1,Poor,Poor,Total,,237,1902485,155535,13.3959,1.0136,100.0000,_,1
+Table 1 of health * diab_eye,1,Total,Missing,Missing,Missing,0,,,,,_,_,-
+Table 1 of health * diab_eye,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,19,173789,42088,1.2237,0.3013,_,_,
+Table 1 of health * diab_eye,1,Total,Missing,In the past year,In the past year,987,9399714,378511,66.1859,1.4677,_,_,
+Table 1 of health * diab_eye,1,Total,Missing,More than 1 year ago,More than 1 year ago,349,3126083,229815,22.0116,1.3240,_,_,
+Table 1 of health * diab_eye,1,Total,Missing,Never had eye exam,Never had eye exam,174,1502403,140179,10.5788,0.8959,_,_,
+Table 1 of health * diab_eye,1,Total,Missing,Total,,1529,14201988,507909,100.0000,_,_,_,1
+Table 2 of health * diab_eye,2,Missing,Missing,Missing,Missing,105,105.00000,12.84523,0.3212,0.0379,100.0000,0.0000,
+Table 2 of health * diab_eye,2,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Missing,Missing,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Missing,Missing,Total,,105,105.00000,12.84523,0.3212,0.0379,100.0000,_,1
+Table 2 of health * diab_eye,2,Excellent,Excellent,Missing,Missing,9870,9870,268.42504,30.1964,0.5272,100.0000,0.0000,-
+Table 2 of health * diab_eye,2,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Excellent,Excellent,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Excellent,Excellent,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Excellent,Excellent,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Excellent,Excellent,Total,,9870,9870,268.42504,30.1964,0.5272,100.0000,_,1
+Table 2 of health * diab_eye,2,Very good,Very good,Missing,Missing,10433,10433,271.26002,31.9189,0.4375,100.0000,0.0000,-
+Table 2 of health * diab_eye,2,Very good,Very good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Very good,Very good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Very good,Very good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Very good,Very good,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Very good,Very good,Total,,10433,10433,271.26002,31.9189,0.4375,100.0000,_,1
+Table 2 of health * diab_eye,2,Good,Good,Missing,Missing,8906,8906,273.39532,27.2471,0.4650,100.0000,0.0000,-
+Table 2 of health * diab_eye,2,Good,Good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Good,Good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Good,Good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Good,Good,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Good,Good,Total,,8906,8906,273.39532,27.2471,0.4650,100.0000,_,1
+Table 2 of health * diab_eye,2,Fair,Fair,Missing,Missing,2500,2500,88.67356,7.6485,0.2053,100.0000,0.0000,-
+Table 2 of health * diab_eye,2,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Fair,Fair,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Fair,Fair,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Fair,Fair,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Fair,Fair,Total,,2500,2500,88.67356,7.6485,0.2053,100.0000,_,1
+Table 2 of health * diab_eye,2,Poor,Poor,Missing,Missing,872,872.00000,37.30952,2.6678,0.1056,100.0000,0.0000,-
+Table 2 of health * diab_eye,2,Poor,Poor,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_eye,2,Poor,Poor,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_eye,2,Poor,Poor,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_eye,2,Poor,Poor,Never had eye exam,Never had eye exam,0,,,,,,,
+Table 2 of health * diab_eye,2,Poor,Poor,Total,,872,872.00000,37.30952,2.6678,0.1056,100.0000,_,1
+Table 2 of health * diab_eye,2,Total,Missing,Missing,Missing,32686,32686,742.43990,100.0000,0.0000,_,_,-
+Table 2 of health * diab_eye,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,
+Table 2 of health * diab_eye,2,Total,Missing,In the past year,In the past year,0,,,,,_,_,
+Table 2 of health * diab_eye,2,Total,Missing,More than 1 year ago,More than 1 year ago,0,,,,,_,_,
+Table 2 of health * diab_eye,2,Total,Missing,Never had eye exam,Never had eye exam,0,,,,,_,_,
+Table 2 of health * diab_eye,2,Total,Missing,Total,,32686,32686,742.43990,100.0000,_,_,_,1

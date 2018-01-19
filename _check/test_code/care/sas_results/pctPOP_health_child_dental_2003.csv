@@ -1,0 +1,43 @@
+Table,domain,F_health,health,F_child_dental,child_dental,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * child_dental,0,Missing,Missing,No dental visits in past year,No dental visits in past year,58,571633,92192,0.2544,0.0405,97.5965,2.3761,
+Table 1 of health * child_dental,0,Missing,Missing,One or more dental visits,One or more dental visits,1,14078,14078,0.0063,0.0063,2.4035,2.3761,
+Table 1 of health * child_dental,0,Missing,Missing,Total,,59,585710,93260,0.2606,0.0410,100.0000,_,1
+Table 1 of health * child_dental,0,Excellent,Excellent,No dental visits in past year,No dental visits in past year,3392,31479445,1049097,14.0072,0.3453,54.0548,1.0025,-
+Table 1 of health * child_dental,0,Excellent,Excellent,One or more dental visits,One or more dental visits,2188,26756728,1009216,11.9058,0.3640,45.9452,1.0025,
+Table 1 of health * child_dental,0,Excellent,Excellent,Total,,5580,58236173,1697207,25.9130,0.4870,100.0000,_,1
+Table 1 of health * child_dental,0,Very good,Very good,No dental visits in past year,No dental visits in past year,4425,40005090,1216737,17.8009,0.3810,53.5411,0.8740,-
+Table 1 of health * child_dental,0,Very good,Very good,One or more dental visits,One or more dental visits,2898,34713336,1057982,15.4462,0.3512,46.4589,0.8740,
+Table 1 of health * child_dental,0,Very good,Very good,Total,,7323,74718425,1860060,33.2471,0.4441,100.0000,_,1
+Table 1 of health * child_dental,0,Good,Good,No dental visits in past year,No dental visits in past year,4737,38242383,1135950,17.0165,0.3991,61.8889,0.8829,-
+Table 1 of health * child_dental,0,Good,Good,One or more dental visits,One or more dental visits,2249,23549645,745588,10.4788,0.2611,38.1111,0.8829,
+Table 1 of health * child_dental,0,Good,Good,Total,,6986,61792028,1510521,27.4953,0.4317,100.0000,_,1
+Table 1 of health * child_dental,0,Fair,Fair,No dental visits in past year,No dental visits in past year,1890,14095700,565510,6.2721,0.2093,66.2192,1.2825,-
+Table 1 of health * child_dental,0,Fair,Fair,One or more dental visits,One or more dental visits,767,7190739,388334,3.1996,0.1611,33.7808,1.2825,
+Table 1 of health * child_dental,0,Fair,Fair,Total,,2657,21286439,772131,9.4717,0.2775,100.0000,_,1
+Table 1 of health * child_dental,0,Poor,Poor,No dental visits in past year,No dental visits in past year,785,5893208,321042,2.6223,0.1392,72.5935,1.7105,-
+Table 1 of health * child_dental,0,Poor,Poor,One or more dental visits,One or more dental visits,249,2224888,167577,0.9900,0.0735,27.4065,1.7105,
+Table 1 of health * child_dental,0,Poor,Poor,Total,,1034,8118096,384097,3.6123,0.1649,100.0000,_,1
+Table 1 of health * child_dental,0,Total,Missing,No dental visits in past year,No dental visits in past year,15287,130287458,3004444,57.9733,0.5961,_,_,-
+Table 1 of health * child_dental,0,Total,Missing,One or more dental visits,One or more dental visits,8352,94449413,2348789,42.0267,0.5961,_,_,
+Table 1 of health * child_dental,0,Total,Missing,Total,,23639,224736871,4618556,100.0000,_,_,_,1
+Table 2 of health * child_dental,1,Missing,Missing,No dental visits in past year,No dental visits in past year,2,9084,6430,0.0138,0.0098,100.0000,0.0000,
+Table 2 of health * child_dental,1,Missing,Missing,One or more dental visits,One or more dental visits,0,,,,,,,
+Table 2 of health * child_dental,1,Missing,Missing,Total,,2,9084,6430,0.0138,0.0098,100.0000,_,1
+Table 2 of health * child_dental,1,Excellent,Excellent,No dental visits in past year,No dental visits in past year,2056,14313227,627606,21.7303,0.7486,45.5612,1.3454,-
+Table 2 of health * child_dental,1,Excellent,Excellent,One or more dental visits,One or more dental visits,1806,17102139,770888,25.9644,0.8847,54.4388,1.3454,
+Table 2 of health * child_dental,1,Excellent,Excellent,Total,,3862,31415366,1111724,47.6947,1.0038,100.0000,_,1
+Table 2 of health * child_dental,1,Very good,Very good,No dental visits in past year,No dental visits in past year,1643,9890349,461445,15.0155,0.5629,47.8302,1.4431,-
+Table 2 of health * child_dental,1,Very good,Very good,One or more dental visits,One or more dental visits,1286,10787683,508401,16.3778,0.6523,52.1698,1.4431,
+Table 2 of health * child_dental,1,Very good,Very good,Total,,2929,20678032,764047,31.3933,0.8097,100.0000,_,1
+Table 2 of health * child_dental,1,Good,Good,No dental visits in past year,No dental visits in past year,1239,7161189,423718,10.8721,0.5716,58.8460,1.6725,-
+Table 2 of health * child_dental,1,Good,Good,One or more dental visits,One or more dental visits,750,5008193,301468,7.6034,0.4181,41.1540,1.6725,
+Table 2 of health * child_dental,1,Good,Good,Total,,1989,12169382,595709,18.4755,0.7653,100.0000,_,1
+Table 2 of health * child_dental,1,Fair,Fair,No dental visits in past year,No dental visits in past year,145,791792,94056,1.2021,0.1349,58.6429,4.4085,-
+Table 2 of health * child_dental,1,Fair,Fair,One or more dental visits,One or more dental visits,79,558400,80734,0.8478,0.1214,41.3571,4.4085,
+Table 2 of health * child_dental,1,Fair,Fair,Total,,224,1350192,127425,2.0499,0.1817,100.0000,_,1
+Table 2 of health * child_dental,1,Poor,Poor,No dental visits in past year,No dental visits in past year,25,155980,35760,0.2368,0.0531,63.5331,9.9689,-
+Table 2 of health * child_dental,1,Poor,Poor,One or more dental visits,One or more dental visits,11,89530,32599,0.1359,0.0487,36.4669,9.9689,
+Table 2 of health * child_dental,1,Poor,Poor,Total,,36,245510,48389,0.3727,0.0706,100.0000,_,1
+Table 2 of health * child_dental,1,Total,Missing,No dental visits in past year,No dental visits in past year,5110,32321621,1066509,49.0706,0.8738,_,_,-
+Table 2 of health * child_dental,1,Total,Missing,One or more dental visits,One or more dental visits,3932,33545944,1086993,50.9294,0.8738,_,_,
+Table 2 of health * child_dental,1,Total,Missing,Total,,9042,65867565,1820057,100.0000,_,_,_,1

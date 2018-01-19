@@ -1,0 +1,109 @@
+Table,domain,F_poverty,poverty,F_afford_ANY,afford_ANY,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_ANY,insure_ANY,F_other_ANY,other_ANY
+Table 1 of poverty * afford_ANY,0,Negative or poor,Negative or poor,0,0,5709,29951662,1162180,11.6407,0.3942,100.0000,0.0000,,,,,
+Table 1 of poverty * afford_ANY,0,Negative or poor,Negative or poor,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of poverty * afford_ANY,0,Negative or poor,Negative or poor,Total,,5709,29951662,1162180,11.6407,0.3942,100.0000,_,1,,,,
+Table 1 of poverty * afford_ANY,0,Near-poor,Near-poor,0,0,1885,10682661,541854,4.1518,0.2043,100.0000,0.0000,-,,,,
+Table 1 of poverty * afford_ANY,0,Near-poor,Near-poor,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of poverty * afford_ANY,0,Near-poor,Near-poor,Total,,1885,10682661,541854,4.1518,0.2043,100.0000,_,1,,,,
+Table 1 of poverty * afford_ANY,0,Low income,Low income,0,0,5583,34755125,1257771,13.5075,0.3988,100.0000,0.0000,-,,,,
+Table 1 of poverty * afford_ANY,0,Low income,Low income,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of poverty * afford_ANY,0,Low income,Low income,Total,,5583,34755125,1257771,13.5075,0.3988,100.0000,_,1,,,,
+Table 1 of poverty * afford_ANY,0,Middle income,Middle income,0,0,10453,81903431,2163888,31.8316,0.5552,100.0000,0.0000,-,,,,
+Table 1 of poverty * afford_ANY,0,Middle income,Middle income,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of poverty * afford_ANY,0,Middle income,Middle income,Total,,10453,81903431,2163888,31.8316,0.5552,100.0000,_,1,,,,
+Table 1 of poverty * afford_ANY,0,High income,High income,0,0,9933,100009364,2927820,38.8684,0.7147,100.0000,0.0000,-,,,,
+Table 1 of poverty * afford_ANY,0,High income,High income,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of poverty * afford_ANY,0,High income,High income,Total,,9933,100009364,2927820,38.8684,0.7147,100.0000,_,1,,,,
+Table 1 of poverty * afford_ANY,0,Total,,0,0,33563,257302242,5362128,100.0000,0.0000,_,_,-,,,,
+Table 1 of poverty * afford_ANY,0,Total,,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of poverty * afford_ANY,0,Total,,Total,,33563,257302242,5362128,100.0000,_,_,_,1,,,,
+Table 2 of poverty * afford_ANY,1,Negative or poor,Negative or poor,0,0,332,2082532,152545,6.7441,0.4690,36.7559,2.0600,,,,,
+Table 2 of poverty * afford_ANY,1,Negative or poor,Negative or poor,Couldn't afford,Couldn't afford,566,3583320,237799,11.6042,0.7072,63.2441,2.0600,,,,,
+Table 2 of poverty * afford_ANY,1,Negative or poor,Negative or poor,Total,,898,5665852,306789,18.3483,0.8800,100.0000,_,1,,,,
+Table 2 of poverty * afford_ANY,1,Near-poor,Near-poor,0,0,83,642794,103833,2.0816,0.3336,35.9879,4.4825,-,,,,
+Table 2 of poverty * afford_ANY,1,Near-poor,Near-poor,Couldn't afford,Couldn't afford,170,1143345,125357,3.7026,0.3785,64.0121,4.4825,,,,,
+Table 2 of poverty * afford_ANY,1,Near-poor,Near-poor,Total,,253,1786138,163344,5.7842,0.4911,100.0000,_,1,,,,
+Table 2 of poverty * afford_ANY,1,Low income,Low income,0,0,257,1921210,158369,6.2216,0.5008,35.4806,2.3045,-,,,,
+Table 2 of poverty * afford_ANY,1,Low income,Low income,Couldn't afford,Couldn't afford,516,3493606,241386,11.3137,0.6705,64.5194,2.3045,,,,,
+Table 2 of poverty * afford_ANY,1,Low income,Low income,Total,,773,5414816,304922,17.5353,0.8308,100.0000,_,1,,,,
+Table 2 of poverty * afford_ANY,1,Middle income,Middle income,0,0,514,4436987,252449,14.3687,0.7353,48.4390,2.2706,-,,,,
+Table 2 of poverty * afford_ANY,1,Middle income,Middle income,Couldn't afford,Couldn't afford,573,4722967,354551,15.2948,0.9511,51.5610,2.2706,,,,,
+Table 2 of poverty * afford_ANY,1,Middle income,Middle income,Total,,1087,9159954,449639,29.6635,1.0268,100.0000,_,1,,,,
+Table 2 of poverty * afford_ANY,1,High income,High income,0,0,647,6879843,362833,22.2796,1.0587,77.7141,1.5908,-,,,,
+Table 2 of poverty * afford_ANY,1,High income,High income,Couldn't afford,Couldn't afford,197,1972917,177152,6.3891,0.5362,22.2859,1.5908,,,,,
+Table 2 of poverty * afford_ANY,1,High income,High income,Total,,844,8852761,442381,28.6687,1.2375,100.0000,_,1,,,,
+Table 2 of poverty * afford_ANY,1,Total,,0,0,1833,15963366,529138,51.6956,1.2424,_,_,-,,,,
+Table 2 of poverty * afford_ANY,1,Total,,Couldn't afford,Couldn't afford,2022,14916154,656676,48.3044,1.2424,_,_,,,,,
+Table 2 of poverty * afford_ANY,1,Total,,Total,,3855,30879521,919185,100.0000,_,_,_,1,,,,
+Table 1 of poverty * insure_ANY,0,Negative or poor,Negative or poor,,,5709,29951662,1162180,11.6407,0.3942,100.0000,0.0000,,0,0,,
+Table 1 of poverty * insure_ANY,0,Negative or poor,Negative or poor,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,Negative or poor,Negative or poor,,,5709,29951662,1162180,11.6407,0.3942,100.0000,_,1,Total,,,
+Table 1 of poverty * insure_ANY,0,Near-poor,Near-poor,,,1885,10682661,541854,4.1518,0.2043,100.0000,0.0000,-,0,0,,
+Table 1 of poverty * insure_ANY,0,Near-poor,Near-poor,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,Near-poor,Near-poor,,,1885,10682661,541854,4.1518,0.2043,100.0000,_,1,Total,,,
+Table 1 of poverty * insure_ANY,0,Low income,Low income,,,5583,34755125,1257771,13.5075,0.3988,100.0000,0.0000,-,0,0,,
+Table 1 of poverty * insure_ANY,0,Low income,Low income,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,Low income,Low income,,,5583,34755125,1257771,13.5075,0.3988,100.0000,_,1,Total,,,
+Table 1 of poverty * insure_ANY,0,Middle income,Middle income,,,10453,81903431,2163888,31.8316,0.5552,100.0000,0.0000,-,0,0,,
+Table 1 of poverty * insure_ANY,0,Middle income,Middle income,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,Middle income,Middle income,,,10453,81903431,2163888,31.8316,0.5552,100.0000,_,1,Total,,,
+Table 1 of poverty * insure_ANY,0,High income,High income,,,9933,100009364,2927820,38.8684,0.7147,100.0000,0.0000,-,0,0,,
+Table 1 of poverty * insure_ANY,0,High income,High income,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,High income,High income,,,9933,100009364,2927820,38.8684,0.7147,100.0000,_,1,Total,,,
+Table 1 of poverty * insure_ANY,0,Total,,,,33563,257302242,5362128,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of poverty * insure_ANY,0,Total,,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of poverty * insure_ANY,0,Total,,,,33563,257302242,5362128,100.0000,_,_,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,Negative or poor,Negative or poor,,,787,4974490,292423,16.1093,0.8341,87.7977,1.6305,,0,0,,
+Table 2 of poverty * insure_ANY,1,Negative or poor,Negative or poor,,,111,691362,96544,2.2389,0.3158,12.2023,1.6305,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,Negative or poor,Negative or poor,,,898,5665852,306789,18.3483,0.8800,100.0000,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,Near-poor,Near-poor,,,224,1579826,156392,5.1161,0.4675,88.4492,2.6217,-,0,0,,
+Table 2 of poverty * insure_ANY,1,Near-poor,Near-poor,,,29,206312,48651,0.6681,0.1591,11.5508,2.6217,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,Near-poor,Near-poor,,,253,1786138,163344,5.7842,0.4911,100.0000,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,Low income,Low income,,,684,4842945,290877,15.6834,0.8035,89.4388,1.4013,-,0,0,,
+Table 2 of poverty * insure_ANY,1,Low income,Low income,,,89,571871,79159,1.8519,0.2534,10.5612,1.4013,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,Low income,Low income,,,773,5414816,304922,17.5353,0.8308,100.0000,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,Middle income,Middle income,,,925,7762992,412349,25.1396,0.9755,84.7493,1.3215,-,0,0,,
+Table 2 of poverty * insure_ANY,1,Middle income,Middle income,,,162,1396961,132381,4.5239,0.4133,15.2507,1.3215,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,Middle income,Middle income,,,1087,9159954,449639,29.6635,1.0268,100.0000,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,High income,High income,,,685,7184132,374830,23.2650,1.0801,81.1513,1.3707,-,0,0,,
+Table 2 of poverty * insure_ANY,1,High income,High income,,,159,1668628,149666,5.4037,0.4560,18.8487,1.3707,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,High income,High income,,,844,8852761,442381,28.6687,1.2375,100.0000,_,1,Total,,,
+Table 2 of poverty * insure_ANY,1,Total,,,,3305,26344386,849844,85.3135,0.7842,_,_,-,0,0,,
+Table 2 of poverty * insure_ANY,1,Total,,,,550,4535135,261710,14.6865,0.7842,_,_,,Insurance related,Insurance related,,
+Table 2 of poverty * insure_ANY,1,Total,,,,3855,30879521,919185,100.0000,_,_,_,1,Total,,,
+Table 1 of poverty * other_ANY,0,Negative or poor,Negative or poor,,,5709,29951662,1162180,11.6407,0.3942,100.0000,0.0000,,,,0,0
+Table 1 of poverty * other_ANY,0,Negative or poor,Negative or poor,,,0,,,,,,,,,,Other,Other
+Table 1 of poverty * other_ANY,0,Negative or poor,Negative or poor,,,5709,29951662,1162180,11.6407,0.3942,100.0000,_,1,,,Total,
+Table 1 of poverty * other_ANY,0,Near-poor,Near-poor,,,1885,10682661,541854,4.1518,0.2043,100.0000,0.0000,-,,,0,0
+Table 1 of poverty * other_ANY,0,Near-poor,Near-poor,,,0,,,,,,,,,,Other,Other
+Table 1 of poverty * other_ANY,0,Near-poor,Near-poor,,,1885,10682661,541854,4.1518,0.2043,100.0000,_,1,,,Total,
+Table 1 of poverty * other_ANY,0,Low income,Low income,,,5583,34755125,1257771,13.5075,0.3988,100.0000,0.0000,-,,,0,0
+Table 1 of poverty * other_ANY,0,Low income,Low income,,,0,,,,,,,,,,Other,Other
+Table 1 of poverty * other_ANY,0,Low income,Low income,,,5583,34755125,1257771,13.5075,0.3988,100.0000,_,1,,,Total,
+Table 1 of poverty * other_ANY,0,Middle income,Middle income,,,10453,81903431,2163888,31.8316,0.5552,100.0000,0.0000,-,,,0,0
+Table 1 of poverty * other_ANY,0,Middle income,Middle income,,,0,,,,,,,,,,Other,Other
+Table 1 of poverty * other_ANY,0,Middle income,Middle income,,,10453,81903431,2163888,31.8316,0.5552,100.0000,_,1,,,Total,
+Table 1 of poverty * other_ANY,0,High income,High income,,,9933,100009364,2927820,38.8684,0.7147,100.0000,0.0000,-,,,0,0
+Table 1 of poverty * other_ANY,0,High income,High income,,,0,,,,,,,,,,Other,Other
+Table 1 of poverty * other_ANY,0,High income,High income,,,9933,100009364,2927820,38.8684,0.7147,100.0000,_,1,,,Total,
+Table 1 of poverty * other_ANY,0,Total,,,,33563,257302242,5362128,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of poverty * other_ANY,0,Total,,,,0,,,,,_,_,,,,Other,Other
+Table 1 of poverty * other_ANY,0,Total,,,,33563,257302242,5362128,100.0000,_,_,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,Negative or poor,Negative or poor,,,609,3838598,236487,12.4309,0.7174,67.7497,2.0418,,,,0,0
+Table 2 of poverty * other_ANY,1,Negative or poor,Negative or poor,,,289,1827254,153248,5.9174,0.4604,32.2503,2.0418,,,,Other,Other
+Table 2 of poverty * other_ANY,1,Negative or poor,Negative or poor,,,898,5665852,306789,18.3483,0.8800,100.0000,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,Near-poor,Near-poor,,,179,1202783,127453,3.8951,0.3892,67.3399,4.3509,-,,,0,0
+Table 2 of poverty * other_ANY,1,Near-poor,Near-poor,,,74,583355,99014,1.8891,0.3152,32.6601,4.3509,,,,Other,Other
+Table 2 of poverty * other_ANY,1,Near-poor,Near-poor,,,253,1786138,163344,5.7842,0.4911,100.0000,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,Low income,Low income,,,554,3714076,250660,12.0276,0.6908,68.5910,2.4823,-,,,0,0
+Table 2 of poverty * other_ANY,1,Low income,Low income,,,219,1700741,163617,5.5077,0.5239,31.4090,2.4823,,,,Other,Other
+Table 2 of poverty * other_ANY,1,Low income,Low income,,,773,5414816,304922,17.5353,0.8308,100.0000,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,Middle income,Middle income,,,650,5403767,370227,17.4995,0.9834,58.9934,2.1898,-,,,0,0
+Table 2 of poverty * other_ANY,1,Middle income,Middle income,,,437,3756186,236277,12.1640,0.6894,41.0066,2.1898,,,,Other,Other
+Table 2 of poverty * other_ANY,1,Middle income,Middle income,,,1087,9159954,449639,29.6635,1.0268,100.0000,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,High income,High income,,,312,3158641,227406,10.2289,0.6625,35.6797,1.8016,-,,,0,0
+Table 2 of poverty * other_ANY,1,High income,High income,,,532,5694120,322407,18.4398,0.9703,64.3203,1.8016,,,,Other,Other
+Table 2 of poverty * other_ANY,1,High income,High income,,,844,8852761,442381,28.6687,1.2375,100.0000,_,1,,,Total,
+Table 2 of poverty * other_ANY,1,Total,,,,2304,17317864,678520,56.0820,1.1446,_,_,-,,,0,0
+Table 2 of poverty * other_ANY,1,Total,,,,1551,13561656,483005,43.9180,1.1446,_,_,,,,Other,Other
+Table 2 of poverty * other_ANY,1,Total,,,,3855,30879521,919185,100.0000,_,_,_,1,,,Total,

@@ -1,0 +1,367 @@
+DomainLabel,condition,VarName,Mean,StdErr
+condition,Acute Bronchitis and URI,XP03X,238.592083,12.725594
+condition,Acute Bronchitis and URI,SF03X,59.620400,2.480099
+condition,Acute Bronchitis and URI,MR03X,23.774952,8.355282
+condition,Acute Bronchitis and URI,MD03X,30.830728,3.447905
+condition,Acute Bronchitis and URI,PR03X,109.220113,6.536591
+condition,Acute Bronchitis and URI,OZ03X,15.145891,4.334481
+condition,Allergic reactions,XP03X,269.984674,33.789170
+condition,Allergic reactions,SF03X,75.331225,9.273361
+condition,Allergic reactions,MR03X,13.986829,3.948856
+condition,Allergic reactions,MD03X,32.505417,12.621040
+condition,Allergic reactions,PR03X,138.748325,23.659862
+condition,Allergic reactions,OZ03X,9.412879,2.802830
+condition,Anemia and other deficiencies,XP03X,1137.737170,227.491363
+condition,Anemia and other deficiencies,SF03X,210.102311,119.956980
+condition,Anemia and other deficiencies,MR03X,333.606637,93.787464
+condition,Anemia and other deficiencies,MD03X,241.244877,77.041270
+condition,Anemia and other deficiencies,PR03X,273.248008,61.391234
+condition,Anemia and other deficiencies,OZ03X,79.535336,33.232044
+condition,Appendicitis,XP03X,6583.087264,1291.583539
+condition,Appendicitis,SF03X,227.751028,84.983009
+condition,Appendicitis,MR03X,508.890081,316.553780
+condition,Appendicitis,MD03X,1186.153415,602.203807
+condition,Appendicitis,PR03X,4456.508427,1293.621159
+condition,Appendicitis,OZ03X,203.784313,101.637460
+condition,Back problems,XP03X,1318.376037,124.044049
+condition,Back problems,SF03X,210.026644,14.024833
+condition,Back problems,MR03X,167.057132,21.018666
+condition,Back problems,MD03X,99.587966,16.150606
+condition,Back problems,PR03X,659.769144,108.131927
+condition,Back problems,OZ03X,181.935151,34.852010
+condition,CNS infection,XP03X,4067.816757,1146.613544
+condition,CNS infection,SF03X,224.597176,117.477267
+condition,CNS infection,MR03X,1952.383778,1043.417239
+condition,CNS infection,MD03X,1199.929486,480.369593
+condition,CNS infection,PR03X,419.498313,188.345335
+condition,CNS infection,OZ03X,271.408005,168.469257
+condition,"COPD, asthma",XP03X,956.781997,108.167375
+condition,"COPD, asthma",SF03X,178.895070,5.930237
+condition,"COPD, asthma",MR03X,172.660061,25.065668
+condition,"COPD, asthma",MD03X,129.188570,14.522672
+condition,"COPD, asthma",PR03X,388.636065,94.517021
+condition,"COPD, asthma",OZ03X,87.402230,25.796556
+condition,Cancer,XP03X,4406.429752,383.765617
+condition,Cancer,SF03X,298.991947,86.888838
+condition,Cancer,MR03X,1706.644680,214.507361
+condition,Cancer,MD03X,223.162435,60.060803
+condition,Cancer,PR03X,1917.811505,265.897008
+condition,Cancer,OZ03X,259.819185,55.071946
+condition,Cataract,XP03X,1183.236327,109.187806
+condition,Cataract,SF03X,121.910633,15.900939
+condition,Cataract,MR03X,509.161968,55.570271
+condition,Cataract,MD03X,63.433055,28.466446
+condition,Cataract,PR03X,329.179042,60.617804
+condition,Cataract,OZ03X,159.551628,62.290205
+condition,Cerebrovascular disease,XP03X,6411.714861,1290.658621
+condition,Cerebrovascular disease,SF03X,378.431176,56.725687
+condition,Cerebrovascular disease,MR03X,4004.606606,1168.287707
+condition,Cerebrovascular disease,MD03X,354.663976,91.457604
+condition,Cerebrovascular disease,PR03X,842.994796,178.234015
+condition,Cerebrovascular disease,OZ03X,831.018306,518.041861
+condition,"Coma, brain damage",XP03X,409280,258664
+condition,"Coma, brain damage",SF03X,10.988129,10.311712
+condition,"Coma, brain damage",MR03X,610.664128,544.897262
+condition,"Coma, brain damage",MD03X,412.940793,377.163403
+condition,"Coma, brain damage",PR03X,117019,74308
+condition,"Coma, brain damage",OZ03X,291227,184931
+condition,Complications of pregnancy and birth,XP03X,1200.033383,264.741125
+condition,Complications of pregnancy and birth,SF03X,78.211667,20.874500
+condition,Complications of pregnancy and birth,MR03X,12.699640,11.373559
+condition,Complications of pregnancy and birth,MD03X,179.225984,57.135992
+condition,Complications of pregnancy and birth,PR03X,900.138912,252.365008
+condition,Complications of pregnancy and birth,OZ03X,29.757181,11.065321
+condition,Complications of surgery or device,XP03X,2530.742415,864.959955
+condition,Complications of surgery or device,SF03X,75.174194,17.001167
+condition,Complications of surgery or device,MR03X,1848.691437,815.886591
+condition,Complications of surgery or device,MD03X,144.203995,57.902899
+condition,Complications of surgery or device,PR03X,352.260347,126.397690
+condition,Complications of surgery or device,OZ03X,110.412441,50.703439
+condition,Congenital anomalies,XP03X,4266.794601,1076.334086
+condition,Congenital anomalies,SF03X,245.012287,130.292183
+condition,Congenital anomalies,MR03X,365.889258,234.431838
+condition,Congenital anomalies,MD03X,841.787063,281.485146
+condition,Congenital anomalies,PR03X,2517.249866,1032.639601
+condition,Congenital anomalies,OZ03X,296.856127,169.708158
+condition,Diabetes mellitus,XP03X,1978.075688,101.702836
+condition,Diabetes mellitus,SF03X,439.745140,18.390534
+condition,Diabetes mellitus,MR03X,551.813256,79.268151
+condition,Diabetes mellitus,MD03X,340.849967,44.488526
+condition,Diabetes mellitus,PR03X,471.876749,29.095920
+condition,Diabetes mellitus,OZ03X,173.790576,31.102368
+condition,Disorders of mouth and esophagus,XP03X,464.757911,278.192801
+condition,Disorders of mouth and esophagus,SF03X,36.464852,10.875662
+condition,Disorders of mouth and esophagus,MR03X,30.506665,22.065148
+condition,Disorders of mouth and esophagus,MD03X,9.521339,4.925323
+condition,Disorders of mouth and esophagus,PR03X,377.963768,268.004907
+condition,Disorders of mouth and esophagus,OZ03X,10.301286,7.349625
+condition,Disorders of teeth and jaws,XP03X,186.419720,38.621540
+condition,Disorders of teeth and jaws,SF03X,62.664733,11.806477
+condition,Disorders of teeth and jaws,MR03X,40.447017,30.287256
+condition,Disorders of teeth and jaws,MD03X,17.590832,5.589791
+condition,Disorders of teeth and jaws,PR03X,43.254032,7.995070
+condition,Disorders of teeth and jaws,OZ03X,22.463106,13.566998
+condition,Disorders of the upper GI,XP03X,992.410311,40.656364
+condition,Disorders of the upper GI,SF03X,221.947791,9.256540
+condition,Disorders of the upper GI,MR03X,127.677117,22.177618
+condition,Disorders of the upper GI,MD03X,120.999688,22.045214
+condition,Disorders of the upper GI,PR03X,470.232342,24.900358
+condition,Disorders of the upper GI,OZ03X,51.553373,11.159585
+condition,Epilepsy and convulsions,XP03X,2223.235318,337.487630
+condition,Epilepsy and convulsions,SF03X,344.872499,59.939352
+condition,Epilepsy and convulsions,MR03X,456.431202,280.269958
+condition,Epilepsy and convulsions,MD03X,737.878021,153.945836
+condition,Epilepsy and convulsions,PR03X,453.169661,97.960317
+condition,Epilepsy and convulsions,OZ03X,230.883935,97.120939
+condition,"Female genital disorders, and contraception",XP03X,667.229465,47.776132
+condition,"Female genital disorders, and contraception",SF03X,160.961235,12.465449
+condition,"Female genital disorders, and contraception",MR03X,33.136258,12.281417
+condition,"Female genital disorders, and contraception",MD03X,50.344638,10.751973
+condition,"Female genital disorders, and contraception",PR03X,409.067227,40.792151
+condition,"Female genital disorders, and contraception",OZ03X,13.720106,3.235260
+condition,"Gallbladder, pancreatic, and liver disease",XP03X,4136.187788,418.309079
+condition,"Gallbladder, pancreatic, and liver disease",SF03X,172.157233,32.465382
+condition,"Gallbladder, pancreatic, and liver disease",MR03X,891.449567,172.742837
+condition,"Gallbladder, pancreatic, and liver disease",MD03X,562.674881,151.473309
+condition,"Gallbladder, pancreatic, and liver disease",PR03X,2329.948666,350.150164
+condition,"Gallbladder, pancreatic, and liver disease",OZ03X,179.957442,43.711735
+condition,Glaucoma,XP03X,1025.226388,150.146823
+condition,Glaucoma,SF03X,266.003624,47.866882
+condition,Glaucoma,MR03X,164.669334,24.347052
+condition,Glaucoma,MD03X,229.737674,80.913732
+condition,Glaucoma,PR03X,309.850236,102.306764
+condition,Glaucoma,OZ03X,54.965521,14.605274
+condition,Headache,XP03X,627.477177,50.667150
+condition,Headache,SF03X,142.360758,12.892427
+condition,Headache,MR03X,34.793122,7.678836
+condition,Headache,MD03X,63.797996,11.275616
+condition,Headache,PR03X,357.440527,43.417123
+condition,Headache,OZ03X,29.084774,10.445846
+condition,Heart disease,XP03X,3391.342199,232.588440
+condition,Heart disease,SF03X,329.185553,44.196926
+condition,Heart disease,MR03X,1363.078414,133.471402
+condition,Heart disease,MD03X,231.276334,32.961277
+condition,Heart disease,PR03X,1191.928537,177.920857
+condition,Heart disease,OZ03X,275.873361,51.154934
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",XP03X,1628.933249,529.305395
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",SF03X,137.840207,34.024597
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",MR03X,716.804677,391.901476
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",MD03X,156.252984,60.168802
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",PR03X,520.594682,256.211079
+condition,"Hemorrhagic, coagulation, and disorders of White Blood cells",OZ03X,97.440698,56.902622
+condition,"Hereditary, degenerative and other nervous system disorders",XP03X,3965.062562,800.626694
+condition,"Hereditary, degenerative and other nervous system disorders",SF03X,699.852495,208.989262
+condition,"Hereditary, degenerative and other nervous system disorders",MR03X,1139.679984,463.480137
+condition,"Hereditary, degenerative and other nervous system disorders",MD03X,621.406971,290.415541
+condition,"Hereditary, degenerative and other nervous system disorders",PR03X,1305.872796,408.441252
+condition,"Hereditary, degenerative and other nervous system disorders",OZ03X,198.250316,76.748389
+condition,Hernias,XP03X,2260.287453,265.261107
+condition,Hernias,SF03X,202.248275,32.297874
+condition,Hernias,MR03X,577.002437,185.048764
+condition,Hernias,MD03X,216.153998,88.941167
+condition,Hernias,PR03X,963.699219,130.700897
+condition,Hernias,OZ03X,301.183524,99.014944
+condition,Hyperlipidemia,XP03X,836.483186,26.114147
+condition,Hyperlipidemia,SF03X,294.724929,10.084753
+condition,Hyperlipidemia,MR03X,88.923947,10.477696
+condition,Hyperlipidemia,MD03X,63.657519,8.392178
+condition,Hyperlipidemia,PR03X,325.860051,14.468355
+condition,Hyperlipidemia,OZ03X,63.316739,14.979100
+condition,Hypertension,XP03X,935.445416,39.955652
+condition,Hypertension,SF03X,286.590265,7.615971
+condition,Hypertension,MR03X,182.390090,22.922508
+condition,Hypertension,MD03X,126.321320,17.135870
+condition,Hypertension,PR03X,261.453386,15.795625
+condition,Hypertension,OZ03X,78.690356,12.171458
+condition,Infectious diseases,XP03X,721.087903,70.893941
+condition,Infectious diseases,SF03X,113.926775,14.593662
+condition,Infectious diseases,MR03X,98.315842,23.622307
+condition,Infectious diseases,MD03X,189.235494,38.156504
+condition,Infectious diseases,PR03X,266.006868,33.484242
+condition,Infectious diseases,OZ03X,53.602923,20.272503
+condition,Influenza,XP03X,195.994901,23.106937
+condition,Influenza,SF03X,43.852436,5.742608
+condition,Influenza,MR03X,23.603558,13.379560
+condition,Influenza,MD03X,34.277693,7.293686
+condition,Influenza,PR03X,89.918295,13.647645
+condition,Influenza,OZ03X,4.342919,1.070887
+condition,Intestinal infection,XP03X,362.292885,48.270562
+condition,Intestinal infection,SF03X,52.424267,5.542947
+condition,Intestinal infection,MR03X,95.926882,36.585268
+condition,Intestinal infection,MD03X,38.982945,8.299503
+condition,Intestinal infection,PR03X,140.860297,24.526537
+condition,Intestinal infection,OZ03X,34.098494,16.005878
+condition,Kidney Disease,XP03X,4602.783051,488.878958
+condition,Kidney Disease,SF03X,436.768758,149.635284
+condition,Kidney Disease,MR03X,1790.464160,274.003712
+condition,Kidney Disease,MD03X,511.876643,126.327588
+condition,Kidney Disease,PR03X,1447.580603,240.416527
+condition,Kidney Disease,OZ03X,416.092887,179.911003
+condition,Male genital disorders,XP03X,826.174617,135.149328
+condition,Male genital disorders,SF03X,181.019829,15.277383
+condition,Male genital disorders,MR03X,143.037256,29.898014
+condition,Male genital disorders,MD03X,57.601742,25.311797
+condition,Male genital disorders,PR03X,359.786918,109.709728
+condition,Male genital disorders,OZ03X,84.728872,28.971624
+condition,Mental disorders,XP03X,1476.118144,76.989710
+condition,Mental disorders,SF03X,418.360618,48.722686
+condition,Mental disorders,MR03X,211.059227,28.301036
+condition,Mental disorders,MD03X,332.874949,34.932649
+condition,Mental disorders,PR03X,403.376458,24.415736
+condition,Mental disorders,OZ03X,110.446891,16.479526
+condition,Non-malignant breast disease,XP03X,1050.625350,167.270063
+condition,Non-malignant breast disease,SF03X,91.374883,14.593037
+condition,Non-malignant breast disease,MR03X,255.636311,131.715658
+condition,Non-malignant breast disease,MD03X,29.402521,7.532930
+condition,Non-malignant breast disease,PR03X,607.233351,95.609114
+condition,Non-malignant breast disease,OZ03X,66.978284,32.594145
+condition,Non-malignant neoplasm,XP03X,1048.563957,153.377224
+condition,Non-malignant neoplasm,SF03X,79.550181,9.361596
+condition,Non-malignant neoplasm,MR03X,156.551961,94.627401
+condition,Non-malignant neoplasm,MD03X,40.122323,21.448822
+condition,Non-malignant neoplasm,PR03X,734.168624,121.708791
+condition,Non-malignant neoplasm,OZ03X,38.170868,15.592960
+condition,Normal birth/live born,XP03X,3948.924429,198.227326
+condition,Normal birth/live born,SF03X,212.212482,18.648688
+condition,Normal birth/live born,MR03X,27.218219,17.204542
+condition,Normal birth/live born,MD03X,1013.005511,86.936076
+condition,Normal birth/live born,PR03X,2353.374816,193.143557
+condition,Normal birth/live born,OZ03X,343.113400,78.536892
+condition,Osteoarthritis and other non-traumatic joint disorders,XP03X,1565.359857,116.967417
+condition,Osteoarthritis and other non-traumatic joint disorders,SF03X,236.761608,15.127114
+condition,Osteoarthritis and other non-traumatic joint disorders,MR03X,443.155114,67.099704
+condition,Osteoarthritis and other non-traumatic joint disorders,MD03X,186.291139,39.327302
+condition,Osteoarthritis and other non-traumatic joint disorders,PR03X,571.578883,79.626459
+condition,Osteoarthritis and other non-traumatic joint disorders,OZ03X,127.573113,23.714617
+condition,Other CNS disorders,XP03X,2556.754935,1297.914878
+condition,Other CNS disorders,SF03X,173.662929,17.689020
+condition,Other CNS disorders,MR03X,236.674053,44.611150
+condition,Other CNS disorders,MD03X,124.764819,23.930066
+condition,Other CNS disorders,PR03X,941.457791,365.929932
+condition,Other CNS disorders,OZ03X,1080.195342,944.575175
+condition,Other GI,XP03X,1389.336560,187.932922
+condition,Other GI,SF03X,139.809797,14.922120
+condition,Other GI,MR03X,455.784809,84.054986
+condition,Other GI,MD03X,300.970694,136.867369
+condition,Other GI,PR03X,421.431311,66.170260
+condition,Other GI,OZ03X,71.339949,20.169432
+condition,Other bone and musculoskeletal disease,XP03X,916.768653,95.305838
+condition,Other bone and musculoskeletal disease,SF03X,220.392700,16.297211
+condition,Other bone and musculoskeletal disease,MR03X,209.278299,51.002752
+condition,Other bone and musculoskeletal disease,MD03X,72.672378,18.136524
+condition,Other bone and musculoskeletal disease,PR03X,346.779079,63.136060
+condition,Other bone and musculoskeletal disease,OZ03X,67.646197,18.280077
+condition,Other care and screening,XP03X,620.499338,29.029235
+condition,Other care and screening,SF03X,200.407177,8.890999
+condition,Other care and screening,MR03X,113.524356,19.843391
+condition,Other care and screening,MD03X,53.501382,6.822381
+condition,Other care and screening,PR03X,184.543493,11.590599
+condition,Other care and screening,OZ03X,68.522930,12.869096
+condition,"Other circulatory conditions arteries, veins, and lymphatics",XP03X,3527.234546,684.227085
+condition,"Other circulatory conditions arteries, veins, and lymphatics",SF03X,288.504537,54.176454
+condition,"Other circulatory conditions arteries, veins, and lymphatics",MR03X,1187.317754,182.311630
+condition,"Other circulatory conditions arteries, veins, and lymphatics",MD03X,145.831778,41.657007
+condition,"Other circulatory conditions arteries, veins, and lymphatics",PR03X,1721.645280,598.582435
+condition,"Other circulatory conditions arteries, veins, and lymphatics",OZ03X,183.935197,54.318212
+condition,"Other endocrine, nutritional & immune disorder",XP03X,974.800011,77.841669
+condition,"Other endocrine, nutritional & immune disorder",SF03X,134.888894,11.134568
+condition,"Other endocrine, nutritional & immune disorder",MR03X,284.730981,40.068488
+condition,"Other endocrine, nutritional & immune disorder",MD03X,178.781272,42.717873
+condition,"Other endocrine, nutritional & immune disorder",PR03X,312.696019,46.409596
+condition,"Other endocrine, nutritional & immune disorder",OZ03X,63.702846,16.789013
+condition,Other eye disorders,XP03X,496.293384,48.156332
+condition,Other eye disorders,SF03X,96.484388,7.925869
+condition,Other eye disorders,MR03X,103.764822,23.579660
+condition,Other eye disorders,MD03X,50.770796,14.218961
+condition,Other eye disorders,PR03X,208.490758,38.431093
+condition,Other eye disorders,OZ03X,36.782620,8.191939
+condition,Other stomach and intestinal disorders,XP03X,3450.198899,507.039911
+condition,Other stomach and intestinal disorders,SF03X,285.050236,49.125347
+condition,Other stomach and intestinal disorders,MR03X,1129.625057,361.456373
+condition,Other stomach and intestinal disorders,MD03X,257.937257,119.128378
+condition,Other stomach and intestinal disorders,PR03X,1666.756756,313.758752
+condition,Other stomach and intestinal disorders,OZ03X,110.829592,57.611155
+condition,Other urinary,XP03X,2090.978165,1067.139271
+condition,Other urinary,SF03X,338.775059,134.758266
+condition,Other urinary,MR03X,188.544788,33.034954
+condition,Other urinary,MD03X,137.473918,52.751159
+condition,Other urinary,PR03X,1357.554869,1052.884596
+condition,Other urinary,OZ03X,68.629531,24.800054
+condition,Otitis media,XP03X,275.012554,22.502002
+condition,Otitis media,SF03X,65.876108,5.968823
+condition,Otitis media,MR03X,7.310712,2.195880
+condition,Otitis media,MD03X,44.139848,5.874809
+condition,Otitis media,PR03X,145.372537,18.402596
+condition,Otitis media,OZ03X,12.313348,5.257919
+condition,Paralysis,XP03X,22286,14201
+condition,Paralysis,SF03X,527.976700,213.546797
+condition,Paralysis,MR03X,923.766713,459.576902
+condition,Paralysis,MD03X,5559.690235,1901.166043
+condition,Paralysis,PR03X,15085,14342
+condition,Paralysis,OZ03X,189.235390,93.669951
+condition,Perinatal Conditions,XP03X,14655,4106.353674
+condition,Perinatal Conditions,SF03X,110.460709,51.277393
+condition,Perinatal Conditions,MR03X,0,0
+condition,Perinatal Conditions,MD03X,1878.120440,1095.880363
+condition,Perinatal Conditions,PR03X,12602,3888.193726
+condition,Perinatal Conditions,OZ03X,64.271598,57.848524
+condition,Pneumonia,XP03X,2087.078074,256.646738
+condition,Pneumonia,SF03X,99.373996,11.755864
+condition,Pneumonia,MR03X,910.398945,159.753472
+condition,Pneumonia,MD03X,245.472914,62.766572
+condition,Pneumonia,PR03X,789.037866,174.868753
+condition,Pneumonia,OZ03X,42.794354,11.395285
+condition,Poisoning by medical and non-medical substances,XP03X,786.904055,249.215464
+condition,Poisoning by medical and non-medical substances,SF03X,119.679884,55.927361
+condition,Poisoning by medical and non-medical substances,MR03X,302.666273,212.172981
+condition,Poisoning by medical and non-medical substances,MD03X,44.338975,12.974226
+condition,Poisoning by medical and non-medical substances,PR03X,254.646781,59.310942
+condition,Poisoning by medical and non-medical substances,OZ03X,65.572141,22.797461
+condition,Residual Codes,XP03X,813.120912,78.050075
+condition,Residual Codes,SF03X,152.433596,10.042617
+condition,Residual Codes,MR03X,243.360447,59.323003
+condition,Residual Codes,MD03X,114.807535,21.833888
+condition,Residual Codes,PR03X,243.171623,36.589193
+condition,Residual Codes,OZ03X,59.347711,18.114581
+condition,Skin disorders,XP03X,653.956034,64.069189
+condition,Skin disorders,SF03X,131.685045,25.363577
+condition,Skin disorders,MR03X,173.867738,42.375842
+condition,Skin disorders,MD03X,70.959214,24.786929
+condition,Skin disorders,PR03X,242.257791,24.135277
+condition,Skin disorders,OZ03X,35.186247,8.129862
+condition,Symptoms,XP03X,2318.253778,1406.005044
+condition,Symptoms,SF03X,102.305913,17.929441
+condition,Symptoms,MR03X,275.139103,99.541216
+condition,Symptoms,MD03X,147.447476,38.990752
+condition,Symptoms,PR03X,1739.300482,1401.594214
+condition,Symptoms,OZ03X,54.060804,17.943899
+condition,Systemic lupus and connective tissues disorders,XP03X,958.408071,62.828543
+condition,Systemic lupus and connective tissues disorders,SF03X,162.033464,14.173720
+condition,Systemic lupus and connective tissues disorders,MR03X,233.962097,43.143320
+condition,Systemic lupus and connective tissues disorders,MD03X,107.204352,25.882934
+condition,Systemic lupus and connective tissues disorders,PR03X,361.053382,32.166176
+condition,Systemic lupus and connective tissues disorders,OZ03X,94.154776,12.404352
+condition,Thyroid disease,XP03X,394.277665,27.598634
+condition,Thyroid disease,SF03X,143.560514,6.806054
+condition,Thyroid disease,MR03X,73.465056,14.109001
+condition,Thyroid disease,MD03X,30.631434,5.488803
+condition,Thyroid disease,PR03X,127.955049,17.969415
+condition,Thyroid disease,OZ03X,18.665612,4.692259
+condition,Tonsillitis,XP03X,923.515670,155.480028
+condition,Tonsillitis,SF03X,117.160512,25.392469
+condition,Tonsillitis,MR03X,1.722433,1.722706
+condition,Tonsillitis,MD03X,111.036418,37.901577
+condition,Tonsillitis,PR03X,688.056621,140.754137
+condition,Tonsillitis,OZ03X,5.539686,3.621075
+condition,Trauma-related disorders,XP03X,1988.882948,201.904061
+condition,Trauma-related disorders,SF03X,148.640213,8.670992
+condition,Trauma-related disorders,MR03X,475.442909,69.178724
+condition,Trauma-related disorders,MD03X,175.166575,49.954505
+condition,Trauma-related disorders,PR03X,953.929843,176.686837
+condition,Trauma-related disorders,OZ03X,235.703407,24.449977
+condition,Urinary tract infections,XP03X,767.678468,116.053491
+condition,Urinary tract infections,SF03X,106.511942,16.552567
+condition,Urinary tract infections,MR03X,305.607411,96.905943
+condition,Urinary tract infections,MD03X,79.108525,25.533055
+condition,Urinary tract infections,PR03X,229.736427,42.322371
+condition,Urinary tract infections,OZ03X,46.714163,16.430500

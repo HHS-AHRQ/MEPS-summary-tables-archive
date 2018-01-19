@@ -1,0 +1,2465 @@
+"rowGrp","colGrp","rowLevels","colLevels","meanEVT","meanEVT_se"
+"ind","ind","Total","Total",151.557535892497,3.63145486517634
+"ind","event","Total","DVT",176.417231853001,4.62847785707534
+"ind","event","Total","ERT",399.603001217603,16.669926967861
+"ind","event","Total","HHT",1033.9374753067,121.829231249479
+"ind","event","Total","IPT",7792.13758543244,324.653659473234
+"ind","event","Total","OBV",93.1662608187274,1.67394540468092
+"ind","event","Total","OPT",450.646910404767,21.0343479963811
+"ind","event","Total","RX",45.5785455124579,0.603269112745839
+"ind","sop","Total","XP",151.557535892497,3.63145486517634
+"ind","sop","Total","SF",27.7896990172301,0.541355038201731
+"ind","sop","Total","PR",61.5739990803549,2.52564472747836
+"ind","sop","Total","MR",34.5620102881014,2.03911780454369
+"ind","sop","Total","MD",13.4079458833674,1.34118781215909
+"ind","sop","Total","OZ",14.2238816234437,1.24786288752364
+"ind","agegrps","Total","Under 5",135.430598362266,18.255653675098
+"ind","agegrps","Total","5-17",120.587841177454,6.57030861252736
+"ind","agegrps","Total","18-44",154.141733519995,7.43976867796506
+"ind","agegrps","Total","45-64",133.989172967108,5.6415093029092
+"ind","agegrps","Total","65+",179.671696748613,7.57598449615582
+"ind","region","Total","Northeast",156.290663230849,8.19792008811232
+"ind","region","Total","Midwest",146.843684584247,5.91539945925416
+"ind","region","Total","South",142.490939405301,4.94737832597575
+"ind","region","Total","West",169.559769468697,11.3246307623396
+"ind","married","Total","Married",151.462965465602,4.66972152799595
+"ind","married","Total","Widowed",170.061645000841,10.4054101450495
+"ind","married","Total","Divorced",140.948751446295,7.66199739709462
+"ind","married","Total","Separated",176.668860874881,47.9879792513484
+"ind","married","Total","Never married",161.46976390605,13.749168653243
+"ind","married","Total","Inapplicable (age < 16)",125.905352310245,7.824135805255
+"ind","race","Total","Hispanic",153.561486635205,7.83555427863854
+"ind","race","Total","Black",164.964677762376,11.8912075052826
+"ind","race","Total","White and other",149.97637443765,3.96097968233269
+"ind","sex","Total","Male",159.559057566646,5.66257327237616
+"ind","sex","Total","Female",146.312993555774,4.54574354676591
+"ind","education","Total","Less than high school",167.602765480205,8.84997841082046
+"ind","education","Total","High school",154.369736625695,6.25649195221831
+"ind","education","Total","Some college",147.859965110894,5.71010783912328
+"ind","education","Total","Inapplicable (age < 18)",124.643700372776,6.90141679025992
+"ind","education","Total","Missing",244.081372775611,54.6547189984976
+"ind","employed","Total","Employed",134.646401995302,4.80313923491468
+"ind","employed","Total","Not employed",172.789873809646,6.30005137009671
+"ind","employed","Total","Inapplicable (age < 16)",125.896784738677,7.82134874953224
+"ind","insurance","Total","Any private, all ages",147.039781670605,3.88671589610362
+"ind","insurance","Total","Public only, all ages",169.74514695676,8.93039129467748
+"ind","insurance","Total","Uninsured, all ages",127.344620134655,19.0508625731175
+"ind","poverty","Total","Negative or poor",167.338431014736,12.6963222376992
+"ind","poverty","Total","Near-poor",161.604146892431,16.9259731936287
+"ind","poverty","Total","Low income",164.86501238059,9.72160619903689
+"ind","poverty","Total","Middle income",155.074500800686,6.92384942094362
+"ind","poverty","Total","High income",138.298449300314,4.86641463053316
+"ind","health","Total","Excellent",132.928714324427,3.92137120400908
+"ind","health","Total","Very good",130.23075517327,6.56963025369581
+"ind","health","Total","Good",135.706001963993,5.4375880501009
+"ind","health","Total","Fair",170.709483851383,8.91136068171644
+"ind","health","Total","Poor",235.268030203917,17.3135952654641
+"ind","mnhlth","Total","Excellent",138.089074681457,4.79701078116281
+"ind","mnhlth","Total","Very good",139.846466739829,6.64301406225416
+"ind","mnhlth","Total","Good",154.097594172933,6.36279020525215
+"ind","mnhlth","Total","Fair",167.134004447217,12.1200665664498
+"ind","mnhlth","Total","Poor",229.773459758276,24.0665315606346
+"ind","agegrps_v2X","Total","Under 18",124.643700372776,6.90141679025992
+"ind","agegrps_v2X","Total","18-64",143.161786348057,4.79038486420761
+"ind","agegrps_v2X","Total","65+",179.671696748613,7.57598449615582
+"ind","insurance_v2X","Total","<65, Any private",138.027630787865,4.21991402305564
+"ind","insurance_v2X","Total","<65, Public only",153.948482379303,12.5109990964567
+"ind","insurance_v2X","Total","<65, Uninsured",127.214715536411,19.1061779121651
+"ind","insurance_v2X","Total","65+, Medicare only",168.606224965008,13.7375008581256
+"ind","insurance_v2X","Total","65+, Medicare and private",176.978817557947,9.06211518239785
+"ind","insurance_v2X","Total","65+, Medicare and other public",220.492554190318,25.0822044634394
+"ind","insurance_v2X","Total","65+, No medicare",164.17292095864,45.97957098876
+"ind","event_v2X","Total","Missing",139.458086789286,27.4810639334785
+"ind","event_v2X","Total","OBD",101.873464185988,1.85688241191254
+"ind","event_v2X","Total","OBO",71.9010316656943,2.61158449056481
+"ind","event_v2X","Total","OPY",827.020320330827,64.6492567037149
+"ind","event_v2X","Total","OPZ",231.533323816532,12.7053819107522
+"event","sop","DVT","XP",176.417231853001,4.62847785707534
+"event","sop","ERT","XP",399.603001217603,16.669926967861
+"event","sop","HHT","XP",1033.9374753067,121.829231249479
+"event","sop","IPT","XP",7792.13758543244,324.653659473234
+"event","sop","OBV","XP",93.1662608187274,1.67394540468092
+"event","sop","OPT","XP",450.646910404767,21.0343479963811
+"event","sop","RX","XP",45.5785455124579,0.603269112745839
+"event","sop","DVT","SF",88.519946585593,3.17605181284238
+"event","sop","ERT","SF",54.6092685957132,4.94177636402187
+"event","sop","HHT","SF",78.3786504993399,17.5046157656177
+"event","sop","IPT","SF",216.534896831728,31.6870581503214
+"event","sop","OBV","SF",18.4952772028478,0.553157141620908
+"event","sop","OPT","SF",24.0581790874833,2.26408188545163
+"event","sop","RX","SF",21.0502527598408,0.460903525515814
+"event","sop","DVT","PR",75.8546710238289,2.93332154855653
+"event","sop","ERT","PR",218.823455907827,15.4426868944566
+"event","sop","HHT","PR",83.6813083096536,25.0828767693269
+"event","sop","IPT","PR",2912.42048243154,274.036357040674
+"event","sop","OBV","PR",44.9452756164562,1.28558299074091
+"event","sop","OPT","PR",264.619127450555,18.6166667267245
+"event","sop","RX","PR",16.138724095882,0.42606919295358
+"event","sop","DVT","MR",0.71519339374813,0.136892367064136
+"event","sop","ERT","MR",55.3004755069841,5.01760043252224
+"event","sop","HHT","MR",254.963562344443,40.9206558866024
+"event","sop","IPT","MR",3208.56482876141,224.459703086417
+"event","sop","OBV","MR",15.3041199586826,0.881075113998999
+"event","sop","OPT","MR",82.1656422645373,7.48584755683516
+"event","sop","RX","MR",2.12838538769549,0.169002481512597
+"event","sop","DVT","MD",5.42473111363994,0.701638066879189
+"event","sop","ERT","MD",30.3133144650507,3.04432051132062
+"event","sop","HHT","MD",339.956873989597,99.9435013050595
+"event","sop","IPT","MD",674.627072499844,94.0559994746344
+"event","sop","OBV","MD",5.18089954852597,0.350293245266383
+"event","sop","OPT","MD",27.3649828752296,5.73704568526741
+"event","sop","RX","MD",4.69339536331086,0.369561960793997
+"event","sop","DVT","OZ",5.90268973619055,0.567933197988808
+"event","sop","ERT","OZ",40.5564867420283,3.42611536608774
+"event","sop","HHT","OZ",276.957080163671,77.9377182186375
+"event","sop","IPT","OZ",779.990304907914,133.783695170204
+"event","sop","OBV","OZ",9.24068849221483,0.57480321436631
+"event","sop","OPT","OZ",52.4389787269625,7.68185866763563
+"event","sop","RX","OZ",1.56778790572875,0.126212865747047
+"event","agegrps","DVT","Under 5",103.064950640112,14.9581897605319
+"event","agegrps","DVT","5-17",168.819602974318,10.4493834527831
+"event","agegrps","DVT","18-44",170.790222590458,5.38840965976273
+"event","agegrps","DVT","45-64",197.777329395451,6.77373046551628
+"event","agegrps","DVT","65+",172.432206629944,10.3922931890039
+"event","agegrps","ERT","Under 5",284.150178022134,24.9758717899862
+"event","agegrps","ERT","5-17",475.522486680455,66.5035792152717
+"event","agegrps","ERT","18-44",369.366521481992,28.7603986920162
+"event","agegrps","ERT","45-64",387.984303530257,22.5038774597087
+"event","agegrps","ERT","65+",476.672970025899,35.6525611723944
+"event","agegrps","HHT","Under 5",1149.61953417911,634.983256710659
+"event","agegrps","HHT","5-17",835.484612959624,225.073404497435
+"event","agegrps","HHT","18-44",2018.11322900303,599.117723861536
+"event","agegrps","HHT","45-64",889.063665009027,343.252620252452
+"event","agegrps","HHT","65+",911.952757069924,130.984237176676
+"event","agegrps","IPT","Under 5",6240.41393432628,1261.71455794521
+"event","agegrps","IPT","5-17",5534.84884462259,1091.5340271749
+"event","agegrps","IPT","18-44",5870.46365563849,630.960707806438
+"event","agegrps","IPT","45-64",8981.27457674935,728.544832088914
+"event","agegrps","IPT","65+",9159.88998236664,452.485098692634
+"event","agegrps","OBV","Under 5",64.4796431742694,2.45298191655928
+"event","agegrps","OBV","5-17",67.4099530347794,3.42623683319562
+"event","agegrps","OBV","18-44",93.1304185428346,2.31188209163311
+"event","agegrps","OBV","45-64",102.034857664576,3.28598061777665
+"event","agegrps","OBV","65+",103.412157408263,3.46111300020253
+"event","agegrps","OPT","Under 5",490.864560249584,75.553603365896
+"event","agegrps","OPT","5-17",549.792510905608,94.1937453690936
+"event","agegrps","OPT","18-44",553.296079811661,42.5046245289829
+"event","agegrps","OPT","45-64",410.18190157181,34.6772426534224
+"event","agegrps","OPT","65+",395.872747206375,31.8967564630517
+"event","agegrps","RX","Under 5",22.7056995953885,1.00759668023359
+"event","agegrps","RX","5-17",42.3135984101059,4.98030343328105
+"event","agegrps","RX","18-44",47.318981529871,1.27796624326104
+"event","agegrps","RX","45-64",46.2844560402612,1.06872347686281
+"event","agegrps","RX","65+",45.6270113508012,0.726330904438195
+"event","region","DVT","Northeast",188.814552507382,9.78382880686019
+"event","region","DVT","Midwest",156.891771598968,7.03137530902387
+"event","region","DVT","South",161.352983878318,5.93673384775418
+"event","region","DVT","West",206.231824956938,12.992230388469
+"event","region","ERT","Northeast",334.092344333941,27.2546081298068
+"event","region","ERT","Midwest",422.160014510704,22.4719472205326
+"event","region","ERT","South",375.526475782933,27.1723780818044
+"event","region","ERT","West",491.424513035231,57.010460290659
+"event","region","HHT","Northeast",1195.86333376126,303.876548969627
+"event","region","HHT","Midwest",993.945710283683,270.353902409466
+"event","region","HHT","South",616.490851496455,85.308025751962
+"event","region","HHT","West",1509.89639361515,271.995434326778
+"event","region","IPT","Northeast",8496.73079109861,790.654854073457
+"event","region","IPT","Midwest",7122.35119592683,454.385106306192
+"event","region","IPT","South",7259.98301575381,380.600011832686
+"event","region","IPT","West",9109.94045898354,1230.05539923147
+"event","region","OBV","Northeast",90.905487624022,3.87912052671494
+"event","region","OBV","Midwest",96.2816182447827,3.07204302575099
+"event","region","OBV","South",89.4197974372918,2.64199502524108
+"event","region","OBV","West",97.9785057921314,3.91538407119354
+"event","region","OPT","Northeast",346.95564754518,29.5490743344668
+"event","region","OPT","Midwest",415.42988283439,35.0329935670246
+"event","region","OPT","South",542.747388207614,45.1413176637064
+"event","region","OPT","West",540.201543662739,59.0798475946688
+"event","region","RX","Northeast",47.3863918171746,1.29991206387495
+"event","region","RX","Midwest",44.8483416556913,1.07055716107742
+"event","region","RX","South",44.6573410834759,0.756699606528229
+"event","region","RX","West",46.7088004855733,2.19560171985767
+"event","married","DVT","Married",180.479139195059,4.84654654557986
+"event","married","DVT","Widowed",180.857279008105,23.3311850885062
+"event","married","DVT","Divorced",182.949175467629,10.9083803535493
+"event","married","DVT","Separated",226.267860973672,28.6058684893312
+"event","married","DVT","Never married",172.876111813343,8.86120094048934
+"event","married","DVT","Inapplicable (age < 16)",166.44175632442,11.2714239110581
+"event","married","ERT","Married",402.749751898707,18.1997200371172
+"event","married","ERT","Widowed",437.702214507571,49.6770437606602
+"event","married","ERT","Divorced",349.32006853696,38.6813237361096
+"event","married","ERT","Separated",225.378659472548,57.0244761951029
+"event","married","ERT","Never married",421.308925414665,46.5460695555636
+"event","married","ERT","Inapplicable (age < 16)",402.042135782854,48.7631096879224
+"event","married","HHT","Married",723.161132193945,101.858235093081
+"event","married","HHT","Widowed",914.840716475207,195.3101133763
+"event","married","HHT","Divorced",900.110058524909,232.27224981026
+"event","married","HHT","Separated",916.621472928026,521.699036778415
+"event","married","HHT","Never married",2406.27689593404,622.16657522794
+"event","married","HHT","Inapplicable (age < 16)",973.213421192696,316.425914971923
+"event","married","IPT","Married",7821.10006988041,422.105094150671
+"event","married","IPT","Widowed",8979.21969043213,617.302808868212
+"event","married","IPT","Divorced",7824.61176436511,641.059944773381
+"event","married","IPT","Separated",9191.8472560996,5596.13597317926
+"event","married","IPT","Never married",7109.9490227481,1376.70999642915
+"event","married","IPT","Inapplicable (age < 16)",6026.79881562954,940.423053741387
+"event","married","OBV","Married",105.410525205653,2.49205938113424
+"event","married","OBV","Widowed",87.8275772996221,3.57268316951122
+"event","married","OBV","Divorced",89.0370219433342,5.10685481681893
+"event","married","OBV","Separated",112.920679525578,14.6218383811649
+"event","married","OBV","Never married",86.2408697187323,2.71882711140434
+"event","married","OBV","Inapplicable (age < 16)",66.4524630724478,2.6650159506746
+"event","married","OPT","Married",489.811008366909,24.2225619818217
+"event","married","OPT","Widowed",428.177189173077,50.3581448089518
+"event","married","OPT","Divorced",332.455401994211,35.0026834052456
+"event","married","OPT","Separated",551.188655747591,144.107340778475
+"event","married","OPT","Never married",372.493653777777,58.9165868941238
+"event","married","OPT","Inapplicable (age < 16)",563.249597565439,85.8792373885855
+"event","married","RX","Married",47.0377508045237,0.873807869935373
+"event","married","RX","Widowed",42.9483429952358,0.944660460957009
+"event","married","RX","Divorced",45.5976411446993,1.29927044251841
+"event","married","RX","Separated",46.1480079881205,2.9728554067163
+"event","married","RX","Never married",48.6902762773929,1.71950253567934
+"event","married","RX","Inapplicable (age < 16)",34.7248099909078,4.10216636646054
+"event","race","DVT","Hispanic",173.120070855881,9.07982230961727
+"event","race","DVT","Black",157.267201695726,11.6288540969317
+"event","race","DVT","White and other",178.199943718754,4.94566233475575
+"event","race","ERT","Hispanic",443.042691559851,86.3293296281302
+"event","race","ERT","Black",309.351271664761,23.1775291592045
+"event","race","ERT","White and other",411.010739104763,17.988279283041
+"event","race","HHT","Hispanic",814.429637101355,136.166792280925
+"event","race","HHT","Black",926.069593731553,236.907285401173
+"event","race","HHT","White and other",1076.13605919534,147.127047651214
+"event","race","IPT","Hispanic",6282.69613383099,554.265151759565
+"event","race","IPT","Black",7543.7807529985,829.163263786288
+"event","race","IPT","White and other",8019.89690475891,401.698708439494
+"event","race","OBV","Hispanic",87.4291018970786,3.82848320287484
+"event","race","OBV","Black",93.3585284534087,4.61081284213556
+"event","race","OBV","White and other",93.6697710500881,1.92036743723957
+"event","race","OPT","Hispanic",375.322952911649,48.8445279624353
+"event","race","OPT","Black",403.70638043493,60.8884464599382
+"event","race","OPT","White and other",463.491683021519,24.0012142413047
+"event","race","RX","Hispanic",42.5407421912617,1.0366809032402
+"event","race","RX","Black",43.2847325841591,1.6218898751648
+"event","race","RX","White and other",46.088630950768,0.701731577302175
+"event","sex","DVT","Male",178.655259667305,5.74100144915848
+"event","sex","DVT","Female",174.697941742079,6.04361682180465
+"event","sex","ERT","Male",432.838894949463,25.1540141657716
+"event","sex","ERT","Female",371.774170215554,22.3573485553955
+"event","sex","HHT","Male",853.724011962522,132.354235921542
+"event","sex","HHT","Female",1113.47502465205,173.404699206325
+"event","sex","IPT","Male",8498.7320188029,501.148206501751
+"event","sex","IPT","Female",7337.23762197236,427.552657463959
+"event","sex","OBV","Male",94.1537396847308,2.9293699283391
+"event","sex","OBV","Female",92.497275411793,1.87814761065386
+"event","sex","OPT","Male",432.15118896124,30.8818414328135
+"event","sex","OPT","Female",468.088767729476,23.047440259537
+"event","sex","RX","Male",48.3765848310782,1.38488165249118
+"event","sex","RX","Female",43.8587523511083,0.558691300970086
+"event","education","DVT","Less than high school",180.067966989332,15.1410782355018
+"event","education","DVT","High school",185.173557158319,6.86026901747002
+"event","education","DVT","Some college",178.506663527574,4.88439395832211
+"event","education","DVT","Inapplicable (age < 18)",165.572522328912,10.253532004035
+"event","education","DVT","Missing",162.962407334485,49.529698619061
+"event","education","ERT","Less than high school",351.844520139216,42.4950844716684
+"event","education","ERT","High school",408.964437019686,24.2935399565968
+"event","education","ERT","Some college",424.121595526725,24.746647916844
+"event","education","ERT","Inapplicable (age < 18)",402.730751684481,42.4859694691585
+"event","education","ERT","Missing",704.611669570246,185.344973201145
+"event","education","HHT","Less than high school",901.386339810615,135.697721158871
+"event","education","HHT","High school",1268.91450219544,252.892178353545
+"event","education","HHT","Some college",968.428972844308,258.624794294219
+"event","education","HHT","Inapplicable (age < 18)",973.213421192696,316.425914971923
+"event","education","HHT","Missing",813.626554263145,136.991133588797
+"event","education","IPT","Less than high school",7575.17558769551,510.212786637893
+"event","education","IPT","High school",7945.42187045207,518.240467591052
+"event","education","IPT","Some college",8195.39409158912,754.213326670042
+"event","education","IPT","Inapplicable (age < 18)",5905.88522932786,858.718437050655
+"event","education","IPT","Missing",12807.2683225373,2406.09598224199
+"event","education","OBV","Less than high school",98.0387314260197,4.25438046408294
+"event","education","OBV","High school",95.9092688395848,2.71858981592338
+"event","education","OBV","Some college",101.789155916777,2.61939983733364
+"event","education","OBV","Inapplicable (age < 18)",66.417539547965,2.40681128975361
+"event","education","OBV","Missing",74.5792545494256,7.77118970490223
+"event","education","OPT","Less than high school",439.452934485339,42.0231888593557
+"event","education","OPT","High school",407.706637077699,29.4106597272768
+"event","education","OPT","Some college",486.700931108829,37.2919989464804
+"event","education","OPT","Inapplicable (age < 18)",536.324715370236,75.0502997540989
+"event","education","OPT","Missing",170.289040715303,76.4836865280474
+"event","education","RX","Less than high school",43.0872607863317,0.746834681089718
+"event","education","RX","High school",45.5967449478859,1.27272060612376
+"event","education","RX","Some college",49.005232943273,0.832593960933436
+"event","education","RX","Inapplicable (age < 18)",36.6744080012193,3.61389285897065
+"event","education","RX","Missing",49.0128726465419,8.27115903186627
+"event","employed","DVT","Employed",186.054531540238,4.96351460501593
+"event","employed","DVT","Not employed",166.861821627772,6.80457876995916
+"event","employed","DVT","Inapplicable (age < 16)",166.27888478552,11.2501789210605
+"event","employed","ERT","Employed",407.960065273339,25.7772302223448
+"event","employed","ERT","Not employed",388.728131886274,20.1041639698957
+"event","employed","ERT","Inapplicable (age < 16)",402.037033263866,48.6409806325642
+"event","employed","HHT","Employed",1229.8785379899,575.263603002497
+"event","employed","HHT","Not employed",1024.06314867308,132.339324042116
+"event","employed","HHT","Inapplicable (age < 16)",973.213421192696,316.425914971923
+"event","employed","IPT","Employed",6749.52340566313,637.420914425809
+"event","employed","IPT","Not employed",8594.75332713933,404.788181496552
+"event","employed","IPT","Inapplicable (age < 16)",5967.29067368784,938.331460803518
+"event","employed","OBV","Employed",99.3532405114695,2.63223660500479
+"event","employed","OBV","Not employed",96.9279393060846,2.19004290482317
+"event","employed","OBV","Inapplicable (age < 16)",66.4524630724478,2.6650159506746
+"event","employed","OPT","Employed",513.363673783928,38.4483499541369
+"event","employed","OPT","Not employed",384.631854455726,23.7440354383745
+"event","employed","OPT","Inapplicable (age < 16)",563.249597565439,85.8792373885855
+"event","employed","RX","Employed",45.5150688567141,0.668344113381679
+"event","employed","RX","Not employed",46.9070048884211,0.919872462170149
+"event","employed","RX","Inapplicable (age < 16)",34.7248099909078,4.10216636646054
+"event","insurance","DVT","Any private, all ages",180.346225044735,4.69667356952128
+"event","insurance","DVT","Public only, all ages",146.971347818396,13.5236130814597
+"event","insurance","DVT","Uninsured, all ages",159.960768508315,12.8937533835922
+"event","insurance","ERT","Any private, all ages",464.394537691054,23.6429544321668
+"event","insurance","ERT","Public only, all ages",278.720958246783,15.6640014929856
+"event","insurance","ERT","Uninsured, all ages",278.742173462812,37.1927093985774
+"event","insurance","HHT","Any private, all ages",800.597730787298,108.17773576546
+"event","insurance","HHT","Public only, all ages",1210.1803973054,187.019113933038
+"event","insurance","HHT","Uninsured, all ages",321.177100440024,110.924781854473
+"event","insurance","IPT","Any private, all ages",8115.57922118002,457.534149161761
+"event","insurance","IPT","Public only, all ages",7467.07123329035,429.367513866017
+"event","insurance","IPT","Uninsured, all ages",6058.03052765538,1954.50260750962
+"event","insurance","OBV","Any private, all ages",98.7369947003185,2.0730344417104
+"event","insurance","OBV","Public only, all ages",75.9345673914529,2.83085317414029
+"event","insurance","OBV","Uninsured, all ages",73.1001577794476,3.59414207441584
+"event","insurance","OPT","Any private, all ages",503.443564898371,24.896672563932
+"event","insurance","OPT","Public only, all ages",315.75676373438,24.918433381786
+"event","insurance","OPT","Uninsured, all ages",482.289681955075,86.9792401935148
+"event","insurance","RX","Any private, all ages",46.3328390282036,0.729142203109925
+"event","insurance","RX","Public only, all ages",44.7081366431668,1.18506904953627
+"event","insurance","RX","Uninsured, all ages",38.2808092874325,1.44594775467486
+"event","poverty","DVT","Negative or poor",151.116591345807,10.2595343583431
+"event","poverty","DVT","Near-poor",132.075062279743,16.5876896754623
+"event","poverty","DVT","Low income",147.927575404233,10.4310906596582
+"event","poverty","DVT","Middle income",174.379290753126,6.27940479729254
+"event","poverty","DVT","High income",187.193912235792,6.73108913537005
+"event","poverty","ERT","Negative or poor",341.867109805396,52.0761918480232
+"event","poverty","ERT","Near-poor",265.430685377833,31.564035333659
+"event","poverty","ERT","Low income",341.898511693213,24.0007072456317
+"event","poverty","ERT","Middle income",400.583326892042,22.7468633048292
+"event","poverty","ERT","High income",488.164200120902,36.230460362286
+"event","poverty","HHT","Negative or poor",1100.2689850006,164.238296892191
+"event","poverty","HHT","Near-poor",1341.67375997589,457.603414778016
+"event","poverty","HHT","Low income",1097.75988202288,233.793388682737
+"event","poverty","HHT","Middle income",881.344984899876,288.259865979991
+"event","poverty","HHT","High income",871.466306827651,209.453212820713
+"event","poverty","IPT","Negative or poor",7223.84395834405,783.826271254616
+"event","poverty","IPT","Near-poor",8045.2834712076,1099.82015290479
+"event","poverty","IPT","Low income",7761.53705890955,667.322363705073
+"event","poverty","IPT","Middle income",7783.91742018984,679.73935072394
+"event","poverty","IPT","High income",8165.66268466258,587.582104132365
+"event","poverty","OBV","Negative or poor",75.012927061019,2.90805007901825
+"event","poverty","OBV","Near-poor",90.258202004452,9.25158072767462
+"event","poverty","OBV","Low income",92.406511793414,5.19032620794985
+"event","poverty","OBV","Middle income",96.7167484536416,2.74258509243801
+"event","poverty","OBV","High income",95.9516466911249,2.93947276853094
+"event","poverty","OPT","Negative or poor",343.308559693098,37.6780513110997
+"event","poverty","OPT","Near-poor",522.692554890626,108.361117270506
+"event","poverty","OPT","Low income",454.335755203794,45.8483070845263
+"event","poverty","OPT","Middle income",464.062392418319,39.0018581824175
+"event","poverty","OPT","High income",466.626218816667,36.0666767928171
+"event","poverty","RX","Negative or poor",46.4129752504206,1.9735891333957
+"event","poverty","RX","Near-poor",41.3458634427696,1.25253954899565
+"event","poverty","RX","Low income",42.6741676547013,1.05946913473964
+"event","poverty","RX","Middle income",45.3915985635838,1.21728586268743
+"event","poverty","RX","High income",47.118885642923,0.802415022751661
+"event","health","DVT","Excellent",179.145223266938,9.05151866696162
+"event","health","DVT","Very good",179.681694888922,6.86819530844003
+"event","health","DVT","Good",168.124144334691,6.13277695969715
+"event","health","DVT","Fair",173.837191896625,12.4865073541977
+"event","health","DVT","Poor",172.585344181108,15.7556384574855
+"event","health","ERT","Excellent",388.807103707342,44.1045538075214
+"event","health","ERT","Very good",449.522909032153,39.1778537571773
+"event","health","ERT","Good",419.098970108018,24.0751183328423
+"event","health","ERT","Fair",319.27719637504,23.9929524738563
+"event","health","ERT","Poor",338.493603854829,38.9751481364215
+"event","health","HHT","Excellent",294.400207285265,97.3125662917818
+"event","health","HHT","Very good",1093.74153328663,325.839092177504
+"event","health","HHT","Good",905.84671548259,238.111638616529
+"event","health","HHT","Fair",1079.66792809504,224.87354270377
+"event","health","HHT","Poor",1139.34485941564,237.988659584641
+"event","health","IPT","Excellent",5757.59921983941,522.744502606975
+"event","health","IPT","Very good",7310.51980837447,1070.35199375021
+"event","health","IPT","Good",6797.13731191135,487.701311703581
+"event","health","IPT","Fair",8513.27325253828,603.893410616074
+"event","health","IPT","Poor",9898.47548687466,841.059541606943
+"event","health","OBV","Excellent",96.2716388260779,3.34015333396177
+"event","health","OBV","Very good",92.2641907692852,2.77816442658281
+"event","health","OBV","Good",89.7389756191269,3.12117962996967
+"event","health","OBV","Fair",92.9503783982704,3.46547250929123
+"event","health","OBV","Poor",101.854166471592,6.30729333684239
+"event","health","OPT","Excellent",548.029096643388,49.8371408867841
+"event","health","OPT","Very good",481.320025034956,40.6502878075054
+"event","health","OPT","Good",390.949180384163,33.9432636401478
+"event","health","OPT","Fair",449.450164989191,46.1468575290196
+"event","health","OPT","Poor",448.413953906698,52.6960011314796
+"event","health","RX","Excellent",41.0113324149645,0.956172277487607
+"event","health","RX","Very good",44.9429324343456,0.886712638086333
+"event","health","RX","Good",46.2576095890631,1.23371910681039
+"event","health","RX","Fair",47.8164766829201,1.63599717771094
+"event","health","RX","Poor",46.3884941807875,1.63108110740411
+"event","mnhlth","DVT","Excellent",179.245824321125,7.21439279948508
+"event","mnhlth","DVT","Very good",173.723811899493,6.70663103057017
+"event","mnhlth","DVT","Good",176.209634292067,7.67695426104331
+"event","mnhlth","DVT","Fair",176.512331275311,23.9622677626434
+"event","mnhlth","DVT","Poor",135.786985103524,20.5840583409105
+"event","mnhlth","ERT","Excellent",394.723025138028,30.5380175301414
+"event","mnhlth","ERT","Very good",461.104106430929,39.753460371162
+"event","mnhlth","ERT","Good",373.284116898919,19.6040817799983
+"event","mnhlth","ERT","Fair",357.321464470711,47.8354401974132
+"event","mnhlth","ERT","Poor",251.335197927719,46.2736266948726
+"event","mnhlth","HHT","Excellent",1226.64332873188,515.264498965377
+"event","mnhlth","HHT","Very good",1050.0338732595,287.601011433576
+"event","mnhlth","HHT","Good",1165.92455069637,226.818533785182
+"event","mnhlth","HHT","Fair",684.013082832158,105.444714724564
+"event","mnhlth","HHT","Poor",1077.00599683552,215.815159598869
+"event","mnhlth","IPT","Excellent",6502.64018460718,477.743312200094
+"event","mnhlth","IPT","Very good",7991.81677563456,884.13732733807
+"event","mnhlth","IPT","Good",7685.98185398056,441.910022892802
+"event","mnhlth","IPT","Fair",8040.15042996413,1027.80265245065
+"event","mnhlth","IPT","Poor",10010.4819201578,1326.25930692278
+"event","mnhlth","OBV","Excellent",96.7186862484545,2.68509673503352
+"event","mnhlth","OBV","Very good",94.6622608371905,3.42138794111785
+"event","mnhlth","OBV","Good",91.6365773622977,2.90540994243776
+"event","mnhlth","OBV","Fair",85.567967250008,3.12837369202623
+"event","mnhlth","OBV","Poor",74.356468661924,4.27516994078026
+"event","mnhlth","OPT","Excellent",490.307283293012,38.3527447150442
+"event","mnhlth","OPT","Very good",451.109411060925,39.4912585752896
+"event","mnhlth","OPT","Good",455.363559066935,30.2714000204774
+"event","mnhlth","OPT","Fair",376.665721469499,46.0145406428792
+"event","mnhlth","OPT","Poor",348.328883647463,94.4608823756097
+"event","mnhlth","RX","Excellent",42.6435157404971,0.838123102249813
+"event","mnhlth","RX","Very good",44.8826192985497,0.713636945730613
+"event","mnhlth","RX","Good",47.6030717564727,1.42093338415255
+"event","mnhlth","RX","Fair",47.7291685154516,1.44325931753317
+"event","mnhlth","RX","Poor",46.8531846813808,2.49881497047627
+"event","agegrps_v2X","DVT","Under 18",165.572522328912,10.253532004035
+"event","agegrps_v2X","DVT","18-64",182.549053954464,4.36793838511128
+"event","agegrps_v2X","DVT","65+",172.432206629944,10.3922931890039
+"event","agegrps_v2X","ERT","Under 18",402.730751684481,42.4859694691585
+"event","agegrps_v2X","ERT","18-64",375.572770510657,20.1103456943292
+"event","agegrps_v2X","ERT","65+",476.672970025899,35.6525611723944
+"event","agegrps_v2X","HHT","Under 18",973.213421192696,316.425914971923
+"event","agegrps_v2X","HHT","18-64",1385.82193434387,303.730735376974
+"event","agegrps_v2X","HHT","65+",911.952757069924,130.984237176676
+"event","agegrps_v2X","IPT","Under 18",5905.88522932786,858.718437050655
+"event","agegrps_v2X","IPT","18-64",7152.7969774398,487.960400826414
+"event","agegrps_v2X","IPT","65+",9159.88998236664,452.485098692634
+"event","agegrps_v2X","OBV","Under 18",66.417539547965,2.40681128975361
+"event","agegrps_v2X","OBV","18-64",97.2581721946752,2.07270257684292
+"event","agegrps_v2X","OBV","65+",103.412157408263,3.46111300020253
+"event","agegrps_v2X","OPT","Under 18",536.324715370236,75.0502997540989
+"event","agegrps_v2X","OPT","18-64",471.192147480213,26.8994824659583
+"event","agegrps_v2X","OPT","65+",395.872747206375,31.8967564630517
+"event","agegrps_v2X","RX","Under 18",36.6744080012193,3.61389285897065
+"event","agegrps_v2X","RX","18-64",46.6835371407561,0.857637363930713
+"event","agegrps_v2X","RX","65+",45.6270113508012,0.726330904438195
+"event","insurance_v2X","DVT","<65, Any private",181.847633849642,5.09621805499614
+"event","insurance_v2X","DVT","<65, Public only",122.830011556166,9.1546739932937
+"event","insurance_v2X","DVT","<65, Uninsured",156.819637448167,12.7485817928729
+"event","insurance_v2X","DVT","65+, Medicare only",207.372217272242,34.2364388486943
+"event","insurance_v2X","DVT","65+, Medicare and private",166.338265911082,8.39895027738272
+"event","insurance_v2X","DVT","65+, Medicare and other public",83.0243069613003,16.9026537271737
+"event","insurance_v2X","DVT","65+, No medicare",301.578504199955,50.99228651539
+"event","insurance_v2X","ERT","<65, Any private",447.797544736812,25.4323662939601
+"event","insurance_v2X","ERT","<65, Public only",223.112242054144,16.8376846296439
+"event","insurance_v2X","ERT","<65, Uninsured",278.742173462812,37.1927093985774
+"event","insurance_v2X","ERT","65+, Medicare only",415.746847097585,40.2465436144689
+"event","insurance_v2X","ERT","65+, Medicare and private",571.826784847973,65.1751246032884
+"event","insurance_v2X","ERT","65+, Medicare and other public",302.600829855337,27.9778613473015
+"event","insurance_v2X","ERT","65+, No medicare",418.577881969273,110.12460361019
+"event","insurance_v2X","HHT","<65, Any private",877.436823188295,234.393043413588
+"event","insurance_v2X","HHT","<65, Public only",1682.989630993,405.154682384837
+"event","insurance_v2X","HHT","<65, Uninsured",321.177100440024,110.924781854473
+"event","insurance_v2X","HHT","65+, Medicare only",454.285817551845,56.5231976737356
+"event","insurance_v2X","HHT","65+, Medicare and private",756.468318255314,87.6830825106892
+"event","insurance_v2X","HHT","65+, Medicare and other public",1483.92279559982,303.950114070909
+"event","insurance_v2X","HHT","65+, No medicare",328.5,0
+"event","insurance_v2X","IPT","<65, Any private",7392.43026146271,568.177932821023
+"event","insurance_v2X","IPT","<65, Public only",6185.36522692925,594.173176292227
+"event","insurance_v2X","IPT","<65, Uninsured",6058.03052765538,1954.50260750962
+"event","insurance_v2X","IPT","65+, Medicare only",9055.31888700854,815.233445249568
+"event","insurance_v2X","IPT","65+, Medicare and private",9668.13727774322,647.641862265448
+"event","insurance_v2X","IPT","65+, Medicare and other public",7714.50532491182,786.717379893583
+"event","insurance_v2X","IPT","65+, No medicare",9281.20503697154,1729.33633512561
+"event","insurance_v2X","OBV","<65, Any private",94.9897226151381,2.0898581002355
+"event","insurance_v2X","OBV","<65, Public only",67.6547914999175,3.84381516475073
+"event","insurance_v2X","OBV","<65, Uninsured",73.1349060966221,3.58684021563115
+"event","insurance_v2X","OBV","65+, Medicare only",88.0503346693732,5.52200157336217
+"event","insurance_v2X","OBV","65+, Medicare and private",115.076040782483,4.74355719273912
+"event","insurance_v2X","OBV","65+, Medicare and other public",76.8885837005244,5.04161319108676
+"event","insurance_v2X","OBV","65+, No medicare",110.391349495118,16.3759600205021
+"event","insurance_v2X","OPT","<65, Any private",513.080528423923,30.3874263885927
+"event","insurance_v2X","OPT","<65, Public only",313.561840221974,34.5260933521663
+"event","insurance_v2X","OPT","<65, Uninsured",482.289681955075,86.9792401935148
+"event","insurance_v2X","OPT","65+, Medicare only",331.199085620904,42.1109550034447
+"event","insurance_v2X","OPT","65+, Medicare and private",473.594609967911,36.0676222558859
+"event","insurance_v2X","OPT","65+, Medicare and other public",267.178956302715,69.1608357501197
+"event","insurance_v2X","OPT","65+, No medicare",461.573027780736,180.016723735763
+"event","insurance_v2X","RX","<65, Any private",45.682196199188,0.90275483754099
+"event","insurance_v2X","RX","<65, Public only",47.3723680436178,2.31045072947331
+"event","insurance_v2X","RX","<65, Uninsured",38.3151098086286,1.44900945191107
+"event","insurance_v2X","RX","65+, Medicare only",42.7472628875594,1.28439400029362
+"event","insurance_v2X","RX","65+, Medicare and private",48.0717212374962,1.0713578990132
+"event","insurance_v2X","RX","65+, Medicare and other public",42.3299796690977,1.66562124102487
+"event","insurance_v2X","RX","65+, No medicare",40.384552751197,5.2853196119625
+"sop","agegrps","XP","Under 5",135.430598362266,18.255653675098
+"sop","agegrps","XP","5-17",120.587841177454,6.57030861252736
+"sop","agegrps","XP","18-44",154.141733519995,7.43976867796506
+"sop","agegrps","XP","45-64",133.989172967108,5.6415093029092
+"sop","agegrps","XP","65+",179.671696748613,7.57598449615582
+"sop","agegrps","SF","Under 5",15.4716894533431,2.61961301372253
+"sop","agegrps","SF","5-17",31.4793214749645,2.1825914157838
+"sop","agegrps","SF","18-44",28.3325354298971,0.880571808295823
+"sop","agegrps","SF","45-64",26.8594873601284,0.822621467577095
+"sop","agegrps","SF","65+",28.5960045434895,0.94030643921092
+"sop","agegrps","PR","Under 5",59.2293870216147,9.95119181035876
+"sop","agegrps","PR","5-17",65.9283818442709,5.33644497823581
+"sop","agegrps","PR","18-44",87.4573102319804,6.28344698578092
+"sop","agegrps","PR","45-64",73.2959131140136,4.24764213019929
+"sop","agegrps","PR","65+",24.6152110226841,1.80676774498672
+"sop","agegrps","MR","Under 5",1.27329437754002,0.653717461305556
+"sop","agegrps","MR","5-17",0.081125441854186,0.0255343427714696
+"sop","agegrps","MR","18-44",7.45187778787656,2.47016646732065
+"sop","agegrps","MR","45-64",8.48299631601112,1.18558543235921
+"sop","agegrps","MR","65+",101.627045871039,6.13828347038008
+"sop","agegrps","MD","Under 5",40.5324032172338,11.5260391914813
+"sop","agegrps","MD","5-17",14.355272161925,1.70655537450192
+"sop","agegrps","MD","18-44",17.0837608280804,2.48957166330221
+"sop","agegrps","MD","45-64",10.6886208425968,1.52100746502253
+"sop","agegrps","MD","65+",9.55828295741401,2.13967803201382
+"sop","agegrps","OZ","Under 5",18.9238242925347,7.94596408710022
+"sop","agegrps","OZ","5-17",8.74374025443975,1.851189996809
+"sop","agegrps","OZ","18-44",13.8162492421608,2.04131162872772
+"sop","agegrps","OZ","45-64",14.6621553343578,2.91015240387529
+"sop","agegrps","OZ","65+",15.2751523539868,1.92542539694209
+"sop","region","XP","Northeast",156.290663230849,8.19792008811232
+"sop","region","XP","Midwest",146.843684584247,5.91539945925416
+"sop","region","XP","South",142.490939405301,4.94737832597575
+"sop","region","XP","West",169.559769468697,11.3246307623396
+"sop","region","SF","Northeast",26.2224771902075,1.40921407985617
+"sop","region","SF","Midwest",26.2734682185243,0.762000523888673
+"sop","region","SF","South",28.2178895592724,0.782764220338461
+"sop","region","SF","West",30.4742323668478,1.55969896622693
+"sop","region","PR","Northeast",61.8085636159503,5.16237496685753
+"sop","region","PR","Midwest",64.0405628693246,4.01344728900251
+"sop","region","PR","South",52.6190720671418,2.5161117444393
+"sop","region","PR","West",75.1102363972599,9.62744166718973
+"sop","region","MR","Northeast",36.3114087575137,4.34212266338461
+"sop","region","MR","Midwest",32.4449527371233,3.81528634401711
+"sop","region","MR","South",36.5171720815037,4.00764488571671
+"sop","region","MR","West",31.7069205652545,3.25698729463278
+"sop","region","MD","Northeast",17.8491227790314,4.10373168026235
+"sop","region","MD","Midwest",9.32754147712836,1.59953338136702
+"sop","region","MD","South",12.6492881344987,1.57867727240495
+"sop","region","MD","West",15.3126537744174,4.10915702522397
+"sop","region","OZ","Northeast",14.0990908881463,2.14272341366851
+"sop","region","OZ","Midwest",14.7571592821466,2.64772293130365
+"sop","region","OZ","South",12.4875175628842,1.55891250381164
+"sop","region","OZ","West",16.9557263649177,4.21382958831448
+"sop","married","XP","Married",151.462965465602,4.66972152799595
+"sop","married","XP","Widowed",170.061645000841,10.4054101450495
+"sop","married","XP","Divorced",140.948751446295,7.66199739709462
+"sop","married","XP","Separated",176.668860874881,47.9879792513484
+"sop","married","XP","Never married",161.46976390605,13.749168653243
+"sop","married","XP","Inapplicable (age < 16)",125.905352310245,7.824135805255
+"sop","married","SF","Married",27.1288419951399,0.638874684939006
+"sop","married","SF","Widowed",28.5887520216768,1.49876269319394
+"sop","married","SF","Divorced",28.3375750878914,1.68484287461711
+"sop","married","SF","Separated",19.8644105397508,1.88749070545048
+"sop","married","SF","Never married",31.2756262912568,1.62726690840619
+"sop","married","SF","Inapplicable (age < 16)",26.2572977366631,1.90041522765037
+"sop","married","PR","Married",72.1259949382728,3.37073956193735
+"sop","married","PR","Widowed",22.1006410164906,2.19774058610509
+"sop","married","PR","Divorced",48.8981195195082,4.01963577702252
+"sop","married","PR","Separated",42.7237371921377,7.37811401102303
+"sop","married","PR","Never married",71.4746868717146,11.3597121693876
+"sop","married","PR","Inapplicable (age < 16)",63.7661474077895,5.20585530615873
+"sop","married","MR","Married",34.7818964848639,3.13085653437336
+"sop","married","MR","Widowed",89.3823710598901,7.17261256906971
+"sop","married","MR","Divorced",28.8441211420529,4.15602026219417
+"sop","married","MR","Separated",17.8088325526906,10.1501334498288
+"sop","married","MR","Never married",14.9217741224172,4.32839295348566
+"sop","married","MR","Inapplicable (age < 16)",0.446439862280833,0.203033460604525
+"sop","married","MD","Married",5.92264282814088,1.10132160723747
+"sop","married","MD","Widowed",16.076921052805,4.5497899542105
+"sop","married","MD","Divorced",18.551783000624,3.23685548102257
+"sop","married","MD","Separated",34.4709856539937,7.98727484448211
+"sop","married","MD","Never married",24.5085076195343,4.24678871558667
+"sop","married","MD","Inapplicable (age < 16)",23.0905025895571,3.90897176494484
+"sop","married","OZ","Married",11.5035892191847,1.08262148531721
+"sop","married","OZ","Widowed",13.9129598499782,2.22292648313897
+"sop","married","OZ","Divorced",16.317152696218,3.5266432866851
+"sop","married","OZ","Separated",61.8008949363079,46.0666759426072
+"sop","married","OZ","Never married",19.2891690011269,4.66445134559617
+"sop","married","OZ","Inapplicable (age < 16)",12.3449647139544,2.88924897926079
+"sop","race","XP","Hispanic",153.561486635205,7.83555427863854
+"sop","race","XP","Black",164.964677762376,11.8912075052826
+"sop","race","XP","White and other",149.97637443765,3.96097968233269
+"sop","race","SF","Hispanic",25.252320912895,1.72136119755155
+"sop","race","SF","Black",20.7903939057647,1.17146783668898
+"sop","race","SF","White and other",28.7420139932011,0.6114539489734
+"sop","race","PR","Hispanic",55.6305589183612,4.36726111975776
+"sop","race","PR","Black",58.9691161901783,8.13756381779387
+"sop","race","PR","White and other",62.3536931764135,2.79762600714822
+"sop","race","MR","Hispanic",22.4216345408624,3.88087162527586
+"sop","race","MR","Black",37.6208047922224,6.9046232124817
+"sop","race","MR","White and other",35.2729548182968,2.23325853030783
+"sop","race","MD","Hispanic",33.7046569811588,5.12322689980005
+"sop","race","MD","Black",31.0352251372143,4.13524188460845
+"sop","race","MD","White and other",9.82657260868435,1.41736749762239
+"sop","race","OZ","Hispanic",16.5523152819277,1.86317482260205
+"sop","race","OZ","Black",16.5491377369963,3.85541122792777
+"sop","race","OZ","White and other",13.7811398410546,1.37851980649352
+"sop","sex","XP","Male",159.559057566646,5.66257327237616
+"sop","sex","XP","Female",146.312993555774,4.54574354676591
+"sop","sex","SF","Male",27.6288075474647,0.876822880523844
+"sop","sex","SF","Female",27.8951542242727,0.652544372548977
+"sop","sex","PR","Male",61.4699602591616,3.33429591194349
+"sop","sex","PR","Female",61.6421906099953,3.3358778295037
+"sop","sex","MR","Male",41.5358086327823,3.72077352671218
+"sop","sex","MR","Female",29.9910821376947,2.21698410593319
+"sop","sex","MD","Male",9.57762929506397,1.19926262700045
+"sop","sex","MD","Female",15.9185005414039,2.01067204160326
+"sop","sex","OZ","Male",19.3468518321729,2.45842914002175
+"sop","sex","OZ","Female",10.8660660424073,1.25636677957191
+"sop","education","XP","Less than high school",167.602765480205,8.84997841082046
+"sop","education","XP","High school",154.369736625695,6.25649195221831
+"sop","education","XP","Some college",147.859965110894,5.71010783912328
+"sop","education","XP","Inapplicable (age < 18)",124.643700372776,6.90141679025992
+"sop","education","XP","Missing",244.081372775611,54.6547189984976
+"sop","education","SF","Less than high school",23.0520711439597,0.821244552810806
+"sop","education","SF","High school",27.5213745485489,0.945429329424284
+"sop","education","SF","Some college",30.646967459302,0.869441707755245
+"sop","education","SF","Inapplicable (age < 18)",27.1051542820483,1.72881273661034
+"sop","education","SF","Missing",37.0159495689449,7.59191090975553
+"sop","education","PR","Less than high school",33.0448071731747,2.42439647180673
+"sop","education","PR","High school",59.7082218546801,4.2908524770067
+"sop","education","PR","Some college",78.7645512858454,5.21437202093616
+"sop","education","PR","Inapplicable (age < 18)",64.0978473005483,4.64451347418743
+"sop","education","PR","Missing",14.1999403122633,4.35601884840559
+"sop","education","MR","Less than high school",64.8734443678306,6.40208998530006
+"sop","education","MR","High school",39.5184134776193,4.11603072473531
+"sop","education","MR","Some college",23.392229753214,2.45439564213978
+"sop","education","MR","Inapplicable (age < 18)",0.40689169134363,0.177868097402084
+"sop","education","MR","Missing",148.085982420521,52.9547474606779
+"sop","education","MD","Less than high school",24.9125928713117,2.61759613875203
+"sop","education","MD","High school",11.6173016608958,2.09886770927365
+"sop","education","MD","Some college",5.66328188723352,1.64969819217214
+"sop","education","MD","Inapplicable (age < 18)",21.5083068963654,3.44031174157034
+"sop","education","MD","Missing",19.2773882964836,8.18873926231911
+"sop","education","OZ","Less than high school",21.7198499239284,4.16843733961753
+"sop","education","OZ","High school",16.0044250839509,2.51538580895824
+"sop","education","OZ","Some college",9.39293472529862,1.1644707005859
+"sop","education","OZ","Inapplicable (age < 18)",11.5255002024707,2.54519995101114
+"sop","education","OZ","Missing",25.502112177398,10.0969025087017
+"sop","employed","XP","Employed",134.646401995302,4.80313923491468
+"sop","employed","XP","Not employed",172.789873809646,6.30005137009671
+"sop","employed","XP","Inapplicable (age < 16)",125.896784738677,7.82134874953224
+"sop","employed","SF","Employed",28.7981400974962,0.665704356055128
+"sop","employed","SF","Not employed",27.2264664536762,0.756216706759214
+"sop","employed","SF","Inapplicable (age < 16)",26.2718380380988,1.89935296213155
+"sop","employed","PR","Employed",86.1131264997459,4.45406658420305
+"sop","employed","PR","Not employed",38.9105099553658,2.91968009076554
+"sop","employed","PR","Inapplicable (age < 16)",63.7544137318802,5.20374773483703
+"sop","employed","MR","Employed",5.76889850943226,0.947971195495806
+"sop","employed","MR","Not employed",68.5377384387163,4.21896317477862
+"sop","employed","MR","Inapplicable (age < 16)",0.446298345416609,0.202967629498159
+"sop","employed","MD","Employed",3.07214641757143,0.346412564269671
+"sop","employed","MD","Not employed",20.4421852170951,2.49613203616996
+"sop","employed","MD","Inapplicable (age < 16)",23.0831831367127,3.90767047637629
+"sop","employed","OZ","Employed",10.8940904710559,1.33586192548689
+"sop","employed","OZ","Not employed",17.6729737447927,2.31304630501613
+"sop","employed","OZ","Inapplicable (age < 16)",12.3410514865684,2.8882696371642
+"sop","insurance","XP","Any private, all ages",147.039781670605,3.88671589610362
+"sop","insurance","XP","Public only, all ages",169.74514695676,8.93039129467748
+"sop","insurance","XP","Uninsured, all ages",127.344620134655,19.0508625731175
+"sop","insurance","SF","Any private, all ages",28.2122887487923,0.601943808248811
+"sop","insurance","SF","Public only, all ages",21.2796037733912,0.96265485138024
+"sop","insurance","SF","Uninsured, all ages",57.2690586300774,3.47248999959375
+"sop","insurance","PR","Any private, all ages",85.1074246858649,3.29553622877651
+"sop","insurance","PR","Public only, all ages",0,0
+"sop","insurance","PR","Uninsured, all ages",0,0
+"sop","insurance","MR","Any private, all ages",24.4134251715126,2.04981607363748
+"sop","insurance","MR","Public only, all ages",71.9143958958728,5.88918288423232
+"sop","insurance","MR","Uninsured, all ages",0,0
+"sop","insurance","MD","Any private, all ages",2.45466172400396,0.4930241574293
+"sop","insurance","MD","Public only, all ages",49.4998747222824,5.22653591582581
+"sop","insurance","MD","Uninsured, all ages",0,0
+"sop","insurance","OZ","Any private, all ages",6.85198134043135,0.601647899208707
+"sop","insurance","OZ","Public only, all ages",27.0512725652133,3.53311939673311
+"sop","insurance","OZ","Uninsured, all ages",70.0755615045772,18.6039322568357
+"sop","poverty","XP","Negative or poor",167.338431014736,12.6963222376992
+"sop","poverty","XP","Near-poor",161.604146892431,16.9259731936287
+"sop","poverty","XP","Low income",164.86501238059,9.72160619903689
+"sop","poverty","XP","Middle income",155.074500800686,6.92384942094362
+"sop","poverty","XP","High income",138.298449300314,4.86641463053316
+"sop","poverty","SF","Negative or poor",22.182154575794,1.42689863888068
+"sop","poverty","SF","Near-poor",25.081678127651,2.78659228278345
+"sop","poverty","SF","Low income",25.8059599502147,0.944952831420503
+"sop","poverty","SF","Middle income",29.104654107135,1.02991289926434
+"sop","poverty","SF","High income",29.4813233516675,0.867922077369786
+"sop","poverty","PR","Negative or poor",23.9249515107151,4.32142976301896
+"sop","poverty","PR","Near-poor",32.9355337702552,7.50445214761695
+"sop","poverty","PR","Low income",43.3063713229085,3.9823078000456
+"sop","poverty","PR","Middle income",65.216774863761,5.54539290276478
+"sop","poverty","PR","High income",79.7617529152884,3.89529722172829
+"sop","poverty","MR","Negative or poor",46.8087292274154,7.12062410383277
+"sop","poverty","MR","Near-poor",47.0905769223013,9.68777977703311
+"sop","poverty","MR","Low income",55.345070138243,7.74167572643251
+"sop","poverty","MR","Middle income",39.5245087059427,4.01262004600498
+"sop","poverty","MR","High income",18.4547254224072,2.22241345871872
+"sop","poverty","MD","Negative or poor",52.1409990438151,5.4130591995153
+"sop","poverty","MD","Near-poor",28.0057044453318,6.15527344722774
+"sop","poverty","MD","Low income",23.6495762249875,4.69775947844196
+"sop","poverty","MD","Middle income",6.57038465585908,1.7300063599467
+"sop","poverty","MD","High income",1.6073797135536,0.447328507868876
+"sop","poverty","OZ","Negative or poor",22.2815966569966,6.33603590148716
+"sop","poverty","OZ","Near-poor",28.4906536268918,10.6177058375003
+"sop","poverty","OZ","Low income",16.7580347442361,2.09399617377906
+"sop","poverty","OZ","Middle income",14.6581784679881,1.76421174550595
+"sop","poverty","OZ","High income",8.99326789739763,1.43517037645922
+"sop","health","XP","Excellent",132.928714324427,3.92137120400908
+"sop","health","XP","Very good",130.23075517327,6.56963025369581
+"sop","health","XP","Good",135.706001963993,5.4375880501009
+"sop","health","XP","Fair",170.709483851383,8.91136068171644
+"sop","health","XP","Poor",235.268030203917,17.3135952654641
+"sop","health","SF","Excellent",35.7524641889528,1.41903770977982
+"sop","health","SF","Very good",28.8539955780047,0.92337738272136
+"sop","health","SF","Good",26.6653915839884,0.915341964370811
+"sop","health","SF","Fair",22.3616208542172,1.12140572465577
+"sop","health","SF","Poor",22.8077582159472,1.4932835662635
+"sop","health","PR","Excellent",72.5988425520804,2.78664304686826
+"sop","health","PR","Very good",66.2316500757608,5.36256281099888
+"sop","health","PR","Good",57.5320351397826,4.16264457953038
+"sop","health","PR","Fair",49.926715593939,4.40916571705919
+"sop","health","PR","Poor",60.5320332848662,10.4383261026346
+"sop","health","MR","Excellent",10.56746868986,3.46195583166794
+"sop","health","MR","Very good",15.3277949414034,1.89314716423736
+"sop","health","MR","Good",28.2569207115924,2.68300511459749
+"sop","health","MR","Fair",57.9523294751273,6.5172393630954
+"sop","health","MR","Poor",91.7830100771244,10.7831166520697
+"sop","health","MD","Excellent",5.1578595605235,0.600905105241932
+"sop","health","MD","Very good",6.09639317413387,0.858663723070303
+"sop","health","MD","Good",8.80100980765775,0.912721811739706
+"sop","health","MD","Fair",26.0028280947686,4.31720131339515
+"sop","health","MD","Poor",36.9255268681023,6.80128620801431
+"sop","health","OZ","Excellent",8.85207933301004,1.610924029755
+"sop","health","OZ","Very good",13.7209214039671,3.13010635211095
+"sop","health","OZ","Good",14.4506447209719,2.00327909908795
+"sop","health","OZ","Fair",14.4659898333308,2.27706357739898
+"sop","health","OZ","Poor",23.2197017578771,4.50569963398434
+"sop","mnhlth","XP","Excellent",138.089074681457,4.79701078116281
+"sop","mnhlth","XP","Very good",139.846466739829,6.64301406225416
+"sop","mnhlth","XP","Good",154.097594172933,6.36279020525215
+"sop","mnhlth","XP","Fair",167.134004447217,12.1200665664498
+"sop","mnhlth","XP","Poor",229.773459758276,24.0665315606346
+"sop","mnhlth","SF","Excellent",30.8277546928459,0.983495042252899
+"sop","mnhlth","SF","Very good",28.187064770467,0.917490879813056
+"sop","mnhlth","SF","Good",26.1081011107649,0.929899886254264
+"sop","mnhlth","SF","Fair",23.4691946361627,1.81040660774869
+"sop","mnhlth","SF","Poor",21.5909718094704,2.26334459804961
+"sop","mnhlth","PR","Excellent",69.8859514872987,2.51241119791448
+"sop","mnhlth","PR","Very good",66.9929623275168,5.99246180243147
+"sop","mnhlth","PR","Good",55.8157908603608,3.57078378868634
+"sop","mnhlth","PR","Fair",43.9000458238853,6.36538368733875
+"sop","mnhlth","PR","Poor",39.5385840221936,13.7144720172122
+"sop","mnhlth","MR","Excellent",19.1858911822693,2.847048961426
+"sop","mnhlth","MR","Very good",21.9140045059406,2.09862837929377
+"sop","mnhlth","MR","Good",42.1867625496818,4.29143112657928
+"sop","mnhlth","MR","Fair",58.6501215964137,10.5526418694408
+"sop","mnhlth","MR","Poor",94.2823866389022,16.311093374631
+"sop","mnhlth","MD","Excellent",8.22693380203732,2.40076391618039
+"sop","mnhlth","MD","Very good",7.40185414301518,0.805832317563151
+"sop","mnhlth","MD","Good",15.9719872623797,2.55615722506772
+"sop","mnhlth","MD","Fair",27.1737909532835,5.0174865962571
+"sop","mnhlth","MD","Poor",36.5271058850298,6.50246132375699
+"sop","mnhlth","OZ","Excellent",9.96254351700546,1.18672406466731
+"sop","mnhlth","OZ","Very good",15.3505809928897,3.26300070179162
+"sop","mnhlth","OZ","Good",14.0149523897463,1.89891277570555
+"sop","mnhlth","OZ","Fair",13.9408514374715,1.67773928018226
+"sop","mnhlth","OZ","Poor",37.8344114026796,10.8987945379855
+"sop","agegrps_v2X","XP","Under 18",124.643700372776,6.90141679025992
+"sop","agegrps_v2X","XP","18-64",143.161786348057,4.79038486420761
+"sop","agegrps_v2X","XP","65+",179.671696748613,7.57598449615582
+"sop","agegrps_v2X","SF","Under 18",27.1051542820483,1.72881273661034
+"sop","agegrps_v2X","SF","18-64",27.5299580132289,0.642128529406284
+"sop","agegrps_v2X","SF","65+",28.5960045434895,0.94030643921092
+"sop","agegrps_v2X","PR","Under 18",64.0978473005483,4.64451347418743
+"sop","agegrps_v2X","PR","18-64",79.7415962993491,3.81484456187095
+"sop","agegrps_v2X","PR","65+",24.6152110226841,1.80676774498672
+"sop","agegrps_v2X","MR","Under 18",0.40689169134363,0.177868097402084
+"sop","agegrps_v2X","MR","18-64",8.01367374116061,1.38127178630542
+"sop","agegrps_v2X","MR","65+",101.627045871039,6.13828347038008
+"sop","agegrps_v2X","MD","Under 18",21.5083068963654,3.44031174157034
+"sop","agegrps_v2X","MD","18-64",13.5994244821615,1.64893489602895
+"sop","agegrps_v2X","MD","65+",9.55828295741401,2.13967803201382
+"sop","agegrps_v2X","OZ","Under 18",11.5255002024707,2.54519995101114
+"sop","agegrps_v2X","OZ","18-64",14.2771338121572,1.80043549890185
+"sop","agegrps_v2X","OZ","65+",15.2751523539868,1.92542539694209
+"sop","insurance_v2X","XP","<65, Any private",138.027630787865,4.21991402305564
+"sop","insurance_v2X","XP","<65, Public only",153.948482379303,12.5109990964567
+"sop","insurance_v2X","XP","<65, Uninsured",127.214715536411,19.1061779121651
+"sop","insurance_v2X","XP","65+, Medicare only",168.606224965008,13.7375008581256
+"sop","insurance_v2X","XP","65+, Medicare and private",176.978817557947,9.06211518239785
+"sop","insurance_v2X","XP","65+, Medicare and other public",220.492554190318,25.0822044634394
+"sop","insurance_v2X","XP","65+, No medicare",164.17292095864,45.97957098876
+"sop","insurance_v2X","SF","<65, Any private",27.8202364197854,0.703594854548703
+"sop","insurance_v2X","SF","<65, Public only",14.4382873963012,0.993768227299429
+"sop","insurance_v2X","SF","<65, Uninsured",56.9345402446251,3.45985136606128
+"sop","insurance_v2X","SF","65+, Medicare only",32.1165555962614,1.96813930339925
+"sop","insurance_v2X","SF","65+, Medicare and private",29.6075216609526,1.22786410492981
+"sop","insurance_v2X","SF","65+, Medicare and other public",15.112900095987,1.57958761144952
+"sop","insurance_v2X","SF","65+, No medicare",29.9215086444404,10.1220705490505
+"sop","insurance_v2X","PR","<65, Any private",97.8406822691799,4.03046839329967
+"sop","insurance_v2X","PR","<65, Public only",0,0
+"sop","insurance_v2X","PR","<65, Uninsured",0,0
+"sop","insurance_v2X","PR","65+, Medicare only",0,0
+"sop","insurance_v2X","PR","65+, Medicare and private",41.8297975935924,2.90550957952982
+"sop","insurance_v2X","PR","65+, Medicare and other public",0,0
+"sop","insurance_v2X","PR","65+, No medicare",132.376580760224,44.7681711749526
+"sop","insurance_v2X","MR","<65, Any private",2.03717647748948,0.478362041179635
+"sop","insurance_v2X","MR","<65, Public only",32.6379955347932,6.70560095210878
+"sop","insurance_v2X","MR","<65, Uninsured",0,0
+"sop","insurance_v2X","MR","65+, Medicare only",107.438089461802,12.2528785311584
+"sop","insurance_v2X","MR","65+, Medicare and private",99.5627795880449,7.89292964432014
+"sop","insurance_v2X","MR","65+, Medicare and other public",102.814754564959,12.4834235452375
+"sop","insurance_v2X","MR","65+, No medicare",0,0
+"sop","insurance_v2X","MD","<65, Any private",2.93997388419164,0.628581571194645
+"sop","insurance_v2X","MD","<65, Public only",81.9821462316662,9.06987136239474
+"sop","insurance_v2X","MD","<65, Uninsured",0,0
+"sop","insurance_v2X","MD","65+, Medicare only",0,0
+"sop","insurance_v2X","MD","65+, Medicare and private",0.861433205062215,0.452066914658382
+"sop","insurance_v2X","MD","65+, Medicare and other public",73.9265396101562,14.5239205690964
+"sop","insurance_v2X","MD","65+, No medicare",0,0
+"sop","insurance_v2X","OZ","<65, Any private",7.38956173721881,0.751201269491576
+"sop","insurance_v2X","OZ","<65, Public only",24.890053216542,6.00935298780163
+"sop","insurance_v2X","OZ","<65, Uninsured",70.2801752917857,18.6620531943612
+"sop","insurance_v2X","OZ","65+, Medicare only",29.0515799069451,5.07671841014177
+"sop","insurance_v2X","OZ","65+, Medicare and private",5.1172855102948,0.873972341808956
+"sop","insurance_v2X","OZ","65+, Medicare and other public",28.638359919216,7.50529341757713
+"sop","insurance_v2X","OZ","65+, No medicare",1.87483155397593,0.801131385531688
+"sop","event_v2X","XP","Missing",73.6690057538733,6.34090963705104
+"sop","event_v2X","XP","OBD",101.873464185988,1.85688241191254
+"sop","event_v2X","XP","OBO",71.9010316656943,2.61158449056481
+"sop","event_v2X","XP","Missing",462.965943954276,88.9877321401502
+"sop","event_v2X","XP","OPY",827.020320330827,64.6492567037149
+"sop","event_v2X","XP","OPZ",231.533323816532,12.7053819107522
+"sop","event_v2X","SF","Missing",27.8298548162371,3.82500823609868
+"sop","event_v2X","SF","OBD",18.3362609781098,0.582551513833786
+"sop","event_v2X","SF","OBO",18.5752555259099,1.08685454059121
+"sop","event_v2X","SF","Missing",23.5625959015551,8.17594956366291
+"sop","event_v2X","SF","OPY",43.3880097668432,5.56937000828273
+"sop","event_v2X","SF","OPZ",12.8423148791781,1.30992507246862
+"sop","event_v2X","PR","Missing",31.8415000568313,5.56570643264939
+"sop","event_v2X","PR","OBD",49.4672276448874,1.50934470919401
+"sop","event_v2X","PR","OBO",34.003796112505,1.77225380982597
+"sop","event_v2X","PR","Missing",280.814043245295,114.109452871215
+"sop","event_v2X","PR","OPY",500.766536379654,48.8564715357574
+"sop","event_v2X","PR","OPZ",126.860413771631,10.9931183388356
+"sop","event_v2X","MR","Missing",6.52580197150174,1.84834535209525
+"sop","event_v2X","MR","OBD",18.7275678656139,1.09390378206247
+"sop","event_v2X","MR","OBO",6.98139050198182,0.767150826983091
+"sop","event_v2X","MR","Missing",81.2766811387186,46.5778046162644
+"sop","event_v2X","MR","OPY",139.980297051029,17.2180304410177
+"sop","event_v2X","MR","OPZ",48.5998307252347,5.32614831713379
+"sop","event_v2X","MD","Missing",2.92427070417264,1.26782570463745
+"sop","event_v2X","MD","OBD",5.68886035114934,0.341947077777386
+"sop","event_v2X","MD","OBO",3.97876919904233,0.675751324177921
+"sop","event_v2X","MD","Missing",32.2577370094,22.0410572949877
+"sop","event_v2X","MD","OPY",48.0776885185569,9.67037548711911
+"sop","event_v2X","MD","OPZ",15.166947149798,5.93980894045447
+"sop","event_v2X","OZ","Missing",4.54757820513049,1.98600849352926
+"sop","event_v2X","OZ","OBD",9.65354734622806,0.648016461217807
+"sop","event_v2X","OZ","OBO",8.36182032625524,0.940368054538982
+"sop","event_v2X","OZ","Missing",45.0548866593075,28.6461372443716
+"sop","event_v2X","OZ","OPY",94.8077886147438,10.7935392098443
+"sop","event_v2X","OZ","OPZ",28.0638172906896,8.25110136934087
+"agegrps","region","Under 5","Northeast",213.895517815109,61.3443425694553
+"agegrps","region","5-17","Northeast",110.389532710237,14.8119714834597
+"agegrps","region","18-44","Northeast",156.798477506273,13.8399548619678
+"agegrps","region","45-64","Northeast",128.357774640389,9.55797062391478
+"agegrps","region","65+","Northeast",196.493382629468,16.5894909182605
+"agegrps","region","Under 5","Midwest",84.0741859160866,7.23775357871362
+"agegrps","region","5-17","Midwest",127.313852445362,16.4543992497458
+"agegrps","region","18-44","Midwest",166.076208341006,12.9768614244641
+"agegrps","region","45-64","Midwest",130.976561036417,8.55760203706393
+"agegrps","region","65+","Midwest",158.717865525152,14.9316455816389
+"agegrps","region","Under 5","South",156.852671567936,37.9492519759981
+"agegrps","region","5-17","South",99.1186995683961,5.94704802138095
+"agegrps","region","18-44","South",138.759031753059,6.75318831092097
+"agegrps","region","45-64","South",121.837123628182,5.59349056561041
+"agegrps","region","65+","South",175.98918901385,12.8628837106769
+"agegrps","region","Under 5","West",91.0253292072883,11.5207803438371
+"agegrps","region","5-17","West",154.153889690875,13.2179832945248
+"agegrps","region","18-44","West",163.042323599701,26.1908368855727
+"agegrps","region","45-64","West",168.808979811988,25.0920796408574
+"agegrps","region","65+","West",194.972694506682,15.9298038304853
+"agegrps","married","5-17","Married",203.23838030664,88.3133843731039
+"agegrps","married","18-44","Married",152.969650899043,6.50857192432104
+"agegrps","married","45-64","Married",131.843385764821,6.23742196576736
+"agegrps","married","65+","Married",178.154040689603,11.3721070119951
+"agegrps","married","5-17","Widowed",35,0
+"agegrps","married","18-44","Widowed",93.1609013368608,14.5692093542897
+"agegrps","married","45-64","Widowed",91.4690527533184,10.4424778214803
+"agegrps","married","65+","Widowed",183.92733334542,11.8009808399434
+"agegrps","married","5-17","Divorced",81.35,1.4210854715202e-14
+"agegrps","married","18-44","Divorced",116.995919496497,9.97430906070502
+"agegrps","married","45-64","Divorced",136.98621777159,11.2754091886408
+"agegrps","married","65+","Divorced",180.301529959702,17.2431238336593
+"agegrps","married","18-44","Separated",147.431107570657,29.7319084027157
+"agegrps","married","45-64","Separated",233.083871886384,110.382850908763
+"agegrps","married","65+","Separated",109.140576218052,28.5773092023677
+"agegrps","married","5-17","Never married",115.396685080444,9.33081410561527
+"agegrps","married","18-44","Never married",170.501524469635,19.8909566324838
+"agegrps","married","45-64","Never married",154.905953773745,20.4610361574682
+"agegrps","married","65+","Never married",170.191909066418,25.9446979290403
+"agegrps","married","Under 5","Inapplicable (age < 16)",135.430598362266,18.255653675098
+"agegrps","married","5-17","Inapplicable (age < 16)",121.58074443873,7.77222320728599
+"agegrps","race","Under 5","Hispanic",161.80994890631,37.8034462426056
+"agegrps","race","5-17","Hispanic",144.464242666813,16.505500560358
+"agegrps","race","18-44","Hispanic",165.673556098955,12.8061756993163
+"agegrps","race","45-64","Hispanic",119.077673976806,9.64509383954527
+"agegrps","race","65+","Hispanic",185.74587900056,23.9277440052296
+"agegrps","race","Under 5","Black",102.632220752232,15.0538287365378
+"agegrps","race","5-17","Black",90.4684509376093,9.07047985599602
+"agegrps","race","18-44","Black",182.292191142641,26.3931728832743
+"agegrps","race","45-64","Black",176.739108962039,24.2410042250596
+"agegrps","race","65+","Black",166.114250186805,17.168175250895
+"agegrps","race","Under 5","White and other",135.253622672519,22.9307709454653
+"agegrps","race","5-17","White and other",121.103183371511,7.62127464243105
+"agegrps","race","18-44","White and other",149.683994778827,8.18638392200476
+"agegrps","race","45-64","White and other",130.480531430006,6.01575793410085
+"agegrps","race","65+","White and other",180.522842836014,8.39142422041755
+"agegrps","sex","Under 5","Male",125.288905031093,21.3708337453472
+"agegrps","sex","5-17","Male",114.16877725674,8.21506092880236
+"agegrps","sex","18-44","Male",144.337269717862,9.08572594384377
+"agegrps","sex","45-64","Male",156.320774646061,11.6929125148165
+"agegrps","sex","65+","Male",199.695760870586,13.1005169626163
+"agegrps","sex","Under 5","Female",147.019717045823,30.6149029984182
+"agegrps","sex","5-17","Female",128.237554089926,9.15600309431383
+"agegrps","sex","18-44","Female",159.136278831466,9.90383197626888
+"agegrps","sex","45-64","Female",119.764321840945,5.03003082185136
+"agegrps","sex","65+","Female",166.670849624644,8.40401802647483
+"agegrps","education","18-44","Less than high school",152.379375171618,13.7910021015925
+"agegrps","education","45-64","Less than high school",134.727109264423,14.4559860643232
+"agegrps","education","65+","Less than high school",194.793707329972,13.1922524979821
+"agegrps","education","18-44","High school",161.637139528355,11.5620974456818
+"agegrps","education","45-64","High school",136.338623656594,9.8792392518836
+"agegrps","education","65+","High school",168.116861483143,11.4593535936869
+"agegrps","education","18-44","Some college",150.619332639299,11.1605281629917
+"agegrps","education","45-64","Some college",132.045546892123,6.84693359871471
+"agegrps","education","65+","Some college",169.249143549846,11.7892596774189
+"agegrps","education","Under 5","Inapplicable (age < 18)",135.430598362266,18.255653675098
+"agegrps","education","5-17","Inapplicable (age < 18)",120.587841177454,6.57030861252736
+"agegrps","education","18-44","Missing",117.313139700604,30.0045576631091
+"agegrps","education","45-64","Missing",119.565527214849,19.138288415998
+"agegrps","education","65+","Missing",316.802702165213,94.4144075966233
+"agegrps","employed","5-17","Employed",124.021782321813,15.7889006335776
+"agegrps","employed","18-44","Employed",147.076910523903,8.63397990798909
+"agegrps","employed","45-64","Employed",122.570002075707,5.708073744089
+"agegrps","employed","65+","Employed",135.894085549942,14.427560074714
+"agegrps","employed","5-17","Not employed",112.15957785599,12.1116430378972
+"agegrps","employed","18-44","Not employed",172.321809862954,14.771180161352
+"agegrps","employed","45-64","Not employed",152.500442394971,11.5738615063492
+"agegrps","employed","65+","Not employed",184.664707741828,8.19042554049564
+"agegrps","employed","Under 5","Inapplicable (age < 16)",135.430598362266,18.255653675098
+"agegrps","employed","5-17","Inapplicable (age < 16)",121.570281810214,7.76820865976072
+"agegrps","insurance","Under 5","Any private, all ages",118.551994409137,18.8656795945914
+"agegrps","insurance","5-17","Any private, all ages",124.560172348128,7.64682475636816
+"agegrps","insurance","18-44","Any private, all ages",153.383775138281,8.09760676636516
+"agegrps","insurance","45-64","Any private, all ages",131.25606720267,5.53719647209348
+"agegrps","insurance","65+","Any private, all ages",176.819876678475,8.9505922904886
+"agegrps","insurance","Under 5","Public only, all ages",164.893928360472,41.1525111515228
+"agegrps","insurance","5-17","Public only, all ages",104.058305596094,14.7161815219826
+"agegrps","insurance","18-44","Public only, all ages",179.800031841069,23.5311342454119
+"agegrps","insurance","45-64","Public only, all ages",147.664834713237,15.5468712373644
+"agegrps","insurance","65+","Public only, all ages",183.498791465145,12.0905679224459
+"agegrps","insurance","Under 5","Uninsured, all ages",280.875524622001,171.382660165041
+"agegrps","insurance","5-17","Uninsured, all ages",109.150737596383,15.2525990988937
+"agegrps","insurance","18-44","Uninsured, all ages",110.243719233372,9.59121258220955
+"agegrps","insurance","45-64","Uninsured, all ages",135.770973044682,38.6054344448398
+"agegrps","insurance","65+","Uninsured, all ages",168.713894753335,40.8814903274766
+"agegrps","poverty","Under 5","Negative or poor",128.407682971593,26.1949604062736
+"agegrps","poverty","5-17","Negative or poor",133.288984201911,22.3646186173901
+"agegrps","poverty","18-44","Negative or poor",163.054674172517,23.411102703092
+"agegrps","poverty","45-64","Negative or poor",143.986668112176,22.6003981181606
+"agegrps","poverty","65+","Negative or poor",222.894902542887,23.6809151677333
+"agegrps","poverty","Under 5","Near-poor",260.063532182742,127.19893194368
+"agegrps","poverty","5-17","Near-poor",110.588119347672,22.176677613234
+"agegrps","poverty","18-44","Near-poor",143.730167546189,30.5445236692449
+"agegrps","poverty","45-64","Near-poor",184.880000498024,38.1362561643782
+"agegrps","poverty","65+","Near-poor",162.659265912888,25.1945538623508
+"agegrps","poverty","Under 5","Low income",209.207451635383,69.9718879301514
+"agegrps","poverty","5-17","Low income",91.8705776097386,8.92729645229349
+"agegrps","poverty","18-44","Low income",166.346947839187,15.0701525410072
+"agegrps","poverty","45-64","Low income",135.401510858646,13.6476040518487
+"agegrps","poverty","65+","Low income",186.753157187542,16.6968289771518
+"agegrps","poverty","Under 5","Middle income",105.274331863057,12.3758123597258
+"agegrps","poverty","5-17","Middle income",126.780427991873,15.4424027979567
+"agegrps","poverty","18-44","Middle income",162.072305016972,17.5428731500846
+"agegrps","poverty","45-64","Middle income",135.043564242043,9.78727036275635
+"agegrps","poverty","65+","Middle income",176.748529133754,12.1869179800509
+"agegrps","poverty","Under 5","High income",98.8371325225195,24.1419221789411
+"agegrps","poverty","5-17","High income",121.967760326074,9.62420507744951
+"agegrps","poverty","18-44","High income",142.008917311619,7.3531537068587
+"agegrps","poverty","45-64","High income",127.555999019111,7.59317351252903
+"agegrps","poverty","65+","High income",166.279606013911,12.3159135703941
+"agegrps","health","Under 5","Excellent",95.590965021108,11.1173694101039
+"agegrps","health","5-17","Excellent",128.995568640981,8.32972396304906
+"agegrps","health","18-44","Excellent",152.350077131743,7.29786627327111
+"agegrps","health","45-64","Excellent",117.638417549757,6.1513624644882
+"agegrps","health","65+","Excellent",134.852486016774,23.8440525387592
+"agegrps","health","Under 5","Very good",109.458343144029,23.7335849127895
+"agegrps","health","5-17","Very good",96.9443339715996,7.39399413181525
+"agegrps","health","18-44","Very good",156.128425299416,17.1016220908443
+"agegrps","health","45-64","Very good",122.433740357735,10.3823134701721
+"agegrps","health","65+","Very good",127.262688011215,9.21257297289262
+"agegrps","health","Under 5","Good",94.77651751748,12.9115424167502
+"agegrps","health","5-17","Good",130.050950523862,21.3685689920713
+"agegrps","health","18-44","Good",135.524724896845,8.82599639772019
+"agegrps","health","45-64","Good",131.303967994132,11.2655231408129
+"agegrps","health","65+","Good",143.494060743199,7.349312563312
+"agegrps","health","Under 5","Fair",209.011400125086,89.3468297621222
+"agegrps","health","5-17","Fair",168.820435380575,33.4786561212884
+"agegrps","health","18-44","Fair",173.522734051143,24.1303151068566
+"agegrps","health","45-64","Fair",126.922738860447,8.58180281737332
+"agegrps","health","65+","Fair",211.022601697155,16.7127462861252
+"agegrps","health","Under 5","Poor",1103.9779206951,339.718756215149
+"agegrps","health","5-17","Poor",187.021382673297,32.7448705514417
+"agegrps","health","18-44","Poor",191.345607248944,29.9364734228347
+"agegrps","health","45-64","Poor",183.876710780491,19.429801088521
+"agegrps","health","65+","Poor",285.262131716371,28.8271512665358
+"agegrps","mnhlth","Under 5","Excellent",107.180816861699,15.6930018885114
+"agegrps","mnhlth","5-17","Excellent",128.063782059879,8.00152604388342
+"agegrps","mnhlth","18-44","Excellent",143.728032723507,7.06010846930606
+"agegrps","mnhlth","45-64","Excellent",127.413982215229,6.22929840293843
+"agegrps","mnhlth","65+","Excellent",161.928105991835,14.5211523586125
+"agegrps","mnhlth","Under 5","Very good",101.028585560916,12.4791055679142
+"agegrps","mnhlth","5-17","Very good",102.079713663532,9.07152389413675
+"agegrps","mnhlth","18-44","Very good",161.081768930249,17.9686401171478
+"agegrps","mnhlth","45-64","Very good",139.536135769575,13.7655178744907
+"agegrps","mnhlth","65+","Very good",138.181969407162,7.99174538547273
+"agegrps","mnhlth","Under 5","Good",246.85048879725,110.186337784871
+"agegrps","mnhlth","5-17","Good",122.789409210084,17.2838462333727
+"agegrps","mnhlth","18-44","Good",166.368216505226,13.9979450818729
+"agegrps","mnhlth","45-64","Good",126.141532475808,7.26846790174826
+"agegrps","mnhlth","65+","Good",173.446274707214,10.4734433590813
+"agegrps","mnhlth","Under 5","Fair",327.068136686708,184.28856872989
+"agegrps","mnhlth","5-17","Fair",115.180663225321,28.9445440106218
+"agegrps","mnhlth","18-44","Fair",145.810257057299,24.672148209533
+"agegrps","mnhlth","45-64","Fair",135.271760813652,12.6401330355695
+"agegrps","mnhlth","65+","Fair",221.019296756791,29.7713679080196
+"agegrps","mnhlth","Under 5","Poor",39.3935077125277,4.82704602495908
+"agegrps","mnhlth","5-17","Poor",309.532239997202,105.390222979242
+"agegrps","mnhlth","18-44","Poor",128.147056820883,21.2076503845189
+"agegrps","mnhlth","45-64","Poor",167.490544879406,41.0904801590284
+"agegrps","mnhlth","65+","Poor",342.52019085902,44.5150949213848
+"agegrps","insurance_v2X","Under 5","<65, Any private",118.551994409137,18.8656795945914
+"agegrps","insurance_v2X","5-17","<65, Any private",124.560172348128,7.64682475636816
+"agegrps","insurance_v2X","18-44","<65, Any private",153.383775138281,8.09760676636516
+"agegrps","insurance_v2X","45-64","<65, Any private",131.25606720267,5.53719647209348
+"agegrps","insurance_v2X","Under 5","<65, Public only",164.893928360472,41.1525111515228
+"agegrps","insurance_v2X","5-17","<65, Public only",104.058305596094,14.7161815219826
+"agegrps","insurance_v2X","18-44","<65, Public only",179.800031841069,23.5311342454119
+"agegrps","insurance_v2X","45-64","<65, Public only",147.664834713237,15.5468712373644
+"agegrps","insurance_v2X","Under 5","<65, Uninsured",280.875524622001,171.382660165041
+"agegrps","insurance_v2X","5-17","<65, Uninsured",109.150737596383,15.2525990988937
+"agegrps","insurance_v2X","18-44","<65, Uninsured",110.243719233372,9.59121258220955
+"agegrps","insurance_v2X","45-64","<65, Uninsured",135.770973044682,38.6054344448398
+"agegrps","insurance_v2X","65+","65+, Medicare only",168.606224965008,13.7375008581256
+"agegrps","insurance_v2X","65+","65+, Medicare and private",176.978817557947,9.06211518239785
+"agegrps","insurance_v2X","65+","65+, Medicare and other public",220.492554190318,25.0822044634394
+"agegrps","insurance_v2X","65+","65+, No medicare",164.17292095864,45.97957098876
+"agegrps","event_v2X","Under 5","Missing",93.3771759966896,33.6497526216161
+"agegrps","event_v2X","5-17","Missing",82.0494315519085,27.2370526400821
+"agegrps","event_v2X","18-44","Missing",173.511073447989,74.7311825956002
+"agegrps","event_v2X","45-64","Missing",126.131207305521,20.3954843762186
+"agegrps","event_v2X","65+","Missing",169.860177640143,47.8475702505263
+"agegrps","event_v2X","Under 5","OBD",63.6164312514515,2.14978092120283
+"agegrps","event_v2X","5-17","OBD",74.5012853648625,2.8279421084134
+"agegrps","event_v2X","18-44","OBD",105.392879232886,3.00327162193571
+"agegrps","event_v2X","45-64","OBD",112.033425860469,3.5567752042652
+"agegrps","event_v2X","65+","OBD",109.381238154803,4.03959142619313
+"agegrps","event_v2X","Under 5","OBO",69.4131939590279,9.85692171615386
+"agegrps","event_v2X","5-17","OBO",54.3015717912765,6.90471170459353
+"agegrps","event_v2X","18-44","OBO",68.8463304198802,2.89469524859672
+"agegrps","event_v2X","45-64","OBO",78.054348797814,4.97768533376071
+"agegrps","event_v2X","65+","OBO",82.7036726957999,7.14914216046607
+"agegrps","event_v2X","Under 5","OPY",647.365305693106,114.750218552519
+"agegrps","event_v2X","5-17","OPY",938.646030096794,161.197923292355
+"agegrps","event_v2X","18-44","OPY",1065.81372806988,85.673554629227
+"agegrps","event_v2X","45-64","OPY",811.514111679007,86.5419671381936
+"agegrps","event_v2X","65+","OPY",651.798230154389,120.678841780313
+"agegrps","event_v2X","Under 5","OPZ",262.959804365774,66.5416733132988
+"agegrps","event_v2X","5-17","OPZ",223.897488658267,61.5485962269669
+"agegrps","event_v2X","18-44","OPZ",244.713714180235,25.3604592654356
+"agegrps","event_v2X","45-64","OPZ",206.335133737256,21.8227434119092
+"agegrps","event_v2X","65+","OPZ",248.37007072772,19.9802553334954
+"region","married","Northeast","Married",156.915258037553,12.3884282539822
+"region","married","Midwest","Married",136.306628336462,7.40883649023055
+"region","married","South","Married",153.387839154742,6.94315689029089
+"region","married","West","Married",161.772263173859,13.046979407021
+"region","married","Northeast","Widowed",224.25468408081,24.6004628243052
+"region","married","Midwest","Widowed",153.694190657089,17.8976094260028
+"region","married","South","Widowed",140.491648218592,12.5140037802991
+"region","married","West","Widowed",184.84379838326,30.8501670216161
+"region","married","Northeast","Divorced",132.744458710591,18.6593642876099
+"region","married","Midwest","Divorced",154.886304223171,17.3117402144745
+"region","married","South","Divorced",128.327835140955,11.5427829615547
+"region","married","West","Divorced",159.308269626857,15.6073124174461
+"region","married","Northeast","Separated",89.5858415442868,12.9609381554095
+"region","married","Midwest","Separated",155.892230214766,17.2364336371285
+"region","married","South","Separated",141.527038186672,28.6706024569055
+"region","married","West","Separated",561.872645396893,423.710879580511
+"region","married","Northeast","Never married",126.646468804459,8.5501288619101
+"region","married","Midwest","Never married",192.053331057122,24.4213848533634
+"region","married","South","Never married",130.581171780049,8.59859606518339
+"region","married","West","Never married",204.094483405265,56.405898971275
+"region","married","Northeast","Inapplicable (age < 16)",136.623335937603,21.6649769307926
+"region","married","Midwest","Inapplicable (age < 16)",119.528030268154,14.8716725542592
+"region","married","South","Inapplicable (age < 16)",117.686504858783,14.4771489955941
+"region","married","West","Inapplicable (age < 16)",133.601106559706,10.0988535611774
+"region","race","Northeast","Hispanic",172.853084191138,25.6337397373746
+"region","race","Midwest","Hispanic",205.392526262381,50.7445673811684
+"region","race","South","Hispanic",151.484917980875,9.73791740760427
+"region","race","West","Hispanic",136.713784711772,9.20917440909242
+"region","race","Northeast","Black",162.378486402514,20.506817206917
+"region","race","Midwest","Black",189.576212339028,34.4397049599207
+"region","race","South","Black",147.807489536418,11.1961004819877
+"region","race","West","Black",227.956455265705,86.2551483705755
+"region","race","Northeast","White and other",154.66803012708,8.64532519002458
+"region","race","Midwest","White and other",141.550805105272,6.15934552923583
+"region","race","South","White and other",140.811249165373,5.71614322327609
+"region","race","West","White and other",172.990944483665,13.1494429321922
+"region","sex","Northeast","Male",142.457228064954,9.34367856741168
+"region","sex","Midwest","Male",158.99792521939,11.1939421100322
+"region","sex","South","Male",163.363116605069,8.17615707131917
+"region","sex","West","Male",170.998103846051,17.023612107105
+"region","sex","Northeast","Female",165.269770280721,10.8617001711396
+"region","sex","Midwest","Female",138.488023849815,7.61334881236733
+"region","sex","South","Female",128.753132260354,5.2183075464251
+"region","sex","West","Female",168.669715063608,14.6055271316771
+"region","education","Northeast","Less than high school",166.309358319756,19.4052683289847
+"region","education","Midwest","Less than high school",183.350309467674,18.293864300417
+"region","education","South","Less than high school",159.488473623543,11.9027022601269
+"region","education","West","Less than high school",171.255522337524,24.2210549508409
+"region","education","Northeast","High school",158.588818194859,13.1663647233805
+"region","education","Midwest","High school",149.684963340791,11.1247141647231
+"region","education","South","High school",148.734763786022,9.55951423409626
+"region","education","West","High school",167.774543953569,19.4713568273361
+"region","education","Northeast","Some college",155.367555796452,11.63470805579
+"region","education","Midwest","Some college",136.810649098668,5.95445776558012
+"region","education","South","Some college",130.69286209536,6.63383123262909
+"region","education","West","Some college",180.385449209601,20.7879160599098
+"region","education","Northeast","Inapplicable (age < 18)",133.264410599359,19.1073928798447
+"region","education","Midwest","Inapplicable (age < 18)",116.978821649424,12.6073613011243
+"region","education","South","Inapplicable (age < 18)",117.254517496702,12.9445389396755
+"region","education","West","Inapplicable (age < 18)",134.834817867457,9.59140692967443
+"region","education","Northeast","Missing",301.525761728224,150.57750180226
+"region","education","Midwest","Missing",141.341088106237,22.6861325689722
+"region","education","South","Missing",240.7390349475,93.5909348895349
+"region","education","West","Missing",295.978723546284,79.8475195105912
+"region","employed","Northeast","Employed",116.871945088604,5.29379911184374
+"region","employed","Midwest","Employed",136.773131071835,6.64138074522288
+"region","employed","South","Employed",128.002254155014,4.67698787156801
+"region","employed","West","Employed",162.284043190909,20.9478729310677
+"region","employed","Northeast","Not employed",195.554221397554,14.0878164438776
+"region","employed","Midwest","Not employed",164.538524231903,11.4569277724194
+"region","employed","South","Not employed",159.295837315755,9.3716662833007
+"region","employed","West","Not employed",185.711088365411,16.4075147919807
+"region","employed","Northeast","Inapplicable (age < 16)",136.623335937603,21.6649769307926
+"region","employed","Midwest","Inapplicable (age < 16)",119.456089372497,14.8533051965189
+"region","employed","South","Inapplicable (age < 16)",117.720677739564,14.4750955906139
+"region","employed","West","Inapplicable (age < 16)",133.601106559706,10.0988535611774
+"region","insurance","Northeast","Any private, all ages",148.667847010552,8.73214294783337
+"region","insurance","Midwest","Any private, all ages",138.17341645245,5.70015566715457
+"region","insurance","South","Any private, all ages",138.917563237449,5.48611741412279
+"region","insurance","West","Any private, all ages",173.501422791216,13.7664474825246
+"region","insurance","Northeast","Public only, all ages",176.019057940126,17.1783157617316
+"region","insurance","Midwest","Public only, all ages",191.333769715503,20.8804343050661
+"region","insurance","South","Public only, all ages",162.372612507762,13.3402728556489
+"region","insurance","West","Public only, all ages",156.976210676319,21.5859216416958
+"region","insurance","Northeast","Uninsured, all ages",166.59333976187,51.9805310777987
+"region","insurance","Midwest","Uninsured, all ages",96.6351311308677,14.1997953239008
+"region","insurance","South","Uninsured, all ages",101.069278481097,11.2118470078708
+"region","insurance","West","Uninsured, all ages",181.169037827943,71.5949234353467
+"region","poverty","Northeast","Negative or poor",201.553752744338,24.6060487374875
+"region","poverty","Midwest","Negative or poor",186.328277768591,33.5064611140108
+"region","poverty","South","Negative or poor",133.212392202088,11.6712577692059
+"region","poverty","West","Negative or poor",183.519477558098,40.5607849109961
+"region","poverty","Northeast","Near-poor",141.451374109003,28.3098765180532
+"region","poverty","Midwest","Near-poor",175.238080297243,42.1796426692381
+"region","poverty","South","Near-poor",131.092497235793,18.6555236690254
+"region","poverty","West","Near-poor",207.22236533927,44.8307968148193
+"region","poverty","Northeast","Low income",174.181308069177,20.9150554628877
+"region","poverty","Midwest","Low income",152.164587840811,15.0100660888288
+"region","poverty","South","Low income",175.628282500067,18.7603505334647
+"region","poverty","West","Low income",147.066532440297,16.7316995277629
+"region","poverty","Northeast","Middle income",134.488594812467,10.8733360509663
+"region","poverty","Midwest","Middle income",156.293997801729,10.0782204045458
+"region","poverty","South","Middle income",149.667620286424,8.31874682194559
+"region","poverty","West","Middle income",184.856570273935,29.5978233571851
+"region","poverty","Northeast","High income",151.934162866956,14.1659130092541
+"region","poverty","Midwest","High income",126.344988427076,5.41991112171099
+"region","poverty","South","High income",127.651693712953,6.96619087334996
+"region","poverty","West","High income",156.727314358992,13.600997830831
+"region","health","Northeast","Excellent",126.118185700495,7.20875453857434
+"region","health","Midwest","Excellent",116.902947997595,5.94113843522489
+"region","health","South","Excellent",135.588810392574,7.3987229934668
+"region","health","West","Excellent",153.592684205889,10.7134238163557
+"region","health","Northeast","Very good",114.966195298877,8.13309133451942
+"region","health","Midwest","Very good",128.489904634932,7.00704239318061
+"region","health","South","Very good",116.702145042098,5.66681812575097
+"region","health","West","Very good",171.929306987759,29.9753220812882
+"region","health","Northeast","Good",135.768906143673,9.33940705232317
+"region","health","Midwest","Good",144.256424928045,12.5828593082705
+"region","health","South","Good",124.113014035963,6.9954481834778
+"region","health","West","Good",147.513969149884,17.2647339502372
+"region","health","Northeast","Fair",186.856922678463,23.3025284335824
+"region","health","Midwest","Fair",167.159903412422,19.7382438289859
+"region","health","South","Fair",168.389524925944,12.7869996097193
+"region","health","West","Fair",163.44529198362,19.8111957456553
+"region","health","Northeast","Poor",341.692034727596,59.9103597335307
+"region","health","Midwest","Poor",205.036185200907,24.1976462714663
+"region","health","South","Poor",198.693334084434,23.4940597455645
+"region","health","West","Poor",260.140066879421,38.8954169566125
+"region","mnhlth","Northeast","Excellent",140.432320374082,7.54016943198474
+"region","mnhlth","Midwest","Excellent",121.598716019066,5.57249866519182
+"region","mnhlth","South","Excellent",133.120355285566,8.34382529835017
+"region","mnhlth","West","Excellent",162.381626011638,15.7099362010583
+"region","mnhlth","Northeast","Very good",126.819116686012,12.1854196653115
+"region","mnhlth","Midwest","Very good",131.544286665011,7.68129380477196
+"region","mnhlth","South","Very good",130.705748147068,5.38322287950717
+"region","mnhlth","West","Very good",178.344810948259,28.3935222094195
+"region","mnhlth","Northeast","Good",171.983520710191,14.5024885410879
+"region","mnhlth","Midwest","Good",165.834645375785,15.6588421376521
+"region","mnhlth","South","Good",138.218388774708,8.78628339294266
+"region","mnhlth","West","Good",153.145288309783,12.5012381876128
+"region","mnhlth","Northeast","Fair",174.294962990734,31.109441943113
+"region","mnhlth","Midwest","Fair",157.277539043927,18.9936420753674
+"region","mnhlth","South","Fair",173.305430764644,23.5033911965455
+"region","mnhlth","West","Fair",159.63172590518,18.9374351344618
+"region","mnhlth","Northeast","Poor",300.333040226407,57.1549017358064
+"region","mnhlth","Midwest","Poor",213.04276154596,33.660445763357
+"region","mnhlth","South","Poor",194.378193829478,34.5395916056408
+"region","mnhlth","West","Poor",254.457520667641,71.3268566449969
+"region","agegrps_v2X","Northeast","Under 18",133.264410599359,19.1073928798447
+"region","agegrps_v2X","Midwest","Under 18",116.978821649424,12.6073613011243
+"region","agegrps_v2X","South","Under 18",117.254517496702,12.9445389396755
+"region","agegrps_v2X","West","Under 18",134.834817867457,9.59140692967443
+"region","agegrps_v2X","Northeast","18-64",140.749460280567,8.87912594683563
+"region","agegrps_v2X","Midwest","18-64",147.676672977035,7.40635988458288
+"region","agegrps_v2X","South","18-64",129.231402150451,4.67183419712859
+"region","agegrps_v2X","West","18-64",166.026032909047,18.3007388607751
+"region","agegrps_v2X","Northeast","65+",196.493382629468,16.5894909182605
+"region","agegrps_v2X","Midwest","65+",158.717865525152,14.9316455816389
+"region","agegrps_v2X","South","65+",175.98918901385,12.8628837106769
+"region","agegrps_v2X","West","65+",194.972694506682,15.9298038304853
+"region","insurance_v2X","Northeast","<65, Any private",132.017262345852,8.66206021109903
+"region","insurance_v2X","Midwest","<65, Any private",135.62986777375,6.06161428178159
+"region","insurance_v2X","South","<65, Any private",127.888227461231,4.6073916733209
+"region","insurance_v2X","West","<65, Any private",165.691583674426,16.3682062618834
+"region","insurance_v2X","Northeast","<65, Public only",164.511859206001,24.92543905951
+"region","insurance_v2X","Midwest","<65, Public only",201.765971262667,37.7569152176701
+"region","insurance_v2X","South","<65, Public only",138.252111784164,15.3135313126018
+"region","insurance_v2X","West","<65, Public only",124.795625919464,23.9194445184562
+"region","insurance_v2X","Northeast","<65, Uninsured",166.906700136415,52.0451120652293
+"region","insurance_v2X","Midwest","<65, Uninsured",96.6975692179615,14.2194522307551
+"region","insurance_v2X","South","<65, Uninsured",100.495450218361,11.2377053067192
+"region","insurance_v2X","West","<65, Uninsured",181.390498807499,71.6972642639098
+"region","insurance_v2X","Northeast","65+, Medicare only",167.798768420413,21.7895470769192
+"region","insurance_v2X","Midwest","65+, Medicare only",174.181895808188,30.4392393508859
+"region","insurance_v2X","South","65+, Medicare only",183.441005625447,27.8561549935256
+"region","insurance_v2X","West","65+, Medicare only",136.878415338166,19.3336185348261
+"region","insurance_v2X","Northeast","65+, Medicare and private",204.895990271421,24.1464572860101
+"region","insurance_v2X","Midwest","65+, Medicare and private",146.929143938767,12.664501239086
+"region","insurance_v2X","South","65+, Medicare and private",170.991987771473,15.8952333448727
+"region","insurance_v2X","West","65+, Medicare and private",207.332755861771,22.1810434665319
+"region","insurance_v2X","Northeast","65+, Medicare and other public",233.675210406178,75.6274558328364
+"region","insurance_v2X","Midwest","65+, Medicare and other public",208.768614140961,65.3334760665825
+"region","insurance_v2X","South","65+, Medicare and other public",177.041920055199,24.489181875428
+"region","insurance_v2X","West","65+, Medicare and other public",290.329584941785,48.416412847704
+"region","insurance_v2X","Northeast","65+, No medicare",160.388310773344,53.3184112992613
+"region","insurance_v2X","Midwest","65+, No medicare",111.689548123721,52.3518180992945
+"region","insurance_v2X","South","65+, No medicare",268.915593037521,143.016871235057
+"region","insurance_v2X","West","65+, No medicare",106.932765375431,37.4997815622909
+"region","event_v2X","Northeast","Missing",96.1686641645148,18.07744937416
+"region","event_v2X","Midwest","Missing",222.251714540296,99.8422485085908
+"region","event_v2X","South","Missing",127.369773618029,29.5370823805096
+"region","event_v2X","West","Missing",128.107424601289,33.6159422373055
+"region","event_v2X","Northeast","OBD",101.370369171855,4.14687788874232
+"region","event_v2X","Midwest","OBD",107.163219271604,3.62853301479181
+"region","event_v2X","South","OBD",94.0838448269732,2.74330225481125
+"region","event_v2X","West","OBD",110.796439366702,4.58767742882662
+"region","event_v2X","Northeast","OBO",66.4491890757413,6.89833343610834
+"region","event_v2X","Midwest","OBO",70.9129463091988,4.77880903979884
+"region","event_v2X","South","OBO",74.9165456504867,4.31387312063764
+"region","event_v2X","West","OBO",74.1554063571428,4.84502441469196
+"region","event_v2X","Northeast","OPY",619.804753541251,64.1372718394331
+"region","event_v2X","Midwest","OPY",693.484472117087,136.337179430009
+"region","event_v2X","South","OPY",1042.70643599429,96.7375498359793
+"region","event_v2X","West","OPY",1083.91896242508,78.5739157817267
+"region","event_v2X","Northeast","OPZ",201.636941190134,23.6276550196845
+"region","event_v2X","Midwest","OPZ",244.181342441397,20.3680933835501
+"region","event_v2X","South","OPZ",226.822976712061,23.6998623409293
+"region","event_v2X","West","OPZ",268.114994525328,37.0808927542975
+"married","race","Married","Hispanic",154.827097414324,10.0708944304747
+"married","race","Widowed","Hispanic",153.548312602952,34.4719588847179
+"married","race","Divorced","Hispanic",177.673806609597,23.3789881498605
+"married","race","Separated","Hispanic",165.25900819988,31.53139089659
+"married","race","Never married","Hispanic",139.005975030532,11.5055150093566
+"married","race","Inapplicable (age < 16)","Hispanic",143.127813313292,17.9081490427837
+"married","race","Married","Black",191.614076162436,22.8602807113457
+"married","race","Widowed","Black",142.108259220989,15.7177672626565
+"married","race","Divorced","Black",151.198305224015,22.0891710834529
+"married","race","Separated","Black",133.591995050285,33.9971131394149
+"married","race","Never married","Black",191.149567505151,32.280750356096
+"married","race","Inapplicable (age < 16)","Black",95.4097074841901,8.22433154936072
+"married","race","Married","White and other",148.452942637103,4.91074631838238
+"married","race","Widowed","White and other",174.876897829333,11.7593503326321
+"married","race","Divorced","White and other",136.613888026223,8.44527133969381
+"married","race","Separated","White and other",206.840154381854,92.6163289139714
+"married","race","Never married","White and other",158.098829342279,16.3292985351743
+"married","race","Inapplicable (age < 16)","White and other",127.217934882235,9.43223330244038
+"married","sex","Married","Male",169.354488431992,7.95400514265627
+"married","sex","Widowed","Male",193.65458895518,23.8686234709922
+"married","sex","Divorced","Male",142.715092386497,12.215191364366
+"married","sex","Separated","Male",295.35687929719,152.608406028127
+"married","sex","Never married","Male",152.135360338988,12.8809421838494
+"married","sex","Inapplicable (age < 16)","Male",117.445303687863,9.32173701943068
+"married","sex","Married","Female",137.681338916359,4.83220405621493
+"married","sex","Widowed","Female",165.289224576564,11.0196062012087
+"married","sex","Divorced","Female",140.128396451845,9.48778455510986
+"married","sex","Separated","Female",120.585564003605,12.5888864850034
+"married","sex","Never married","Female",168.294171950195,21.1709174240795
+"married","sex","Inapplicable (age < 16)","Female",136.03295226241,12.594197150122
+"married","education","Married","Less than high school",162.251138430417,11.4392330213343
+"married","education","Widowed","Less than high school",177.68415350763,15.9287893115342
+"married","education","Divorced","Less than high school",157.405910350608,18.1156232084121
+"married","education","Separated","Less than high school",208.301417869563,95.6724553535977
+"married","education","Never married","Less than high school",164.190021075622,22.280260552029
+"married","education","Married","High school",145.234043065354,8.12314285434553
+"married","education","Widowed","High school",157.173556409615,14.1673500147816
+"married","education","Divorced","High school",148.256672904605,11.5429903370913
+"married","education","Separated","High school",179.91453291887,44.8111591706997
+"married","education","Never married","High school",201.511327058525,26.096126787253
+"married","education","Married","Some college",151.434175324754,5.90566532033264
+"married","education","Widowed","Some college",157.626519469108,20.1958118039032
+"married","education","Divorced","Some college",125.595469907766,10.8506072780204
+"married","education","Separated","Some college",118.912622080092,24.7118690415542
+"married","education","Never married","Some college",148.97816730488,25.490998734524
+"married","education","Married","Inapplicable (age < 18)",203.23838030664,88.3133843731039
+"married","education","Widowed","Inapplicable (age < 18)",35,0
+"married","education","Divorced","Inapplicable (age < 18)",81.35,1.4210854715202e-14
+"married","education","Never married","Inapplicable (age < 18)",115.396685080444,9.33081410561527
+"married","education","Inapplicable (age < 16)","Inapplicable (age < 18)",125.905352310245,7.824135805255
+"married","education","Married","Missing",170.983769147232,73.6775665967912
+"married","education","Widowed","Missing",387.519797828809,131.718991475564
+"married","education","Divorced","Missing",222.663823186379,117.390628586726
+"married","education","Separated","Missing",51.4152272727273,8.06299471634019e-15
+"married","education","Never married","Missing",161.773118570165,31.2539333503188
+"married","employed","Married","Employed",134.117107865208,4.69920758310816
+"married","employed","Widowed","Employed",92.4108491251567,6.86737402114692
+"married","employed","Divorced","Employed",118.494442426777,7.57854858901265
+"married","employed","Separated","Employed",128.190118110641,14.4489470225089
+"married","employed","Never married","Employed",159.412772739778,19.9793445808334
+"married","employed","Married","Not employed",169.798033649508,8.43552390755105
+"married","employed","Widowed","Not employed",181.897641033886,11.8309989200947
+"married","employed","Divorced","Not employed",168.798881396432,15.3767132974791
+"married","employed","Separated","Not employed",210.461656303383,81.4955223353667
+"married","employed","Never married","Not employed",164.685287472353,17.2996235285272
+"married","employed","Never married","Inapplicable (age < 16)",98.8774394749288,56.734795556617
+"married","employed","Inapplicable (age < 16)","Inapplicable (age < 16)",125.905352310245,7.824135805255
+"married","insurance","Married","Any private, all ages",148.731169921837,5.0641347672738
+"married","insurance","Widowed","Any private, all ages",173.970147216501,12.4242297129594
+"married","insurance","Divorced","Any private, all ages",137.551410259772,8.59444666836022
+"married","insurance","Separated","Any private, all ages",140.631787694682,15.0932291599322
+"married","insurance","Never married","Any private, all ages",150.675332555763,16.7221160987928
+"married","insurance","Inapplicable (age < 16)","Any private, all ages",123.040324002901,8.46238568037334
+"married","insurance","Married","Public only, all ages",177.312915169017,15.4483018177088
+"married","insurance","Widowed","Public only, all ages",169.73952199084,15.8214592516697
+"married","insurance","Divorced","Public only, all ages",155.835229042501,18.5456130630731
+"married","insurance","Separated","Public only, all ages",124.650390777968,24.0466921241026
+"married","insurance","Never married","Public only, all ages",205.521978232297,28.6401334386524
+"married","insurance","Inapplicable (age < 16)","Public only, all ages",129.320353672753,18.9426144179862
+"married","insurance","Married","Uninsured, all ages",103.678050704033,8.94034019918159
+"married","insurance","Widowed","Uninsured, all ages",80.7800340308773,14.0009872610184
+"married","insurance","Divorced","Uninsured, all ages",97.7189142547922,17.0472416243366
+"married","insurance","Separated","Uninsured, all ages",948.409853740732,796.17741627249
+"married","insurance","Never married","Uninsured, all ages",117.431808830906,21.4209947840917
+"married","insurance","Inapplicable (age < 16)","Uninsured, all ages",171.787799385131,66.6727001405445
+"married","poverty","Married","Negative or poor",164.108997046657,17.2294501495711
+"married","poverty","Widowed","Negative or poor",183.201694977665,30.5582162768913
+"married","poverty","Divorced","Negative or poor",145.674165978088,14.7682265034538
+"married","poverty","Separated","Negative or poor",268.485932006186,135.789640802289
+"married","poverty","Never married","Negative or poor",179.520268208863,32.0844063938701
+"married","poverty","Inapplicable (age < 16)","Negative or poor",133.847084161968,19.7524905388217
+"married","poverty","Married","Near-poor",154.57119246573,17.5500550524713
+"married","poverty","Widowed","Near-poor",162.42569018324,34.4541141547008
+"married","poverty","Divorced","Near-poor",132.634370855485,38.2675862584515
+"married","poverty","Separated","Near-poor",188.462785958355,47.7789069429285
+"married","poverty","Never married","Near-poor",213.571429435269,65.6110880229831
+"married","poverty","Inapplicable (age < 16)","Near-poor",154.289188180418,38.4564568087607
+"married","poverty","Married","Low income",176.21882094964,17.5195196568094
+"married","poverty","Widowed","Low income",167.361006981152,18.5586194103779
+"married","poverty","Divorced","Low income",186.958078461897,25.8557447293533
+"married","poverty","Separated","Low income",133.847459552022,26.7004401080518
+"married","poverty","Never married","Low income",129.392826569429,14.6416965004791
+"married","poverty","Inapplicable (age < 16)","Low income",141.612612448812,31.98494708672
+"married","poverty","Married","Middle income",154.905805559516,8.0775020555768
+"married","poverty","Widowed","Middle income",164.764832564283,15.3733769845241
+"married","poverty","Divorced","Middle income",140.478848531083,10.8719527391269
+"married","poverty","Separated","Middle income",114.022194396942,18.9362836576101
+"married","poverty","Never married","Middle income",188.802199157967,35.3384125843735
+"married","poverty","Inapplicable (age < 16)","Middle income",120.405240624954,13.1329258556178
+"married","poverty","Married","High income",142.500086643527,6.69083030332789
+"married","poverty","Widowed","High income",176.363516102834,17.9234346159865
+"married","poverty","Divorced","High income",119.660410407216,13.0814059771791
+"married","poverty","Separated","High income",106.077178293102,15.4673793486937
+"married","poverty","Never married","High income",131.589574090348,9.13493909081096
+"married","poverty","Inapplicable (age < 16)","High income",116.516496310012,10.4476974390773
+"married","health","Married","Excellent",142.713208660634,6.11995569187783
+"married","health","Widowed","Excellent",119.724017252247,16.2746858007787
+"married","health","Divorced","Excellent",140.51182918709,16.9881710375947
+"married","health","Separated","Excellent",199.356038503945,48.8875018456925
+"married","health","Never married","Excellent",127.461501433191,6.4803124413226
+"married","health","Inapplicable (age < 16)","Excellent",118.279985022087,7.38382807221389
+"married","health","Married","Very good",124.783238318625,5.00705625601224
+"married","health","Widowed","Very good",126.57048602905,14.3185592196965
+"married","health","Divorced","Very good",119.879613957125,9.31519307124037
+"married","health","Separated","Very good",267.734586331664,164.186107117576
+"married","health","Never married","Very good",176.817587433262,37.9791904442921
+"married","health","Inapplicable (age < 16)","Very good",100.905963780559,9.32291989822728
+"married","health","Married","Good",134.219223329618,7.56181661915129
+"married","health","Widowed","Good",146.229130168199,14.7829494694216
+"married","health","Divorced","Good",116.475352650694,11.5636916915877
+"married","health","Separated","Good",216.767297030768,59.8392164451481
+"married","health","Never married","Good",149.060321622193,16.723193221974
+"married","health","Inapplicable (age < 16)","Good",122.797315784249,19.8361031631388
+"married","health","Married","Fair",166.6568029873,10.6030304994574
+"married","health","Widowed","Fair",191.751895179215,23.7569447104078
+"married","health","Divorced","Fair",144.087811374242,21.4289890004575
+"married","health","Separated","Fair",105.892306926615,14.4859424566408
+"married","health","Never married","Fair",201.780501491097,41.7337972563238
+"married","health","Inapplicable (age < 16)","Fair",193.338362063517,46.8974201282613
+"married","health","Married","Poor",234.665061745553,24.5759415894532
+"married","health","Widowed","Poor",238.240937912238,33.9864876983559
+"married","health","Divorced","Poor",232.802168411401,42.687154336682
+"married","health","Separated","Poor",86.965576750226,18.0893042792309
+"married","health","Never married","Poor",199.380006735923,38.8111103658772
+"married","health","Inapplicable (age < 16)","Poor",676.742355277656,246.310925898193
+"married","mnhlth","Married","Excellent",139.662496286677,6.259458129133
+"married","mnhlth","Widowed","Excellent",145.528654102956,16.5861112412392
+"married","mnhlth","Divorced","Excellent",136.979950599529,11.8013799820745
+"married","mnhlth","Separated","Excellent",169.3644963452,29.6620106122774
+"married","mnhlth","Never married","Excellent",150.284451849798,15.012498411972
+"married","mnhlth","Inapplicable (age < 16)","Excellent",119.206754196801,7.93661702198302
+"married","mnhlth","Married","Very good",137.821339656767,7.27313121947692
+"married","mnhlth","Widowed","Very good",126.666197198557,13.7791294511544
+"married","mnhlth","Divorced","Very good",145.754206885591,15.9050729300968
+"married","mnhlth","Separated","Very good",329.370986905816,224.346207627641
+"married","mnhlth","Never married","Very good",175.974830105151,37.7618862988417
+"married","mnhlth","Inapplicable (age < 16)","Very good",100.735427978205,8.23267894103401
+"married","mnhlth","Married","Good",152.672652207254,7.55460939351308
+"married","mnhlth","Widowed","Good",175.953229097833,18.2208225582581
+"married","mnhlth","Divorced","Good",121.023852143641,11.5009684606691
+"married","mnhlth","Separated","Good",166.310305838979,37.3132227251633
+"married","mnhlth","Never married","Good",166.44751621243,22.6535872167032
+"married","mnhlth","Inapplicable (age < 16)","Good",153.171103126504,29.1447505848986
+"married","mnhlth","Married","Fair",183.089489631571,23.7355557783052
+"married","mnhlth","Widowed","Fair",167.234524348529,23.8463493380065
+"married","mnhlth","Divorced","Fair",161.902436632093,28.2077590974382
+"married","mnhlth","Separated","Fair",84.0048337520234,15.5561674438601
+"married","mnhlth","Never married","Fair",140.777682824746,23.7385435479501
+"married","mnhlth","Inapplicable (age < 16)","Fair",170.991646386528,55.4690621938543
+"married","mnhlth","Married","Poor",241.514240450528,45.2021689039406
+"married","mnhlth","Widowed","Poor",313.701647746248,51.0056872627048
+"married","mnhlth","Divorced","Poor",174.891031922771,40.4022553166225
+"married","mnhlth","Separated","Poor",98.9661075562774,29.9691084622919
+"married","mnhlth","Never married","Poor",157.024952346539,28.9364972966122
+"married","mnhlth","Inapplicable (age < 16)","Poor",318.187120112888,110.42707746771
+"married","agegrps_v2X","Married","Under 18",203.23838030664,88.3133843731039
+"married","agegrps_v2X","Widowed","Under 18",35,0
+"married","agegrps_v2X","Divorced","Under 18",81.35,1.4210854715202e-14
+"married","agegrps_v2X","Never married","Under 18",115.396685080444,9.33081410561527
+"married","agegrps_v2X","Inapplicable (age < 16)","Under 18",125.905352310245,7.824135805255
+"married","agegrps_v2X","Married","18-64",140.225591521362,4.54628592696065
+"married","agegrps_v2X","Widowed","18-64",91.6073722829809,9.65683502637717
+"married","agegrps_v2X","Divorced","18-64",130.259022351675,8.1220472066059
+"married","agegrps_v2X","Separated","18-64",190.304423674097,56.8858961581377
+"married","agegrps_v2X","Never married","18-64",167.557427082561,16.6889686954699
+"married","agegrps_v2X","Married","65+",178.154040689603,11.3721070119951
+"married","agegrps_v2X","Widowed","65+",183.92733334542,11.8009808399434
+"married","agegrps_v2X","Divorced","65+",180.301529959702,17.2431238336593
+"married","agegrps_v2X","Separated","65+",109.140576218052,28.5773092023677
+"married","agegrps_v2X","Never married","65+",170.191909066418,25.9446979290403
+"married","insurance_v2X","Married","<65, Any private",140.66028380775,4.9402684014307
+"married","insurance_v2X","Widowed","<65, Any private",108.980612117572,14.5975168530983
+"married","insurance_v2X","Divorced","<65, Any private",131.721247196596,8.46048224670117
+"married","insurance_v2X","Separated","<65, Any private",135.73325414905,15.6059088969462
+"married","insurance_v2X","Never married","<65, Any private",151.735473995894,17.4296666310124
+"married","insurance_v2X","Inapplicable (age < 16)","<65, Any private",123.040324002901,8.46238568037334
+"married","insurance_v2X","Married","<65, Public only",158.960866408452,18.3176007777234
+"married","insurance_v2X","Widowed","<65, Public only",64.5811750399175,9.73405587898266
+"married","insurance_v2X","Divorced","<65, Public only",136.792070071852,24.0648193037144
+"married","insurance_v2X","Separated","<65, Public only",138.428060156205,32.1931845598642
+"married","insurance_v2X","Never married","<65, Public only",205.290933307315,32.7802330347916
+"married","insurance_v2X","Inapplicable (age < 16)","<65, Public only",129.320353672753,18.9426144179862
+"married","insurance_v2X","Married","<65, Uninsured",103.678050704033,8.94034019918159
+"married","insurance_v2X","Widowed","<65, Uninsured",81.5205449915765,14.2394827347707
+"married","insurance_v2X","Divorced","<65, Uninsured",97.7189142547922,17.0472416243366
+"married","insurance_v2X","Separated","<65, Uninsured",948.409853740732,796.17741627249
+"married","insurance_v2X","Never married","<65, Uninsured",116.366109232379,21.5260178942102
+"married","insurance_v2X","Inapplicable (age < 16)","<65, Uninsured",171.787799385131,66.6727001405445
+"married","insurance_v2X","Married","65+, Medicare only",190.376497837496,25.4248537788574
+"married","insurance_v2X","Widowed","65+, Medicare only",156.282299710946,14.3401421977776
+"married","insurance_v2X","Divorced","65+, Medicare only",114.863054006465,16.8381074671416
+"married","insurance_v2X","Separated","65+, Medicare only",69.3473071877934,16.7942885905761
+"married","insurance_v2X","Never married","65+, Medicare only",215.948039685184,44.2328308211664
+"married","insurance_v2X","Married","65+, Medicare and private",173.886828809007,12.8320798515409
+"married","insurance_v2X","Widowed","65+, Medicare and private",186.532916913573,14.4815443562958
+"married","insurance_v2X","Divorced","65+, Medicare and private",174.140372159901,27.8732679697573
+"married","insurance_v2X","Separated","65+, Medicare and private",249.573397119046,83.6743051379796
+"married","insurance_v2X","Never married","65+, Medicare and private",127.698361949703,27.9248494898329
+"married","insurance_v2X","Married","65+, Medicare and other public",174.35253104415,30.2182054396119
+"married","insurance_v2X","Widowed","65+, Medicare and other public",221.81880533056,35.7645045771853
+"married","insurance_v2X","Divorced","65+, Medicare and other public",319.872684823155,68.8182391335866
+"married","insurance_v2X","Separated","65+, Medicare and other public",118.467168444685,30.1488205493584
+"married","insurance_v2X","Never married","65+, Medicare and other public",168.431626413366,45.3900285753045
+"married","insurance_v2X","Married","65+, No medicare",149.114942961033,39.0099170378143
+"married","insurance_v2X","Widowed","65+, No medicare",260.255921463645,208.719510248714
+"married","insurance_v2X","Divorced","65+, No medicare",87.6974320575437,18.1877715086641
+"married","insurance_v2X","Never married","65+, No medicare",231.508,1.77635683940025e-14
+"married","event_v2X","Married","Missing",165.277963385891,49.7151884383397
+"married","event_v2X","Widowed","Missing",166.345835868455,71.3559053410276
+"married","event_v2X","Divorced","Missing",155.095122629103,60.4869958408085
+"married","event_v2X","Separated","Missing",67.2415562799715,22.447778251553
+"married","event_v2X","Never married","Missing",120.130235050159,39.5050657121979
+"married","event_v2X","Inapplicable (age < 16)","Missing",82.4753221585617,22.2140628782749
+"married","event_v2X","Married","OBD",114.935821564134,2.97838127980455
+"married","event_v2X","Widowed","OBD",92.9537904990942,3.71636830762481
+"married","event_v2X","Divorced","OBD",104.234437599634,6.57899432089723
+"married","event_v2X","Separated","OBD",115.186813108842,13.0159298701549
+"married","event_v2X","Never married","OBD",95.434614914566,3.36831901847803
+"married","event_v2X","Inapplicable (age < 16)","OBD",70.631767931755,2.14538602028031
+"married","event_v2X","Married","OBO",81.1005465736128,3.66341175045764
+"married","event_v2X","Widowed","OBO",69.2321327107816,7.59826163973413
+"married","event_v2X","Divorced","OBO",59.9180946971987,4.27913425468472
+"married","event_v2X","Separated","OBO",105.986405646467,38.8456822956704
+"married","event_v2X","Never married","OBO",68.5427056718437,3.75610825071946
+"married","event_v2X","Inapplicable (age < 16)","OBO",55.9893709933322,6.83255715867478
+"married","event_v2X","Married","OPY",954.512354465815,72.9937804135153
+"married","event_v2X","Widowed","OPY",776.716500419396,108.266267853741
+"married","event_v2X","Divorced","OPY",626.488206785419,91.8023748447295
+"married","event_v2X","Separated","OPY",709.867685830239,235.446370752741
+"married","event_v2X","Never married","OPY",606.483800881366,189.790169096234
+"married","event_v2X","Inapplicable (age < 16)","OPY",905.707391509632,133.213508693612
+"married","event_v2X","Married","OPZ",242.807795181266,15.298888033882
+"married","event_v2X","Widowed","OPZ",252.394037528062,34.0005882323856
+"married","event_v2X","Divorced","OPZ",201.530767316818,28.729493995947
+"married","event_v2X","Separated","OPZ",267.63300466591,67.9740797420128
+"married","event_v2X","Never married","OPZ",196.988657432758,48.9432041727793
+"married","event_v2X","Inapplicable (age < 16)","OPZ",232.308418248252,59.0491917693129
+"race","sex","Hispanic","Male",137.345178333653,9.09402820368598
+"race","sex","Black","Male",188.525999910969,23.8784273873216
+"race","sex","White and other","Male",158.511137985414,5.85124187970713
+"race","sex","Hispanic","Female",163.523809012164,11.1704611325003
+"race","sex","Black","Female",150.927338528209,10.7505264335066
+"race","sex","White and other","Female",144.295607377096,5.08098525308227
+"race","education","Hispanic","Less than high school",164.118980978851,13.9184141908457
+"race","education","Black","Less than high school",162.254972474679,20.0712228976441
+"race","education","White and other","Less than high school",169.260304880102,10.9780803399931
+"race","education","Hispanic","High school",133.884075211664,15.085249907092
+"race","education","Black","High school",191.193516399305,22.9263233342779
+"race","education","White and other","High school",152.164601694574,6.84450025138174
+"race","education","Hispanic","Some college",157.626907430093,15.1892291055315
+"race","education","Black","Some college",170.377695172912,26.2174688389114
+"race","education","White and other","Some college",145.804737439017,6.05982677961474
+"race","education","Hispanic","Inapplicable (age < 18)",150.591451753839,16.9483744193141
+"race","education","Black","Inapplicable (age < 18)",94.2148805460385,7.76564660132349
+"race","education","White and other","Inapplicable (age < 18)",124.772485194161,8.22276977219118
+"race","education","Hispanic","Missing",147.275202101544,42.5564613546362
+"race","education","Black","Missing",239.117425340833,61.7977606979857
+"race","education","White and other","Missing",265.101375881436,81.7120880382371
+"race","employed","Hispanic","Employed",142.811860958139,9.58319463068212
+"race","employed","Black","Employed",154.451126734622,12.6740616628976
+"race","employed","White and other","Employed",132.326263101813,5.40300293109455
+"race","employed","Hispanic","Not employed",164.490337053612,12.2354139056119
+"race","employed","Black","Not employed",188.268534661682,20.9501884564266
+"race","employed","White and other","Not employed",171.724803330726,7.021218511234
+"race","employed","Hispanic","Inapplicable (age < 16)",143.205514138149,17.886990397587
+"race","employed","Black","Inapplicable (age < 16)",95.4097074841901,8.22433154936072
+"race","employed","White and other","Inapplicable (age < 16)",127.194472336752,9.42874301240083
+"race","insurance","Hispanic","Any private, all ages",161.624572226531,10.540729814172
+"race","insurance","Black","Any private, all ages",165.830458994895,14.995515618907
+"race","insurance","White and other","Any private, all ages",144.845761945934,4.13939072684198
+"race","insurance","Hispanic","Public only, all ages",154.928765406063,14.0351288645707
+"race","insurance","Black","Public only, all ages",170.510137061543,20.3459580475855
+"race","insurance","White and other","Public only, all ages",172.019966599793,11.3526972531816
+"race","insurance","Hispanic","Uninsured, all ages",113.214609037459,13.2714872009498
+"race","insurance","Black","Uninsured, all ages",113.156432298763,14.9357357593483
+"race","insurance","White and other","Uninsured, all ages",133.584069970599,27.2785878208027
+"race","poverty","Hispanic","Negative or poor",175.461248244191,23.0406885785861
+"race","poverty","Black","Negative or poor",160.657711959402,25.1573353009223
+"race","poverty","White and other","Negative or poor",167.723906140002,16.6985113969728
+"race","poverty","Hispanic","Near-poor",128.479835128851,23.5702810507214
+"race","poverty","Black","Near-poor",143.876868325352,18.5507688727167
+"race","poverty","White and other","Near-poor",170.18800002303,22.1629768044575
+"race","poverty","Hispanic","Low income",163.248525223816,15.4801279814324
+"race","poverty","Black","Low income",159.432988571449,22.7512060075742
+"race","poverty","White and other","Low income",165.816065237271,11.8078878467942
+"race","poverty","Hispanic","Middle income",144.644314026113,12.0500082683212
+"race","poverty","Black","Middle income",176.365574483732,24.9970141919621
+"race","poverty","White and other","Middle income",153.840072893104,7.74460527057482
+"race","poverty","Hispanic","High income",139.512791337794,11.8908475306632
+"race","poverty","Black","High income",164.962946233126,21.75353092932
+"race","poverty","White and other","High income",136.803561334814,5.17455165132136
+"race","health","Hispanic","Excellent",183.10099246543,23.9368882382873
+"race","health","Black","Excellent",112.267768178872,9.74785176117141
+"race","health","White and other","Excellent",130.660182420535,3.97384210728499
+"race","health","Hispanic","Very good",132.623793232096,10.7196114977895
+"race","health","Black","Very good",144.981822345535,18.2335827807736
+"race","health","White and other","Very good",128.837056452257,7.29916436330226
+"race","health","Hispanic","Good",130.368250719649,9.0790299074341
+"race","health","Black","Good",131.944717633661,9.71984048077683
+"race","health","White and other","Good",136.553182826927,6.40894416789502
+"race","health","Hispanic","Fair",178.460014701312,22.3819793311173
+"race","health","Black","Fair",207.663173081821,27.1138496204681
+"race","health","White and other","Fair",163.638573693896,9.46083656900209
+"race","health","Hispanic","Poor",157.648495452797,20.8013976703446
+"race","health","Black","Poor",215.573986946646,51.2726504157546
+"race","health","White and other","Poor",245.044735598668,19.9762407801158
+"race","mnhlth","Hispanic","Excellent",171.682258792252,15.5984827592953
+"race","mnhlth","Black","Excellent",132.595027916762,10.8106061539814
+"race","mnhlth","White and other","Excellent",135.759414619755,5.27968098742353
+"race","mnhlth","Hispanic","Very good",141.561681568662,11.5980435010299
+"race","mnhlth","Black","Very good",135.012365257296,11.1233531937429
+"race","mnhlth","White and other","Very good",140.129343559147,7.76115198691023
+"race","mnhlth","Hispanic","Good",147.734007802464,17.698378721396
+"race","mnhlth","Black","Good",188.36618813826,22.1883736197016
+"race","mnhlth","White and other","Good",150.587160942459,6.74206874668607
+"race","mnhlth","Hispanic","Fair",151.578924571085,18.8863386083968
+"race","mnhlth","Black","Fair",139.264499882858,18.9539571383714
+"race","mnhlth","White and other","Fair",172.812451272499,15.0287495546778
+"race","mnhlth","Hispanic","Poor",145.753640887838,22.6265290434663
+"race","mnhlth","Black","Poor",271.666569322775,97.1835869531974
+"race","mnhlth","White and other","Poor",232.300367996829,25.9105211887203
+"race","agegrps_v2X","Hispanic","Under 18",150.591451753839,16.9483744193141
+"race","agegrps_v2X","Black","Under 18",94.2148805460385,7.76564660132349
+"race","agegrps_v2X","White and other","Under 18",124.772485194161,8.22276977219118
+"race","agegrps_v2X","Hispanic","18-64",143.228204478225,8.49842033563886
+"race","agegrps_v2X","Black","18-64",179.305708602907,17.8152452361656
+"race","agegrps_v2X","White and other","18-64",139.096663725813,5.07183639531153
+"race","agegrps_v2X","Hispanic","65+",185.74587900056,23.9277440052296
+"race","agegrps_v2X","Black","65+",166.114250186805,17.168175250895
+"race","agegrps_v2X","White and other","65+",180.522842836014,8.39142422041755
+"race","insurance_v2X","Hispanic","<65, Any private",163.018424276982,11.7316339553582
+"race","insurance_v2X","Black","<65, Any private",163.088513458924,17.3161350299766
+"race","insurance_v2X","White and other","<65, Any private",134.456964938914,4.51735255668419
+"race","insurance_v2X","Hispanic","<65, Public only",125.98749412104,10.9221212686847
+"race","insurance_v2X","Black","<65, Public only",177.451834276424,30.0723886122523
+"race","insurance_v2X","White and other","<65, Public only",152.933994167219,15.3928612403586
+"race","insurance_v2X","Hispanic","<65, Uninsured",113.386218671906,13.2885860840141
+"race","insurance_v2X","Black","<65, Uninsured",113.156432298763,14.9357357593483
+"race","insurance_v2X","White and other","<65, Uninsured",133.364322325853,27.3802704121919
+"race","insurance_v2X","Hispanic","65+, Medicare only",147.39968179657,29.0459134246127
+"race","insurance_v2X","Black","65+, Medicare only",133.960738169674,21.5064686290147
+"race","insurance_v2X","White and other","65+, Medicare only",172.805288253047,15.5035366009427
+"race","insurance_v2X","Hispanic","65+, Medicare and private",153.139596913941,23.8337007896565
+"race","insurance_v2X","Black","65+, Medicare and private",183.343811654684,31.0721461904959
+"race","insurance_v2X","White and other","65+, Medicare and private",177.202682387729,9.38132036361506
+"race","insurance_v2X","Hispanic","65+, Medicare and other public",227.427202175629,45.6500733976831
+"race","insurance_v2X","Black","65+, Medicare and other public",185.646141620749,35.5359233731357
+"race","insurance_v2X","White and other","65+, Medicare and other public",228.100566636492,35.2566153128217
+"race","insurance_v2X","Hispanic","65+, No medicare",83.1397612697438,13.2286500739212
+"race","insurance_v2X","Black","65+, No medicare",118.290748869576,36.9899939989754
+"race","insurance_v2X","White and other","65+, No medicare",222.072286810861,86.1736330661901
+"race","event_v2X","Hispanic","Missing",107.393685652747,48.3634521844633
+"race","event_v2X","Black","Missing",148.81149437628,66.3119810981926
+"race","event_v2X","White and other","Missing",141.633861242183,31.2938003825715
+"race","event_v2X","Hispanic","OBD",86.0088586002702,3.5706591885328
+"race","event_v2X","Black","OBD",94.5757312210916,5.05504293244245
+"race","event_v2X","White and other","OBD",104.308684485449,2.14068996494087
+"race","event_v2X","Hispanic","OBO",92.5368739966715,11.5101390376036
+"race","event_v2X","Black","OBO",87.7199017833819,10.4366495720534
+"race","event_v2X","White and other","OBO",69.9584527913181,2.73434599329695
+"race","event_v2X","Hispanic","OPY",657.580862904572,77.6732393531427
+"race","event_v2X","Black","OPY",609.946924396543,105.61925717447
+"race","event_v2X","White and other","OPY",881.378385874442,83.8670333916961
+"race","event_v2X","Hispanic","OPZ",220.199849495045,38.785902272445
+"race","event_v2X","Black","OPZ",203.643312145008,44.6426501232822
+"race","event_v2X","White and other","OPZ",235.352710176999,14.0929074009201
+"sex","education","Male","Less than high school",188.821385502283,15.5101518073348
+"sex","education","Female","Less than high school",154.412376472784,9.50858891044002
+"sex","education","Male","High school",167.59157142412,12.5971266158286
+"sex","education","Female","High school",146.935558575022,7.18969002235292
+"sex","education","Male","Some college",155.069519048445,7.94021250978632
+"sex","education","Female","Some college",143.417900185109,7.88275065912001
+"sex","education","Male","Inapplicable (age < 18)",117.164811999793,8.3141878564259
+"sex","education","Female","Inapplicable (age < 18)",133.454637689064,10.9681881785961
+"sex","education","Male","Missing",281.482908421992,122.843462525715
+"sex","education","Female","Missing",214.196763778609,38.690286379669
+"sex","employed","Male","Employed",140.694040396418,6.95695465073812
+"sex","employed","Female","Employed",130.562220250037,6.48118249154712
+"sex","employed","Male","Not employed",194.123037581161,11.4715855603677
+"sex","employed","Female","Not employed",161.070551576233,7.07571983856506
+"sex","employed","Male","Inapplicable (age < 16)",117.434504027108,9.3169478312347
+"sex","employed","Female","Inapplicable (age < 16)",136.03295226241,12.594197150122
+"sex","insurance","Male","Any private, all ages",154.796907819458,5.83322687554931
+"sex","insurance","Female","Any private, all ages",141.785994727037,4.85715865919004
+"sex","insurance","Male","Public only, all ages",171.901236240017,13.5753800321825
+"sex","insurance","Female","Public only, all ages",168.460027401946,11.4722965121008
+"sex","insurance","Male","Uninsured, all ages",178.777022483677,48.1855087999278
+"sex","insurance","Female","Uninsured, all ages",94.9967122013424,6.74962032735904
+"sex","poverty","Male","Negative or poor",184.735308456988,25.4960359836878
+"sex","poverty","Female","Negative or poor",158.401454916639,12.0592300779215
+"sex","poverty","Male","Near-poor",146.307658702858,17.7933267766546
+"sex","poverty","Female","Near-poor",169.910709945228,22.8264020440655
+"sex","poverty","Male","Low income",176.099874039251,15.3386053484
+"sex","poverty","Female","Low income",158.890913202925,12.6034359534981
+"sex","poverty","Male","Middle income",164.501519089972,10.1879165621185
+"sex","poverty","Female","Middle income",148.375032590027,9.44212798305238
+"sex","poverty","Male","High income",145.945752183996,8.1002210085034
+"sex","poverty","Female","High income",132.765305316385,5.17104398967312
+"sex","health","Male","Excellent",143.195670356107,7.2708826583087
+"sex","health","Female","Excellent",126.289354360346,4.54933435621704
+"sex","health","Male","Very good",136.343230691094,9.61808610064729
+"sex","health","Female","Very good",126.323619948432,8.792511605318
+"sex","health","Male","Good",142.763709044672,9.67775387897213
+"sex","health","Female","Good",131.006274595569,5.81593382326086
+"sex","health","Male","Fair",180.745727967541,14.8878561709352
+"sex","health","Female","Fair",164.607934037134,10.9623312884544
+"sex","health","Male","Poor",232.877377584644,22.6887436304419
+"sex","health","Female","Poor",237.12287674112,23.275090006212
+"sex","mnhlth","Male","Excellent",148.273205479107,8.21123658476158
+"sex","mnhlth","Female","Excellent",131.593897233477,5.3295617709851
+"sex","mnhlth","Male","Very good",148.094844639727,11.244034974576
+"sex","mnhlth","Female","Very good",134.722236296539,8.7533726469424
+"sex","mnhlth","Male","Good",158.912296546623,9.77992531428756
+"sex","mnhlth","Female","Good",150.532298034925,7.91660714225077
+"sex","mnhlth","Male","Fair",167.814329990802,16.8035429366519
+"sex","mnhlth","Female","Fair",166.71265058598,16.9983007915335
+"sex","mnhlth","Male","Poor",258.08347700256,49.1957442696532
+"sex","mnhlth","Female","Poor",214.039953547979,24.992180611369
+"sex","agegrps_v2X","Male","Under 18",117.164811999793,8.3141878564259
+"sex","agegrps_v2X","Female","Under 18",133.454637689064,10.9681881785961
+"sex","agegrps_v2X","Male","18-64",151.286014155066,8.15528660386791
+"sex","agegrps_v2X","Female","18-64",138.479428939054,5.63076263503974
+"sex","agegrps_v2X","Male","65+",199.695760870586,13.1005169626163
+"sex","agegrps_v2X","Female","65+",166.670849624644,8.40401802647483
+"sex","insurance_v2X","Male","<65, Any private",141.331098334646,6.05837424011969
+"sex","insurance_v2X","Female","<65, Any private",135.837752212986,5.62416448493215
+"sex","insurance_v2X","Male","<65, Public only",138.380809040666,15.7552124424705
+"sex","insurance_v2X","Female","<65, Public only",163.999817483766,17.0160416243616
+"sex","insurance_v2X","Male","<65, Uninsured",178.500568005529,48.4551441164145
+"sex","insurance_v2X","Female","<65, Uninsured",95.0902053837303,6.75897318929023
+"sex","insurance_v2X","Male","65+, Medicare only",211.505162290796,27.9452651530166
+"sex","insurance_v2X","Female","65+, Medicare only",140.080231778277,10.511346468498
+"sex","insurance_v2X","Male","65+, Medicare and private",198.624341426409,14.6531450460395
+"sex","insurance_v2X","Female","65+, Medicare and private",161.47800573574,10.3082013695419
+"sex","insurance_v2X","Male","65+, Medicare and other public",174.298141040356,28.7013691152927
+"sex","insurance_v2X","Female","65+, Medicare and other public",236.033080722572,30.757273105195
+"sex","insurance_v2X","Male","65+, No medicare",123.167442011466,27.5552630153781
+"sex","insurance_v2X","Female","65+, No medicare",263.885393041172,136.411901084839
+"sex","event_v2X","Male","Missing",123.527521868135,23.5929360399034
+"sex","event_v2X","Female","Missing",152.485060801842,46.0313814461489
+"sex","event_v2X","Male","OBD",105.178516468955,3.04375595834299
+"sex","event_v2X","Female","OBD",99.6137135167502,2.16655984454313
+"sex","event_v2X","Male","OBO",66.3495791644695,4.26410651923157
+"sex","event_v2X","Female","OBO",75.5354601537052,2.97713997654154
+"sex","event_v2X","Male","OPY",752.671551880556,102.213816864095
+"sex","event_v2X","Female","OPY",904.540884277905,55.1772498569578
+"sex","event_v2X","Male","OPZ",231.65027886903,20.4483934454044
+"sex","event_v2X","Female","OPZ",231.426698934663,14.5471919831149
+"education","employed","Less than high school","Employed",134.329757955927,8.11578640197132
+"education","employed","High school","Employed",136.715197882344,8.81696853287433
+"education","employed","Some college","Employed",134.089605315869,7.06870109327455
+"education","employed","Inapplicable (age < 18)","Employed",124.021782321813,15.7889006335776
+"education","employed","Missing","Employed",96.1000565708068,16.5295658598084
+"education","employed","Less than high school","Not employed",178.095287527029,10.9268702462613
+"education","employed","High school","Not employed",169.046055763139,9.22352039047848
+"education","employed","Some college","Not employed",170.976714829014,9.94359743179171
+"education","employed","Inapplicable (age < 18)","Not employed",112.15957785599,12.1116430378972
+"education","employed","Missing","Not employed",304.13349938694,83.6500466374657
+"education","employed","Inapplicable (age < 18)","Inapplicable (age < 16)",125.896784738677,7.82134874953224
+"education","insurance","Less than high school","Any private, all ages",167.663468563759,11.5163752269106
+"education","insurance","High school","Any private, all ages",146.778365978206,6.63347564956091
+"education","insurance","Some college","Any private, all ages",147.851452033905,6.36443948577374
+"education","insurance","Inapplicable (age < 18)","Any private, all ages",123.010841152872,7.46619215887125
+"education","insurance","Missing","Any private, all ages",231.490990826533,117.369602317167
+"education","insurance","Less than high school","Public only, all ages",170.165167139349,12.1407723004158
+"education","insurance","High school","Public only, all ages",181.03402194221,16.773409590425
+"education","insurance","Some college","Public only, all ages",164.690162220813,18.8808022278522
+"education","insurance","Inapplicable (age < 18)","Public only, all ages",123.983594369694,17.2682055767633
+"education","insurance","Missing","Public only, all ages",258.251134383705,68.1301420537507
+"education","insurance","Less than high school","Uninsured, all ages",149.360136563711,52.3998914718452
+"education","insurance","High school","Uninsured, all ages",127.570090854665,14.4541251076257
+"education","insurance","Some college","Uninsured, all ages",90.5962882865851,8.87167171751626
+"education","insurance","Inapplicable (age < 18)","Uninsured, all ages",166.444103297995,60.1557078178342
+"education","insurance","Missing","Uninsured, all ages",96.7234559631743,42.4917559402631
+"education","poverty","Less than high school","Negative or poor",192.002155127916,23.8200657339383
+"education","poverty","High school","Negative or poor",165.617691348273,19.7864168834187
+"education","poverty","Some college","Negative or poor",140.901120220772,14.8831432646298
+"education","poverty","Inapplicable (age < 18)","Negative or poor",131.853380432731,18.0339478853983
+"education","poverty","Missing","Negative or poor",222.671758628126,85.5502502544367
+"education","poverty","Less than high school","Near-poor",156.938072622885,21.5826421862285
+"education","poverty","High school","Near-poor",163.140723925683,34.7469503855443
+"education","poverty","Some college","Near-poor",171.105513363664,45.3925313090675
+"education","poverty","Inapplicable (age < 18)","Near-poor",145.307656514706,34.8551744390916
+"education","poverty","Missing","Near-poor",271.285650963405,103.61042473972
+"education","poverty","Less than high school","Low income",173.043027852872,18.5713413918212
+"education","poverty","High school","Low income",169.443904262647,13.1318610395022
+"education","poverty","Some college","Low income",146.574133134082,17.6054407045935
+"education","poverty","Inapplicable (age < 18)","Low income",137.925535421745,28.7195134796759
+"education","poverty","Missing","Low income",435.927528485948,207.648196617395
+"education","poverty","Less than high school","Middle income",161.843594017322,11.890021947203
+"education","poverty","High school","Middle income",155.791110762057,11.2761667179969
+"education","poverty","Some college","Middle income",161.748381461289,15.643200413041
+"education","poverty","Inapplicable (age < 18)","Middle income",121.152850225249,11.9719479806824
+"education","poverty","Missing","Middle income",187.565777401815,57.4318041131035
+"education","poverty","Less than high school","High income",138.660921051469,10.4599012686952
+"education","poverty","High school","High income",142.263733677651,10.9220570328551
+"education","poverty","Some college","High income",141.141614301511,5.79763528453946
+"education","poverty","Inapplicable (age < 18)","High income",116.543249430533,9.05853547657484
+"education","poverty","Missing","High income",120.914297172194,28.6663142374984
+"education","health","Less than high school","Excellent",124.246933180558,8.60664069368102
+"education","health","High school","Excellent",137.228266981757,16.9125891788914
+"education","health","Some college","Excellent",141.047361675883,6.66193729445487
+"education","health","Inapplicable (age < 18)","Excellent",119.771632040208,6.57929240367137
+"education","health","Missing","Excellent",99.7839830046499,37.9339083679633
+"education","health","Less than high school","Very good",144.063346571083,22.5199693050121
+"education","health","High school","Very good",130.295207295225,7.77241437113277
+"education","health","Some college","Very good",136.324976480906,12.02566849638
+"education","health","Inapplicable (age < 18)","Very good",100.228357230349,8.46337052478128
+"education","health","Missing","Very good",221.653399656051,104.191045876885
+"education","health","Less than high school","Good",133.219201250548,8.8101360599673
+"education","health","High school","Good",153.437338395691,12.2666432352787
+"education","health","Some college","Good",121.647806876565,4.73900054619993
+"education","health","Inapplicable (age < 18)","Good",121.933489783637,16.7178698491507
+"education","health","Missing","Good",175.578650511336,47.0565967349474
+"education","health","Less than high school","Fair",184.770497480306,16.2629406196123
+"education","health","High school","Fair",156.458771462347,14.6601177472478
+"education","health","Some college","Fair",162.77110902417,15.6076099380571
+"education","health","Inapplicable (age < 18)","Fair",185.322275895747,43.0486015370679
+"education","health","Missing","Fair",298.464728843011,122.283693148507
+"education","health","Less than high school","Poor",214.446013729817,26.1785683334204
+"education","health","High school","Poor",208.477831157694,22.5349902449214
+"education","health","Some college","Poor",272.263915777287,35.2560078385973
+"education","health","Inapplicable (age < 18)","Poor",591.555896560812,207.851926510299
+"education","health","Missing","Poor",248.143548518089,146.768090306226
+"education","mnhlth","Less than high school","Excellent",142.53799045779,11.7262405108263
+"education","mnhlth","High school","Excellent",145.83949901808,12.6613158587182
+"education","mnhlth","Some college","Excellent",140.343727465079,5.39595397496579
+"education","mnhlth","Inapplicable (age < 18)","Excellent",120.776095498492,7.1079608028862
+"education","mnhlth","Missing","Excellent",157.865129332298,52.8129078347642
+"education","mnhlth","Less than high school","Very good",154.227888456259,16.8147786463341
+"education","mnhlth","High school","Very good",138.204774771678,11.2694849383191
+"education","mnhlth","Some college","Very good",147.8101969925,12.9690017422881
+"education","mnhlth","Inapplicable (age < 18)","Very good",101.829769427432,7.56117746883085
+"education","mnhlth","Missing","Very good",85.2095939939086,19.8473460939487
+"education","mnhlth","Less than high school","Good",163.736110153908,11.8941258046504
+"education","mnhlth","High school","Good",158.084505634663,10.4783108261204
+"education","mnhlth","Some college","Good",141.230856994181,10.469618083157
+"education","mnhlth","Inapplicable (age < 18)","Good",143.447813596175,24.0371221274492
+"education","mnhlth","Missing","Good",198.631160046083,67.8712582255211
+"education","mnhlth","Less than high school","Fair",175.717701384171,25.6401553094439
+"education","mnhlth","High school","Fair",161.572134919179,20.4215421660723
+"education","mnhlth","Some college","Fair",161.02366503358,22.0146772670319
+"education","mnhlth","Inapplicable (age < 18)","Fair",163.057987527314,49.7933730160216
+"education","mnhlth","Missing","Fair",250.341883937685,94.3539589013229
+"education","mnhlth","Less than high school","Poor",206.482182769332,38.0868147298487
+"education","mnhlth","High school","Poor",227.680259253852,43.2642362503781
+"education","mnhlth","Some college","Poor",226.451636216187,50.4145472337238
+"education","mnhlth","Inapplicable (age < 18)","Poor",290.277487125234,98.5721084023111
+"education","mnhlth","Missing","Poor",556.774165310748,202.231072525642
+"education","agegrps_v2X","Inapplicable (age < 18)","Under 18",124.643700372776,6.90141679025992
+"education","agegrps_v2X","Less than high school","18-64",142.201085146065,11.2191946373422
+"education","agegrps_v2X","High school","18-64",146.844994406114,7.59037646263125
+"education","agegrps_v2X","Some college","18-64",141.258899015935,6.69025252928711
+"education","agegrps_v2X","Missing","18-64",119.051039890838,16.6114940496105
+"education","agegrps_v2X","Less than high school","65+",194.793707329972,13.1922524979821
+"education","agegrps_v2X","High school","65+",168.116861483143,11.4593535936869
+"education","agegrps_v2X","Some college","65+",169.249143549846,11.7892596774189
+"education","agegrps_v2X","Missing","65+",316.802702165213,94.4144075966233
+"education","insurance_v2X","Less than high school","<65, Any private",150.743537839986,10.2791217105268
+"education","insurance_v2X","High school","<65, Any private",139.190888819079,8.13184048696452
+"education","insurance_v2X","Some college","<65, Any private",140.913479111258,7.09582624721375
+"education","insurance_v2X","Inapplicable (age < 18)","<65, Any private",123.010841152872,7.46619215887125
+"education","insurance_v2X","Missing","<65, Any private",95.256778283525,13.8066644593801
+"education","insurance_v2X","Less than high school","<65, Public only",129.96235971784,15.9293743131151
+"education","insurance_v2X","High school","<65, Public only",191.797788034348,25.0589370837668
+"education","insurance_v2X","Some college","<65, Public only",198.916357455507,37.2099076167611
+"education","insurance_v2X","Inapplicable (age < 18)","<65, Public only",123.983594369694,17.2682055767633
+"education","insurance_v2X","Missing","<65, Public only",156.028873191236,27.198013486217
+"education","insurance_v2X","Less than high school","<65, Uninsured",149.715591602309,52.5635684296014
+"education","insurance_v2X","High school","<65, Uninsured",127.570090854665,14.4541251076257
+"education","insurance_v2X","Some college","<65, Uninsured",89.5805502192444,8.84587917941071
+"education","insurance_v2X","Inapplicable (age < 18)","<65, Uninsured",166.444103297995,60.1557078178342
+"education","insurance_v2X","Missing","<65, Uninsured",96.7234559631743,42.4917559402631
+"education","insurance_v2X","Less than high school","65+, Medicare only",189.924311789798,21.649652148994
+"education","insurance_v2X","High school","65+, Medicare only",172.973762997556,23.8044930212334
+"education","insurance_v2X","Some college","65+, Medicare only",132.715927693057,19.5306282465185
+"education","insurance_v2X","Missing","65+, Medicare only",202.316784823919,96.5399407799997
+"education","insurance_v2X","Less than high school","65+, Medicare and private",185.854720939467,20.0034342840041
+"education","insurance_v2X","High school","65+, Medicare and private",164.006236292399,12.070513141043
+"education","insurance_v2X","Some college","65+, Medicare and private",179.865910879287,14.1777206767202
+"education","insurance_v2X","Missing","65+, Medicare and private",445.124889127963,285.740699095428
+"education","insurance_v2X","Less than high school","65+, Medicare and other public",221.804776657209,30.3199503497836
+"education","insurance_v2X","High school","65+, Medicare and other public",174.189501815862,44.9723037270765
+"education","insurance_v2X","Some college","65+, Medicare and other public",222.16105845928,53.8144389540245
+"education","insurance_v2X","Missing","65+, Medicare and other public",512.211242931932,116.140972124615
+"education","insurance_v2X","Less than high school","65+, No medicare",114.645164874492,51.5926958071456
+"education","insurance_v2X","High school","65+, No medicare",284.815799432003,208.737189566362
+"education","insurance_v2X","Some college","65+, No medicare",144.748963273838,39.4001462926454
+"education","event_v2X","Less than high school","Missing",107.481796137052,33.1677465776374
+"education","event_v2X","High school","Missing",236.669099888595,86.2598843780793
+"education","event_v2X","Some college","Missing",123.946037589439,24.0395577916429
+"education","event_v2X","Inapplicable (age < 18)","Missing",84.6528755728699,22.2768387891932
+"education","event_v2X","Missing","Missing",107.425245662315,53.6279662440848
+"education","event_v2X","Less than high school","OBD",104.085501712152,4.91606386699951
+"education","event_v2X","High school","OBD",104.029827242163,2.9484870362171
+"education","event_v2X","Some college","OBD",115.163506086393,3.18807305010543
+"education","event_v2X","Inapplicable (age < 18)","OBD",70.1976045369273,1.98312666219285
+"education","event_v2X","Missing","OBD",70.7360167608924,5.91190371389465
+"education","event_v2X","Less than high school","OBO",73.8542367127969,6.45677657969256
+"education","event_v2X","High school","OBO",75.8633528831505,5.17239381397001
+"education","event_v2X","Some college","OBO",74.6475725638916,3.00800034872959
+"education","event_v2X","Inapplicable (age < 18)","OBO",57.3005182110184,6.20106122823982
+"education","event_v2X","Missing","OBO",100.598315052035,44.2479053447077
+"education","event_v2X","Less than high school","OPY",825.515973685759,86.901477552067
+"education","event_v2X","High school","OPY",669.311019356882,113.31482436512
+"education","event_v2X","Some college","OPY",986.478144773704,89.4457184237776
+"education","event_v2X","Inapplicable (age < 18)","OPY",857.515516190093,122.050386609936
+"education","event_v2X","Missing","OPY",646.259380666307,412.044111757054
+"education","event_v2X","Less than high school","OPZ",213.204293552699,26.4805924675701
+"education","event_v2X","High school","OPZ",248.62892834118,18.1235153841846
+"education","event_v2X","Some college","OPZ",225.693935134134,20.7833696367387
+"education","event_v2X","Inapplicable (age < 18)","OPZ",230.570011674077,52.4215894084768
+"education","event_v2X","Missing","OPZ",151.53081037523,74.1072503359716
+"employed","insurance","Employed","Any private, all ages",136.354256273153,5.25869430833591
+"employed","insurance","Not employed","Any private, all ages",170.332883508374,7.42840936153383
+"employed","insurance","Inapplicable (age < 16)","Any private, all ages",123.017268272342,8.45910739982739
+"employed","insurance","Employed","Public only, all ages",128.799329238754,19.2144151463236
+"employed","insurance","Not employed","Public only, all ages",179.09556527457,10.2741125646743
+"employed","insurance","Inapplicable (age < 16)","Public only, all ages",129.320353672753,18.9426144179862
+"employed","insurance","Employed","Uninsured, all ages",110.640066695677,8.81933509543215
+"employed","insurance","Not employed","Uninsured, all ages",138.557630323306,42.7783669968217
+"employed","insurance","Inapplicable (age < 16)","Uninsured, all ages",171.939664057728,66.4715899375281
+"employed","poverty","Employed","Negative or poor",141.401956605593,25.0917577102497
+"employed","poverty","Not employed","Negative or poor",178.833414173679,15.6890768236746
+"employed","poverty","Inapplicable (age < 16)","Negative or poor",133.847084161968,19.7524905388217
+"employed","poverty","Employed","Near-poor",150.444858898306,29.4746419462141
+"employed","poverty","Not employed","Near-poor",166.8951114233,21.6186363281022
+"employed","poverty","Inapplicable (age < 16)","Near-poor",154.289188180418,38.4564568087607
+"employed","poverty","Employed","Low income",143.684702294338,10.8593110478365
+"employed","poverty","Not employed","Low income",177.477240998783,13.0493095046626
+"employed","poverty","Inapplicable (age < 16)","Low income",141.669193944728,31.9615130519584
+"employed","poverty","Employed","Middle income",143.873403088484,11.69152388372
+"employed","poverty","Not employed","Middle income",172.284705668708,10.3046472793727
+"employed","poverty","Inapplicable (age < 16)","Middle income",120.405240624954,13.1329258556178
+"employed","poverty","Employed","High income",127.359689428681,5.21785571521552
+"employed","poverty","Not employed","High income",166.931259879108,11.5041975362887
+"employed","poverty","Inapplicable (age < 16)","High income",116.470378738416,10.4373082509898
+"employed","health","Employed","Excellent",135.353456044597,5.19843350208105
+"employed","health","Not employed","Excellent",141.53538024537,15.7359917552171
+"employed","health","Inapplicable (age < 16)","Excellent",118.279985022087,7.38382807221389
+"employed","health","Employed","Very good",136.840560720235,10.5215718306489
+"employed","health","Not employed","Very good",132.701678667774,9.82345947669521
+"employed","health","Inapplicable (age < 16)","Very good",100.904170620064,9.3158015811364
+"employed","health","Employed","Good",131.696669275253,8.67184999279434
+"employed","health","Not employed","Good",141.411711163322,6.99920514326435
+"employed","health","Inapplicable (age < 16)","Good",122.797315784249,19.8361031631388
+"employed","health","Employed","Fair",126.116248359324,8.83093375723996
+"employed","health","Not employed","Fair",189.308759500214,12.5428194217334
+"employed","health","Inapplicable (age < 16)","Fair",193.338362063517,46.8974201282613
+"employed","health","Employed","Poor",171.498641837351,22.8967319733354
+"employed","health","Not employed","Poor",236.468244310993,18.4709870882883
+"employed","health","Inapplicable (age < 16)","Poor",676.742355277656,246.310925898193
+"employed","mnhlth","Employed","Excellent",132.927380127783,4.48881285488776
+"employed","mnhlth","Not employed","Excellent",157.346593348362,12.5120452099589
+"employed","mnhlth","Inapplicable (age < 16)","Excellent",119.170026555626,7.93122354314483
+"employed","mnhlth","Employed","Very good",140.263890884613,11.9208181603399
+"employed","mnhlth","Not employed","Very good",150.273027559773,9.48809613114734
+"employed","mnhlth","Inapplicable (age < 16)","Very good",100.775691567931,8.23506774014308
+"employed","mnhlth","Employed","Good",131.563382377769,7.67247057926206
+"employed","mnhlth","Not employed","Good",169.38310085351,9.20825966643242
+"employed","mnhlth","Inapplicable (age < 16)","Good",153.171103126504,29.1447505848986
+"employed","mnhlth","Employed","Fair",129.028695758833,12.6849961677567
+"employed","mnhlth","Not employed","Fair",181.335514598866,16.6846363938233
+"employed","mnhlth","Inapplicable (age < 16)","Fair",170.991646386528,55.4690621938543
+"employed","mnhlth","Employed","Poor",117.197248754473,23.6762479496799
+"employed","mnhlth","Not employed","Poor",238.80218411264,26.975338571939
+"employed","mnhlth","Inapplicable (age < 16)","Poor",318.187120112888,110.42707746771
+"employed","agegrps_v2X","Employed","Under 18",124.021782321813,15.7889006335776
+"employed","agegrps_v2X","Not employed","Under 18",112.15957785599,12.1116430378972
+"employed","agegrps_v2X","Inapplicable (age < 16)","Under 18",125.896784738677,7.82134874953224
+"employed","agegrps_v2X","Employed","18-64",134.680799690237,5.15428756379102
+"employed","agegrps_v2X","Not employed","18-64",159.973514664044,9.5264505632553
+"employed","agegrps_v2X","Employed","65+",135.894085549942,14.427560074714
+"employed","agegrps_v2X","Not employed","65+",184.664707741828,8.19042554049564
+"employed","insurance_v2X","Employed","<65, Any private",135.699309986987,5.47393757678593
+"employed","insurance_v2X","Not employed","<65, Any private",156.378267757436,9.88270498281253
+"employed","insurance_v2X","Inapplicable (age < 16)","<65, Any private",123.017268272342,8.45910739982739
+"employed","insurance_v2X","Employed","<65, Public only",141.353760374864,29.0874240418141
+"employed","insurance_v2X","Not employed","<65, Public only",163.372126203455,15.7345376228824
+"employed","insurance_v2X","Inapplicable (age < 16)","<65, Public only",129.320353672753,18.9426144179862
+"employed","insurance_v2X","Employed","<65, Uninsured",110.640066695677,8.81933509543215
+"employed","insurance_v2X","Not employed","<65, Uninsured",138.318217828755,43.1120941809162
+"employed","insurance_v2X","Inapplicable (age < 16)","<65, Uninsured",171.939664057728,66.4715899375281
+"employed","insurance_v2X","Employed","65+, Medicare only",106.298945233752,11.4588004808999
+"employed","insurance_v2X","Not employed","65+, Medicare only",174.704349955008,15.0213471099923
+"employed","insurance_v2X","Employed","65+, Medicare and private",146.674885328597,20.5956102737836
+"employed","insurance_v2X","Not employed","65+, Medicare and private",181.182827997056,9.9686941355098
+"employed","insurance_v2X","Employed","65+, Medicare and other public",123.160967425133,42.830546757154
+"employed","insurance_v2X","Not employed","65+, Medicare and other public",221.894787205583,25.3409914717364
+"employed","insurance_v2X","Employed","65+, No medicare",154.127926314224,35.7545343796083
+"employed","insurance_v2X","Not employed","65+, No medicare",180.935826672647,110.877804660604
+"employed","event_v2X","Employed","Missing",96.0654430686011,11.6276462217057
+"employed","event_v2X","Not employed","Missing",229.859214775562,68.4869421889523
+"employed","event_v2X","Inapplicable (age < 16)","Missing",82.4753221585617,22.2140628782749
+"employed","event_v2X","Employed","OBD",112.296254329122,3.07430912295767
+"employed","event_v2X","Not employed","OBD",103.390650009073,2.52583441166332
+"employed","event_v2X","Inapplicable (age < 16)","OBD",70.631767931755,2.14538602028031
+"employed","event_v2X","Employed","OBO",73.1461341709649,2.74718445826254
+"employed","event_v2X","Not employed","OBO",77.2131102153414,4.93581487142885
+"employed","event_v2X","Inapplicable (age < 16)","OBO",55.9893709933322,6.83255715867478
+"employed","event_v2X","Employed","OPY",1101.23602696668,84.9513760126104
+"employed","event_v2X","Not employed","OPY",611.717655395814,76.5675702700424
+"employed","event_v2X","Inapplicable (age < 16)","OPY",905.707391509632,133.213508693612
+"employed","event_v2X","Employed","OPZ",224.063125160634,20.4289862045408
+"employed","event_v2X","Not employed","OPZ",238.41334886092,15.8424175551585
+"employed","event_v2X","Inapplicable (age < 16)","OPZ",232.308418248252,59.0491917693129
+"insurance","poverty","Any private, all ages","Negative or poor",167.712701475407,18.296011899456
+"insurance","poverty","Public only, all ages","Negative or poor",169.447465469259,13.8119285558246
+"insurance","poverty","Uninsured, all ages","Negative or poor",149.756836777062,72.1429858407483
+"insurance","poverty","Any private, all ages","Near-poor",169.882475976066,23.5836298817749
+"insurance","poverty","Public only, all ages","Near-poor",166.019904792225,23.7607151037403
+"insurance","poverty","Uninsured, all ages","Near-poor",86.43194553874,14.6949532431063
+"insurance","poverty","Any private, all ages","Low income",171.262764445164,13.798162406504
+"insurance","poverty","Public only, all ages","Low income",167.492823748268,15.6873630378702
+"insurance","poverty","Uninsured, all ages","Low income",97.7406583153703,12.5021799183986
+"insurance","poverty","Any private, all ages","Middle income",151.517809310484,7.86760588551236
+"insurance","poverty","Public only, all ages","Middle income",172.982745008453,19.2064397618048
+"insurance","poverty","Uninsured, all ages","Middle income",135.775623885014,14.3629662611679
+"insurance","poverty","Any private, all ages","High income",136.049339906879,5.2380388529804
+"insurance","poverty","Public only, all ages","High income",171.07927768984,22.1233401084191
+"insurance","poverty","Uninsured, all ages","High income",137.30918061641,34.598876622468
+"insurance","health","Any private, all ages","Excellent",133.526098306384,4.42120811918901
+"insurance","health","Public only, all ages","Excellent",136.271006654738,30.7894272273193
+"insurance","health","Uninsured, all ages","Excellent",113.621867720045,12.2884513910688
+"insurance","health","Any private, all ages","Very good",128.547705442021,7.01731511716533
+"insurance","health","Public only, all ages","Very good",122.287634150916,11.8960435894267
+"insurance","health","Uninsured, all ages","Very good",200.722221486899,76.3968287565469
+"insurance","health","Any private, all ages","Good",133.29819600297,6.44995439366637
+"insurance","health","Public only, all ages","Good",149.464135772798,11.9215983352122
+"insurance","health","Uninsured, all ages","Good",104.969817915101,15.4973725018504
+"insurance","health","Any private, all ages","Fair",175.910073481744,11.4990352925522
+"insurance","health","Public only, all ages","Fair",170.045857351799,17.969570180598
+"insurance","health","Uninsured, all ages","Fair",101.45061557581,16.4680868197178
+"insurance","health","Any private, all ages","Poor",259.916975777802,26.7594057557351
+"insurance","health","Public only, all ages","Poor",220.202181620348,23.1786263615007
+"insurance","health","Uninsured, all ages","Poor",94.2727101477803,18.1177574949879
+"insurance","mnhlth","Any private, all ages","Excellent",135.055959046284,3.99713724154355
+"insurance","mnhlth","Public only, all ages","Excellent",155.848316115199,23.3839951678222
+"insurance","mnhlth","Uninsured, all ages","Excellent",138.874336797768,25.745026906458
+"insurance","mnhlth","Any private, all ages","Very good",136.226734615217,7.50705045080666
+"insurance","mnhlth","Public only, all ages","Very good",149.129289583462,13.5498011902315
+"insurance","mnhlth","Uninsured, all ages","Very good",171.113894536441,64.9235059296669
+"insurance","mnhlth","Any private, all ages","Good",154.988972727709,7.40184182736643
+"insurance","mnhlth","Public only, all ages","Good",161.110051867782,13.6640992010013
+"insurance","mnhlth","Uninsured, all ages","Good",99.9581988938344,13.9677744333223
+"insurance","mnhlth","Any private, all ages","Fair",176.796157164994,21.2935093330119
+"insurance","mnhlth","Public only, all ages","Fair",162.800897673189,16.9845820417429
+"insurance","mnhlth","Uninsured, all ages","Fair",102.862471239677,15.3839853797492
+"insurance","mnhlth","Any private, all ages","Poor",276.268892689168,41.3232042259166
+"insurance","mnhlth","Public only, all ages","Poor",211.899857543767,29.5684442641874
+"insurance","mnhlth","Uninsured, all ages","Poor",71.1987528416604,19.8885807967855
+"insurance","agegrps_v2X","Any private, all ages","Under 18",123.010841152872,7.46619215887125
+"insurance","agegrps_v2X","Public only, all ages","Under 18",123.983594369694,17.2682055767633
+"insurance","agegrps_v2X","Uninsured, all ages","Under 18",166.444103297995,60.1557078178342
+"insurance","agegrps_v2X","Any private, all ages","18-64",141.264212439917,4.92812276861375
+"insurance","agegrps_v2X","Public only, all ages","18-64",162.028717568864,14.0827235029058
+"insurance","agegrps_v2X","Uninsured, all ages","18-64",122.768535818429,20.0497452968303
+"insurance","agegrps_v2X","Any private, all ages","65+",176.819876678475,8.9505922904886
+"insurance","agegrps_v2X","Public only, all ages","65+",183.498791465145,12.0905679224459
+"insurance","agegrps_v2X","Uninsured, all ages","65+",168.713894753335,40.8814903274766
+"insurance","event_v2X","Any private, all ages","Missing",141.007199700253,36.3257579607045
+"insurance","event_v2X","Public only, all ages","Missing",171.332758153152,55.2406121955313
+"insurance","event_v2X","Uninsured, all ages","Missing",80.5768716129071,20.5957815097241
+"insurance","event_v2X","Any private, all ages","OBD",108.567936606574,2.09644408167133
+"insurance","event_v2X","Public only, all ages","OBD",81.8744798238195,3.29628114543227
+"insurance","event_v2X","Uninsured, all ages","OBD",81.4466380008055,4.73888356017474
+"insurance","event_v2X","Any private, all ages","OBO",75.9470307766396,3.25228053840081
+"insurance","event_v2X","Public only, all ages","OBO",56.8177090198578,4.74432847569476
+"insurance","event_v2X","Uninsured, all ages","OBO",55.2449606713156,5.19021612235289
+"insurance","event_v2X","Any private, all ages","OPY",1009.55372998439,60.7661876018904
+"insurance","event_v2X","Public only, all ages","OPY",481.300889428858,88.2880343117091
+"insurance","event_v2X","Uninsured, all ages","OPY",576.490375092116,119.12040414314
+"insurance","event_v2X","Any private, all ages","OPZ",244.527636566828,15.7183969695012
+"insurance","event_v2X","Public only, all ages","OPZ",195.421644077967,25.2163961925069
+"insurance","event_v2X","Uninsured, all ages","OPZ",220.302290772561,61.7331684015084
+"poverty","health","Negative or poor","Excellent",141.804154218508,20.2605973975689
+"poverty","health","Near-poor","Excellent",100.832814467051,12.219862218524
+"poverty","health","Low income","Excellent",116.720309966795,12.1363258675026
+"poverty","health","Middle income","Excellent",148.636127057298,13.2259132226721
+"poverty","health","High income","Excellent",128.185374350379,5.50879241384098
+"poverty","health","Negative or poor","Very good",159.251964113528,39.6582800067015
+"poverty","health","Near-poor","Very good",125.078715399972,26.6384523246367
+"poverty","health","Low income","Very good",123.988941096182,11.7083798454463
+"poverty","health","Middle income","Very good",131.422531160811,16.22464088568
+"poverty","health","High income","Very good",126.946217511575,6.079023949688
+"poverty","health","Negative or poor","Good",129.017898714432,15.6115226190077
+"poverty","health","Near-poor","Good",152.549483869588,35.4026733404887
+"poverty","health","Low income","Good",139.992174704166,11.0737877959991
+"poverty","health","Middle income","Good",143.026147926026,6.83778527561828
+"poverty","health","High income","Good",128.074751011375,9.46753812328273
+"poverty","health","Negative or poor","Fair",185.960353583806,24.1191032927616
+"poverty","health","Near-poor","Fair",163.182623556209,33.9905343811836
+"poverty","health","Low income","Fair",168.563667075893,22.4917275651215
+"poverty","health","Middle income","Fair",169.667349760438,16.0521568456255
+"poverty","health","High income","Fair",165.040222715794,15.9510823641049
+"poverty","health","Negative or poor","Poor",197.427044992562,24.3080891056559
+"poverty","health","Near-poor","Poor",254.725809535695,45.8499451259847
+"poverty","health","Low income","Poor",295.303486982315,46.8303196958103
+"poverty","health","Middle income","Poor",222.644462411844,29.7425103613939
+"poverty","health","High income","Poor",238.545581832394,44.4361950195418
+"poverty","mnhlth","Negative or poor","Excellent",158.889298324197,16.3097549783226
+"poverty","mnhlth","Near-poor","Excellent",116.672098247567,26.0980458145517
+"poverty","mnhlth","Low income","Excellent",126.143113753771,12.6344372796205
+"poverty","mnhlth","Middle income","Excellent",145.654828602929,10.0236855698164
+"poverty","mnhlth","High income","Excellent",134.226468928811,5.73121459950536
+"poverty","mnhlth","Negative or poor","Very good",149.412039273013,29.4541329804123
+"poverty","mnhlth","Near-poor","Very good",196.936157144159,36.8717598174456
+"poverty","mnhlth","Low income","Very good",121.755879926762,10.0794973070803
+"poverty","mnhlth","Middle income","Very good",139.514476744495,15.5885494516098
+"poverty","mnhlth","High income","Very good",137.575178475267,8.60234767807504
+"poverty","mnhlth","Negative or poor","Good",169.233310372418,21.9212454196437
+"poverty","mnhlth","Near-poor","Good",116.518430379257,19.7141306968593
+"poverty","mnhlth","Low income","Good",186.125297328622,16.1036007452342
+"poverty","mnhlth","Middle income","Good",153.978424138058,8.76459118972283
+"poverty","mnhlth","High income","Good",137.728844946401,9.46349869349339
+"poverty","mnhlth","Negative or poor","Fair",149.787455309604,16.8717499402281
+"poverty","mnhlth","Near-poor","Fair",234.097403166468,58.0283101121056
+"poverty","mnhlth","Low income","Fair",179.562116117492,38.7914937854865
+"poverty","mnhlth","Middle income","Fair",157.623063146687,15.6261586102187
+"poverty","mnhlth","High income","Fair",170.680829179888,31.9856938273858
+"poverty","mnhlth","Negative or poor","Poor",199.838923158906,38.8794036395224
+"poverty","mnhlth","Near-poor","Poor",190.710316968732,47.3858047639976
+"poverty","mnhlth","Low income","Poor",276.609107702826,55.3457565718427
+"poverty","mnhlth","Middle income","Poor",281.839663712841,53.4740364492135
+"poverty","mnhlth","High income","Poor",123.022198389064,30.2825832876023
+"poverty","agegrps_v2X","Negative or poor","Under 18",131.853380432731,18.0339478853983
+"poverty","agegrps_v2X","Near-poor","Under 18",145.307656514706,34.8551744390916
+"poverty","agegrps_v2X","Low income","Under 18",137.925535421745,28.7195134796759
+"poverty","agegrps_v2X","Middle income","Under 18",121.152850225249,11.9719479806824
+"poverty","agegrps_v2X","High income","Under 18",116.543249430533,9.05853547657484
+"poverty","agegrps_v2X","Negative or poor","18-64",152.99189913264,16.3019022340309
+"poverty","agegrps_v2X","Near-poor","18-64",167.086562400146,25.9042197138862
+"poverty","agegrps_v2X","Low income","18-64",151.361187628707,9.97680192888654
+"poverty","agegrps_v2X","Middle income","18-64",149.08164386049,10.3826066458658
+"poverty","agegrps_v2X","High income","18-64",133.319108537084,5.61934486319386
+"poverty","agegrps_v2X","Negative or poor","65+",222.894902542887,23.6809151677333
+"poverty","agegrps_v2X","Near-poor","65+",162.659265912888,25.1945538623508
+"poverty","agegrps_v2X","Low income","65+",186.753157187542,16.6968289771518
+"poverty","agegrps_v2X","Middle income","65+",176.748529133754,12.1869179800509
+"poverty","agegrps_v2X","High income","65+",166.279606013911,12.3159135703941
+"poverty","insurance_v2X","Negative or poor","<65, Any private",162.186422142951,22.7133506542749
+"poverty","insurance_v2X","Near-poor","<65, Any private",171.579129073314,29.8350690483793
+"poverty","insurance_v2X","Low income","<65, Any private",157.592095692255,12.8485283847846
+"poverty","insurance_v2X","Middle income","<65, Any private",143.620225496521,9.61411648985412
+"poverty","insurance_v2X","High income","<65, Any private",128.502716485574,4.98511024922724
+"poverty","insurance_v2X","Negative or poor","<65, Public only",142.998843851811,14.4246788260931
+"poverty","insurance_v2X","Near-poor","<65, Public only",171.550609652916,36.0779399055991
+"poverty","insurance_v2X","Low income","<65, Public only",148.290812912129,24.1060348716609
+"poverty","insurance_v2X","Middle income","<65, Public only",151.393486774562,30.8301725626658
+"poverty","insurance_v2X","High income","<65, Public only",303.098094646617,116.999686716514
+"poverty","insurance_v2X","Negative or poor","<65, Uninsured",149.824346018339,72.1927092780167
+"poverty","insurance_v2X","Near-poor","<65, Uninsured",86.5329809446539,14.7275449685847
+"poverty","insurance_v2X","Low income","<65, Uninsured",97.7521202484856,12.5049779169442
+"poverty","insurance_v2X","Middle income","<65, Uninsured",135.295786431844,14.4798793706313
+"poverty","insurance_v2X","High income","<65, Uninsured",137.30918061641,34.598876622468
+"poverty","insurance_v2X","Negative or poor","65+, Medicare only",175.359551845854,42.3452254584559
+"poverty","insurance_v2X","Near-poor","65+, Medicare only",159.89304236518,41.4331194084551
+"poverty","insurance_v2X","Low income","65+, Medicare only",167.092998265693,23.2535595831829
+"poverty","insurance_v2X","Middle income","65+, Medicare only",181.313566612707,26.6148780798988
+"poverty","insurance_v2X","High income","65+, Medicare only",145.589988052169,16.2195911093563
+"poverty","insurance_v2X","Negative or poor","65+, Medicare and private",181.746597847526,28.3723331987111
+"poverty","insurance_v2X","Near-poor","65+, Medicare and private",167.225064052451,38.0563378612343
+"poverty","insurance_v2X","Low income","65+, Medicare and private",196.447382102287,30.9675552527896
+"poverty","insurance_v2X","Middle income","65+, Medicare and private",174.234440263164,12.9856120640997
+"poverty","insurance_v2X","High income","65+, Medicare and private",171.604865238257,16.1406914414601
+"poverty","insurance_v2X","Negative or poor","65+, Medicare and other public",307.195992784391,56.4360939309568
+"poverty","insurance_v2X","Near-poor","65+, Medicare and other public",160.99043244535,48.0740204061925
+"poverty","insurance_v2X","Low income","65+, Medicare and other public",199.798866821492,38.2524007957545
+"poverty","insurance_v2X","Middle income","65+, Medicare and other public",191.415674302074,30.3878825219956
+"poverty","insurance_v2X","High income","65+, Medicare and other public",160.071535627398,22.284200500255
+"poverty","insurance_v2X","Negative or poor","65+, No medicare",52.3606694769568,0.683040800369202
+"poverty","insurance_v2X","Near-poor","65+, No medicare",37.55,1.77635683940025e-15
+"poverty","insurance_v2X","Low income","65+, No medicare",240.115024889375,3.56209550747355
+"poverty","insurance_v2X","Middle income","65+, No medicare",80.5203586350911,15.9780121152153
+"poverty","insurance_v2X","High income","65+, No medicare",233.535883343602,86.2229853872784
+"poverty","event_v2X","Negative or poor","Missing",123.697610856173,38.598547578335
+"poverty","event_v2X","Near-poor","Missing",62.4283186649012,8.51745268216062
+"poverty","event_v2X","Low income","Missing",107.771677485326,25.1491057948248
+"poverty","event_v2X","Middle income","Missing",129.875459738518,37.1764484161123
+"poverty","event_v2X","High income","Missing",162.411694351495,54.1068656030109
+"poverty","event_v2X","Negative or poor","OBD",79.2029145252473,2.86792660177099
+"poverty","event_v2X","Near-poor","OBD",99.8778515157192,10.4516020243027
+"poverty","event_v2X","Low income","OBD",97.7854716704214,6.26197744916191
+"poverty","event_v2X","Middle income","OBD",104.272468649257,3.15863467815793
+"poverty","event_v2X","High income","OBD",108.030774294497,2.82781210344817
+"poverty","event_v2X","Negative or poor","OBO",64.0369056961536,6.75887532346756
+"poverty","event_v2X","Near-poor","OBO",65.398649552998,13.8997918855916
+"poverty","event_v2X","Low income","OBO",73.9558684342292,5.77267072059791
+"poverty","event_v2X","Middle income","OBO",76.2740492175155,4.26378393661474
+"poverty","event_v2X","High income","OBO",71.2502614461084,4.13209478981262
+"poverty","event_v2X","Negative or poor","OPY",619.682334697078,66.7900170037319
+"poverty","event_v2X","Near-poor","OPY",843.809063015119,236.235964618063
+"poverty","event_v2X","Low income","OPY",774.420383321286,90.6901284868311
+"poverty","event_v2X","Middle income","OPY",789.672182992556,144.630596829839
+"poverty","event_v2X","High income","OPY",949.512365081982,89.1938812615784
+"poverty","event_v2X","Negative or poor","OPZ",176.164433397557,30.4577363173816
+"poverty","event_v2X","Near-poor","OPZ",293.292244925289,97.5663898101693
+"poverty","event_v2X","Low income","OPZ",232.946168120389,36.6317580384755
+"poverty","event_v2X","Middle income","OPZ",273.261976433025,23.7570531461296
+"poverty","event_v2X","High income","OPZ",209.488370986755,19.8456630266996
+"health","mnhlth","Excellent","Excellent",132.875085597444,5.46195507260674
+"health","mnhlth","Very good","Excellent",132.839036200566,8.3627921383251
+"health","mnhlth","Good","Excellent",141.731143828278,11.6897630864961
+"health","mnhlth","Fair","Excellent",171.416445422492,26.8450128843503
+"health","mnhlth","Poor","Excellent",165.153982779345,22.8382008263942
+"health","mnhlth","Excellent","Very good",144.062273560497,21.0618360194105
+"health","mnhlth","Very good","Very good",129.317155030879,9.82672895396982
+"health","mnhlth","Good","Very good",135.899689714768,13.2406028171874
+"health","mnhlth","Fair","Very good",167.9151790862,15.2559992761471
+"health","mnhlth","Poor","Very good",226.456857840217,48.5819985893442
+"health","mnhlth","Excellent","Good",117.206766392178,14.4622589823659
+"health","mnhlth","Very good","Good",131.882365705814,13.1135769301481
+"health","mnhlth","Good","Good",128.724458613889,6.3621111252899
+"health","mnhlth","Fair","Good",185.535105572412,15.6743118434766
+"health","mnhlth","Poor","Good",249.913530025262,29.7579128824926
+"health","mnhlth","Excellent","Fair",134.712356519374,32.1601238938239
+"health","mnhlth","Very good","Fair",111.197177328215,13.9598788452303
+"health","mnhlth","Good","Fair",157.704057434304,24.8866320695244
+"health","mnhlth","Fair","Fair",148.165996560005,14.2389392173066
+"health","mnhlth","Poor","Fair",214.185502337875,31.4323473946374
+"health","mnhlth","Excellent","Poor",50.0870206482038,8.37041853240944
+"health","mnhlth","Very good","Poor",140.122799733648,70.3092143199024
+"health","mnhlth","Good","Poor",227.701521126868,39.2421855093354
+"health","mnhlth","Fair","Poor",150.537152593781,25.9526489675623
+"health","mnhlth","Poor","Poor",273.353196521098,38.2721033913414
+"health","agegrps_v2X","Excellent","Under 18",119.771632040208,6.57929240367137
+"health","agegrps_v2X","Very good","Under 18",100.228357230349,8.46337052478128
+"health","agegrps_v2X","Good","Under 18",121.933489783637,16.7178698491507
+"health","agegrps_v2X","Fair","Under 18",185.322275895747,43.0486015370679
+"health","agegrps_v2X","Poor","Under 18",591.555896560812,207.851926510299
+"health","agegrps_v2X","Excellent","18-64",138.508027922371,4.76643826281411
+"health","agegrps_v2X","Very good","18-64",139.490642294489,10.1089569418888
+"health","agegrps_v2X","Good","18-64",133.119760835248,7.4922375998829
+"health","agegrps_v2X","Fair","18-64",143.633282049109,10.84896202273
+"health","agegrps_v2X","Poor","18-64",186.00507424543,17.5531296813214
+"health","agegrps_v2X","Excellent","65+",134.852486016774,23.8440525387592
+"health","agegrps_v2X","Very good","65+",127.262688011215,9.21257297289262
+"health","agegrps_v2X","Good","65+",143.494060743199,7.349312563312
+"health","agegrps_v2X","Fair","65+",211.022601697155,16.7127462861252
+"health","agegrps_v2X","Poor","65+",285.262131716371,28.8271512665358
+"health","insurance_v2X","Excellent","<65, Any private",136.827960778415,4.49010876946137
+"health","insurance_v2X","Very good","<65, Any private",127.086009895722,8.00290254391566
+"health","insurance_v2X","Good","<65, Any private",131.290504290398,7.97541747478935
+"health","insurance_v2X","Fair","<65, Any private",151.257088302299,11.3926881868382
+"health","insurance_v2X","Poor","<65, Any private",216.349884866391,31.2473177464435
+"health","insurance_v2X","Excellent","<65, Public only",92.6832975320973,11.1209365699383
+"health","insurance_v2X","Very good","<65, Public only",135.608675588177,25.2456028585663
+"health","insurance_v2X","Good","<65, Public only",147.278036567464,19.8619417202806
+"health","insurance_v2X","Fair","<65, Public only",147.409320779328,24.6203991396412
+"health","insurance_v2X","Poor","<65, Public only",195.363994235648,24.5722757339895
+"health","insurance_v2X","Excellent","<65, Uninsured",113.621867720045,12.2884513910688
+"health","insurance_v2X","Very good","<65, Uninsured",200.777028581347,76.4249554870825
+"health","insurance_v2X","Good","<65, Uninsured",104.261343964103,15.5747535404199
+"health","insurance_v2X","Fair","<65, Uninsured",101.540901633623,16.4899608983099
+"health","insurance_v2X","Poor","<65, Uninsured",94.3403247531213,18.1463682662799
+"health","insurance_v2X","Excellent","65+, Medicare only",193.300649329632,84.4265569149591
+"health","insurance_v2X","Very good","65+, Medicare only",107.740583272049,11.3423985252233
+"health","insurance_v2X","Good","65+, Medicare only",149.6821910912,13.2096520373666
+"health","insurance_v2X","Fair","65+, Medicare only",166.376192427722,24.1559646177579
+"health","insurance_v2X","Poor","65+, Medicare only",222.670878636367,46.7732029156811
+"health","insurance_v2X","Excellent","65+, Medicare and private",102.064828934829,11.1652953064222
+"health","insurance_v2X","Very good","65+, Medicare and private",134.658374687301,13.7635622652167
+"health","insurance_v2X","Good","65+, Medicare and private",138.9886732473,9.15426684907088
+"health","insurance_v2X","Fair","65+, Medicare and private",234.515390489477,25.0086515910912
+"health","insurance_v2X","Poor","65+, Medicare and private",314.29938354904,42.4228741743226
+"health","insurance_v2X","Excellent","65+, Medicare and other public",188.339412546183,44.9281317525425
+"health","insurance_v2X","Very good","65+, Medicare and other public",140.219601513981,33.3994185488441
+"health","insurance_v2X","Good","65+, Medicare and other public",155.362173223333,32.8120918257085
+"health","insurance_v2X","Fair","65+, Medicare and other public",240.413152998842,40.1350806043719
+"health","insurance_v2X","Poor","65+, Medicare and other public",285.868475762413,60.0168326854486
+"health","insurance_v2X","Excellent","65+, No medicare",375.032058445812,225.090317295964
+"health","insurance_v2X","Very good","65+, No medicare",212.227904195659,79.0870200020142
+"health","insurance_v2X","Good","65+, No medicare",95.559469429979,19.298878009785
+"health","insurance_v2X","Fair","65+, No medicare",100.622894931386,33.1620620818648
+"health","insurance_v2X","Poor","65+, No medicare",48.75,7.105427357601e-15
+"health","event_v2X","Excellent","Missing",141.429180529859,24.7890261975589
+"health","event_v2X","Very good","Missing",71.7978758752916,12.5210647582609
+"health","event_v2X","Good","Missing",109.570291069231,20.2648282317938
+"health","event_v2X","Fair","Missing",253.356227209246,106.368549438466
+"health","event_v2X","Poor","Missing",209.57921897076,101.797442751474
+"health","event_v2X","Excellent","OBD",103.728368668242,3.94274161796785
+"health","event_v2X","Very good","OBD",101.287930483066,2.61219285133368
+"health","event_v2X","Good","OBD",99.98588689165,3.74711177449406
+"health","event_v2X","Fair","OBD",102.630863435151,4.07512341424691
+"health","event_v2X","Poor","OBD",105.15114161872,6.53160142146176
+"health","event_v2X","Excellent","OBO",74.8336974706396,4.76144716786014
+"health","event_v2X","Very good","OBO",73.4438809188581,5.32178560562521
+"health","event_v2X","Good","OBO",65.7025890883293,3.24739317953554
+"health","event_v2X","Fair","OBO",67.5908454127707,4.75282735928265
+"health","event_v2X","Poor","OBO",91.58077857258,16.1007028898429
+"health","event_v2X","Excellent","OPY",1033.53650250519,102.543543487393
+"health","event_v2X","Very good","OPY",953.822998473161,88.3406357396528
+"health","event_v2X","Good","OPY",690.950417358112,129.787844505803
+"health","event_v2X","Fair","OPY",966.393998682148,122.30392165431
+"health","event_v2X","Poor","OPY",586.810576162246,96.0921501762626
+"health","event_v2X","Excellent","OPZ",240.609032802639,23.7586291273241
+"health","event_v2X","Very good","OPZ",224.573914802315,24.9849615262886
+"health","event_v2X","Good","OPZ",216.909535065317,21.7939166549801
+"health","event_v2X","Fair","OPZ",215.417371236414,26.8544818090664
+"health","event_v2X","Poor","OPZ",322.091295090538,41.6444775912324
+"mnhlth","agegrps_v2X","Excellent","Under 18",120.776095498492,7.1079608028862
+"mnhlth","agegrps_v2X","Very good","Under 18",101.829769427432,7.56117746883085
+"mnhlth","agegrps_v2X","Good","Under 18",143.447813596175,24.0371221274492
+"mnhlth","agegrps_v2X","Fair","Under 18",163.057987527314,49.7933730160216
+"mnhlth","agegrps_v2X","Poor","Under 18",290.277487125234,98.5721084023111
+"mnhlth","agegrps_v2X","Excellent","18-64",135.776757109052,4.97283914967157
+"mnhlth","agegrps_v2X","Very good","18-64",149.323461397538,11.0058943180411
+"mnhlth","agegrps_v2X","Good","18-64",142.80764151613,7.79234876695222
+"mnhlth","agegrps_v2X","Fair","18-64",139.680731465201,12.6301376100622
+"mnhlth","agegrps_v2X","Poor","18-64",151.637047546971,26.074957945986
+"mnhlth","agegrps_v2X","Excellent","65+",161.928105991835,14.5211523586125
+"mnhlth","agegrps_v2X","Very good","65+",138.181969407162,7.99174538547273
+"mnhlth","agegrps_v2X","Good","65+",173.446274707214,10.4734433590813
+"mnhlth","agegrps_v2X","Fair","65+",221.019296756791,29.7713679080196
+"mnhlth","agegrps_v2X","Poor","65+",342.52019085902,44.5150949213848
+"mnhlth","insurance_v2X","Excellent","<65, Any private",130.395765608469,3.574460160314
+"mnhlth","insurance_v2X","Very good","<65, Any private",136.798465499598,9.092191764244
+"mnhlth","insurance_v2X","Good","<65, Any private",145.26387607785,8.21568896609251
+"mnhlth","insurance_v2X","Fair","<65, Any private",141.056458594262,16.8855245521658
+"mnhlth","insurance_v2X","Poor","<65, Any private",199.760719775164,51.7468293423331
+"mnhlth","insurance_v2X","Excellent","<65, Public only",145.989188759193,29.0431535367825
+"mnhlth","insurance_v2X","Very good","<65, Public only",157.684185891028,28.3612576987288
+"mnhlth","insurance_v2X","Good","<65, Public only",150.31899213299,22.0193391161038
+"mnhlth","insurance_v2X","Fair","<65, Public only",149.545760949374,22.1234195699858
+"mnhlth","insurance_v2X","Poor","<65, Public only",143.165974675679,22.7081674994519
+"mnhlth","insurance_v2X","Excellent","<65, Uninsured",138.92009287748,25.752909601321
+"mnhlth","insurance_v2X","Very good","<65, Uninsured",171.113894536441,64.9235059296669
+"mnhlth","insurance_v2X","Good","<65, Uninsured",99.1821875928434,14.033124950671
+"mnhlth","insurance_v2X","Fair","<65, Uninsured",103.176643350131,15.4428453306079
+"mnhlth","insurance_v2X","Poor","<65, Uninsured",71.1987528416604,19.8885807967855
+"mnhlth","insurance_v2X","Excellent","65+, Medicare only",156.517157287437,32.917230011238
+"mnhlth","insurance_v2X","Very good","65+, Medicare only",135.511480161538,13.0122145213766
+"mnhlth","insurance_v2X","Good","65+, Medicare only",150.807435760364,17.0184036292067
+"mnhlth","insurance_v2X","Fair","65+, Medicare only",173.540819261165,33.0664540628594
+"mnhlth","insurance_v2X","Poor","65+, Medicare only",254.318878156652,71.9829911810185
+"mnhlth","insurance_v2X","Excellent","65+, Medicare and private",158.6453896998,15.5126205734573
+"mnhlth","insurance_v2X","Very good","65+, Medicare and private",133.966232838195,9.93519113063399
+"mnhlth","insurance_v2X","Good","65+, Medicare and private",177.088994627937,13.8399040391374
+"mnhlth","insurance_v2X","Fair","65+, Medicare and private",285.016754928255,65.4620219584634
+"mnhlth","insurance_v2X","Poor","65+, Medicare and private",407.40851983517,67.9798114045192
+"mnhlth","insurance_v2X","Excellent","65+, Medicare and other public",190.592313615926,55.6914658398661
+"mnhlth","insurance_v2X","Very good","65+, Medicare and other public",169.072066256271,36.0517378044393
+"mnhlth","insurance_v2X","Good","65+, Medicare and other public",222.563909796973,37.8186359741218
+"mnhlth","insurance_v2X","Fair","65+, Medicare and other public",190.86994459542,42.6213193172381
+"mnhlth","insurance_v2X","Poor","65+, Medicare and other public",363.029127842174,96.4971163056329
+"mnhlth","insurance_v2X","Excellent","65+, No medicare",254.178170492148,116.759250626471
+"mnhlth","insurance_v2X","Very good","65+, No medicare",220.299504008577,111.734040345763
+"mnhlth","insurance_v2X","Good","65+, No medicare",87.8025743212854,14.3754268579239
+"mnhlth","insurance_v2X","Fair","65+, No medicare",222.321204534385,22.7851148114919
+"mnhlth","insurance_v2X","Poor","65+, No medicare",18.4125,8.88178419700125e-16
+"mnhlth","event_v2X","Excellent","Missing",119.234203491517,15.7699673164843
+"mnhlth","event_v2X","Very good","Missing",68.961544619065,8.46426184671503
+"mnhlth","event_v2X","Good","Missing",203.046636794892,78.4826470718731
+"mnhlth","event_v2X","Fair","Missing",169.539879498264,69.4642749478528
+"mnhlth","event_v2X","Poor","Missing",142.445045689311,71.7795514553089
+"mnhlth","event_v2X","Excellent","OBD",102.688091074795,3.10785084181681
+"mnhlth","event_v2X","Very good","OBD",107.342973749541,3.63455870966423
+"mnhlth","event_v2X","Good","OBD",99.9914869464915,3.12875994910105
+"mnhlth","event_v2X","Fair","OBD",92.1823846373778,3.8196280431914
+"mnhlth","event_v2X","Poor","OBD",81.8610374666462,5.01808734505567
+"mnhlth","event_v2X","Excellent","OBO",79.667731802785,4.705172131395
+"mnhlth","event_v2X","Very good","OBO",66.7904445511594,4.76549495288018
+"mnhlth","event_v2X","Good","OBO",71.6300277870171,5.25083698873099
+"mnhlth","event_v2X","Fair","OBO",70.0470977801454,5.41274809197672
+"mnhlth","event_v2X","Poor","OBO",57.0382123195296,6.59932951450006
+"mnhlth","event_v2X","Excellent","OPY",956.150848476618,92.4436498696689
+"mnhlth","event_v2X","Very good","OPY",958.15057865087,90.4286679127472
+"mnhlth","event_v2X","Good","OPY",790.049517538427,78.0322330317713
+"mnhlth","event_v2X","Fair","OPY",702.010590708023,129.261482432208
+"mnhlth","event_v2X","Poor","OPY",314.443713678771,137.808416149553
+"mnhlth","event_v2X","Excellent","OPZ",215.769219036674,15.191648482967
+"mnhlth","event_v2X","Very good","OPZ",216.691581377154,24.7941294701772
+"mnhlth","event_v2X","Good","OPZ",242.912284501331,22.9000328359556
+"mnhlth","event_v2X","Fair","OPZ",224.441200560951,33.8395838733814
+"mnhlth","event_v2X","Poor","OPZ",385.554989902979,64.5198759251995
+"agegrps_v2X","insurance_v2X","Under 18","<65, Any private",123.010841152872,7.46619215887125
+"agegrps_v2X","insurance_v2X","18-64","<65, Any private",141.264212439917,4.92812276861375
+"agegrps_v2X","insurance_v2X","Under 18","<65, Public only",123.983594369694,17.2682055767633
+"agegrps_v2X","insurance_v2X","18-64","<65, Public only",162.028717568864,14.0827235029058
+"agegrps_v2X","insurance_v2X","Under 18","<65, Uninsured",166.444103297995,60.1557078178342
+"agegrps_v2X","insurance_v2X","18-64","<65, Uninsured",122.768535818429,20.0497452968303
+"agegrps_v2X","insurance_v2X","65+","65+, Medicare only",168.606224965008,13.7375008581256
+"agegrps_v2X","insurance_v2X","65+","65+, Medicare and private",176.978817557947,9.06211518239785
+"agegrps_v2X","insurance_v2X","65+","65+, Medicare and other public",220.492554190318,25.0822044634394
+"agegrps_v2X","insurance_v2X","65+","65+, No medicare",164.17292095864,45.97957098876
+"agegrps_v2X","event_v2X","Under 18","Missing",84.6528755728699,22.2768387891932
+"agegrps_v2X","event_v2X","18-64","Missing",152.268267343637,43.569914250358
+"agegrps_v2X","event_v2X","65+","Missing",169.860177640143,47.8475702505263
+"agegrps_v2X","event_v2X","Under 18","OBD",70.1976045369273,1.98312666219285
+"agegrps_v2X","event_v2X","18-64","OBD",108.549896595081,2.38051821132609
+"agegrps_v2X","event_v2X","65+","OBD",109.381238154803,4.03959142619313
+"agegrps_v2X","event_v2X","Under 18","OBO",57.3005182110184,6.20106122823982
+"agegrps_v2X","event_v2X","18-64","OBO",72.875782718139,2.80947170284602
+"agegrps_v2X","event_v2X","65+","OBO",82.7036726957999,7.14914216046607
+"agegrps_v2X","event_v2X","Under 18","OPY",857.515516190093,122.050386609936
+"agegrps_v2X","event_v2X","18-64","OPY",924.559349381965,64.4360011792437
+"agegrps_v2X","event_v2X","65+","OPY",651.798230154389,120.678841780313
+"agegrps_v2X","event_v2X","Under 18","OPZ",230.570011674077,52.4215894084768
+"agegrps_v2X","event_v2X","18-64","OPZ",222.091153591483,16.4222519369855
+"agegrps_v2X","event_v2X","65+","OPZ",248.37007072772,19.9802553334954
+"insurance_v2X","event_v2X","<65, Any private","Missing",142.303612896351,43.1895272772441
+"insurance_v2X","event_v2X","<65, Public only","Missing",133.312948297841,56.4979689762161
+"insurance_v2X","event_v2X","<65, Uninsured","Missing",80.5768716129071,20.5957815097241
+"insurance_v2X","event_v2X","65+, Medicare only","Missing",254.276376380168,123.968012711779
+"insurance_v2X","event_v2X","65+, Medicare and private","Missing",135.171590069258,45.7118944063076
+"insurance_v2X","event_v2X","65+, Medicare and other public","Missing",84.7234226323317,42.5272059285001
+"insurance_v2X","event_v2X","<65, Any private","OBD",105.54937820456,2.07346947825289
+"insurance_v2X","event_v2X","<65, Public only","OBD",72.0676895941474,4.87051318836837
+"insurance_v2X","event_v2X","<65, Uninsured","OBD",81.5095483818599,4.72161545053482
+"insurance_v2X","event_v2X","65+, Medicare only","OBD",95.8610780772232,5.43849351746009
+"insurance_v2X","event_v2X","65+, Medicare and private","OBD",120.151728899294,5.52176379412469
+"insurance_v2X","event_v2X","65+, Medicare and other public","OBD",83.1319226585212,5.82704817208262
+"insurance_v2X","event_v2X","65+, No medicare","OBD",106.957913641606,18.0094510637031
+"insurance_v2X","event_v2X","<65, Any private","OBO",72.4987099989675,3.31508025076445
+"insurance_v2X","event_v2X","<65, Public only","OBO",54.2989187271762,4.93179619370742
+"insurance_v2X","event_v2X","<65, Uninsured","OBO",55.2501619639024,5.19137753661638
+"insurance_v2X","event_v2X","65+, Medicare only","OBO",61.9112758196507,11.9271797681241
+"insurance_v2X","event_v2X","65+, Medicare and private","OBO",97.8093658341211,9.50791308940956
+"insurance_v2X","event_v2X","65+, Medicare and other public","OBO",53.4072745210622,5.52042206664665
+"insurance_v2X","event_v2X","65+, No medicare","OBO",127.733373789033,31.094145782008
+"insurance_v2X","event_v2X","<65, Any private","OPY",1056.61230432532,73.1862151369086
+"insurance_v2X","event_v2X","<65, Public only","OPY",492.910490443662,73.3771961420144
+"insurance_v2X","event_v2X","<65, Uninsured","OPY",576.490375092116,119.12040414314
+"insurance_v2X","event_v2X","65+, Medicare only","OPY",445.061354591347,145.559203448814
+"insurance_v2X","event_v2X","65+, Medicare and private","OPY",871.04315898211,102.130958316978
+"insurance_v2X","event_v2X","65+, Medicare and other public","OPY",697.227918748142,160.317195632027
+"insurance_v2X","event_v2X","65+, No medicare","OPY",634.633885939177,262.448313936671
+"insurance_v2X","event_v2X","<65, Any private","OPZ",232.070716898347,18.3179655082821
+"insurance_v2X","event_v2X","<65, Public only","OPZ",171.102654898298,34.2958211245629
+"insurance_v2X","event_v2X","<65, Uninsured","OPZ",220.302290772561,61.7331684015084
+"insurance_v2X","event_v2X","65+, Medicare only","OPZ",229.012092689063,42.8665582554994
+"insurance_v2X","event_v2X","65+, Medicare and private","OPZ",285.234199755008,24.3042265105288
+"insurance_v2X","event_v2X","65+, Medicare and other public","OPZ",164.302998446515,41.3469980646088
+"insurance_v2X","event_v2X","65+, No medicare","OPZ",87.1855914174902,23.5065692066527

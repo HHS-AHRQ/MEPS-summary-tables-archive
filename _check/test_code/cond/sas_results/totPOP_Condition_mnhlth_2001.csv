@@ -1,0 +1,302 @@
+DomainLabel,condition,mnhlth,VarName,Sum,StdDev
+condition*mnhlth,Acute Bronchitis and URI,Excellent,count,14968962,577628
+condition*mnhlth,Acute Bronchitis and URI,Very good,count,11423848,521173
+condition*mnhlth,Acute Bronchitis and URI,Good,count,7651472,370554
+condition*mnhlth,Acute Bronchitis and URI,Fair,count,1443313,145332
+condition*mnhlth,Acute Bronchitis and URI,Poor,count,281097,56213
+condition*mnhlth,Allergic reactions,Excellent,count,2940910,231722
+condition*mnhlth,Allergic reactions,Very good,count,2012851,183604
+condition*mnhlth,Allergic reactions,Good,count,1163453,114772
+condition*mnhlth,Allergic reactions,Fair,count,227925,57211
+condition*mnhlth,Allergic reactions,Poor,count,26931,19110
+condition*mnhlth,Anemia and other deficiencies,Excellent,count,732266,80929
+condition*mnhlth,Anemia and other deficiencies,Very good,count,549834,81007
+condition*mnhlth,Anemia and other deficiencies,Good,count,813409,103575
+condition*mnhlth,Anemia and other deficiencies,Fair,count,212926,41675
+condition*mnhlth,Anemia and other deficiencies,Poor,count,76324,20597
+condition*mnhlth,Appendicitis,Excellent,count,139154,53518
+condition*mnhlth,Appendicitis,Very good,count,127275,34885
+condition*mnhlth,Appendicitis,Good,count,62676,25199
+condition*mnhlth,Appendicitis,Fair,count,6765.043834,5957.928584
+condition*mnhlth,Back problems,Excellent,count,4171843,237218
+condition*mnhlth,Back problems,Very good,count,4884084,291596
+condition*mnhlth,Back problems,Good,count,4754243,257620
+condition*mnhlth,Back problems,Fair,count,1403832,136557
+condition*mnhlth,Back problems,Poor,count,371355,67615
+condition*mnhlth,CNS infection,Excellent,count,93338,37844
+condition*mnhlth,CNS infection,Very good,count,38371,19843
+condition*mnhlth,CNS infection,Good,count,51436,26327
+condition*mnhlth,CNS infection,Fair,count,21369,13491
+condition*mnhlth,CNS infection,Poor,count,10005,10005
+condition*mnhlth,"COPD, asthma",Excellent,count,16897569,699944
+condition*mnhlth,"COPD, asthma",Very good,count,16045383,655268
+condition*mnhlth,"COPD, asthma",Good,count,12436144,474194
+condition*mnhlth,"COPD, asthma",Fair,count,3002168,207670
+condition*mnhlth,"COPD, asthma",Poor,count,847866,97188
+condition*mnhlth,Cancer,Excellent,count,2887008,196791
+condition*mnhlth,Cancer,Very good,count,2872766,197663
+condition*mnhlth,Cancer,Good,count,3192103,222008
+condition*mnhlth,Cancer,Fair,count,927218,113873
+condition*mnhlth,Cancer,Poor,count,324777,65204
+condition*mnhlth,Cataract,Excellent,count,955923,112767
+condition*mnhlth,Cataract,Very good,count,1157149,121766
+condition*mnhlth,Cataract,Good,count,1413024,141206
+condition*mnhlth,Cataract,Fair,count,387103,66174
+condition*mnhlth,Cataract,Poor,count,71433,36522
+condition*mnhlth,Cerebrovascular disease,Excellent,count,366790,65926
+condition*mnhlth,Cerebrovascular disease,Very good,count,476401,71887
+condition*mnhlth,Cerebrovascular disease,Good,count,671125,91106
+condition*mnhlth,Cerebrovascular disease,Fair,count,485013,71059
+condition*mnhlth,Cerebrovascular disease,Poor,count,241180,56621
+condition*mnhlth,"Coma, brain damage",Excellent,count,28386,20152
+condition*mnhlth,"Coma, brain damage",Good,count,6212.331678,4401.793874
+condition*mnhlth,"Coma, brain damage",Fair,count,9651.329752,6797.725209
+condition*mnhlth,"Coma, brain damage",Poor,count,6909.159756,6909.159756
+condition*mnhlth,Complications of pregnancy and birth,Excellent,count,316894,61863
+condition*mnhlth,Complications of pregnancy and birth,Very good,count,437133,69820
+condition*mnhlth,Complications of pregnancy and birth,Good,count,244323,61601
+condition*mnhlth,Complications of pregnancy and birth,Fair,count,138657,42518
+condition*mnhlth,Complications of pregnancy and birth,Poor,count,18182,12924
+condition*mnhlth,Complications of surgery or device,Excellent,count,498541,80473
+condition*mnhlth,Complications of surgery or device,Very good,count,262489,55132
+condition*mnhlth,Complications of surgery or device,Good,count,528079,91128
+condition*mnhlth,Complications of surgery or device,Fair,count,159693,53973
+condition*mnhlth,Complications of surgery or device,Poor,count,18578,13496
+condition*mnhlth,Congenital anomalies,Excellent,count,583977,105333
+condition*mnhlth,Congenital anomalies,Very good,count,340368,61095
+condition*mnhlth,Congenital anomalies,Good,count,335283,61278
+condition*mnhlth,Congenital anomalies,Fair,count,69946,20322
+condition*mnhlth,Congenital anomalies,Poor,count,28560,14786
+condition*mnhlth,Diabetes mellitus,Excellent,count,2605768,188263
+condition*mnhlth,Diabetes mellitus,Very good,count,3434660,225127
+condition*mnhlth,Diabetes mellitus,Good,count,4790448,257305
+condition*mnhlth,Diabetes mellitus,Fair,count,1441139,119621
+condition*mnhlth,Diabetes mellitus,Poor,count,523634,82962
+condition*mnhlth,Disorders of mouth and esophagus,Excellent,count,353048,64455
+condition*mnhlth,Disorders of mouth and esophagus,Very good,count,407756,73503
+condition*mnhlth,Disorders of mouth and esophagus,Good,count,333150,74330
+condition*mnhlth,Disorders of mouth and esophagus,Fair,count,97684,44515
+condition*mnhlth,Disorders of mouth and esophagus,Poor,count,16505,12284
+condition*mnhlth,Disorders of teeth and jaws,Excellent,count,3032870,226459
+condition*mnhlth,Disorders of teeth and jaws,Very good,count,2320441,172746
+condition*mnhlth,Disorders of teeth and jaws,Good,count,2075771,172598
+condition*mnhlth,Disorders of teeth and jaws,Fair,count,476869,77516
+condition*mnhlth,Disorders of teeth and jaws,Poor,count,106161,36073
+condition*mnhlth,Disorders of the upper GI,Excellent,count,3919639,230024
+condition*mnhlth,Disorders of the upper GI,Very good,count,4878682,237042
+condition*mnhlth,Disorders of the upper GI,Good,count,5495441,280442
+condition*mnhlth,Disorders of the upper GI,Fair,count,1485327,132637
+condition*mnhlth,Disorders of the upper GI,Poor,count,592765,95583
+condition*mnhlth,Epilepsy and convulsions,Excellent,count,437046,74748
+condition*mnhlth,Epilepsy and convulsions,Very good,count,483277,74825
+condition*mnhlth,Epilepsy and convulsions,Good,count,749202,85592
+condition*mnhlth,Epilepsy and convulsions,Fair,count,370910,64477
+condition*mnhlth,Epilepsy and convulsions,Poor,count,168890,42366
+condition*mnhlth,"Female genital disorders, and contraception",Excellent,count,6852226,353486
+condition*mnhlth,"Female genital disorders, and contraception",Very good,count,6607883,340347
+condition*mnhlth,"Female genital disorders, and contraception",Good,count,4094934,213801
+condition*mnhlth,"Female genital disorders, and contraception",Fair,count,929515,104553
+condition*mnhlth,"Female genital disorders, and contraception",Poor,count,171609,44030
+condition*mnhlth,"Gallbladder, pancreatic, and liver disease",Excellent,count,595637,84114
+condition*mnhlth,"Gallbladder, pancreatic, and liver disease",Very good,count,687156,104073
+condition*mnhlth,"Gallbladder, pancreatic, and liver disease",Good,count,658757,84971
+condition*mnhlth,"Gallbladder, pancreatic, and liver disease",Fair,count,151517,36755
+condition*mnhlth,"Gallbladder, pancreatic, and liver disease",Poor,count,58202,22160
+condition*mnhlth,Glaucoma,Excellent,count,807043,103848
+condition*mnhlth,Glaucoma,Very good,count,921172,102905
+condition*mnhlth,Glaucoma,Good,count,1150418,124910
+condition*mnhlth,Glaucoma,Fair,count,207417,50167
+condition*mnhlth,Glaucoma,Poor,count,76964,35230
+condition*mnhlth,Headache,Excellent,count,2354328,175694
+condition*mnhlth,Headache,Very good,count,2392069,178493
+condition*mnhlth,Headache,Good,count,2041705,176991
+condition*mnhlth,Headache,Fair,count,738332,82774
+condition*mnhlth,Headache,Poor,count,174380,47966
+condition*mnhlth,Heart disease,Excellent,count,3874081,214295
+condition*mnhlth,Heart disease,Very good,count,4870332,291077
+condition*mnhlth,Heart disease,Good,count,6217467,295587
+condition*mnhlth,Heart disease,Fair,count,1789405,157902
+condition*mnhlth,Heart disease,Poor,count,850840,129087
+condition*mnhlth,"Hemorrhagic, coagulation, and disorders of White Blood cells",Excellent,count,386485,103556
+condition*mnhlth,"Hemorrhagic, coagulation, and disorders of White Blood cells",Very good,count,284051,58676
+condition*mnhlth,"Hemorrhagic, coagulation, and disorders of White Blood cells",Good,count,368909,69617
+condition*mnhlth,"Hemorrhagic, coagulation, and disorders of White Blood cells",Fair,count,100180,30124
+condition*mnhlth,"Hemorrhagic, coagulation, and disorders of White Blood cells",Poor,count,44487,29295
+condition*mnhlth,"Hereditary, degenerative and other nervous system disorders",Excellent,count,212594,50390
+condition*mnhlth,"Hereditary, degenerative and other nervous system disorders",Very good,count,206696,45302
+condition*mnhlth,"Hereditary, degenerative and other nervous system disorders",Good,count,532894,90644
+condition*mnhlth,"Hereditary, degenerative and other nervous system disorders",Fair,count,228936,56310
+condition*mnhlth,"Hereditary, degenerative and other nervous system disorders",Poor,count,65841,24875
+condition*mnhlth,Hernias,Excellent,count,636268,85767
+condition*mnhlth,Hernias,Very good,count,780093,105590
+condition*mnhlth,Hernias,Good,count,788712,95896
+condition*mnhlth,Hernias,Fair,count,230256,52211
+condition*mnhlth,Hernias,Poor,count,98147,32196
+condition*mnhlth,Hyperlipidemia,Excellent,count,4206677,255153
+condition*mnhlth,Hyperlipidemia,Very good,count,5193777,267048
+condition*mnhlth,Hyperlipidemia,Good,count,5688849,275130
+condition*mnhlth,Hyperlipidemia,Fair,count,1115291,125151
+condition*mnhlth,Hyperlipidemia,Poor,count,399875,84073
+condition*mnhlth,Hypertension,Excellent,count,8706233,422265
+condition*mnhlth,Hypertension,Very good,count,9588382,393495
+condition*mnhlth,Hypertension,Good,count,11852855,456728
+condition*mnhlth,Hypertension,Fair,count,2781574,191213
+condition*mnhlth,Hypertension,Poor,count,1036991,114950
+condition*mnhlth,Infectious diseases,Excellent,count,6374357,386301
+condition*mnhlth,Infectious diseases,Very good,count,5798428,328423
+condition*mnhlth,Infectious diseases,Good,count,3730211,214751
+condition*mnhlth,Infectious diseases,Fair,count,855740,99387
+condition*mnhlth,Infectious diseases,Poor,count,355872,74336
+condition*mnhlth,Influenza,Excellent,count,1518670,156523
+condition*mnhlth,Influenza,Very good,count,1302223,137684
+condition*mnhlth,Influenza,Good,count,928140,121978
+condition*mnhlth,Influenza,Fair,count,221524,62189
+condition*mnhlth,Influenza,Poor,count,42899,22500
+condition*mnhlth,Intestinal infection,Excellent,count,2582152,190223
+condition*mnhlth,Intestinal infection,Very good,count,2072182,186861
+condition*mnhlth,Intestinal infection,Good,count,1525142,140109
+condition*mnhlth,Intestinal infection,Fair,count,375376,72352
+condition*mnhlth,Intestinal infection,Poor,count,110392,34746
+condition*mnhlth,Kidney Disease,Excellent,count,764496,88278
+condition*mnhlth,Kidney Disease,Very good,count,776473,91072
+condition*mnhlth,Kidney Disease,Good,count,1046652,118728
+condition*mnhlth,Kidney Disease,Fair,count,225506,53801
+condition*mnhlth,Kidney Disease,Poor,count,103575,32347
+condition*mnhlth,Male genital disorders,Excellent,count,945578,110619
+condition*mnhlth,Male genital disorders,Very good,count,964670,114432
+condition*mnhlth,Male genital disorders,Good,count,922080,103200
+condition*mnhlth,Male genital disorders,Fair,count,310144,65419
+condition*mnhlth,Male genital disorders,Poor,count,71014,28565
+condition*mnhlth,Mental disorders,Excellent,count,4031321,259887
+condition*mnhlth,Mental disorders,Very good,count,6643408,340389
+condition*mnhlth,Mental disorders,Good,count,9517245,423283
+condition*mnhlth,Mental disorders,Fair,count,5124929,296538
+condition*mnhlth,Mental disorders,Poor,count,2082236,170253
+condition*mnhlth,Non-malignant breast disease,Excellent,count,943748,109308
+condition*mnhlth,Non-malignant breast disease,Very good,count,833869,104956
+condition*mnhlth,Non-malignant breast disease,Good,count,680265,95566
+condition*mnhlth,Non-malignant breast disease,Fair,count,143322,39846
+condition*mnhlth,Non-malignant breast disease,Poor,count,69492,27376
+condition*mnhlth,Non-malignant neoplasm,Excellent,count,1437169,128618
+condition*mnhlth,Non-malignant neoplasm,Very good,count,1481967,154001
+condition*mnhlth,Non-malignant neoplasm,Good,count,1335900,142984
+condition*mnhlth,Non-malignant neoplasm,Fair,count,227541,57623
+condition*mnhlth,Non-malignant neoplasm,Poor,count,64703,29594
+condition*mnhlth,Normal birth/live born,Excellent,count,2747165,204638
+condition*mnhlth,Normal birth/live born,Very good,count,2055634,158126
+condition*mnhlth,Normal birth/live born,Good,count,1394946,128763
+condition*mnhlth,Normal birth/live born,Fair,count,249205,54566
+condition*mnhlth,Normal birth/live born,Poor,count,59903,18482
+condition*mnhlth,Osteoarthritis and other non-traumatic joint disorders,Excellent,count,5757675,285633
+condition*mnhlth,Osteoarthritis and other non-traumatic joint disorders,Very good,count,6159144,297528
+condition*mnhlth,Osteoarthritis and other non-traumatic joint disorders,Good,count,7433689,328262
+condition*mnhlth,Osteoarthritis and other non-traumatic joint disorders,Fair,count,2054526,169920
+condition*mnhlth,Osteoarthritis and other non-traumatic joint disorders,Poor,count,685863,95597
+condition*mnhlth,Other CNS disorders,Excellent,count,3695427,248222
+condition*mnhlth,Other CNS disorders,Very good,count,3789552,235426
+condition*mnhlth,Other CNS disorders,Good,count,4177030,213569
+condition*mnhlth,Other CNS disorders,Fair,count,1265343,138446
+condition*mnhlth,Other CNS disorders,Poor,count,335559,68884
+condition*mnhlth,Other GI,Excellent,count,1974159,161752
+condition*mnhlth,Other GI,Very good,count,2093533,161117
+condition*mnhlth,Other GI,Good,count,2407610,193868
+condition*mnhlth,Other GI,Fair,count,757783,102655
+condition*mnhlth,Other GI,Poor,count,339533,88647
+condition*mnhlth,Other bone and musculoskeletal disease,Excellent,count,2021646,164534
+condition*mnhlth,Other bone and musculoskeletal disease,Very good,count,1850738,153990
+condition*mnhlth,Other bone and musculoskeletal disease,Good,count,1940979,179849
+condition*mnhlth,Other bone and musculoskeletal disease,Fair,count,588993,73427
+condition*mnhlth,Other bone and musculoskeletal disease,Poor,count,260563,56073
+condition*mnhlth,Other care and screening,Excellent,count,7518573,388057
+condition*mnhlth,Other care and screening,Very good,count,7803589,388934
+condition*mnhlth,Other care and screening,Good,count,7688899,364127
+condition*mnhlth,Other care and screening,Fair,count,1892520,154374
+condition*mnhlth,Other care and screening,Poor,count,787433,109365
+condition*mnhlth,"Other circulatory conditions arteries, veins, and lymphatics",Excellent,count,1610834,168739
+condition*mnhlth,"Other circulatory conditions arteries, veins, and lymphatics",Very good,count,1770543,148614
+condition*mnhlth,"Other circulatory conditions arteries, veins, and lymphatics",Good,count,2156263,156553
+condition*mnhlth,"Other circulatory conditions arteries, veins, and lymphatics",Fair,count,709811,83599
+condition*mnhlth,"Other circulatory conditions arteries, veins, and lymphatics",Poor,count,247257,67778
+condition*mnhlth,"Other endocrine, nutritional & immune disorder",Excellent,count,3454939,204453
+condition*mnhlth,"Other endocrine, nutritional & immune disorder",Very good,count,3817145,230665
+condition*mnhlth,"Other endocrine, nutritional & immune disorder",Good,count,4125177,245461
+condition*mnhlth,"Other endocrine, nutritional & immune disorder",Fair,count,1216173,134958
+condition*mnhlth,"Other endocrine, nutritional & immune disorder",Poor,count,360412,69402
+condition*mnhlth,Other eye disorders,Excellent,count,5321385,313067
+condition*mnhlth,Other eye disorders,Very good,count,4617412,316013
+condition*mnhlth,Other eye disorders,Good,count,3645164,230354
+condition*mnhlth,Other eye disorders,Fair,count,932407,109174
+condition*mnhlth,Other eye disorders,Poor,count,278136,47103
+condition*mnhlth,Other stomach and intestinal disorders,Excellent,count,554567,97697
+condition*mnhlth,Other stomach and intestinal disorders,Very good,count,397995,75022
+condition*mnhlth,Other stomach and intestinal disorders,Good,count,545196,78869
+condition*mnhlth,Other stomach and intestinal disorders,Fair,count,124352,31646
+condition*mnhlth,Other stomach and intestinal disorders,Poor,count,80610,31947
+condition*mnhlth,Other urinary,Excellent,count,1074966,117611
+condition*mnhlth,Other urinary,Very good,count,1075638,112085
+condition*mnhlth,Other urinary,Good,count,1400990,127370
+condition*mnhlth,Other urinary,Fair,count,382657,74729
+condition*mnhlth,Other urinary,Poor,count,234708,50457
+condition*mnhlth,Otitis media,Excellent,count,6235731,359175
+condition*mnhlth,Otitis media,Very good,count,3855621,257892
+condition*mnhlth,Otitis media,Good,count,2247532,163829
+condition*mnhlth,Otitis media,Fair,count,297144,49045
+condition*mnhlth,Otitis media,Poor,count,106380,40718
+condition*mnhlth,Paralysis,Excellent,count,35115,17835
+condition*mnhlth,Paralysis,Very good,count,90081,33011
+condition*mnhlth,Paralysis,Good,count,50020,18942
+condition*mnhlth,Paralysis,Fair,count,99859,35567
+condition*mnhlth,Paralysis,Poor,count,37381,19759
+condition*mnhlth,Perinatal Conditions,Excellent,count,116556,43249
+condition*mnhlth,Perinatal Conditions,Very good,count,20878,12129
+condition*mnhlth,Perinatal Conditions,Good,count,22123,13295
+condition*mnhlth,Perinatal Conditions,Fair,count,10329,7359.416499
+condition*mnhlth,Pneumonia,Excellent,count,1241301,220253
+condition*mnhlth,Pneumonia,Very good,count,1020754,132125
+condition*mnhlth,Pneumonia,Good,count,1254739,129429
+condition*mnhlth,Pneumonia,Fair,count,438562,84433
+condition*mnhlth,Pneumonia,Poor,count,120927,38403
+condition*mnhlth,Poisoning by medical and non-medical substances,Excellent,count,694435,88110
+condition*mnhlth,Poisoning by medical and non-medical substances,Very good,count,496723,85134
+condition*mnhlth,Poisoning by medical and non-medical substances,Good,count,593764,80751
+condition*mnhlth,Poisoning by medical and non-medical substances,Fair,count,84109,25745
+condition*mnhlth,Poisoning by medical and non-medical substances,Poor,count,89115,34227
+condition*mnhlth,Residual Codes,Excellent,count,3672278,226033
+condition*mnhlth,Residual Codes,Very good,count,4794264,250664
+condition*mnhlth,Residual Codes,Good,count,5950308,320753
+condition*mnhlth,Residual Codes,Fair,count,2150851,162133
+condition*mnhlth,Residual Codes,Poor,count,995867,122662
+condition*mnhlth,Skin disorders,Excellent,count,9190222,446871
+condition*mnhlth,Skin disorders,Very good,count,7768884,388643
+condition*mnhlth,Skin disorders,Good,count,5971304,320301
+condition*mnhlth,Skin disorders,Fair,count,1328522,129258
+condition*mnhlth,Skin disorders,Poor,count,445130,80409
+condition*mnhlth,Symptoms,Excellent,count,1879244,171966
+condition*mnhlth,Symptoms,Very good,count,1826796,155295
+condition*mnhlth,Symptoms,Good,count,1389164,151826
+condition*mnhlth,Symptoms,Fair,count,456407,69632
+condition*mnhlth,Symptoms,Poor,count,181062,47967
+condition*mnhlth,Systemic lupus and connective tissues disorders,Excellent,count,3950950,239182
+condition*mnhlth,Systemic lupus and connective tissues disorders,Very good,count,4242893,280093
+condition*mnhlth,Systemic lupus and connective tissues disorders,Good,count,4209558,230560
+condition*mnhlth,Systemic lupus and connective tissues disorders,Fair,count,1250996,122489
+condition*mnhlth,Systemic lupus and connective tissues disorders,Poor,count,392386,73717
+condition*mnhlth,Thyroid disease,Excellent,count,2834809,213524
+condition*mnhlth,Thyroid disease,Very good,count,3573755,219779
+condition*mnhlth,Thyroid disease,Good,count,3571166,230696
+condition*mnhlth,Thyroid disease,Fair,count,922404,108431
+condition*mnhlth,Thyroid disease,Poor,count,311012,64694
+condition*mnhlth,Tonsillitis,Excellent,count,512088,76703
+condition*mnhlth,Tonsillitis,Very good,count,439223,72340
+condition*mnhlth,Tonsillitis,Good,count,253659,48201
+condition*mnhlth,Tonsillitis,Fair,count,33670,20313
+condition*mnhlth,Trauma-related disorders,Excellent,count,12753791,538938
+condition*mnhlth,Trauma-related disorders,Very good,count,11608181,517630
+condition*mnhlth,Trauma-related disorders,Good,count,8869238,423697
+condition*mnhlth,Trauma-related disorders,Fair,count,1937848,156282
+condition*mnhlth,Trauma-related disorders,Poor,count,702406,98890
+condition*mnhlth,Urinary tract infections,Excellent,count,2336158,167006
+condition*mnhlth,Urinary tract infections,Very good,count,2448016,180070
+condition*mnhlth,Urinary tract infections,Good,count,1874619,146209
+condition*mnhlth,Urinary tract infections,Fair,count,559881,83422
+condition*mnhlth,Urinary tract infections,Poor,count,206177,51610

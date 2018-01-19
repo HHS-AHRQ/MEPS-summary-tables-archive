@@ -1,0 +1,368 @@
+DomainLabel,condition,event,VarName,Mean,StdErr
+condition*event,-8,ER,XP97X,476.405289,260.322106
+condition*event,-8,HH,XP97X,3995.038086,1485.395871
+condition*event,-8,IP,XP97X,8816.824363,2328.551157
+condition*event,-8,OB,XP97X,414.793178,99.667903
+condition*event,-8,OP,XP97X,965.907427,143.942472
+condition*event,-8,RX,XP97X,275.863958,63.095937
+condition*event,Acute Bronchitis and URI,ER,XP97X,244.709011,30.103529
+condition*event,Acute Bronchitis and URI,HH,XP97X,1235.314113,665.776960
+condition*event,Acute Bronchitis and URI,IP,XP97X,3806.971732,968.907166
+condition*event,Acute Bronchitis and URI,OB,XP97X,94.528103,4.903725
+condition*event,Acute Bronchitis and URI,OP,XP97X,341.341162,69.370944
+condition*event,Acute Bronchitis and URI,RX,XP97X,55.213611,2.188535
+condition*event,Allergic reactions,ER,XP97X,196.203286,31.136677
+condition*event,Allergic reactions,HH,XP97X,132.080525,165.709408
+condition*event,Allergic reactions,IP,XP97X,3251.270000,0
+condition*event,Allergic reactions,OB,XP97X,100.287812,12.990300
+condition*event,Allergic reactions,OP,XP97X,268.496629,105.000664
+condition*event,Allergic reactions,RX,XP97X,59.123399,4.921941
+condition*event,Anemia and other deficiencies,ER,XP97X,678.822274,126.994768
+condition*event,Anemia and other deficiencies,HH,XP97X,3682.776056,1711.968748
+condition*event,Anemia and other deficiencies,IP,XP97X,24281,16724
+condition*event,Anemia and other deficiencies,OB,XP97X,224.354045,55.895567
+condition*event,Anemia and other deficiencies,OP,XP97X,604.882238,111.605483
+condition*event,Anemia and other deficiencies,RX,XP97X,79.791577,33.815388
+condition*event,Appendicitis,ER,XP97X,1834.320005,1398.213653
+condition*event,Appendicitis,HH,XP97X,2672.191595,1581.171923
+condition*event,Appendicitis,IP,XP97X,5269.012463,838.616340
+condition*event,Appendicitis,OB,XP97X,146.536304,42.284150
+condition*event,Appendicitis,OP,XP97X,488.910000,0
+condition*event,Appendicitis,RX,XP97X,36.578717,8.233820
+condition*event,Back problems,ER,XP97X,469.563226,67.300065
+condition*event,Back problems,HH,XP97X,2250.877349,641.899683
+condition*event,Back problems,IP,XP97X,7942.837247,1331.888420
+condition*event,Back problems,OB,XP97X,415.005019,26.434912
+condition*event,Back problems,OP,XP97X,1610.108898,302.883379
+condition*event,Back problems,RX,XP97X,138.585848,11.200874
+condition*event,CNS infection,ER,XP97X,741.319335,243.249831
+condition*event,CNS infection,HH,XP97X,965.680684,110.194050
+condition*event,CNS infection,IP,XP97X,3162.632619,449.363524
+condition*event,CNS infection,OB,XP97X,296.635564,99.563186
+condition*event,CNS infection,OP,XP97X,986.329297,165.113791
+condition*event,CNS infection,RX,XP97X,371.423593,149.365648
+condition*event,"COPD, asthma",ER,XP97X,438.441623,52.942906
+condition*event,"COPD, asthma",HH,XP97X,3021.912265,409.798242
+condition*event,"COPD, asthma",IP,XP97X,9165.267469,1099.783154
+condition*event,"COPD, asthma",OB,XP97X,172.051652,8.266449
+condition*event,"COPD, asthma",OP,XP97X,798.693176,106.072425
+condition*event,"COPD, asthma",RX,XP97X,169.055558,6.423980
+condition*event,Cancer,ER,XP97X,713.707825,165.199349
+condition*event,Cancer,HH,XP97X,3617.109838,642.365200
+condition*event,Cancer,IP,XP97X,21829,4982.189320
+condition*event,Cancer,OB,XP97X,817.413650,170.549491
+condition*event,Cancer,OP,XP97X,2614.822141,425.871419
+condition*event,Cancer,RX,XP97X,359.812907,50.200159
+condition*event,Cataract,ER,XP97X,684.420885,393.269558
+condition*event,Cataract,HH,XP97X,7598.797719,2126.047195
+condition*event,Cataract,IP,XP97X,1744.247963,288.336283
+condition*event,Cataract,OB,XP97X,413.198487,44.761014
+condition*event,Cataract,OP,XP97X,2463.532960,297.566469
+condition*event,Cataract,RX,XP97X,92.987583,13.506521
+condition*event,Cerebrovascular disease,ER,XP97X,821.971570,389.482869
+condition*event,Cerebrovascular disease,HH,XP97X,5005.107436,688.272020
+condition*event,Cerebrovascular disease,IP,XP97X,12649,2101.899923
+condition*event,Cerebrovascular disease,OB,XP97X,401.406577,51.787326
+condition*event,Cerebrovascular disease,OP,XP97X,3059.791263,1562.743617
+condition*event,Cerebrovascular disease,RX,XP97X,277.471869,42.753474
+condition*event,"Coma, brain damage",ER,XP97X,221.576402,94.959069
+condition*event,"Coma, brain damage",HH,XP97X,6720.408075,2002.187899
+condition*event,"Coma, brain damage",IP,XP97X,5646.826332,1345.539713
+condition*event,"Coma, brain damage",OB,XP97X,143.872464,27.821046
+condition*event,"Coma, brain damage",RX,XP97X,97.080497,65.435545
+condition*event,Complications of pregnancy and birth,ER,XP97X,615.491152,151.953305
+condition*event,Complications of pregnancy and birth,HH,XP97X,1190.652745,82.798913
+condition*event,Complications of pregnancy and birth,IP,XP97X,6131.944199,1485.731282
+condition*event,Complications of pregnancy and birth,OB,XP97X,222.405123,29.199684
+condition*event,Complications of pregnancy and birth,OP,XP97X,921.960312,337.235518
+condition*event,Complications of pregnancy and birth,RX,XP97X,70.199481,18.769885
+condition*event,Complications of surgery or device,ER,XP97X,604.535750,275.865728
+condition*event,Complications of surgery or device,HH,XP97X,1362.015241,431.286475
+condition*event,Complications of surgery or device,IP,XP97X,5620.793552,1202.124390
+condition*event,Complications of surgery or device,OB,XP97X,208.857838,34.358000
+condition*event,Complications of surgery or device,OP,XP97X,946.530147,364.944345
+condition*event,Complications of surgery or device,RX,XP97X,55.628215,15.290452
+condition*event,Congenital anomalies,ER,XP97X,707.799540,201.771225
+condition*event,Congenital anomalies,HH,XP97X,14380,7111.076976
+condition*event,Congenital anomalies,IP,XP97X,12282,2616.741251
+condition*event,Congenital anomalies,OB,XP97X,299.042796,45.217549
+condition*event,Congenital anomalies,OP,XP97X,1838.902559,463.910980
+condition*event,Congenital anomalies,RX,XP97X,120.456833,27.622234
+condition*event,Diabetes mellitus,ER,XP97X,483.687780,129.663208
+condition*event,Diabetes mellitus,HH,XP97X,3540.629150,367.456387
+condition*event,Diabetes mellitus,IP,XP97X,16829,9509.211713
+condition*event,Diabetes mellitus,OB,XP97X,323.196720,20.446304
+condition*event,Diabetes mellitus,OP,XP97X,656.993673,102.283156
+condition*event,Diabetes mellitus,RX,XP97X,512.066269,23.594321
+condition*event,Disorders of mouth and esophagus,ER,XP97X,138.909455,127.139094
+condition*event,Disorders of mouth and esophagus,IP,XP97X,12675,0
+condition*event,Disorders of mouth and esophagus,OB,XP97X,160.136292,52.619170
+condition*event,Disorders of mouth and esophagus,OP,XP97X,1130.557053,404.360691
+condition*event,Disorders of mouth and esophagus,RX,XP97X,32.719837,3.933081
+condition*event,Disorders of teeth and jaws,ER,XP97X,199.146709,29.630542
+condition*event,Disorders of teeth and jaws,HH,XP97X,12833,11388
+condition*event,Disorders of teeth and jaws,IP,XP97X,3480.087863,1041.855152
+condition*event,Disorders of teeth and jaws,OB,XP97X,219.637188,46.521601
+condition*event,Disorders of teeth and jaws,OP,XP97X,1165.586017,777.838027
+condition*event,Disorders of teeth and jaws,RX,XP97X,32.779777,2.395114
+condition*event,Disorders of the upper GI,ER,XP97X,446.041218,78.723128
+condition*event,Disorders of the upper GI,HH,XP97X,2583.725508,570.078016
+condition*event,Disorders of the upper GI,IP,XP97X,7582.532880,2104.443985
+condition*event,Disorders of the upper GI,OB,XP97X,205.201789,23.632500
+condition*event,Disorders of the upper GI,OP,XP97X,846.356617,163.541398
+condition*event,Disorders of the upper GI,RX,XP97X,315.927237,14.282861
+condition*event,Epilepsy and convulsions,ER,XP97X,377.222010,66.005301
+condition*event,Epilepsy and convulsions,HH,XP97X,3945.802822,1417.954339
+condition*event,Epilepsy and convulsions,IP,XP97X,7482.405975,2715.477143
+condition*event,Epilepsy and convulsions,OB,XP97X,234.134631,28.898134
+condition*event,Epilepsy and convulsions,OP,XP97X,608.273671,172.928997
+condition*event,Epilepsy and convulsions,RX,XP97X,441.632749,48.696499
+condition*event,"Female genital disorders, and contraception",ER,XP97X,448.650057,125.356684
+condition*event,"Female genital disorders, and contraception",HH,XP97X,3298.907668,1484.441772
+condition*event,"Female genital disorders, and contraception",IP,XP97X,7955.917748,1487.113432
+condition*event,"Female genital disorders, and contraception",OB,XP97X,246.745437,20.626873
+condition*event,"Female genital disorders, and contraception",OP,XP97X,1075.290396,169.119850
+condition*event,"Female genital disorders, and contraception",RX,XP97X,161.000142,11.870239
+condition*event,"Gallbladder, pancreatic, and liver disease",ER,XP97X,665.333110,115.275096
+condition*event,"Gallbladder, pancreatic, and liver disease",HH,XP97X,858.286102,620.694388
+condition*event,"Gallbladder, pancreatic, and liver disease",IP,XP97X,8641.868208,1202.630184
+condition*event,"Gallbladder, pancreatic, and liver disease",OB,XP97X,421.619170,104.623618
+condition*event,"Gallbladder, pancreatic, and liver disease",OP,XP97X,1322.222084,302.008636
+condition*event,"Gallbladder, pancreatic, and liver disease",RX,XP97X,122.106811,21.989456
+condition*event,Glaucoma,ER,XP97X,995.160000,0
+condition*event,Glaucoma,HH,XP97X,2672.676033,795.167222
+condition*event,Glaucoma,IP,XP97X,11745,3102.046215
+condition*event,Glaucoma,OB,XP97X,224.819289,34.466329
+condition*event,Glaucoma,OP,XP97X,1329.601312,538.680771
+condition*event,Glaucoma,RX,XP97X,257.808609,16.071085
+condition*event,Headache,ER,XP97X,333.778424,48.820548
+condition*event,Headache,HH,XP97X,2529.781964,1459.840316
+condition*event,Headache,IP,XP97X,10520,4650.913455
+condition*event,Headache,OB,XP97X,204.058748,20.015423
+condition*event,Headache,OP,XP97X,663.739715,172.394432
+condition*event,Headache,RX,XP97X,236.887685,27.049663
+condition*event,Heart disease,ER,XP97X,963.416243,181.479087
+condition*event,Heart disease,HH,XP97X,3517.487362,454.396470
+condition*event,Heart disease,IP,XP97X,12488,1339.930463
+condition*event,Heart disease,OB,XP97X,506.398534,122.408385
+condition*event,Heart disease,OP,XP97X,1203.627092,172.917086
+condition*event,Heart disease,RX,XP97X,389.028839,18.400705
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",ER,XP97X,187.018989,90.444032
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",HH,XP97X,2455.036365,409.104984
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",IP,XP97X,8911.648166,2635.013248
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",OB,XP97X,189.192942,49.870967
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",OP,XP97X,906.315390,448.663128
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",RX,XP97X,183.960683,40.966108
+condition*event,"Hereditary, degenerative and other nervous system disorders",ER,XP97X,550.865193,265.528309
+condition*event,"Hereditary, degenerative and other nervous system disorders",HH,XP97X,5465.201083,1663.395367
+condition*event,"Hereditary, degenerative and other nervous system disorders",IP,XP97X,10118,2561.065563
+condition*event,"Hereditary, degenerative and other nervous system disorders",OB,XP97X,508.257713,92.977139
+condition*event,"Hereditary, degenerative and other nervous system disorders",OP,XP97X,1313.042627,507.235421
+condition*event,"Hereditary, degenerative and other nervous system disorders",RX,XP97X,1491.834522,340.643917
+condition*event,Hernias,ER,XP97X,614.584493,215.681973
+condition*event,Hernias,HH,XP97X,5841.404258,1029.096549
+condition*event,Hernias,IP,XP97X,4944.757357,1053.947317
+condition*event,Hernias,OB,XP97X,277.397223,43.051847
+condition*event,Hernias,OP,XP97X,1781.754851,201.281258
+condition*event,Hernias,RX,XP97X,310.541045,37.723735
+condition*event,Hyperlipidemia,ER,XP97X,1314.032206,950.195996
+condition*event,Hyperlipidemia,HH,XP97X,1634.005063,584.277763
+condition*event,Hyperlipidemia,IP,XP97X,0,0
+condition*event,Hyperlipidemia,OB,XP97X,194.964502,15.204595
+condition*event,Hyperlipidemia,OP,XP97X,256.208549,38.407851
+condition*event,Hyperlipidemia,RX,XP97X,480.796679,21.813212
+condition*event,Hypertension,ER,XP97X,1180.498572,560.120320
+condition*event,Hypertension,HH,XP97X,5032.822828,831.829826
+condition*event,Hypertension,IP,XP97X,5568.486403,799.821064
+condition*event,Hypertension,OB,XP97X,210.037451,9.046225
+condition*event,Hypertension,OP,XP97X,997.943728,323.288244
+condition*event,Hypertension,RX,XP97X,340.454402,8.382796
+condition*event,Infectious diseases,ER,XP97X,356.263257,64.692958
+condition*event,Infectious diseases,HH,XP97X,2970.034318,725.756839
+condition*event,Infectious diseases,IP,XP97X,5076.782030,1038.559736
+condition*event,Infectious diseases,OB,XP97X,128.507000,6.756503
+condition*event,Infectious diseases,OP,XP97X,926.721474,422.354725
+condition*event,Infectious diseases,RX,XP97X,130.453046,20.885465
+condition*event,Influenza,ER,XP97X,261.066850,47.776739
+condition*event,Influenza,HH,XP97X,0,0
+condition*event,Influenza,IP,XP97X,3489.922092,2352.821325
+condition*event,Influenza,OB,XP97X,67.749044,5.463260
+condition*event,Influenza,OP,XP97X,230.321208,66.769397
+condition*event,Influenza,RX,XP97X,33.761192,2.129720
+condition*event,Intestinal infection,ER,XP97X,495.863690,139.847770
+condition*event,Intestinal infection,HH,XP97X,5871.409474,1937.961066
+condition*event,Intestinal infection,IP,XP97X,3715.712171,1299.462355
+condition*event,Intestinal infection,OB,XP97X,79.131573,9.347799
+condition*event,Intestinal infection,OP,XP97X,356.855367,127.983790
+condition*event,Intestinal infection,RX,XP97X,44.216464,3.074452
+condition*event,Kidney Disease,ER,XP97X,801.406859,137.720324
+condition*event,Kidney Disease,HH,XP97X,5346.742860,1325.023875
+condition*event,Kidney Disease,IP,XP97X,8945.074276,1917.086362
+condition*event,Kidney Disease,OB,XP97X,1160.102774,213.733228
+condition*event,Kidney Disease,OP,XP97X,4490.336366,1074.378042
+condition*event,Kidney Disease,RX,XP97X,273.674422,77.004638
+condition*event,Male genital disorders,ER,XP97X,725.745983,277.312048
+condition*event,Male genital disorders,HH,XP97X,1890.748463,1462.387809
+condition*event,Male genital disorders,IP,XP97X,4074.491918,1030.339914
+condition*event,Male genital disorders,OB,XP97X,209.169390,34.686715
+condition*event,Male genital disorders,OP,XP97X,1189.935706,252.833099
+condition*event,Male genital disorders,RX,XP97X,264.404459,28.180066
+condition*event,Mental disorders,ER,XP97X,523.430173,155.245184
+condition*event,Mental disorders,HH,XP97X,4780.980593,750.220184
+condition*event,Mental disorders,IP,XP97X,10477,2307.964931
+condition*event,Mental disorders,OB,XP97X,519.606240,34.722193
+condition*event,Mental disorders,OP,XP97X,1293.782081,266.954373
+condition*event,Mental disorders,RX,XP97X,439.386377,19.875061
+condition*event,Non-malignant breast disease,ER,XP97X,31.606497,10.127904
+condition*event,Non-malignant breast disease,IP,XP97X,1572.389698,903.956792
+condition*event,Non-malignant breast disease,OB,XP97X,246.530982,44.565992
+condition*event,Non-malignant breast disease,OP,XP97X,838.880635,163.986833
+condition*event,Non-malignant breast disease,RX,XP97X,36.576173,7.505370
+condition*event,Non-malignant neoplasm,ER,XP97X,189.399962,61.423942
+condition*event,Non-malignant neoplasm,HH,XP97X,1431.320000,0
+condition*event,Non-malignant neoplasm,IP,XP97X,7618.500360,915.302688
+condition*event,Non-malignant neoplasm,OB,XP97X,255.157957,41.957908
+condition*event,Non-malignant neoplasm,OP,XP97X,1504.818777,244.518552
+condition*event,Non-malignant neoplasm,RX,XP97X,63.754634,14.791875
+condition*event,Normal birth/live born,ER,XP97X,565.914112,186.882097
+condition*event,Normal birth/live born,HH,XP97X,585.324930,159.532103
+condition*event,Normal birth/live born,IP,XP97X,4214.304249,655.223496
+condition*event,Normal birth/live born,OB,XP97X,736.290207,68.837841
+condition*event,Normal birth/live born,OP,XP97X,768.093428,108.569016
+condition*event,Normal birth/live born,RX,XP97X,36.203612,2.726690
+condition*event,Osteoarthritis and other non-traumatic joint disorders,ER,XP97X,292.272755,42.161559
+condition*event,Osteoarthritis and other non-traumatic joint disorders,HH,XP97X,4698.368575,558.555924
+condition*event,Osteoarthritis and other non-traumatic joint disorders,IP,XP97X,10845,1269.768135
+condition*event,Osteoarthritis and other non-traumatic joint disorders,OB,XP97X,336.995712,20.995607
+condition*event,Osteoarthritis and other non-traumatic joint disorders,OP,XP97X,1327.990586,202.595078
+condition*event,Osteoarthritis and other non-traumatic joint disorders,RX,XP97X,224.613390,16.502018
+condition*event,Other CNS disorders,ER,XP97X,722.474501,140.637308
+condition*event,Other CNS disorders,HH,XP97X,4501.034392,1370.350467
+condition*event,Other CNS disorders,IP,XP97X,5334.400577,806.763633
+condition*event,Other CNS disorders,OB,XP97X,321.764022,25.202362
+condition*event,Other CNS disorders,OP,XP97X,1370.213354,301.002766
+condition*event,Other CNS disorders,RX,XP97X,85.199360,7.434473
+condition*event,Other GI,ER,XP97X,325.557065,32.595351
+condition*event,Other GI,HH,XP97X,2744.418254,518.023182
+condition*event,Other GI,IP,XP97X,6728.280168,1095.910794
+condition*event,Other GI,OB,XP97X,178.626246,16.439376
+condition*event,Other GI,OP,XP97X,660.626596,78.200012
+condition*event,Other GI,RX,XP97X,194.601189,14.505695
+condition*event,Other bone and musculoskeletal disease,ER,XP97X,967.482284,388.506182
+condition*event,Other bone and musculoskeletal disease,HH,XP97X,5763.382475,1309.366840
+condition*event,Other bone and musculoskeletal disease,IP,XP97X,5890.857313,1276.010775
+condition*event,Other bone and musculoskeletal disease,OB,XP97X,327.447781,28.468249
+condition*event,Other bone and musculoskeletal disease,OP,XP97X,1389.701928,347.357473
+condition*event,Other bone and musculoskeletal disease,RX,XP97X,209.256169,16.708283
+condition*event,Other care and screening,ER,XP97X,1066.093673,226.858147
+condition*event,Other care and screening,HH,XP97X,2427.877451,935.162959
+condition*event,Other care and screening,IP,XP97X,3821.628414,1317.561643
+condition*event,Other care and screening,OB,XP97X,220.445983,18.818174
+condition*event,Other care and screening,OP,XP97X,699.796565,111.549307
+condition*event,Other care and screening,RX,XP97X,190.048661,8.992688
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",ER,XP97X,578.185043,128.138360
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",HH,XP97X,3918.153244,667.958811
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",IP,XP97X,13916,1847.261663
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",OB,XP97X,275.081702,29.181609
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",OP,XP97X,1511.873152,430.577103
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",RX,XP97X,239.062441,23.106777
+condition*event,"Other endocrine, nutritional & immune disorder",ER,XP97X,639.266562,308.725691
+condition*event,"Other endocrine, nutritional & immune disorder",HH,XP97X,3271.362522,634.067758
+condition*event,"Other endocrine, nutritional & immune disorder",IP,XP97X,8473.392983,1412.515366
+condition*event,"Other endocrine, nutritional & immune disorder",OB,XP97X,235.611752,28.472837
+condition*event,"Other endocrine, nutritional & immune disorder",OP,XP97X,638.952203,111.868687
+condition*event,"Other endocrine, nutritional & immune disorder",RX,XP97X,140.309623,10.549083
+condition*event,Other eye disorders,ER,XP97X,314.378098,129.255443
+condition*event,Other eye disorders,HH,XP97X,6939.631786,2027.233956
+condition*event,Other eye disorders,IP,XP97X,25809,15826
+condition*event,Other eye disorders,OB,XP97X,167.358897,12.471410
+condition*event,Other eye disorders,OP,XP97X,1275.702577,196.908930
+condition*event,Other eye disorders,RX,XP97X,46.261066,3.308065
+condition*event,Other stomach and intestinal disorders,ER,XP97X,403.156586,77.845161
+condition*event,Other stomach and intestinal disorders,HH,XP97X,2141.338781,786.428661
+condition*event,Other stomach and intestinal disorders,IP,XP97X,6943.840632,1190.972082
+condition*event,Other stomach and intestinal disorders,OB,XP97X,307.654854,58.768187
+condition*event,Other stomach and intestinal disorders,OP,XP97X,673.115839,109.194486
+condition*event,Other stomach and intestinal disorders,RX,XP97X,298.442868,59.072483
+condition*event,Other urinary,ER,XP97X,758.234709,236.902208
+condition*event,Other urinary,HH,XP97X,2987.414185,1034.201993
+condition*event,Other urinary,IP,XP97X,4065.040698,1383.518059
+condition*event,Other urinary,OB,XP97X,211.179294,27.447067
+condition*event,Other urinary,OP,XP97X,887.193519,168.051534
+condition*event,Other urinary,RX,XP97X,138.887955,15.026519
+condition*event,Otitis media,ER,XP97X,274.182096,88.617649
+condition*event,Otitis media,HH,XP97X,1246.830000,0
+condition*event,Otitis media,IP,XP97X,2916.478073,1334.669001
+condition*event,Otitis media,OB,XP97X,125.432182,7.451727
+condition*event,Otitis media,OP,XP97X,951.165510,213.329058
+condition*event,Otitis media,RX,XP97X,46.711570,2.540706
+condition*event,Paralysis,ER,XP97X,319.297240,41.003285
+condition*event,Paralysis,HH,XP97X,5268.811281,1467.778537
+condition*event,Paralysis,IP,XP97X,39619,15999
+condition*event,Paralysis,OB,XP97X,518.241243,179.568113
+condition*event,Paralysis,OP,XP97X,244.400531,139.958159
+condition*event,Paralysis,RX,XP97X,632.303808,363.715527
+condition*event,Perinatal Conditions,HH,XP97X,68.818330,30.789356
+condition*event,Perinatal Conditions,IP,XP97X,33035,24979
+condition*event,Perinatal Conditions,OB,XP97X,764.112161,397.831698
+condition*event,Perinatal Conditions,OP,XP97X,1290.751557,359.364846
+condition*event,Perinatal Conditions,RX,XP97X,114.420911,40.339932
+condition*event,Pneumonia,ER,XP97X,421.178307,53.672039
+condition*event,Pneumonia,HH,XP97X,1470.787787,318.974025
+condition*event,Pneumonia,IP,XP97X,13431,5090.180389
+condition*event,Pneumonia,OB,XP97X,180.369858,20.599864
+condition*event,Pneumonia,OP,XP97X,680.397886,310.280162
+condition*event,Pneumonia,RX,XP97X,91.149626,7.984214
+condition*event,Poisoning by medical and non-medical substances,ER,XP97X,422.332484,136.259001
+condition*event,Poisoning by medical and non-medical substances,HH,XP97X,1984.743021,860.049982
+condition*event,Poisoning by medical and non-medical substances,IP,XP97X,4541.474405,1032.018880
+condition*event,Poisoning by medical and non-medical substances,OB,XP97X,113.800516,18.414965
+condition*event,Poisoning by medical and non-medical substances,OP,XP97X,310.361782,69.355457
+condition*event,Poisoning by medical and non-medical substances,RX,XP97X,61.955853,11.799212
+condition*event,Residual Codes,ER,XP97X,403.811973,64.311995
+condition*event,Residual Codes,HH,XP97X,2830.744334,459.680248
+condition*event,Residual Codes,IP,XP97X,18620,7756.951995
+condition*event,Residual Codes,OB,XP97X,261.536617,21.920812
+condition*event,Residual Codes,OP,XP97X,673.911878,102.325284
+condition*event,Residual Codes,RX,XP97X,164.560860,9.209333
+condition*event,Skin disorders,ER,XP97X,235.317627,44.470370
+condition*event,Skin disorders,HH,XP97X,3543.998747,785.652864
+condition*event,Skin disorders,IP,XP97X,7423.087806,1701.839776
+condition*event,Skin disorders,OB,XP97X,190.875860,13.133322
+condition*event,Skin disorders,OP,XP97X,914.944861,231.954084
+condition*event,Skin disorders,RX,XP97X,124.616932,7.277064
+condition*event,Symptoms,ER,XP97X,629.033452,140.510846
+condition*event,Symptoms,HH,XP97X,4100.431882,788.911254
+condition*event,Symptoms,IP,XP97X,7395.179573,1812.349738
+condition*event,Symptoms,OB,XP97X,171.176626,21.241657
+condition*event,Symptoms,OP,XP97X,753.391922,186.431790
+condition*event,Symptoms,RX,XP97X,64.543707,10.244353
+condition*event,Systemic lupus and connective tissues disorders,ER,XP97X,443.774729,92.198355
+condition*event,Systemic lupus and connective tissues disorders,HH,XP97X,3004.496906,765.218057
+condition*event,Systemic lupus and connective tissues disorders,IP,XP97X,4324.957225,1032.967319
+condition*event,Systemic lupus and connective tissues disorders,OB,XP97X,369.261757,31.367649
+condition*event,Systemic lupus and connective tissues disorders,OP,XP97X,1111.152026,201.646810
+condition*event,Systemic lupus and connective tissues disorders,RX,XP97X,143.501239,13.747223
+condition*event,Thyroid disease,ER,XP97X,369.300000,0
+condition*event,Thyroid disease,HH,XP97X,5503.429514,1492.866966
+condition*event,Thyroid disease,IP,XP97X,3810.630939,973.149238
+condition*event,Thyroid disease,OB,XP97X,196.373695,17.130712
+condition*event,Thyroid disease,OP,XP97X,458.753495,82.202637
+condition*event,Thyroid disease,RX,XP97X,105.576344,6.863185
+condition*event,Tonsillitis,ER,XP97X,754.051285,482.382168
+condition*event,Tonsillitis,IP,XP97X,3832.758231,608.522276
+condition*event,Tonsillitis,OB,XP97X,121.549125,21.631408
+condition*event,Tonsillitis,OP,XP97X,1947.009488,515.279496
+condition*event,Tonsillitis,RX,XP97X,45.278403,7.292180
+condition*event,Trauma-related disorders,ER,XP97X,463.710912,26.827293
+condition*event,Trauma-related disorders,HH,XP97X,3573.167171,573.839304
+condition*event,Trauma-related disorders,IP,XP97X,10420,1508.667443
+condition*event,Trauma-related disorders,OB,XP97X,356.043592,17.952354
+condition*event,Trauma-related disorders,OP,XP97X,1460.401730,188.108706
+condition*event,Trauma-related disorders,RX,XP97X,54.201879,2.601740
+condition*event,Urinary tract infections,ER,XP97X,269.389379,31.217349
+condition*event,Urinary tract infections,HH,XP97X,4979.615785,1759.348007
+condition*event,Urinary tract infections,IP,XP97X,4611.701165,622.528979
+condition*event,Urinary tract infections,OB,XP97X,147.557401,14.303770
+condition*event,Urinary tract infections,OP,XP97X,542.217347,116.526161
+condition*event,Urinary tract infections,RX,XP97X,52.147294,5.206881

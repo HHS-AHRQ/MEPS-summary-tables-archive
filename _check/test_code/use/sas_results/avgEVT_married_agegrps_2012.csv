@@ -1,0 +1,21 @@
+DomainLabel,married,agegrps,VarName,Mean,N,StdErr
+married*agegrps,Married,5-17,EXP,2.615606,3,1.451736
+married*agegrps,Married,18-44,EXP,10.841485,5391,0.401426
+married*agegrps,Married,45-64,EXP,21.882042,5433,0.622126
+married*agegrps,Married,65+,EXP,37.579010,2174,1.162150
+married*agegrps,Widowed,18-44,EXP,25.368371,44,14.794431
+married*agegrps,Widowed,45-64,EXP,32.953211,337,2.616467
+married*agegrps,Widowed,65+,EXP,40.328954,1238,1.243742
+married*agegrps,Divorced,18-44,EXP,14.348079,782,1.083486
+married*agegrps,Divorced,45-64,EXP,25.245452,1569,0.931306
+married*agegrps,Divorced,65+,EXP,40.396510,591,2.042002
+married*agegrps,Separated,5-17,EXP,0,1,0
+married*agegrps,Separated,18-44,EXP,11.673660,369,1.270139
+married*agegrps,Separated,45-64,EXP,32.222836,405,3.737740
+married*agegrps,Separated,65+,EXP,44.093254,91,5.364856
+married*agegrps,Never married,5-17,EXP,8.431924,1144,0.566144
+married*agegrps,Never married,18-44,EXP,8.202279,6920,0.321195
+married*agegrps,Never married,45-64,EXP,26.344172,1193,1.407293
+married*agegrps,Never married,65+,EXP,43.435576,225,3.271680
+married*agegrps,Inapplicable (age < 16),Under 5,EXP,5.953780,2723,0.227265
+married*agegrps,Inapplicable (age < 16),5-17,EXP,7.071800,6549,0.287112

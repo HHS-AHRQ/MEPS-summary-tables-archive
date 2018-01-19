@@ -1,0 +1,85 @@
+Table,domain,F_health,health,F_diab_flu,diab_flu,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * diab_flu,1,Missing,Missing,Missing,Missing,0,,,,,,,
+Table 1 of health * diab_flu,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * diab_flu,1,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 1 of health * diab_flu,1,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 1 of health * diab_flu,1,Missing,Missing,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 1 of health * diab_flu,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 1 of health * diab_flu,1,Excellent,Excellent,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_flu,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,3,34089,24038,0.1480,0.1055,2.5920,1.8331,
+Table 1 of health * diab_flu,1,Excellent,Excellent,In the past year,In the past year,73,853012,127231,3.7038,0.5331,64.8596,6.2652,
+Table 1 of health * diab_flu,1,Excellent,Excellent,More than 1 year ago,More than 1 year ago,9,178806,74825,0.7764,0.3284,13.5957,5.0713,
+Table 1 of health * diab_flu,1,Excellent,Excellent,Never had flu shot,Never had flu shot,26,249261,61771,1.0823,0.2612,18.9528,4.4269,
+Table 1 of health * diab_flu,1,Excellent,Excellent,Total,,111,1315167,158326,5.7105,0.6684,100.0000,_,1
+Table 1 of health * diab_flu,1,Very good,Very good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_flu,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,6,72980,24362,0.3169,0.1066,1.4208,0.4828,
+Table 1 of health * diab_flu,1,Very good,Very good,In the past year,In the past year,274,3569916,267824,15.5007,0.9868,69.5017,2.7111,
+Table 1 of health * diab_flu,1,Very good,Very good,More than 1 year ago,More than 1 year ago,50,542149,93221,2.3540,0.4117,10.5550,1.7227,
+Table 1 of health * diab_flu,1,Very good,Very good,Never had flu shot,Never had flu shot,87,951397,114615,4.1310,0.4836,18.5225,2.1130,
+Table 1 of health * diab_flu,1,Very good,Very good,Total,,417,5136442,298783,22.3026,1.0630,100.0000,_,1
+Table 1 of health * diab_flu,1,Good,Good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_flu,1,Good,Good,Don't know/Non-response,Don't know/Non-response,8,59429,30692,0.2580,0.1322,0.6870,0.3480,
+Table 1 of health * diab_flu,1,Good,Good,In the past year,In the past year,506,5850722,340593,25.4041,1.1389,67.6303,2.0189,
+Table 1 of health * diab_flu,1,Good,Good,More than 1 year ago,More than 1 year ago,111,1197032,144456,5.1976,0.6037,13.8369,1.5265,
+Table 1 of health * diab_flu,1,Good,Good,Never had flu shot,Never had flu shot,176,1543853,172567,6.7035,0.7099,17.8459,1.7424,
+Table 1 of health * diab_flu,1,Good,Good,Total,,801,8651036,442634,37.5632,1.3437,100.0000,_,1
+Table 1 of health * diab_flu,1,Fair,Fair,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_flu,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,10,107990,42991,0.4689,0.1848,1.8375,0.7271,
+Table 1 of health * diab_flu,1,Fair,Fair,In the past year,In the past year,428,3845284,279684,16.6964,1.0232,65.4302,2.5103,
+Table 1 of health * diab_flu,1,Fair,Fair,More than 1 year ago,More than 1 year ago,90,764350,119055,3.3188,0.4856,13.0060,1.7590,
+Table 1 of health * diab_flu,1,Fair,Fair,Never had flu shot,Never had flu shot,124,1159301,150321,5.0337,0.6180,19.7263,2.1187,
+Table 1 of health * diab_flu,1,Fair,Fair,Total,,652,5876924,387647,25.5178,1.2946,100.0000,_,1
+Table 1 of health * diab_flu,1,Poor,Poor,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_flu,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,4,24769,13750,0.1075,0.0595,1.2076,0.6651,
+Table 1 of health * diab_flu,1,Poor,Poor,In the past year,In the past year,163,1473175,173142,6.3966,0.7376,71.8245,3.7640,
+Table 1 of health * diab_flu,1,Poor,Poor,More than 1 year ago,More than 1 year ago,26,186152,56330,0.8083,0.2479,9.0758,2.6660,
+Table 1 of health * diab_flu,1,Poor,Poor,Never had flu shot,Never had flu shot,42,366979,68108,1.5934,0.2881,17.8920,2.9764,
+Table 1 of health * diab_flu,1,Poor,Poor,Total,,235,2051075,201984,8.9059,0.8548,100.0000,_,1
+Table 1 of health * diab_flu,1,Total,Missing,Missing,Missing,0,,,,,_,_,-
+Table 1 of health * diab_flu,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,31,299257,64655,1.2994,0.2792,_,_,
+Table 1 of health * diab_flu,1,Total,Missing,In the past year,In the past year,1444,15592109,657267,67.7016,1.3334,_,_,
+Table 1 of health * diab_flu,1,Total,Missing,More than 1 year ago,More than 1 year ago,286,2868489,235458,12.4551,0.9747,_,_,
+Table 1 of health * diab_flu,1,Total,Missing,Never had flu shot,Never had flu shot,455,4270791,303987,18.5439,1.1150,_,_,
+Table 1 of health * diab_flu,1,Total,Missing,Total,,2216,23030646,827970,100.0000,_,_,_,1
+Table 2 of health * diab_flu,2,Missing,Missing,Missing,Missing,92,92.00000,11.78983,0.2649,0.0333,100.0000,0.0000,
+Table 2 of health * diab_flu,2,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Missing,Missing,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Missing,Missing,Total,,92,92.00000,11.78983,0.2649,0.0333,100.0000,_,1
+Table 2 of health * diab_flu,2,Excellent,Excellent,Missing,Missing,11502,11502,365.38062,33.1241,0.4231,100.0000,0.0000,-
+Table 2 of health * diab_flu,2,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Excellent,Excellent,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Excellent,Excellent,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Excellent,Excellent,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Excellent,Excellent,Total,,11502,11502,365.38062,33.1241,0.4231,100.0000,_,1
+Table 2 of health * diab_flu,2,Very good,Very good,Missing,Missing,10690,10690,313.84869,30.7856,0.4141,100.0000,0.0000,-
+Table 2 of health * diab_flu,2,Very good,Very good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Very good,Very good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Very good,Very good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Very good,Very good,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Very good,Very good,Total,,10690,10690,313.84869,30.7856,0.4141,100.0000,_,1
+Table 2 of health * diab_flu,2,Good,Good,Missing,Missing,8877,8877,309.09222,25.5645,0.4316,100.0000,0.0000,-
+Table 2 of health * diab_flu,2,Good,Good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Good,Good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Good,Good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Good,Good,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Good,Good,Total,,8877,8877,309.09222,25.5645,0.4316,100.0000,_,1
+Table 2 of health * diab_flu,2,Fair,Fair,Missing,Missing,2837,2837,109.25658,8.1701,0.2035,100.0000,0.0000,-
+Table 2 of health * diab_flu,2,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Fair,Fair,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Fair,Fair,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Fair,Fair,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Fair,Fair,Total,,2837,2837,109.25658,8.1701,0.2035,100.0000,_,1
+Table 2 of health * diab_flu,2,Poor,Poor,Missing,Missing,726,726.00000,34.13210,2.0908,0.0900,100.0000,0.0000,-
+Table 2 of health * diab_flu,2,Poor,Poor,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_flu,2,Poor,Poor,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_flu,2,Poor,Poor,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_flu,2,Poor,Poor,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of health * diab_flu,2,Poor,Poor,Total,,726,726.00000,34.13210,2.0908,0.0900,100.0000,_,1
+Table 2 of health * diab_flu,2,Total,Missing,Missing,Missing,34724,34724,986.15110,100.0000,0.0000,_,_,-
+Table 2 of health * diab_flu,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,
+Table 2 of health * diab_flu,2,Total,Missing,In the past year,In the past year,0,,,,,_,_,
+Table 2 of health * diab_flu,2,Total,Missing,More than 1 year ago,More than 1 year ago,0,,,,,_,_,
+Table 2 of health * diab_flu,2,Total,Missing,Never had flu shot,Never had flu shot,0,,,,,_,_,
+Table 2 of health * diab_flu,2,Total,Missing,Total,,34724,34724,986.15110,100.0000,_,_,_,1

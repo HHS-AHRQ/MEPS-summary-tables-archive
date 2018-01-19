@@ -1,0 +1,13 @@
+Table,F_SEX,SEX,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table SEX * insurance,Male,Male,"Any private, all ages","Any private, all ages",8534,99717800,2596362,32.7614,0.4511,66.7624,0.7984,
+Table SEX * insurance,Male,Male,"Public only, all ages","Public only, all ages",3732,26513503,1009400,8.7108,0.2636,17.7511,0.5412,
+Table SEX * insurance,Male,Male,"Uninsured, all ages","Uninsured, all ages",2680,23130893,951972,7.5994,0.2450,15.4864,0.4944,
+Table SEX * insurance,Male,Male,Total,,14946,149362196,3515233,49.0716,0.2768,100.0000,_,1
+Table SEX * insurance,Female,Female,"Any private, all ages","Any private, all ages",9057,102005532,2674652,33.5130,0.4090,65.8042,0.7467,-
+Table SEX * insurance,Female,Female,"Public only, all ages","Public only, all ages",4868,35310917,1215802,11.6011,0.3351,22.7792,0.6276,
+Table SEX * insurance,Female,Female,"Uninsured, all ages","Uninsured, all ages",2391,17697297,775338,5.8143,0.2141,11.4166,0.4217,
+Table SEX * insurance,Female,Female,Total,,16316,155013746,3562655,50.9284,0.2768,100.0000,_,1
+Table SEX * insurance,Total,,"Any private, all ages","Any private, all ages",17591,201723333,5060330,66.2744,0.7124,_,_,-
+Table SEX * insurance,Total,,"Public only, all ages","Public only, all ages",8600,61824420,2060415,20.3119,0.5302,_,_,
+Table SEX * insurance,Total,,"Uninsured, all ages","Uninsured, all ages",5071,40828189,1591929,13.4137,0.4036,_,_,
+Table SEX * insurance,Total,,Total,,31262,304375942,6874866,100.0000,_,_,_,1

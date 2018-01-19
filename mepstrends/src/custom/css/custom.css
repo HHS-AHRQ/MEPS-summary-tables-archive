@@ -1,0 +1,674 @@
+/* Colors
+#015289 : meps blue regular
+#0a3b61 : meps dark blue (guesstimate)
+#5b616b: uswds gray
+*/
+
+/* Table of contents:
+/*
+/* AHRQ -- editing css from AHRQ headers / footers
+/* General
+/* Home page
+/* Header
+/* Footer
+/* Intro and forms
+/* Table
+/* Plot
+/* Code
+/* Navigation tabs
+/* Download button
+
+/***** AHRQ ******/
+
+table {table-layout: auto;}
+td, th {white-space: nowrap;}
+a {text-decoration: none;}
+
+.info-box a {
+  text-decoration: underline;
+}
+
+.tooltip {
+  bottom: auto;
+  background: none;
+  width: auto;
+  font-size: 14px;
+}
+
+.container_12 {
+  max-width: none;
+  width: 100%;
+  padding: 0 10px;
+}
+
+.search-icon,
+.search-icon:hover, .search-icon:active,
+.search-icon:focus, .search-icon:visited {
+  background-color: transparent;
+  margin: 0;
+  display: block;
+  position: absolute;
+  top: 7px;
+  right: 0px;
+  padding: 0 20px;
+  border-left: 1px solid #BDBDBD;
+  border-radius: 0;
+  height: 1.8rem;
+}
+
+#header-container img {
+  height: auto;
+  width: auto;
+}
+
+#page-container {
+  overflow: visible;
+  z-index: 10;
+}
+
+#median-container {
+  padding: 20px 10px;
+}
+
+#top-button {
+  float: right;
+  position: relative;
+  margin: 10px;
+}
+
+#em-top-button-container {
+  background-color: white;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#seo {
+  width: 100%;
+}
+
+#gov-info {
+  float: left !important;
+}
+
+nav#footer-primary ul.col2 {
+    margin: 0px 0px 80px 5%;
+}
+
+@media (max-width: 960px) and (min-width: 0) {
+  #header-container, .grid_9, .page, article {max-width: none;}
+}
+
+@media (max-width: 979px) and (min-width: 681px) {
+  #utility-container {
+    display: block;
+    height: 60px;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  #brand-search-container span {
+      width: 60% !important;
+      display: inline-block !important;
+  }
+}
+
+@media (max-width: 681px) and (min-width: 0px){
+  .addthis_toolbox {margin-bottom: 0;}
+  #search-tool, .header-menu-wrapper {display: none !important;}
+  #page-container {margin: 0;}
+  #brand-search-container img {max-width: 400px;}
+  nav#footer-utility li {clear: both;}
+  #social {position: relative;}
+  #social-container {
+    width: 100%;
+    margin-top: 20px;
+  }
+  #utility-container {
+    height: 20px;
+    display: none;
+  }
+}
+
+/***** General *****/
+
+body{
+  font-family: Source Sans Pro, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+  min-width: 0;
+}
+
+label {margin-top: 1rem;}
+select {
+  max-width: none;
+  cursor: pointer;
+  padding: 0.7rem 0.8rem; /* Remove weird line on IE */
+}
+
+input {margin: 0;}
+input[type="checkbox"]{ width: 0; height: 0; }
+input[type="radio"]{ width: 0; }
+input[type="text"]{ font-size: 18px; box-shadow: none;}
+
+h1{
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  font-size: 1em;
+  font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  line-height: 1;
+  margin-top: 0;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+a:focus{
+/*  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf; */
+  outline: 2px dotted #3e94cf;
+  box-shadow: none;
+}
+
+.flex-parent{
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flex-child-fill{
+  width: 100% ;
+}
+
+.full-screen{
+  padding: 1rem 3rem;
+  max-width: none;
+}
+
+.hidden{ display: none;}
+.hide-if-trend{ display:none;}
+.inline{ display:inline-block; }
+.right { float: right; }
+
+.usa-form-large{
+  max-width: 600px;
+}
+
+#control-totals, #RSE, #dl-table, #suppress {
+  display: none;
+}
+
+#loading {
+  font-size: 18px;
+  font-style: italic;
+}
+
+
+/**** Home page *****/
+
+.bottom-half {
+  background-color: #015289; /* cool-blue */
+  color: white;
+}
+
+.em-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.em-container a{
+  color: white;
+}
+
+.preview-box{
+  background-color: #015289;
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.preview-box h3{
+  margin-top: 0;
+}
+
+.preview-box:hover, .preview-box:focus, .preview-box:visited{
+  color: white;
+  text-decoration: none;
+}
+
+
+/***** Header *****/
+
+#meps-header-container {
+  background-color: #f1f1f1;
+  border: none;
+  z-index: 11;
+}
+
+#meps-header-container li{
+  padding: 15px;
+}
+
+#meps-header-container a{
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+#meps-home-link {
+  font-weight: 500 !important;
+}
+
+#navbarNavDropdown {
+  width: 100%;
+}
+
+.navbar-nav li {
+  margin-bottom: 0;
+}
+
+.nav-item.open {
+  background-color: #015289;
+  color: white;
+}
+
+.nav-item.open a.nav-link{
+  color: white !important;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.dropdown-menu-form{
+  background-color: #fff;
+  padding: 3rem;
+  font-size: 1.7rem;
+  width: 100%;
+  min-width: 28rem;
+  z-index: 99999;
+}
+
+.dropdown-item {
+  display: block;
+  padding: 5px 10px;
+  font-weight: 400 !important;
+}
+
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+.dropdown-toggle:focus {
+  outline: 2px dotted #3e94cf;
+}
+
+
+
+@media (min-width: 481px){
+  .navbar-toggler {
+    float: right;
+  }
+}
+
+@media (max-width: 768px) {
+  .em-nav-dropdown {
+    pointer-events: none;
+  }
+
+  .em-nav-dropdown-menu {
+    display: block;
+    position: relative;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .dropdown-item {
+    display: inline-block;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .navbar-toggler {
+      display: none ;
+  }
+
+  .nav-link.dropdown-toggle::after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .3em;
+    vertical-align: middle;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-left: .3em solid transparent;
+  }
+}
+
+
+.em-legend{
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+
+.em-logo{
+  line-height: 1.5rem;
+  position: relative !important;
+  bottom: 0 !important;
+}
+.em-logo a{
+  color: #015289 !important;
+  font-size: 2.4rem !important;
+}
+
+.em-logo img{
+  vertical-align: bottom;
+  /* height: 2.4rem; Now directly in img tag */
+  margin-bottom: 0.4rem;
+}
+
+
+
+/***** Footer *****/
+
+#MEPS_img {
+  margin-top: 10px;
+}
+
+
+/***** Intro and forms *****/
+
+#meps-form-container {
+  background-color: #d6d6d6;
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px solid gray;
+  margin-top: 1em;
+}
+
+.app-image {
+  float: right;
+  width: 200px;
+}
+
+.arrow-button,
+.arrow-button[aria-expanded=false],
+.arrow-button[aria-expanded=true]{
+  border: 1px solid #5b616b !important;
+  height: 4.4rem;
+  background-position: right 0.9rem center;
+  font-weight: 400;
+  font-style: italic;
+  padding-left: 1rem;
+  background-image: url(../img/angle-double-down.png);
+  background-image: url(../img/angle-double-down.svg),
+    linear-gradient(transparent, transparent) ;
+  background-repeat: no-repeat;
+  background-size: 2.7rem;
+}
+
+.em-fieldset{
+  margin-top:2rem !important;
+}
+
+.external-link img{
+  width: 14px;
+  height: 14px;
+}
+
+.info-box{
+  background-color: #015289;
+  color: white;
+}
+
+.usa-accordion-button:hover {
+  background-color: #eaeaea;
+}
+
+/***** Table *****/
+
+.caption{
+  color: #5b616b; /* gray */
+  font-size: 2.2rem;
+  display: inline;
+}
+
+.caption-block {
+  margin-bottom: 0.5rem;
+  position: relative;
+  z-index: 10;
+}
+
+.dataTables_info{
+  display:none;
+}
+
+.dataTables_scroll{
+  overflow: auto;
+}
+
+.dataTables_wrapper .dataTables_filter {
+  width: 100%;
+  float: left !important;
+  text-aligh: left !important;
+}
+
+.selected td{
+  background-color: #B0BED9;
+}
+
+.select-button {
+  vertical-align: bottom;
+  margin-bottom: 0.2em;
+}
+
+#search {
+  height: 3.6rem;
+  width: 300px;
+  margin-bottom: 0.2rem;
+}
+
+/***** Plot *****/
+
+#meps-tabs li{
+  z-index: 10;
+}
+
+#meps-plot {
+  margin: -50px 0;
+}
+
+#plot-warning {
+  font-size: 30px;
+  font-style: italic;
+  height: 200px;
+  margin-top: 40px;
+}
+
+.gtitle {
+ display: none;
+}
+
+.in-front { /* to put caption, footnotes in front of plot */
+  position: relative;
+  z-index: 10;
+}
+
+
+/***** Code *****/
+
+.code-select select{
+  max-width: 250px;
+  width: 80%;
+  display: inline-block;
+}
+
+pre {
+  white-space: pre;
+  overflow: auto;
+  max-height: 800px;
+}
+
+
+/***** Navigation tabs *****/
+
+.nav-pills{ max-width: 800px; }
+.nav-pills> li{
+  text-align:center;
+  width: 100%;
+}
+
+@media screen and (min-width: 481px){
+  .nav-pills> li{
+    width: 30%;
+  }
+}
+
+.nav-pills> li> a {
+  text-decoration: none;
+  margin: 0.2em;
+  font-weight:600;
+  color: #015289;
+  border: 2px solid #015289;
+}
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover{
+    color: #fff;
+    background-color: #015289;
+    text-decoration: none;
+}
+
+.nav-pills>li>a.disabled{
+  color: black;
+  background-color:#d6d7d9;
+  border-color: #d6d7d9;
+  cursor: default;
+}
+
+.nav-pills>li>a.disabled:hover{
+  box-shadow:none;
+  outline:none;
+}
+
+.tab-title{
+  background-size: 1em;
+  background-repeat: no-repeat;
+  padding-left: 1.4em;
+  background-position: left center;
+}
+
+.table-tab{
+  background-image: url(../img/table-blue.png);
+  background-image: url(../img/table-blue.svg),
+    linear-gradient(transparent, transparent);
+}
+
+.active .table-tab{
+  background-image: url(../img/table-white.png);
+  background-image: url(../img/table-white.svg),
+    linear-gradient(transparent, transparent);
+}
+
+.plot-tab{
+  background-image: url(../img/bar-chart-blue.png);
+  background-image: url(../img/bar-chart-blue.svg),
+    linear-gradient(transparent, transparent);
+  background-size: 1.2em;
+}
+
+.active .plot-tab{
+  background-image: url(../img/bar-chart-white.png);
+  background-image: url(../img/bar-chart-white.svg),
+    linear-gradient(transparent, transparent);
+}
+
+.code-tab{
+  background-image: url(../img/code-blue.png);
+  background-image: url(../img/code-blue.svg),
+    linear-gradient(transparent, transparent);
+  background-size: 1.2em;
+}
+
+.active .code-tab{
+  background-image: url(../img/code-white.png);
+  background-image: url(../img/code-white.svg),
+    linear-gradient(transparent, transparent);
+}
+
+.nav-pills>li>a.disabled>.plot-tab{
+  background-image: url(../img/bar-chart.png);
+  background-image: url(../img/bar-chart.svg),
+    linear-gradient(transparent, transparent);
+  background-size: 1.2em;
+}
+
+
+/*****  Download Button  *****/
+
+.usa-button.download-button{
+  background-image: url(../img/download-gray.png);
+  background-image: url(../img/download-gray.svg),
+    linear-gradient(transparent, transparent);
+  background-size: 1.4em;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+  display: inline;
+  color: #5b616b;
+
+  background-color: white;
+  text-decoration: none;
+  margin: 0.5rem;
+  padding: 0.5rem 1.5rem;
+  box-shadow:none;
+}
+
+.usa-button.download-button:hover{
+  background-image: url(../img/download.png);
+  background-image: url(../img/download.svg),
+    linear-gradient(transparent, transparent);
+}
+
+.usa-button.download-button:visited,
+.usa-button.download-button:active,
+.usa-button.download-button:hover,
+.usa-button.download-button:focus,
+.usa-button.download-button:visited:hover,
+.usa-button.download-button:visited:active{
+   background-color: white;
+   text-decoration: none;
+   box-shadow:none;
+}
+
+.usa-button.download-button:focus{
+  box-shadow: 0 0 3px #3e94cf, 0 0 7px #3e94cf;
+  outline: 2px dotted #3e94cf;
+}
+
+
+/* This is a trick to get plot to maintain ratio on resize  -- not using currently
+  .square {
+    position: relative;
+    width: 100%;
+  }
+
+  .square:after {
+    content: '';
+    display: block;
+    padding-bottom: 70%;
+  }
+
+  .content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+/* end of trick */

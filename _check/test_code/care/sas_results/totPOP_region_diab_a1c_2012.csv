@@ -1,0 +1,51 @@
+Table,domain,F_region,region,F_diab_a1c,diab_a1c,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of region * diab_a1c,1,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,150,1424885,176422,6.6517,0.8080,38.6244,4.5084,
+Table 1 of region * diab_a1c,1,Northeast,Northeast,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of region * diab_a1c,1,Northeast,Northeast,Did not have measurement,Did not have measurement,30,264882,81905,1.2365,0.3735,7.1801,1.9670,
+Table 1 of region * diab_a1c,1,Northeast,Northeast,Had measurement,Had measurement,181,1999319,288202,9.3333,1.2364,54.1955,4.0983,
+Table 1 of region * diab_a1c,1,Northeast,Northeast,Total,,361,3689086,374350,17.2215,1.5412,100.0000,_,1
+Table 1 of region * diab_a1c,1,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,133,1495304,204313,6.9804,0.8973,31.3364,3.1157,-
+Table 1 of region * diab_a1c,1,Midwest,Midwest,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of region * diab_a1c,1,Midwest,Midwest,Did not have measurement,Did not have measurement,32,274146,59123,1.2798,0.2744,5.7452,1.1926,
+Table 1 of region * diab_a1c,1,Midwest,Midwest,Had measurement,Had measurement,247,3002334,243795,14.0156,1.0521,62.9185,3.1760,
+Table 1 of region * diab_a1c,1,Midwest,Midwest,Total,,412,4771784,353704,22.2758,1.4415,100.0000,_,1
+Table 1 of region * diab_a1c,1,South,South,Don't know/Non-response,Don't know/Non-response,371,2722406,241441,12.7088,1.0446,31.6879,2.3148,-
+Table 1 of region * diab_a1c,1,South,South,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of region * diab_a1c,1,South,South,Did not have measurement,Did not have measurement,78,584960,90028,2.7307,0.4244,6.8087,1.0677,
+Table 1 of region * diab_a1c,1,South,South,Had measurement,Had measurement,553,5283950,377486,24.6667,1.4784,61.5034,2.4818,
+Table 1 of region * diab_a1c,1,South,South,Total,,1002,8591316,460856,40.1062,1.6181,100.0000,_,1
+Table 1 of region * diab_a1c,1,West,West,Don't know/Non-response,Don't know/Non-response,206,1533788,155419,7.1601,0.6967,35.1043,2.3965,-
+Table 1 of region * diab_a1c,1,West,West,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of region * diab_a1c,1,West,West,Did not have measurement,Did not have measurement,45,259538,57547,1.2116,0.2701,5.9401,1.3118,
+Table 1 of region * diab_a1c,1,West,West,Had measurement,Had measurement,322,2575900,196683,12.0249,0.8839,58.9555,2.5328,
+Table 1 of region * diab_a1c,1,West,West,Total,,573,4369226,287865,20.3965,1.2641,100.0000,_,1
+Table 1 of region * diab_a1c,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,860,7176383,389197,33.5010,1.4166,_,_,-
+Table 1 of region * diab_a1c,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 1 of region * diab_a1c,1,Total,Missing,Did not have measurement,Did not have measurement,185,1383526,147954,6.4586,0.6708,_,_,
+Table 1 of region * diab_a1c,1,Total,Missing,Had measurement,Had measurement,1303,12861504,577421,60.0404,1.4500,_,_,
+Table 1 of region * diab_a1c,1,Total,Missing,Total,,2348,21421413,768833,100.0000,_,_,_,1
+Table 2 of region * diab_a1c,2,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of region * diab_a1c,2,Northeast,Northeast,Inapplicable,Inapplicable,5906,5906,255.67362,16.1252,0.6688,100.0000,0.0000,
+Table 2 of region * diab_a1c,2,Northeast,Northeast,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,Northeast,Northeast,Had measurement,Had measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,Northeast,Northeast,Total,,5906,5906,255.67362,16.1252,0.6688,100.0000,_,1
+Table 2 of region * diab_a1c,2,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of region * diab_a1c,2,Midwest,Midwest,Inapplicable,Inapplicable,6849,6849,307.67190,18.6998,0.7823,100.0000,0.0000,
+Table 2 of region * diab_a1c,2,Midwest,Midwest,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,Midwest,Midwest,Had measurement,Had measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,Midwest,Midwest,Total,,6849,6849,307.67190,18.6998,0.7823,100.0000,_,1
+Table 2 of region * diab_a1c,2,South,South,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of region * diab_a1c,2,South,South,Inapplicable,Inapplicable,13681,13681,616.84844,37.3532,1.2158,100.0000,0.0000,
+Table 2 of region * diab_a1c,2,South,South,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,South,South,Had measurement,Had measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,South,South,Total,,13681,13681,616.84844,37.3532,1.2158,100.0000,_,1
+Table 2 of region * diab_a1c,2,West,West,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of region * diab_a1c,2,West,West,Inapplicable,Inapplicable,10190,10190,543.08563,27.8218,1.1295,100.0000,0.0000,
+Table 2 of region * diab_a1c,2,West,West,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,West,West,Had measurement,Had measurement,0,,,,,,,
+Table 2 of region * diab_a1c,2,West,West,Total,,10190,10190,543.08563,27.8218,1.1295,100.0000,_,1
+Table 2 of region * diab_a1c,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,-
+Table 2 of region * diab_a1c,2,Total,Missing,Inapplicable,Inapplicable,36626,36626,1016,100.0000,0.0000,_,_,
+Table 2 of region * diab_a1c,2,Total,Missing,Did not have measurement,Did not have measurement,0,,,,,_,_,
+Table 2 of region * diab_a1c,2,Total,Missing,Had measurement,Had measurement,0,,,,,_,_,
+Table 2 of region * diab_a1c,2,Total,Missing,Total,,36626,36626,1016,100.0000,_,_,_,1

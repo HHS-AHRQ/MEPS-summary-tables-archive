@@ -1,0 +1,109 @@
+Table,domain,F_agegrps,agegrps,F_afford_ANY,afford_ANY,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_ANY,insure_ANY,F_other_ANY,other_ANY
+Table 1 of agegrps * afford_ANY,0,Under 5,Under 5,0,0,2528,18387162,718598,7.0217,0.2066,100.0000,0.0000,,,,,
+Table 1 of agegrps * afford_ANY,0,Under 5,Under 5,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of agegrps * afford_ANY,0,Under 5,Under 5,Total,,2528,18387162,718598,7.0217,0.2066,100.0000,_,1,,,,
+Table 1 of agegrps * afford_ANY,0,5-17,5-17,0,0,6783,50809961,1576276,19.4033,0.3447,100.0000,0.0000,-,,,,
+Table 1 of agegrps * afford_ANY,0,5-17,5-17,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of agegrps * afford_ANY,0,5-17,5-17,Total,,6783,50809961,1576276,19.4033,0.3447,100.0000,_,1,,,,
+Table 1 of agegrps * afford_ANY,0,18-44,18-44,0,0,10369,97281483,2548904,37.1498,0.3876,100.0000,0.0000,-,,,,
+Table 1 of agegrps * afford_ANY,0,18-44,18-44,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of agegrps * afford_ANY,0,18-44,18-44,Total,,10369,97281483,2548904,37.1498,0.3876,100.0000,_,1,,,,
+Table 1 of agegrps * afford_ANY,0,45-64,45-64,0,0,6155,61791749,1643297,23.5970,0.3750,100.0000,0.0000,-,,,,
+Table 1 of agegrps * afford_ANY,0,45-64,45-64,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of agegrps * afford_ANY,0,45-64,45-64,Total,,6155,61791749,1643297,23.5970,0.3750,100.0000,_,1,,,,
+Table 1 of agegrps * afford_ANY,0,65+,65+,0,0,3375,33592315,1134251,12.8282,0.3795,100.0000,0.0000,-,,,,
+Table 1 of agegrps * afford_ANY,0,65+,65+,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of agegrps * afford_ANY,0,65+,65+,Total,,3375,33592315,1134251,12.8282,0.3795,100.0000,_,1,,,,
+Table 1 of agegrps * afford_ANY,0,Total,,0,0,29210,261862670,6016356,100.0000,0.0000,_,_,-,,,,
+Table 1 of agegrps * afford_ANY,0,Total,,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of agegrps * afford_ANY,0,Total,,Total,,29210,261862670,6016356,100.0000,_,_,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,Under 5,Under 5,0,0,53,529478,101066,1.6722,0.3206,66.8504,6.8692,,,,,
+Table 2 of agegrps * afford_ANY,1,Under 5,Under 5,Couldn't afford,Couldn't afford,28,262556,66524,0.8292,0.2090,33.1496,6.8692,,,,,
+Table 2 of agegrps * afford_ANY,1,Under 5,Under 5,Total,,81,792034,123580,2.5013,0.3903,100.0000,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,5-17,5-17,0,0,205,1686599,172084,5.3265,0.5232,53.7937,3.8835,-,,,,
+Table 2 of agegrps * afford_ANY,1,5-17,5-17,Couldn't afford,Couldn't afford,212,1448709,162569,4.5752,0.4623,46.2063,3.8835,,,,,
+Table 2 of agegrps * afford_ANY,1,5-17,5-17,Total,,417,3135308,229348,9.9017,0.6136,100.0000,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,18-44,18-44,0,0,524,5652048,327130,17.8499,0.7958,39.9273,1.5760,-,,,,
+Table 2 of agegrps * afford_ANY,1,18-44,18-44,Couldn't afford,Couldn't afford,1008,8503804,451542,26.8561,0.9786,60.0727,1.5760,,,,,
+Table 2 of agegrps * afford_ANY,1,18-44,18-44,Total,,1532,14155852,632396,44.7060,1.0540,100.0000,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,45-64,45-64,0,0,478,5025104,311499,15.8699,0.9021,49.5971,2.0972,-,,,,
+Table 2 of agegrps * afford_ANY,1,45-64,45-64,Couldn't afford,Couldn't afford,647,5106739,295427,16.1277,0.7557,50.4029,2.0972,,,,,
+Table 2 of agegrps * afford_ANY,1,45-64,45-64,Total,,1125,10131844,433814,31.9977,0.9861,100.0000,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,65+,65+,0,0,211,2127378,178005,6.7185,0.5287,61.6757,2.9864,-,,,,
+Table 2 of agegrps * afford_ANY,1,65+,65+,Couldn't afford,Couldn't afford,161,1321917,145744,4.1748,0.4351,38.3243,2.9864,,,,,
+Table 2 of agegrps * afford_ANY,1,65+,65+,Total,,372,3449295,248816,10.8933,0.7067,100.0000,_,1,,,,
+Table 2 of agegrps * afford_ANY,1,Total,,0,0,1471,15020607,621285,47.4370,1.3460,_,_,-,,,,
+Table 2 of agegrps * afford_ANY,1,Total,,Couldn't afford,Couldn't afford,2056,16643725,761231,52.5630,1.3460,_,_,,,,,
+Table 2 of agegrps * afford_ANY,1,Total,,Total,,3527,31664333,1089763,100.0000,_,_,_,1,,,,
+Table 1 of agegrps * insure_ANY,0,Under 5,Under 5,,,2528,18387162,718598,7.0217,0.2066,100.0000,0.0000,,0,0,,
+Table 1 of agegrps * insure_ANY,0,Under 5,Under 5,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,Under 5,Under 5,,,2528,18387162,718598,7.0217,0.2066,100.0000,_,1,Total,,,
+Table 1 of agegrps * insure_ANY,0,5-17,5-17,,,6783,50809961,1576276,19.4033,0.3447,100.0000,0.0000,-,0,0,,
+Table 1 of agegrps * insure_ANY,0,5-17,5-17,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,5-17,5-17,,,6783,50809961,1576276,19.4033,0.3447,100.0000,_,1,Total,,,
+Table 1 of agegrps * insure_ANY,0,18-44,18-44,,,10369,97281483,2548904,37.1498,0.3876,100.0000,0.0000,-,0,0,,
+Table 1 of agegrps * insure_ANY,0,18-44,18-44,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,18-44,18-44,,,10369,97281483,2548904,37.1498,0.3876,100.0000,_,1,Total,,,
+Table 1 of agegrps * insure_ANY,0,45-64,45-64,,,6155,61791749,1643297,23.5970,0.3750,100.0000,0.0000,-,0,0,,
+Table 1 of agegrps * insure_ANY,0,45-64,45-64,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,45-64,45-64,,,6155,61791749,1643297,23.5970,0.3750,100.0000,_,1,Total,,,
+Table 1 of agegrps * insure_ANY,0,65+,65+,,,3375,33592315,1134251,12.8282,0.3795,100.0000,0.0000,-,0,0,,
+Table 1 of agegrps * insure_ANY,0,65+,65+,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,65+,65+,,,3375,33592315,1134251,12.8282,0.3795,100.0000,_,1,Total,,,
+Table 1 of agegrps * insure_ANY,0,Total,,,,29210,261862670,6016356,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of agegrps * insure_ANY,0,Total,,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of agegrps * insure_ANY,0,Total,,,,29210,261862670,6016356,100.0000,_,_,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,Under 5,Under 5,,,72,711279,106423,2.2463,0.3368,89.8041,4.4506,,0,0,,
+Table 2 of agegrps * insure_ANY,1,Under 5,Under 5,,,9,80755,40681,0.2550,0.1283,10.1959,4.4506,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,Under 5,Under 5,,,81,792034,123580,2.5013,0.3903,100.0000,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,5-17,5-17,,,357,2725862,221874,8.6086,0.6058,86.9408,2.2463,-,0,0,,
+Table 2 of agegrps * insure_ANY,1,5-17,5-17,,,60,409446,71971,1.2931,0.2257,13.0592,2.2463,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,5-17,5-17,,,417,3135308,229348,9.9017,0.6136,100.0000,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,18-44,18-44,,,1376,12482107,590431,39.4201,1.0509,88.1763,1.0481,-,0,0,,
+Table 2 of agegrps * insure_ANY,1,18-44,18-44,,,156,1673745,159698,5.2859,0.4819,11.8237,1.0481,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,18-44,18-44,,,1532,14155852,632396,44.7060,1.0540,100.0000,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,45-64,45-64,,,970,8634845,392906,27.2699,0.9190,85.2248,1.4152,-,0,0,,
+Table 2 of agegrps * insure_ANY,1,45-64,45-64,,,155,1496999,158635,4.7277,0.4877,14.7752,1.4152,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,45-64,45-64,,,1125,10131844,433814,31.9977,0.9861,100.0000,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,65+,65+,,,325,2989144,227551,9.4401,0.6502,86.6596,2.0694,-,0,0,,
+Table 2 of agegrps * insure_ANY,1,65+,65+,,,47,460151,78533,1.4532,0.2453,13.3404,2.0694,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,65+,65+,,,372,3449295,248816,10.8933,0.7067,100.0000,_,1,Total,,,
+Table 2 of agegrps * insure_ANY,1,Total,,,,3100,27543237,1017806,86.9851,0.8846,_,_,-,0,0,,
+Table 2 of agegrps * insure_ANY,1,Total,,,,427,4121096,299607,13.0149,0.8846,_,_,,Insurance related,Insurance related,,
+Table 2 of agegrps * insure_ANY,1,Total,,,,3527,31664333,1089763,100.0000,_,_,_,1,Total,,,
+Table 1 of agegrps * other_ANY,0,Under 5,Under 5,,,2528,18387162,718598,7.0217,0.2066,100.0000,0.0000,,,,0,0
+Table 1 of agegrps * other_ANY,0,Under 5,Under 5,,,0,,,,,,,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,Under 5,Under 5,,,2528,18387162,718598,7.0217,0.2066,100.0000,_,1,,,Total,
+Table 1 of agegrps * other_ANY,0,5-17,5-17,,,6783,50809961,1576276,19.4033,0.3447,100.0000,0.0000,-,,,0,0
+Table 1 of agegrps * other_ANY,0,5-17,5-17,,,0,,,,,,,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,5-17,5-17,,,6783,50809961,1576276,19.4033,0.3447,100.0000,_,1,,,Total,
+Table 1 of agegrps * other_ANY,0,18-44,18-44,,,10369,97281483,2548904,37.1498,0.3876,100.0000,0.0000,-,,,0,0
+Table 1 of agegrps * other_ANY,0,18-44,18-44,,,0,,,,,,,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,18-44,18-44,,,10369,97281483,2548904,37.1498,0.3876,100.0000,_,1,,,Total,
+Table 1 of agegrps * other_ANY,0,45-64,45-64,,,6155,61791749,1643297,23.5970,0.3750,100.0000,0.0000,-,,,0,0
+Table 1 of agegrps * other_ANY,0,45-64,45-64,,,0,,,,,,,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,45-64,45-64,,,6155,61791749,1643297,23.5970,0.3750,100.0000,_,1,,,Total,
+Table 1 of agegrps * other_ANY,0,65+,65+,,,3375,33592315,1134251,12.8282,0.3795,100.0000,0.0000,-,,,0,0
+Table 1 of agegrps * other_ANY,0,65+,65+,,,0,,,,,,,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,65+,65+,,,3375,33592315,1134251,12.8282,0.3795,100.0000,_,1,,,Total,
+Table 1 of agegrps * other_ANY,0,Total,,,,29210,261862670,6016356,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of agegrps * other_ANY,0,Total,,,,0,,,,,_,_,,,,Other,Other
+Table 1 of agegrps * other_ANY,0,Total,,,,29210,261862670,6016356,100.0000,_,_,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,Under 5,Under 5,,,37,343311,81873,1.0842,0.2569,43.3456,6.9547,,,,0,0
+Table 2 of agegrps * other_ANY,1,Under 5,Under 5,,,44,448722,83011,1.4171,0.2642,56.6544,6.9547,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,Under 5,Under 5,,,81,792034,123580,2.5013,0.3903,100.0000,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,5-17,5-17,,,253,1714934,168283,5.4160,0.4762,54.6975,3.8061,-,,,0,0
+Table 2 of agegrps * other_ANY,1,5-17,5-17,,,164,1420374,162510,4.4857,0.4924,45.3025,3.8061,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,5-17,5-17,,,417,3135308,229348,9.9017,0.6136,100.0000,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,18-44,18-44,,,1049,9032244,480602,28.5250,1.0540,63.8057,1.6088,-,,,0,0
+Table 2 of agegrps * other_ANY,1,18-44,18-44,,,483,5123608,308241,16.1810,0.7633,36.1943,1.6088,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,18-44,18-44,,,1532,14155852,632396,44.7060,1.0540,100.0000,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,45-64,45-64,,,710,5850172,306957,18.4756,0.7688,57.7404,2.0035,-,,,0,0
+Table 2 of agegrps * other_ANY,1,45-64,45-64,,,415,4281672,286236,13.5221,0.8307,42.2596,2.0035,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,45-64,45-64,,,1125,10131844,433814,31.9977,0.9861,100.0000,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,65+,65+,,,181,1471734,150365,4.6479,0.4483,42.6677,3.0358,-,,,0,0
+Table 2 of agegrps * other_ANY,1,65+,65+,,,191,1977561,175534,6.2454,0.5221,57.3323,3.0358,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,65+,65+,,,372,3449295,248816,10.8933,0.7067,100.0000,_,1,,,Total,
+Table 2 of agegrps * other_ANY,1,Total,,,,2230,18412395,789326,58.1487,1.3170,_,_,-,,,0,0
+Table 2 of agegrps * other_ANY,1,Total,,,,1297,13251938,589643,41.8513,1.3170,_,_,,,,Other,Other
+Table 2 of agegrps * other_ANY,1,Total,,,,3527,31664333,1089763,100.0000,_,_,_,1,,,Total,

@@ -1,0 +1,97 @@
+Table,domain,F_agegrps,agegrps,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"<65, Any private","<65, Any private",931,12638455,576849,5.3814,0.2155,63.7908,1.7497,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"<65, Public only","<65, Public only",568,5388212,399640,2.2943,0.1663,27.1962,1.6358,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"<65, Uninsured","<65, Uninsured",166,1785674,202925,0.7603,0.0836,9.0129,0.9593,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,Under 5,Under 5,Total,,1665,19812341,768409,8.4360,0.2740,100.0000,_,1
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"<65, Any private","<65, Any private",2851,36363143,1428726,15.4832,0.3877,70.3579,1.3049,-
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"<65, Public only","<65, Public only",1129,9504627,602159,4.0470,0.2477,18.3902,1.0656,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"<65, Uninsured","<65, Uninsured",641,5815321,429707,2.4761,0.1689,11.2519,0.7345,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,5-17,5-17,Total,,4621,51683092,1713899,22.0063,0.3903,100.0000,_,1
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"<65, Any private","<65, Any private",5806,81179190,2318208,34.5656,0.5327,74.3750,0.8252,-
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"<65, Public only","<65, Public only",882,9042687,558630,3.8503,0.2284,8.2848,0.5025,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"<65, Uninsured","<65, Uninsured",1674,18926652,868321,8.0588,0.3041,17.3403,0.6367,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,18-44,18-44,Total,,8362,109148530,2798780,46.4747,0.4283,100.0000,_,1
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"<65, Any private","<65, Any private",3425,44049722,1397099,18.7561,0.4751,81.2550,0.8857,-
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"<65, Public only","<65, Public only",379,3909185,270216,1.6645,0.1178,7.2110,0.5061,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"<65, Uninsured","<65, Uninsured",570,6252806,377984,2.6624,0.1557,11.5340,0.6632,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,45-64,45-64,Total,,4374,54211712,1484893,23.0830,0.4866,100.0000,_,1
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of agegrps * insurance_v2X,0,65+,65+,Total,,0,,,,,,_,1
+Table 1 of agegrps * insurance_v2X,0,Total,,"<65, Any private","<65, Any private",13013,174230511,4618046,74.1862,0.7956,_,_,-
+Table 1 of agegrps * insurance_v2X,0,Total,,"<65, Public only","<65, Public only",2958,27844711,1401253,11.8561,0.5723,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,"<65, Uninsured","<65, Uninsured",3051,32780453,1394204,13.9577,0.4799,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 1 of agegrps * insurance_v2X,0,Total,,Total,,19022,234855675,5494739,100.0000,_,_,_,1
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"<65, Any private","<65, Any private",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,Under 5,Under 5,Total,,0,,,,,,_,1
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,5-17,5-17,Total,,0,,,,,,_,1
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,18-44,18-44,Total,,0,,,,,,_,1
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,45-64,45-64,Total,,0,,,,,,_,1
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"65+, Medicare only","65+, Medicare only",578,7535044,479517,22.1295,1.1809,22.1295,1.1809,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"65+, Medicare and private","65+, Medicare and private",1583,22584622,905781,66.3282,1.3017,66.3282,1.3017,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"65+, Medicare and other public","65+, Medicare and other public",356,3554625,270950,10.4395,0.7576,10.4395,0.7576,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,"65+, No medicare","65+, No medicare",32,375525,78668,1.1029,0.2339,1.1029,0.2339,
+Table 2 of agegrps * insurance_v2X,1,65+,65+,Total,,2549,34049815,1140606,100.0000,0.0000,100.0000,_,1
+Table 2 of agegrps * insurance_v2X,1,Total,,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 2 of agegrps * insurance_v2X,1,Total,,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,"65+, Medicare only","65+, Medicare only",578,7535044,479517,22.1295,1.1809,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,"65+, Medicare and private","65+, Medicare and private",1583,22584622,905781,66.3282,1.3017,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,"65+, Medicare and other public","65+, Medicare and other public",356,3554625,270950,10.4395,0.7576,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,"65+, No medicare","65+, No medicare",32,375525,78668,1.1029,0.2339,_,_,
+Table 2 of agegrps * insurance_v2X,1,Total,,Total,,2549,34049815,1140606,100.0000,_,_,_,1

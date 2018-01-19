@@ -1,0 +1,113 @@
+Table,domain,F_health,health,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * insurance_v2X,0,Missing,Missing,"<65, Any private","<65, Any private",7,62326,24129,0.0247,0.0096,46.4175,12.7073,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"<65, Public only","<65, Public only",2,14127,10429,0.0056,0.0041,10.5213,7.5354,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"<65, Uninsured","<65, Uninsured",6,57820,25389,0.0230,0.0100,43.0612,12.8845,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Missing,Missing,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Missing,Missing,Total,,15,134273,38597,0.0533,0.0153,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"<65, Any private","<65, Any private",7090,64617638,2100559,25.6495,0.5684,77.0425,0.8377,-
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"<65, Public only","<65, Public only",1868,9856006,566242,3.9123,0.2051,11.7512,0.6517,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"<65, Uninsured","<65, Uninsured",1359,9399025,525521,3.7309,0.1938,11.2063,0.5518,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Excellent,Excellent,Total,,10317,83872669,2413585,33.2926,0.5565,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Very good,Very good,"<65, Any private","<65, Any private",7469,66201347,1797169,26.2781,0.4120,77.3564,0.7257,-
+Table 1 of health * insurance_v2X,0,Very good,Very good,"<65, Public only","<65, Public only",1803,8934971,496536,3.5467,0.1752,10.4405,0.4950,
+Table 1 of health * insurance_v2X,0,Very good,Very good,"<65, Uninsured","<65, Uninsured",1644,10443400,450771,4.1454,0.1614,12.2031,0.4652,
+Table 1 of health * insurance_v2X,0,Very good,Very good,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Very good,Very good,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Very good,Very good,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Very good,Very good,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Very good,Very good,Total,,10916,85579718,2164732,33.9702,0.4162,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Good,Good,"<65, Any private","<65, Any private",4951,40871626,1188938,16.2237,0.3511,67.1575,0.9966,-
+Table 1 of health * insurance_v2X,0,Good,Good,"<65, Public only","<65, Public only",1945,9702553,522777,3.8514,0.1932,15.9426,0.7207,
+Table 1 of health * insurance_v2X,0,Good,Good,"<65, Uninsured","<65, Uninsured",1702,10285212,483244,4.0826,0.1710,16.9000,0.6051,
+Table 1 of health * insurance_v2X,0,Good,Good,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Good,Good,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Good,Good,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Good,Good,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Good,Good,Total,,8598,60859391,1626051,24.1576,0.4334,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Fair,Fair,"<65, Any private","<65, Any private",1175,9072578,378747,3.6013,0.1392,57.1517,1.3670,-
+Table 1 of health * insurance_v2X,0,Fair,Fair,"<65, Public only","<65, Public only",763,4080855,230527,1.6199,0.0870,25.7069,1.1737,
+Table 1 of health * insurance_v2X,0,Fair,Fair,"<65, Uninsured","<65, Uninsured",494,2721125,159479,1.0801,0.0614,17.1414,0.8300,
+Table 1 of health * insurance_v2X,0,Fair,Fair,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Fair,Fair,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Fair,Fair,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Fair,Fair,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Fair,Fair,Total,,2432,15874557,536082,6.3013,0.1874,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Poor,Poor,"<65, Any private","<65, Any private",328,2734081,192055,1.0853,0.0716,48.7759,2.1480,-
+Table 1 of health * insurance_v2X,0,Poor,Poor,"<65, Public only","<65, Public only",358,2098589,151810,0.8330,0.0601,37.4388,1.9978,
+Table 1 of health * insurance_v2X,0,Poor,Poor,"<65, Uninsured","<65, Uninsured",130,772718,86041,0.3067,0.0343,13.7853,1.4643,
+Table 1 of health * insurance_v2X,0,Poor,Poor,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Poor,Poor,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Poor,Poor,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Poor,Poor,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of health * insurance_v2X,0,Poor,Poor,Total,,816,5605389,280695,2.2250,0.1050,100.0000,_,1
+Table 1 of health * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",21020,183559597,4348143,72.8625,0.6521,_,_,-
+Table 1 of health * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",6739,34687101,1441697,13.7688,0.4884,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",5335,33679299,1144867,13.3687,0.3716,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 1 of health * insurance_v2X,0,Total,Missing,Total,,33094,251925997,5440176,100.0000,_,_,_,1
+Table 2 of health * insurance_v2X,1,Missing,Missing,"<65, Any private","<65, Any private",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"65+, Medicare only","65+, Medicare only",17,145555,39180,0.4015,0.1090,40.2640,8.2406,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",16,154165,42218,0.4252,0.1158,42.6457,8.4162,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",9,48484,18144,0.1337,0.0501,13.4118,4.8863,
+Table 2 of health * insurance_v2X,1,Missing,Missing,"65+, No medicare","65+, No medicare",1,13298,13298,0.0367,0.0368,3.6785,3.5980,
+Table 2 of health * insurance_v2X,1,Missing,Missing,Total,,43,361503,62880,0.9971,0.1746,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"65+, Medicare only","65+, Medicare only",173,1547896,159523,4.2694,0.4044,30.2855,2.4403,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"65+, Medicare and private","65+, Medicare and private",354,3315029,247341,9.1435,0.5906,64.8604,2.4736,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"65+, Medicare and other public","65+, Medicare and other public",36,215370,47555,0.5940,0.1302,4.2138,0.9305,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,"65+, No medicare","65+, No medicare",5,32723,16832,0.0903,0.0465,0.6403,0.3284,
+Table 2 of health * insurance_v2X,1,Excellent,Excellent,Total,,568,5111019,320289,14.0971,0.7044,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Very good,Very good,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of health * insurance_v2X,1,Very good,Very good,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Very good,Very good,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Very good,Very good,"65+, Medicare only","65+, Medicare only",280,2362648,191650,6.5166,0.4550,24.5987,1.5767,
+Table 2 of health * insurance_v2X,1,Very good,Very good,"65+, Medicare and private","65+, Medicare and private",671,6417570,344905,17.7008,0.8041,66.8165,1.7902,
+Table 2 of health * insurance_v2X,1,Very good,Very good,"65+, Medicare and other public","65+, Medicare and other public",106,664676,80269,1.8333,0.2210,6.9203,0.8094,
+Table 2 of health * insurance_v2X,1,Very good,Very good,"65+, No medicare","65+, No medicare",17,159868,44498,0.4409,0.1229,1.6645,0.4612,
+Table 2 of health * insurance_v2X,1,Very good,Very good,Total,,1074,9604763,443517,26.4917,0.9025,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Good,Good,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of health * insurance_v2X,1,Good,Good,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Good,Good,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Good,Good,"65+, Medicare only","65+, Medicare only",421,3559241,254795,9.8170,0.6204,30.4429,1.8057,
+Table 2 of health * insurance_v2X,1,Good,Good,"65+, Medicare and private","65+, Medicare and private",745,6841774,329967,18.8709,0.7225,58.5190,1.8106,
+Table 2 of health * insurance_v2X,1,Good,Good,"65+, Medicare and other public","65+, Medicare and other public",203,1163270,126238,3.2085,0.3327,9.9497,0.9593,
+Table 2 of health * insurance_v2X,1,Good,Good,"65+, No medicare","65+, No medicare",24,127264,29260,0.3510,0.0804,1.0885,0.2470,
+Table 2 of health * insurance_v2X,1,Good,Good,Total,,1393,11691548,460583,32.2474,0.7888,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Fair,Fair,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of health * insurance_v2X,1,Fair,Fair,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Fair,Fair,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Fair,Fair,"65+, Medicare only","65+, Medicare only",258,1944091,150206,5.3622,0.3937,29.7404,1.9797,
+Table 2 of health * insurance_v2X,1,Fair,Fair,"65+, Medicare and private","65+, Medicare and private",369,3359693,240349,9.2666,0.5761,51.3961,2.3763,
+Table 2 of health * insurance_v2X,1,Fair,Fair,"65+, Medicare and other public","65+, Medicare and other public",225,1175337,117101,3.2418,0.3140,17.9801,1.6542,
+Table 2 of health * insurance_v2X,1,Fair,Fair,"65+, No medicare","65+, No medicare",8,57743,23310,0.1593,0.0640,0.8833,0.3573,
+Table 2 of health * insurance_v2X,1,Fair,Fair,Total,,860,6536865,309841,18.0299,0.6552,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Poor,Poor,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of health * insurance_v2X,1,Poor,Poor,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Poor,Poor,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of health * insurance_v2X,1,Poor,Poor,"65+, Medicare only","65+, Medicare only",121,980109,113921,2.7033,0.3093,33.2233,2.7917,
+Table 2 of health * insurance_v2X,1,Poor,Poor,"65+, Medicare and private","65+, Medicare and private",142,1308801,130467,3.6099,0.3495,44.3651,3.0801,
+Table 2 of health * insurance_v2X,1,Poor,Poor,"65+, Medicare and other public","65+, Medicare and other public",122,652550,80222,1.7999,0.2156,22.1198,2.4676,
+Table 2 of health * insurance_v2X,1,Poor,Poor,"65+, No medicare","65+, No medicare",1,8609,8609,0.0237,0.0237,0.2918,0.2915,
+Table 2 of health * insurance_v2X,1,Poor,Poor,Total,,386,2950069,208805,8.1368,0.5429,100.0000,_,1
+Table 2 of health * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 2 of health * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",1270,10539541,530903,29.0700,1.0886,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",2297,21397033,803894,59.0169,1.2326,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",701,3919687,260038,10.8112,0.6630,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",56,399505,61798,1.1019,0.1705,_,_,
+Table 2 of health * insurance_v2X,1,Total,Missing,Total,,4324,36255766,1131957,100.0000,_,_,_,1

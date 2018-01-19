@@ -1,0 +1,37 @@
+Table,domain,F_race,race,F_child_dental,child_dental,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of race * child_dental,0,Hispanic,Hispanic,No dental visits in past year,No dental visits in past year,4880,21379446,1127326,9.5945,0.4655,76.7455,0.8200,
+Table 1 of race * child_dental,0,Hispanic,Hispanic,One or more dental visits,One or more dental visits,1268,6478146,395629,2.9072,0.1703,23.2545,0.8200,
+Table 1 of race * child_dental,0,Hispanic,Hispanic,Total,,6148,27857592,1427112,12.5017,0.5900,100.0000,_,1
+Table 1 of race * child_dental,0,White,White,No dental visits in past year,No dental visits in past year,8572,80663604,1956916,36.1995,0.6133,51.5410,0.6212,-
+Table 1 of race * child_dental,0,White,White,One or more dental visits,One or more dental visits,7293,75840225,2063732,34.0349,0.5653,48.4590,0.6212,
+Table 1 of race * child_dental,0,White,White,Total,,15865,156503829,3526227,70.2345,0.7919,100.0000,_,1
+Table 1 of race * child_dental,0,Black,Black,No dental visits in past year,No dental visits in past year,2888,18797851,968079,8.4359,0.4056,75.4715,0.9012,-
+Table 1 of race * child_dental,0,Black,Black,One or more dental visits,One or more dental visits,877,6109368,346749,2.7417,0.1422,24.5285,0.9012,
+Table 1 of race * child_dental,0,Black,Black,Total,,3765,24907219,1208209,11.1777,0.4956,100.0000,_,1
+Table 1 of race * child_dental,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",No dental visits in past year,No dental visits in past year,368,2834985,365065,1.2723,0.1617,71.4544,2.9146,-
+Table 1 of race * child_dental,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",One or more dental visits,One or more dental visits,146,1132560,133187,0.5083,0.0594,28.5456,2.9146,
+Table 1 of race * child_dental,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",Total,,514,3967545,427900,1.7805,0.1891,100.0000,_,1
+Table 1 of race * child_dental,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",No dental visits in past year,No dental visits in past year,657,5886129,517345,2.6415,0.2206,61.3501,2.1401,-
+Table 1 of race * child_dental,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",One or more dental visits,One or more dental visits,400,3708204,309930,1.6641,0.1353,38.6499,2.1401,
+Table 1 of race * child_dental,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",Total,,1057,9594334,712029,4.3057,0.3014,100.0000,_,1
+Table 1 of race * child_dental,0,Total,Missing,No dental visits in past year,No dental visits in past year,17365,129562016,2702585,58.1437,0.5335,_,_,-
+Table 1 of race * child_dental,0,Total,Missing,One or more dental visits,One or more dental visits,9984,93268503,2309257,41.8563,0.5335,_,_,
+Table 1 of race * child_dental,0,Total,Missing,Total,,27349,222830519,4415287,100.0000,_,_,_,1
+Table 2 of race * child_dental,1,Hispanic,Hispanic,No dental visits in past year,No dental visits in past year,2185,7812486,484366,11.9546,0.6835,66.1665,1.3072,
+Table 2 of race * child_dental,1,Hispanic,Hispanic,One or more dental visits,One or more dental visits,1094,3994828,252740,6.1129,0.3707,33.8335,1.3072,
+Table 2 of race * child_dental,1,Hispanic,Hispanic,Total,,3279,11807314,661027,18.0675,0.9291,100.0000,_,1
+Table 2 of race * child_dental,1,White,White,No dental visits in past year,No dental visits in past year,1962,16526369,700707,25.2885,0.8938,42.4201,1.1431,-
+Table 2 of race * child_dental,1,White,White,One or more dental visits,One or more dental visits,2393,22432460,828027,34.3260,0.9191,57.5799,1.1431,
+Table 2 of race * child_dental,1,White,White,Total,,4355,38958828,1239453,59.6145,1.2039,100.0000,_,1
+Table 2 of race * child_dental,1,Black,Black,No dental visits in past year,No dental visits in past year,1167,6277471,428751,9.6057,0.5682,62.9745,1.7923,-
+Table 2 of race * child_dental,1,Black,Black,One or more dental visits,One or more dental visits,638,3690809,316330,5.6476,0.4384,37.0255,1.7923,
+Table 2 of race * child_dental,1,Black,Black,Total,,1805,9968279,652128,15.2534,0.8434,100.0000,_,1
+Table 2 of race * child_dental,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",No dental visits in past year,No dental visits in past year,160,1048166,160532,1.6039,0.2471,55.1810,4.6472,-
+Table 2 of race * child_dental,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",One or more dental visits,One or more dental visits,130,851339,122268,1.3027,0.1864,44.8190,4.6472,
+Table 2 of race * child_dental,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",Total,,290,1899505,220341,2.9066,0.3381,100.0000,_,1
+Table 2 of race * child_dental,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",No dental visits in past year,No dental visits in past year,206,1619090,223411,2.4775,0.3257,59.5841,4.4810,-
+Table 2 of race * child_dental,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",One or more dental visits,One or more dental visits,134,1098227,169347,1.6805,0.2527,40.4159,4.4810,
+Table 2 of race * child_dental,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",Total,,340,2717317,305221,4.1580,0.4381,100.0000,_,1
+Table 2 of race * child_dental,1,Total,Missing,No dental visits in past year,No dental visits in past year,5680,33283581,1050186,50.9303,0.8696,_,_,-
+Table 2 of race * child_dental,1,Total,Missing,One or more dental visits,One or more dental visits,4389,32067663,1015012,49.0697,0.8696,_,_,
+Table 2 of race * child_dental,1,Total,Missing,Total,,10069,65351244,1724179,100.0000,_,_,_,1

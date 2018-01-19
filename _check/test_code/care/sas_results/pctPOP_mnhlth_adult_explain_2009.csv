@@ -1,0 +1,85 @@
+Table,domain,F_mnhlth,mnhlth,F_adult_explain,adult_explain,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Inapplicable,Inapplicable,90,90.00000,12.40967,0.0001,0.0000,100.0000,0.0000,
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Always,Always,0,,,,,,,
+Table 1 of mnhlth * adult_explain,0,Missing,Missing,Total,Missing,90,90.00000,12.40967,0.0001,0.0000,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,85,786573,124397,1.0844,0.1672,2.6427,0.4029,-
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Inapplicable,Inapplicable,9962,27750919,1029334,38.2592,0.8360,93.2352,0.8081,
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Sometimes/Never,Sometimes/Never,24,237206,74448,0.3270,0.1016,0.7969,0.2472,
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Usually,Usually,27,231038,64512,0.3185,0.0879,0.7762,0.2105,
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Always,Always,86,758673,169133,1.0460,0.2300,2.5489,0.5488,
+Table 1 of mnhlth * adult_explain,0,Excellent,Excellent,Total,Missing,10184,29764409,1112627,41.0351,0.8831,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Don't know/Non-response,Don't know/Non-response,87,696363,87834,0.9601,0.1190,3.1822,0.3912,-
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Inapplicable,Inapplicable,5723,20015154,741345,27.5942,0.6807,91.4637,0.7340,
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Sometimes/Never,Sometimes/Never,20,239478,59824,0.3302,0.0824,1.0943,0.2731,
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Usually,Usually,27,303818,64290,0.4189,0.0894,1.3884,0.2849,
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Always,Always,68,628345,104783,0.8663,0.1436,2.8714,0.4794,
+Table 1 of mnhlth * adult_explain,0,Very good,Very good,Total,Missing,5925,21883158,776114,30.1695,0.7028,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Good,Good,Don't know/Non-response,Don't know/Non-response,89,714313,112047,0.9848,0.1462,4.1052,0.5921,-
+Table 1 of mnhlth * adult_explain,0,Good,Good,Inapplicable,Inapplicable,4602,15610464,662182,21.5216,0.7484,89.7152,0.9348,
+Table 1 of mnhlth * adult_explain,0,Good,Good,Sometimes/Never,Sometimes/Never,30,159889,34609,0.2204,0.0471,0.9189,0.1960,
+Table 1 of mnhlth * adult_explain,0,Good,Good,Usually,Usually,32,355367,76347,0.4899,0.1047,2.0423,0.4341,
+Table 1 of mnhlth * adult_explain,0,Good,Good,Always,Always,74,559987,77923,0.7720,0.1075,3.2183,0.4397,
+Table 1 of mnhlth * adult_explain,0,Good,Good,Total,Missing,4827,17400021,723288,23.9888,0.7855,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Don't know/Non-response,Don't know/Non-response,23,186493,53553,0.2571,0.0741,6.4201,1.8527,-
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Inapplicable,Inapplicable,711,2410249,197793,3.3229,0.2657,82.9731,2.5859,
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Sometimes/Never,Sometimes/Never,5,31498,16290,0.0434,0.0223,1.0843,0.5585,
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Usually,Usually,9,67343,23619,0.0928,0.0323,2.3183,0.7939,
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Always,Always,28,209272,47480,0.2885,0.0646,7.2042,1.4603,
+Table 1 of mnhlth * adult_explain,0,Fair,Fair,Total,Missing,776,2904855,218053,4.0048,0.2892,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Don't know/Non-response,Don't know/Non-response,9,118268,48242,0.1631,0.0661,20.3404,7.1147,-
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Inapplicable,Inapplicable,199,431410,74398,0.5948,0.1013,74.1962,7.2590,
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Usually,Usually,2,12140,8636,0.0167,0.0119,2.0879,1.4896,
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Always,Always,3,19626,13229,0.0271,0.0183,3.3754,2.2586,
+Table 1 of mnhlth * adult_explain,0,Poor,Poor,Total,Missing,213,581445,90232,0.8016,0.1220,100.0000,_,1
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,293,2502012,218916,3.4494,0.2745,_,_,-
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Inapplicable,Inapplicable,21287,66218286,1859913,91.2928,0.4604,_,_,
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Sometimes/Never,Sometimes/Never,79,668071,102219,0.9210,0.1372,_,_,
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Usually,Usually,97,969706,119593,1.3369,0.1621,_,_,
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Always,Always,259,2175904,212098,2.9998,0.2821,_,_,
+Table 1 of mnhlth * adult_explain,0,Total,Missing,Total,Missing,22015,72533979,2026542,100.0000,_,_,_,1
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Always,Always,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Missing,Missing,Total,Missing,0,,,,,,_,1
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,64,534651,84451,0.3429,0.0537,0.9724,0.1495,-
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Sometimes/Never,Sometimes/Never,349,3106196,193783,1.9923,0.1251,5.6497,0.3569,
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Usually,Usually,1386,15519650,668468,9.9543,0.3870,28.2278,0.9332,
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Always,Always,3180,35819488,1221563,22.9746,0.5638,65.1501,0.9971,
+Table 2 of mnhlth * adult_explain,1,Excellent,Excellent,Total,Missing,4979,54979984,1581681,35.2641,0.6730,100.0000,_,1
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,54,485853,81453,0.3116,0.0521,1.0098,0.1679,-
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Sometimes/Never,Sometimes/Never,306,2836291,205858,1.8192,0.1290,5.8950,0.4157,
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Usually,Usually,1451,16113484,679538,10.3352,0.3470,33.4904,0.9406,
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Always,Always,2571,28678087,935033,18.3941,0.4508,59.6048,0.9182,
+Table 2 of mnhlth * adult_explain,1,Very good,Very good,Total,Missing,4382,48113715,1399078,30.8601,0.5656,100.0000,_,1
+Table 2 of mnhlth * adult_explain,1,Good,Good,Don't know/Non-response,Don't know/Non-response,76,559255,97132,0.3587,0.0617,1.4005,0.2419,-
+Table 2 of mnhlth * adult_explain,1,Good,Good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Good,Good,Sometimes/Never,Sometimes/Never,446,3845177,260589,2.4663,0.1648,9.6293,0.6035,
+Table 2 of mnhlth * adult_explain,1,Good,Good,Usually,Usually,1344,13510207,593051,8.6654,0.3283,33.8330,0.9713,
+Table 2 of mnhlth * adult_explain,1,Good,Good,Always,Always,2165,22017447,865591,14.1220,0.4127,55.1372,1.0912,
+Table 2 of mnhlth * adult_explain,1,Good,Good,Total,Missing,4031,39932086,1311174,25.6124,0.5788,100.0000,_,1
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,18,132222,39677,0.0848,0.0254,1.3099,0.3870,-
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Sometimes/Never,Sometimes/Never,181,1385437,143105,0.8886,0.0891,13.7257,1.2662,
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Usually,Usually,394,3761243,237051,2.4125,0.1429,37.2632,1.7548,
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Always,Always,543,4814822,291955,3.0882,0.1702,47.7011,1.8989,
+Table 2 of mnhlth * adult_explain,1,Fair,Fair,Total,Missing,1136,10093724,449651,6.4741,0.2440,100.0000,_,1
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,6,52286,33451,0.0335,0.0215,1.8742,1.1364,-
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Sometimes/Never,Sometimes/Never,62,577702,86821,0.3705,0.0555,20.7079,2.7940,
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Usually,Usually,110,1066812,137380,0.6843,0.0852,38.2401,3.6390,
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Always,Always,134,1092970,115711,0.7010,0.0744,39.1778,3.1081,
+Table 2 of mnhlth * adult_explain,1,Poor,Poor,Total,Missing,312,2789771,224780,1.7894,0.1398,100.0000,_,1
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,218,1764267,162278,1.1316,0.1021,_,_,-
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Sometimes/Never,Sometimes/Never,1344,11750804,467688,7.5369,0.2839,_,_,
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Usually,Usually,4685,49971396,1375513,32.0516,0.5071,_,_,
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Always,Always,8593,92422813,2343321,59.2799,0.5455,_,_,
+Table 2 of mnhlth * adult_explain,1,Total,Missing,Total,Missing,14840,155909279,3519555,100.0000,_,_,_,1

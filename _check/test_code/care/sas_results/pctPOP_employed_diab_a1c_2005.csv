@@ -1,0 +1,51 @@
+Table,domain,F_employed,employed,F_diab_a1c,diab_a1c,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of employed * diab_a1c,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Missing,Missing,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Missing,Missing,Had measurement,Had measurement,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 1 of employed * diab_a1c,1,Employed,Employed,Don't know/Non-response,Don't know/Non-response,58,581302,80115,3.4327,0.4459,8.9774,1.1624,-
+Table 1 of employed * diab_a1c,1,Employed,Employed,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Employed,Employed,Did not have measurement,Did not have measurement,67,724828,106147,4.2802,0.5828,11.1940,1.4688,
+Table 1 of employed * diab_a1c,1,Employed,Employed,Had measurement,Had measurement,433,5169018,282974,30.5240,1.3273,79.8286,1.8536,
+Table 1 of employed * diab_a1c,1,Employed,Employed,Total,,558,6475148,332417,38.2369,1.3449,100.0000,_,1
+Table 1 of employed * diab_a1c,1,Not employed,Not employed,Don't know/Non-response,Don't know/Non-response,224,2089186,177786,12.3370,0.9842,19.9748,1.4905,-
+Table 1 of employed * diab_a1c,1,Not employed,Not employed,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Not employed,Not employed,Did not have measurement,Did not have measurement,84,702202,102626,4.1466,0.5724,6.7138,0.8947,
+Table 1 of employed * diab_a1c,1,Not employed,Not employed,Had measurement,Had measurement,788,7667736,334848,45.2794,1.2445,73.3114,1.5455,
+Table 1 of employed * diab_a1c,1,Not employed,Not employed,Total,,1096,10459125,424619,61.7631,1.3449,100.0000,_,1
+Table 1 of employed * diab_a1c,1,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of employed * diab_a1c,1,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Inapplicable (age < 16),Inapplicable (age < 16),Did not have measurement,Did not have measurement,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Inapplicable (age < 16),Inapplicable (age < 16),Had measurement,Had measurement,0,,,,,,,
+Table 1 of employed * diab_a1c,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,,0,,,,,,_,1
+Table 1 of employed * diab_a1c,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,282,2670488,199451,15.7697,1.0497,_,_,-
+Table 1 of employed * diab_a1c,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 1 of employed * diab_a1c,1,Total,Missing,Did not have measurement,Did not have measurement,151,1427031,158375,8.4269,0.8303,_,_,
+Table 1 of employed * diab_a1c,1,Total,Missing,Had measurement,Had measurement,1221,12836754,479818,75.8034,1.2312,_,_,
+Table 1 of employed * diab_a1c,1,Total,Missing,Total,,1654,16934272,601067,100.0000,_,_,_,1
+Table 2 of employed * diab_a1c,2,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Missing,Missing,Inapplicable,Inapplicable,69,69.00000,9.64365,0.2136,0.0295,100.0000,0.0000,
+Table 2 of employed * diab_a1c,2,Missing,Missing,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Missing,Missing,Had measurement,Had measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Missing,Missing,Total,,69,69.00000,9.64365,0.2136,0.0295,100.0000,_,1
+Table 2 of employed * diab_a1c,2,Employed,Employed,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of employed * diab_a1c,2,Employed,Employed,Inapplicable,Inapplicable,14144,14144,370.40113,43.7800,0.3915,100.0000,0.0000,
+Table 2 of employed * diab_a1c,2,Employed,Employed,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Employed,Employed,Had measurement,Had measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Employed,Employed,Total,,14144,14144,370.40113,43.7800,0.3915,100.0000,_,1
+Table 2 of employed * diab_a1c,2,Not employed,Not employed,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of employed * diab_a1c,2,Not employed,Not employed,Inapplicable,Inapplicable,9142,9142,256.01953,28.2973,0.3645,100.0000,0.0000,
+Table 2 of employed * diab_a1c,2,Not employed,Not employed,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Not employed,Not employed,Had measurement,Had measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Not employed,Not employed,Total,,9142,9142,256.01953,28.2973,0.3645,100.0000,_,1
+Table 2 of employed * diab_a1c,2,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of employed * diab_a1c,2,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,8952,8952,299.27245,27.7092,0.3230,100.0000,0.0000,
+Table 2 of employed * diab_a1c,2,Inapplicable (age < 16),Inapplicable (age < 16),Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Inapplicable (age < 16),Inapplicable (age < 16),Had measurement,Had measurement,0,,,,,,,
+Table 2 of employed * diab_a1c,2,Inapplicable (age < 16),Inapplicable (age < 16),Total,,8952,8952,299.27245,27.7092,0.3230,100.0000,_,1
+Table 2 of employed * diab_a1c,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,-
+Table 2 of employed * diab_a1c,2,Total,Missing,Inapplicable,Inapplicable,32307,32307,862.80357,100.0000,0.0000,_,_,
+Table 2 of employed * diab_a1c,2,Total,Missing,Did not have measurement,Did not have measurement,0,,,,,_,_,
+Table 2 of employed * diab_a1c,2,Total,Missing,Had measurement,Had measurement,0,,,,,_,_,
+Table 2 of employed * diab_a1c,2,Total,Missing,Total,,32307,32307,862.80357,100.0000,_,_,_,1

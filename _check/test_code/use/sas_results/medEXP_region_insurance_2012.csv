@@ -1,0 +1,13 @@
+DomainLabel,region,insurance,VarName,VarLabel,Percentile,PercentSign,PercentileLabel,Quantile,Estimate,StdErr,LowerCL,UpperCL,ControlVar
+region*insurance,Northeast,"Any private, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1520.409266,96.137948,1330.85226,1709.96627,
+region*insurance,Northeast,"Public only, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1556.008472,172.873948,1215.14965,1896.86729,
+region*insurance,Northeast,"Uninsured, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,649.320785,142.071579,369.19558,929.44600,
+region*insurance,Midwest,"Any private, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1500.432605,62.502910,1377.19444,1623.67077,
+region*insurance,Midwest,"Public only, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1572.089674,151.356513,1273.65718,1870.52216,
+region*insurance,Midwest,"Uninsured, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,548.613754,75.250705,400.24052,696.98699,
+region*insurance,South,"Any private, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1293.854619,51.710409,1191.89623,1395.81301,
+region*insurance,South,"Public only, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1436.241926,128.845014,1182.19578,1690.28807,
+region*insurance,South,"Uninsured, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,470.626637,39.706116,392.33734,548.91593,
+region*insurance,West,"Any private, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,1327.028046,58.355031,1211.96833,1442.08776,
+region*insurance,West,"Public only, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,976.157988,106.478088,766.21313,1186.10284,
+region*insurance,West,"Uninsured, all ages",TOTEXP12,TOTAL HEALTH CARE EXP 12,50,%,Median,0.5,404.333316,40.929659,323.63154,485.03510,

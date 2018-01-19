@@ -1,0 +1,85 @@
+Table,domain,F_health,health,F_diab_chol,diab_chol,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * diab_chol,1,Missing,Missing,Missing,Missing,0,,,,,,,
+Table 1 of health * diab_chol,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * diab_chol,1,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 1 of health * diab_chol,1,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 1 of health * diab_chol,1,Missing,Missing,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 1 of health * diab_chol,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 1 of health * diab_chol,1,Excellent,Excellent,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_chol,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,1,3112,3112,0.0155,0.0155,0.2892,0.2849,
+Table 1 of health * diab_chol,1,Excellent,Excellent,In the past year,In the past year,73,902002,135273,4.4938,0.6318,83.8314,4.2897,
+Table 1 of health * diab_chol,1,Excellent,Excellent,More than 1 year ago,More than 1 year ago,10,109429,36848,0.5452,0.1821,10.1702,3.2957,
+Table 1 of health * diab_chol,1,Excellent,Excellent,Never had cholesterol checked,Never had cholesterol checked,5,61429,32384,0.3060,0.1615,5.7092,2.9533,
+Table 1 of health * diab_chol,1,Excellent,Excellent,Total,,89,1075972,145102,5.3605,0.6727,100.0000,_,1
+Table 1 of health * diab_chol,1,Very good,Very good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_chol,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,4,64529,35467,0.3215,0.1766,1.6860,0.9143,
+Table 1 of health * diab_chol,1,Very good,Very good,In the past year,In the past year,278,3329396,220463,16.5871,1.0659,86.9869,2.3726,
+Table 1 of health * diab_chol,1,Very good,Very good,More than 1 year ago,More than 1 year ago,23,285215,73642,1.4209,0.3703,7.4518,1.8411,
+Table 1 of health * diab_chol,1,Very good,Very good,Never had cholesterol checked,Never had cholesterol checked,15,148326,54486,0.7390,0.2708,3.8753,1.3988,
+Table 1 of health * diab_chol,1,Very good,Very good,Total,,320,3827467,239058,19.0684,1.1660,100.0000,_,1
+Table 1 of health * diab_chol,1,Good,Good,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_chol,1,Good,Good,Don't know/Non-response,Don't know/Non-response,7,80349,34271,0.4003,0.1707,1.0228,0.4412,
+Table 1 of health * diab_chol,1,Good,Good,In the past year,In the past year,603,7034965,400557,35.0482,1.4255,89.5538,1.4255,
+Table 1 of health * diab_chol,1,Good,Good,More than 1 year ago,More than 1 year ago,56,540334,91938,2.6919,0.4540,6.8783,1.1583,
+Table 1 of health * diab_chol,1,Good,Good,Never had cholesterol checked,Never had cholesterol checked,22,199929,53800,0.9960,0.2623,2.5451,0.6725,
+Table 1 of health * diab_chol,1,Good,Good,Total,,688,7855577,411268,39.1365,1.3594,100.0000,_,1
+Table 1 of health * diab_chol,1,Fair,Fair,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_chol,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,3,21467,14032,0.1070,0.0700,0.4530,0.2949,
+Table 1 of health * diab_chol,1,Fair,Fair,In the past year,In the past year,433,4200879,276463,20.9288,1.1738,88.6465,1.5592,
+Table 1 of health * diab_chol,1,Fair,Fair,More than 1 year ago,More than 1 year ago,41,359931,69338,1.7932,0.3452,7.5952,1.4024,
+Table 1 of health * diab_chol,1,Fair,Fair,Never had cholesterol checked,Never had cholesterol checked,21,156634,35537,0.7804,0.1760,3.3053,0.7414,
+Table 1 of health * diab_chol,1,Fair,Fair,Total,,498,4738912,294002,23.6093,1.2441,100.0000,_,1
+Table 1 of health * diab_chol,1,Poor,Poor,Missing,Missing,0,,,,,,,-
+Table 1 of health * diab_chol,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,3,11048,6682,0.0550,0.0332,0.4292,0.2581,
+Table 1 of health * diab_chol,1,Poor,Poor,In the past year,In the past year,222,2399807,199544,11.9558,0.9235,93.2205,1.5277,
+Table 1 of health * diab_chol,1,Poor,Poor,More than 1 year ago,More than 1 year ago,17,139833,38858,0.6966,0.1917,5.4318,1.4119,
+Table 1 of health * diab_chol,1,Poor,Poor,Never had cholesterol checked,Never had cholesterol checked,4,23645,13578,0.1178,0.0675,0.9185,0.5312,
+Table 1 of health * diab_chol,1,Poor,Poor,Total,,246,2574333,210623,12.8253,0.9690,100.0000,_,1
+Table 1 of health * diab_chol,1,Total,Missing,Missing,Missing,0,,,,,_,_,-
+Table 1 of health * diab_chol,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,18,180506,51235,0.8993,0.2550,_,_,
+Table 1 of health * diab_chol,1,Total,Missing,In the past year,In the past year,1609,17867048,646257,89.0136,0.8549,_,_,
+Table 1 of health * diab_chol,1,Total,Missing,More than 1 year ago,More than 1 year ago,147,1434742,136508,7.1479,0.6710,_,_,
+Table 1 of health * diab_chol,1,Total,Missing,Never had cholesterol checked,Never had cholesterol checked,67,589964,94361,2.9392,0.4573,_,_,
+Table 1 of health * diab_chol,1,Total,Missing,Total,,1841,20072260,678200,100.0000,_,_,_,1
+Table 2 of health * diab_chol,2,Missing,Missing,Missing,Missing,101,101.00000,11.44552,0.3235,0.0373,100.0000,0.0000,
+Table 2 of health * diab_chol,2,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Missing,Missing,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Missing,Missing,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Missing,Missing,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Missing,Missing,Total,,101,101.00000,11.44552,0.3235,0.0373,100.0000,_,1
+Table 2 of health * diab_chol,2,Excellent,Excellent,Missing,Missing,10411,10411,305.00000,33.3419,0.5770,100.0000,0.0000,-
+Table 2 of health * diab_chol,2,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Excellent,Excellent,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Excellent,Excellent,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Excellent,Excellent,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Excellent,Excellent,Total,,10411,10411,305.00000,33.3419,0.5770,100.0000,_,1
+Table 2 of health * diab_chol,2,Very good,Very good,Missing,Missing,9760,9760,290.49096,31.2570,0.4048,100.0000,0.0000,-
+Table 2 of health * diab_chol,2,Very good,Very good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Very good,Very good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Very good,Very good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Very good,Very good,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Very good,Very good,Total,,9760,9760,290.49096,31.2570,0.4048,100.0000,_,1
+Table 2 of health * diab_chol,2,Good,Good,Missing,Missing,7838,7838,278.07553,25.1017,0.4273,100.0000,0.0000,-
+Table 2 of health * diab_chol,2,Good,Good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Good,Good,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Good,Good,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Good,Good,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Good,Good,Total,,7838,7838,278.07553,25.1017,0.4273,100.0000,_,1
+Table 2 of health * diab_chol,2,Fair,Fair,Missing,Missing,2451,2451,95.12623,7.8495,0.2062,100.0000,0.0000,-
+Table 2 of health * diab_chol,2,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Fair,Fair,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Fair,Fair,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Fair,Fair,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Fair,Fair,Total,,2451,2451,95.12623,7.8495,0.2062,100.0000,_,1
+Table 2 of health * diab_chol,2,Poor,Poor,Missing,Missing,664,664.00000,28.94823,2.1265,0.0874,100.0000,0.0000,-
+Table 2 of health * diab_chol,2,Poor,Poor,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_chol,2,Poor,Poor,In the past year,In the past year,0,,,,,,,
+Table 2 of health * diab_chol,2,Poor,Poor,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of health * diab_chol,2,Poor,Poor,Never had cholesterol checked,Never had cholesterol checked,0,,,,,,,
+Table 2 of health * diab_chol,2,Poor,Poor,Total,,664,664.00000,28.94823,2.1265,0.0874,100.0000,_,1
+Table 2 of health * diab_chol,2,Total,Missing,Missing,Missing,31225,31225,838.53145,100.0000,0.0000,_,_,-
+Table 2 of health * diab_chol,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,
+Table 2 of health * diab_chol,2,Total,Missing,In the past year,In the past year,0,,,,,_,_,
+Table 2 of health * diab_chol,2,Total,Missing,More than 1 year ago,More than 1 year ago,0,,,,,_,_,
+Table 2 of health * diab_chol,2,Total,Missing,Never had cholesterol checked,Never had cholesterol checked,0,,,,,_,_,
+Table 2 of health * diab_chol,2,Total,Missing,Total,,31225,31225,838.53145,100.0000,_,_,_,1

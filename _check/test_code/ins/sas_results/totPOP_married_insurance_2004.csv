@@ -1,0 +1,33 @@
+Table,F_married,married,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table married * insurance,Missing,Missing,"Any private, all ages","Any private, all ages",0,,,,,,,
+Table married * insurance,Missing,Missing,"Public only, all ages","Public only, all ages",0,,,,,,,
+Table married * insurance,Missing,Missing,"Uninsured, all ages","Uninsured, all ages",2,12713,9011,0.0043,0.0031,100.0000,0.0000,
+Table married * insurance,Missing,Missing,Total,,2,12713,9011,0.0043,0.0031,100.0000,_,1
+Table married * insurance,Married,Married,"Any private, all ages","Any private, all ages",8935,97826623,2540701,33.3280,0.4783,80.6310,0.6330,-
+Table married * insurance,Married,Married,"Public only, all ages","Public only, all ages",1589,11532532,572582,3.9290,0.1701,9.5054,0.4121,
+Table married * insurance,Married,Married,"Uninsured, all ages","Uninsured, all ages",1946,11967192,583309,4.0770,0.1699,9.8636,0.4259,
+Table married * insurance,Married,Married,Total,,12470,121326347,2972686,41.3340,0.4202,100.0000,_,1
+Table married * insurance,Widowed,Widowed,"Any private, all ages","Any private, all ages",745,8266475,442667,2.8163,0.1429,52.9746,1.5148,-
+Table married * insurance,Widowed,Widowed,"Public only, all ages","Public only, all ages",826,6536642,293009,2.2269,0.0948,41.8892,1.4208,
+Table married * insurance,Widowed,Widowed,"Uninsured, all ages","Uninsured, all ages",126,801479,86771,0.2731,0.0294,5.1362,0.5606,
+Table married * insurance,Widowed,Widowed,Total,,1697,15604596,591273,5.3162,0.1836,100.0000,_,1
+Table married * insurance,Divorced,Divorced,"Any private, all ages","Any private, all ages",1355,15331431,550792,5.2232,0.1691,62.7834,1.1535,-
+Table married * insurance,Divorced,Divorced,"Public only, all ages","Public only, all ages",704,4976491,290010,1.6954,0.0905,20.3791,0.9545,
+Table married * insurance,Divorced,Divorced,"Uninsured, all ages","Uninsured, all ages",482,4111643,256434,1.4008,0.0814,16.8375,0.8739,
+Table married * insurance,Divorced,Divorced,Total,,2541,24419565,789321,8.3194,0.2191,100.0000,_,1
+Table married * insurance,Separated,Separated,"Any private, all ages","Any private, all ages",198,1791641,163604,0.6104,0.0564,44.3261,2.9788,-
+Table married * insurance,Separated,Separated,"Public only, all ages","Public only, all ages",190,1192097,126678,0.4061,0.0420,29.4931,2.5518,
+Table married * insurance,Separated,Separated,"Uninsured, all ages","Uninsured, all ages",176,1058220,123738,0.3605,0.0406,26.1809,2.5177,
+Table married * insurance,Separated,Separated,Total,,564,4041958,254850,1.3770,0.0828,100.0000,_,1
+Table married * insurance,Never married,Never married,"Any private, all ages","Any private, all ages",3481,40685128,1272769,13.8608,0.2951,63.7446,0.8514,-
+Table married * insurance,Never married,Never married,"Public only, all ages","Public only, all ages",1540,9522093,441695,3.2440,0.1404,14.9190,0.5939,
+Table married * insurance,Never married,Never married,"Uninsured, all ages","Uninsured, all ages",1724,13618015,552760,4.6394,0.1631,21.3364,0.6628,
+Table married * insurance,Never married,Never married,Total,,6745,63825236,1736632,21.7442,0.3612,100.0000,_,1
+Table married * insurance,Inapplicable (age < 16),Inapplicable (age < 16),"Any private, all ages","Any private, all ages",4017,40540874,1351664,13.8116,0.3123,63.0529,1.0683,-
+Table married * insurance,Inapplicable (age < 16),Inapplicable (age < 16),"Public only, all ages","Public only, all ages",3964,19114336,854096,6.5120,0.2447,29.7284,1.0308,
+Table married * insurance,Inapplicable (age < 16),Inapplicable (age < 16),"Uninsured, all ages","Uninsured, all ages",737,4641379,349391,1.5812,0.1061,7.2187,0.4562,
+Table married * insurance,Inapplicable (age < 16),Inapplicable (age < 16),Total,,8718,64296588,1903849,21.9048,0.3397,100.0000,_,1
+Table married * insurance,Total,Missing,"Any private, all ages","Any private, all ages",18731,204442171,4842174,69.6502,0.6411,_,_,-
+Table married * insurance,Total,Missing,"Public only, all ages","Public only, all ages",8813,52874191,1791048,18.0134,0.4653,_,_,
+Table married * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",5193,36210641,1373354,12.3364,0.3561,_,_,
+Table married * insurance,Total,Missing,Total,,32737,293527003,6516391,100.0000,_,_,_,1

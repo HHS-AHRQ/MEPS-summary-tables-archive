@@ -1,0 +1,49 @@
+Table,domain,F_SEX,SEX,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of SEX * insurance_v2X,0,Male,Male,"<65, Any private","<65, Any private",0,,,,,,,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"65+, Medicare only","65+, Medicare only",509,4242024,254425,11.7003,0.5717,27.4587,1.2695,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"65+, Medicare and private","65+, Medicare and private",1027,9733998,410269,26.8481,0.7177,63.0084,1.3493,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"65+, Medicare and other public","65+, Medicare and other public",218,1292034,127345,3.5637,0.3412,8.3634,0.7886,
+Table 1 of SEX * insurance_v2X,0,Male,Male,"65+, No medicare","65+, No medicare",22,180687,45957,0.4984,0.1275,1.1696,0.3001,
+Table 1 of SEX * insurance_v2X,0,Male,Male,Total,,1776,15448743,554095,42.6104,0.6719,100.0000,_,1
+Table 1 of SEX * insurance_v2X,0,Female,Female,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of SEX * insurance_v2X,0,Female,Female,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of SEX * insurance_v2X,0,Female,Female,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of SEX * insurance_v2X,0,Female,Female,"65+, Medicare only","65+, Medicare only",761,6297518,338695,17.3697,0.7385,30.2663,1.2514,
+Table 1 of SEX * insurance_v2X,0,Female,Female,"65+, Medicare and private","65+, Medicare and private",1270,11663034,471722,32.1688,0.8708,56.0534,1.4099,
+Table 1 of SEX * insurance_v2X,0,Female,Female,"65+, Medicare and other public","65+, Medicare and other public",483,2627653,189863,7.2475,0.4880,12.6287,0.8166,
+Table 1 of SEX * insurance_v2X,0,Female,Female,"65+, No medicare","65+, No medicare",34,218818,39375,0.6035,0.1075,1.0517,0.1855,
+Table 1 of SEX * insurance_v2X,0,Female,Female,Total,,2548,20807023,679056,57.3896,0.6719,100.0000,_,1
+Table 1 of SEX * insurance_v2X,0,Total,,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 1 of SEX * insurance_v2X,0,Total,,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,"65+, Medicare only","65+, Medicare only",1270,10539541,530903,29.0700,1.0886,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,"65+, Medicare and private","65+, Medicare and private",2297,21397033,803894,59.0169,1.2326,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,"65+, Medicare and other public","65+, Medicare and other public",701,3919687,260038,10.8112,0.6630,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,"65+, No medicare","65+, No medicare",56,399505,61798,1.1019,0.1705,_,_,
+Table 1 of SEX * insurance_v2X,0,Total,,Total,,4324,36255766,1131957,100.0000,_,_,_,1
+Table 2 of SEX * insurance_v2X,1,Male,Male,"<65, Any private","<65, Any private",10303,91385704,2218935,36.2748,0.3898,72.9026,0.7008,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"<65, Public only","<65, Public only",2899,15224028,703811,6.0431,0.2465,12.1449,0.4868,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"<65, Uninsured","<65, Uninsured",2818,18743451,705451,7.4401,0.2347,14.9525,0.4583,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Male,Male,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Male,Male,Total,,16020,125353184,2797945,49.7579,0.2818,100.0000,_,1
+Table 2 of SEX * insurance_v2X,1,Female,Female,"<65, Any private","<65, Any private",10717,92173892,2276897,36.5877,0.4047,72.8228,0.6950,-
+Table 2 of SEX * insurance_v2X,1,Female,Female,"<65, Public only","<65, Public only",3840,19463073,814776,7.7257,0.2771,15.3770,0.5478,
+Table 2 of SEX * insurance_v2X,1,Female,Female,"<65, Uninsured","<65, Uninsured",2517,14935848,586815,5.9287,0.2061,11.8002,0.4014,
+Table 2 of SEX * insurance_v2X,1,Female,Female,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Female,Female,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Female,Female,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Female,Female,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of SEX * insurance_v2X,1,Female,Female,Total,,17074,126572813,2824435,50.2421,0.2818,100.0000,_,1
+Table 2 of SEX * insurance_v2X,1,Total,,"<65, Any private","<65, Any private",21020,183559597,4348143,72.8625,0.6521,_,_,-
+Table 2 of SEX * insurance_v2X,1,Total,,"<65, Public only","<65, Public only",6739,34687101,1441697,13.7688,0.4884,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,"<65, Uninsured","<65, Uninsured",5335,33679299,1144867,13.3687,0.3716,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 2 of SEX * insurance_v2X,1,Total,,Total,,33094,251925997,5440176,100.0000,_,_,_,1

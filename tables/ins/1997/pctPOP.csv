@@ -1,0 +1,1006 @@
+"rowGrp","colGrp","rowLevels","colLevels","pctPOP","pctPOP_se"
+"ind","insurance","Total","Any private, all ages",0.730149840281786,0.00599381714889349
+"ind","insurance","Total","Public only, all ages",0.146440776573441,0.00433476299929741
+"ind","insurance","Total","Uninsured, all ages",0.123409383144773,0.00359274697726548
+"ind","ins_lt65","Total","<65, Any private",0.742519002728715,0.00645995703149133
+"ind","ins_lt65","Total","<65, Public only",0.117013415156583,0.00454221588093571
+"ind","ins_lt65","Total","<65, Uninsured",0.140467582114702,0.00404546832337405
+"ind","ins_lt65","Total","65+, Medicare only",0,0
+"ind","ins_lt65","Total","65+, Medicare and private",0,0
+"ind","ins_lt65","Total","65+, Medicare and other public",0,0
+"ind","ins_lt65","Total","65+, No medicare",0,0
+"ind","ins_ge65","Total","<65, Any private",0,0
+"ind","ins_ge65","Total","<65, Public only",0,0
+"ind","ins_ge65","Total","<65, Uninsured",0,0
+"ind","ins_ge65","Total","65+, Medicare only",0.250096304567413,0.0105250206685578
+"ind","ins_ge65","Total","65+, Medicare and private",0.636012294116624,0.0122124387457703
+"ind","ins_ge65","Total","65+, Medicare and other public",0.10043867679193,0.00658363761744012
+"ind","ins_ge65","Total","65+, No medicare",0.0134527245240341,0.00257689191482647
+"agegrps","insurance","Under 5","Any private, all ages",0.627091824400379,0.0145788276747677
+"agegrps","insurance","Under 5","Public only, all ages",0.270985887356228,0.0131661463710108
+"agegrps","insurance","Under 5","Uninsured, all ages",0.101922288243393,0.00852403677915891
+"agegrps","insurance","5-17","Any private, all ages",0.708229309515222,0.0100264943261723
+"agegrps","insurance","5-17","Public only, all ages",0.181393933738018,0.00866153707539729
+"agegrps","insurance","5-17","Uninsured, all ages",0.11037675674676,0.00606968565588908
+"agegrps","insurance","18-44","Any private, all ages",0.744635789939947,0.00705425356956403
+"agegrps","insurance","18-44","Public only, all ages",0.07925931829482,0.00382681861420273
+"agegrps","insurance","18-44","Uninsured, all ages",0.176104891765233,0.00555555933821217
+"agegrps","insurance","45-64","Any private, all ages",0.810383937716288,0.00682961859578081
+"agegrps","insurance","45-64","Public only, all ages",0.0766979658204437,0.00431894038370956
+"agegrps","insurance","45-64","Uninsured, all ages",0.112918096463268,0.00529755100008881
+"agegrps","insurance","65+","Any private, all ages",0.644363203222735,0.0119608365532888
+"agegrps","insurance","65+","Public only, all ages",0.350534981359343,0.0118745612889388
+"agegrps","insurance","65+","Uninsured, all ages",0.00510181541792236,0.00151711501147525
+"agegrps","ins_lt65","Under 5","<65, Any private",0.627091824400379,0.0145788276747677
+"agegrps","ins_lt65","Under 5","<65, Public only",0.270985887356228,0.0131661463710108
+"agegrps","ins_lt65","Under 5","<65, Uninsured",0.101922288243393,0.00852403677915891
+"agegrps","ins_lt65","Under 5","65+, Medicare only",0,0
+"agegrps","ins_lt65","Under 5","65+, Medicare and private",0,0
+"agegrps","ins_lt65","Under 5","65+, Medicare and other public",0,0
+"agegrps","ins_lt65","Under 5","65+, No medicare",0,0
+"agegrps","ins_lt65","5-17","<65, Any private",0.708229309515222,0.0100264943261723
+"agegrps","ins_lt65","5-17","<65, Public only",0.181393933738018,0.00866153707539729
+"agegrps","ins_lt65","5-17","<65, Uninsured",0.11037675674676,0.00606968565588908
+"agegrps","ins_lt65","5-17","65+, Medicare only",0,0
+"agegrps","ins_lt65","5-17","65+, Medicare and private",0,0
+"agegrps","ins_lt65","5-17","65+, Medicare and other public",0,0
+"agegrps","ins_lt65","5-17","65+, No medicare",0,0
+"agegrps","ins_lt65","18-44","<65, Any private",0.744635789939947,0.00705425356956403
+"agegrps","ins_lt65","18-44","<65, Public only",0.07925931829482,0.00382681861420273
+"agegrps","ins_lt65","18-44","<65, Uninsured",0.176104891765233,0.00555555933821217
+"agegrps","ins_lt65","18-44","65+, Medicare only",0,0
+"agegrps","ins_lt65","18-44","65+, Medicare and private",0,0
+"agegrps","ins_lt65","18-44","65+, Medicare and other public",0,0
+"agegrps","ins_lt65","18-44","65+, No medicare",0,0
+"agegrps","ins_lt65","45-64","<65, Any private",0.810383937716288,0.00682961859578081
+"agegrps","ins_lt65","45-64","<65, Public only",0.0766979658204437,0.00431894038370956
+"agegrps","ins_lt65","45-64","<65, Uninsured",0.112918096463268,0.00529755100008881
+"agegrps","ins_lt65","45-64","65+, Medicare only",0,0
+"agegrps","ins_lt65","45-64","65+, Medicare and private",0,0
+"agegrps","ins_lt65","45-64","65+, Medicare and other public",0,0
+"agegrps","ins_lt65","45-64","65+, No medicare",0,0
+"agegrps","ins_ge65","65+","<65, Any private",0,0
+"agegrps","ins_ge65","65+","<65, Public only",0,0
+"agegrps","ins_ge65","65+","<65, Uninsured",0,0
+"agegrps","ins_ge65","65+","65+, Medicare only",0.250096304567413,0.0105250206685578
+"agegrps","ins_ge65","65+","65+, Medicare and private",0.636012294116624,0.0122124387457703
+"agegrps","ins_ge65","65+","65+, Medicare and other public",0.10043867679193,0.00658363761744012
+"agegrps","ins_ge65","65+","65+, No medicare",0.0134527245240341,0.00257689191482647
+"region","insurance","Northeast","Any private, all ages",0.741179527022901,0.0110783584729846
+"region","insurance","Northeast","Public only, all ages",0.15630660036849,0.00808956646442375
+"region","insurance","Northeast","Uninsured, all ages",0.102513872608609,0.00609215199019892
+"region","insurance","Midwest","Any private, all ages",0.802065339238268,0.0113459258450573
+"region","insurance","Midwest","Public only, all ages",0.113568106097463,0.00853126951654647
+"region","insurance","Midwest","Uninsured, all ages",0.0843665546642686,0.00611521652596762
+"region","insurance","South","Any private, all ages",0.695445798256211,0.0106939311458373
+"region","insurance","South","Public only, all ages",0.153396780402293,0.00700300346611055
+"region","insurance","South","Uninsured, all ages",0.151157421341496,0.00710800642619972
+"region","insurance","West","Any private, all ages",0.700237919404229,0.011930206239908
+"region","insurance","West","Public only, all ages",0.161173322284043,0.00976372251125898
+"region","insurance","West","Uninsured, all ages",0.138588758311728,0.00756437586581679
+"region","ins_lt65","Northeast","<65, Any private",0.765425553611811,0.0125778371326017
+"region","ins_lt65","Northeast","<65, Public only",0.116531284043502,0.00904242983163878
+"region","ins_lt65","Northeast","<65, Uninsured",0.118043162344687,0.00706657046511367
+"region","ins_lt65","Northeast","65+, Medicare only",0,0
+"region","ins_lt65","Northeast","65+, Medicare and private",0,0
+"region","ins_lt65","Northeast","65+, Medicare and other public",0,0
+"region","ins_lt65","Northeast","65+, No medicare",0,0
+"region","ins_lt65","Midwest","<65, Any private",0.812910818460238,0.0118426043688592
+"region","ins_lt65","Midwest","<65, Public only",0.0908363406423973,0.00888719375527967
+"region","ins_lt65","Midwest","<65, Uninsured",0.0962528408973642,0.00704628409746689
+"region","ins_lt65","Midwest","65+, Medicare only",0,0
+"region","ins_lt65","Midwest","65+, Medicare and private",0,0
+"region","ins_lt65","Midwest","65+, Medicare and other public",0,0
+"region","ins_lt65","Midwest","65+, No medicare",0,0
+"region","ins_lt65","South","<65, Any private",0.706016115016736,0.01159635655026
+"region","ins_lt65","South","<65, Public only",0.121351096891729,0.0071302056763222
+"region","ins_lt65","South","<65, Uninsured",0.172632788091535,0.00784213892199995
+"region","ins_lt65","South","65+, Medicare only",0,0
+"region","ins_lt65","South","65+, Medicare and private",0,0
+"region","ins_lt65","South","65+, Medicare and other public",0,0
+"region","ins_lt65","South","65+, No medicare",0,0
+"region","ins_lt65","West","<65, Any private",0.708143641619948,0.012586454102816
+"region","ins_lt65","West","<65, Public only",0.137252692387151,0.00989645133400065
+"region","ins_lt65","West","<65, Uninsured",0.1546036659929,0.00830870973174531
+"region","ins_lt65","West","65+, Medicare only",0,0
+"region","ins_lt65","West","65+, Medicare and private",0,0
+"region","ins_lt65","West","65+, Medicare and other public",0,0
+"region","ins_lt65","West","65+, No medicare",0,0
+"region","ins_ge65","Northeast","<65, Any private",0,0
+"region","ins_ge65","Northeast","<65, Public only",0,0
+"region","ins_ge65","Northeast","<65, Uninsured",0,0
+"region","ins_ge65","Northeast","65+, Medicare only",0.29549423966725,0.0216343325572102
+"region","ins_ge65","Northeast","65+, Medicare and private",0.577238075780453,0.0251809577446002
+"region","ins_ge65","Northeast","65+, Medicare and other public",0.0981911427581246,0.0119650969150084
+"region","ins_ge65","Northeast","65+, No medicare",0.0290765417941722,0.00873498944266745
+"region","ins_ge65","Midwest","<65, Any private",0,0
+"region","ins_ge65","Midwest","<65, Public only",0,0
+"region","ins_ge65","Midwest","<65, Uninsured",0,0
+"region","ins_ge65","Midwest","65+, Medicare only",0.197924784059337,0.01803515836703
+"region","ins_ge65","Midwest","65+, Medicare and private",0.726347597781621,0.0209777289624768
+"region","ins_ge65","Midwest","65+, Medicare and other public",0.0689157792232962,0.00933475994438644
+"region","ins_ge65","Midwest","65+, No medicare",0.00681183893574603,0.0034105543386845
+"region","ins_ge65","South","<65, Any private",0,0
+"region","ins_ge65","South","<65, Public only",0,0
+"region","ins_ge65","South","<65, Uninsured",0,0
+"region","ins_ge65","South","65+, Medicare only",0.264893920339621,0.0207495807758478
+"region","ins_ge65","South","65+, Medicare and private",0.61505310977053,0.0227872066634657
+"region","ins_ge65","South","65+, Medicare and other public",0.109740486056919,0.0109977488892977
+"region","ins_ge65","South","65+, No medicare",0.0103124838329306,0.00387743384159195
+"region","ins_ge65","West","<65, Any private",0,0
+"region","ins_ge65","West","<65, Public only",0,0
+"region","ins_ge65","West","<65, Uninsured",0,0
+"region","ins_ge65","West","65+, Medicare only",0.235655390047908,0.0207682174955854
+"region","ins_ge65","West","65+, Medicare and private",0.629493324461628,0.0267370060291429
+"region","ins_ge65","West","65+, Medicare and other public",0.125340310660322,0.019853011058517
+"region","ins_ge65","West","65+, No medicare",0.00951097483014273,0.00326687120019311
+"married","insurance","Married","Any private, all ages",0.823084421887936,0.00627150886419167
+"married","insurance","Married","Public only, all ages",0.0810731688400273,0.00398171093879588
+"married","insurance","Married","Uninsured, all ages",0.0958424092720368,0.00432628883994794
+"married","insurance","Widowed","Any private, all ages",0.574850101815043,0.015205314460964
+"married","insurance","Widowed","Public only, all ages",0.3812931190337,0.0141093067302869
+"married","insurance","Widowed","Uninsured, all ages",0.0438567791512575,0.00545447545235153
+"married","insurance","Divorced","Any private, all ages",0.675356360810621,0.011437719528975
+"married","insurance","Divorced","Public only, all ages",0.165917269104223,0.00864755737006459
+"married","insurance","Divorced","Uninsured, all ages",0.158726370085155,0.0100081025351084
+"married","insurance","Separated","Any private, all ages",0.523795375849413,0.0275540888196851
+"married","insurance","Separated","Public only, all ages",0.225608273460212,0.0210224088248179
+"married","insurance","Separated","Uninsured, all ages",0.250596350690375,0.024203488492543
+"married","insurance","Never married","Any private, all ages",0.678907563751971,0.00933607033612534
+"married","insurance","Never married","Public only, all ages",0.120768273267602,0.00635665432188851
+"married","insurance","Never married","Uninsured, all ages",0.200324162980428,0.00728195278368072
+"married","insurance","Inapplicable (age < 16)","Any private, all ages",0.677157208097899,0.00992590964003141
+"married","insurance","Inapplicable (age < 16)","Public only, all ages",0.217950545373341,0.0091055560842157
+"married","insurance","Inapplicable (age < 16)","Uninsured, all ages",0.10489224652876,0.0057714003838296
+"married","insurance","Missing","Any private, all ages",0,0
+"married","insurance","Missing","Public only, all ages",0,0
+"married","insurance","Missing","Uninsured, all ages",1,0
+"married","ins_lt65","Married","<65, Any private",0.84000440878577,0.00645368991408236
+"married","ins_lt65","Married","<65, Public only",0.0455526687212996,0.00299171417018488
+"married","ins_lt65","Married","<65, Uninsured",0.114442922492931,0.00508078599308191
+"married","ins_lt65","Married","65+, Medicare only",0,0
+"married","ins_lt65","Married","65+, Medicare and private",0,0
+"married","ins_lt65","Married","65+, Medicare and other public",0,0
+"married","ins_lt65","Married","65+, No medicare",0,0
+"married","ins_lt65","Widowed","<65, Any private",0.663846499848014,0.0279556532216406
+"married","ins_lt65","Widowed","<65, Public only",0.169321922406902,0.0188429493331393
+"married","ins_lt65","Widowed","<65, Uninsured",0.166831577745083,0.0199580454464792
+"married","ins_lt65","Widowed","65+, Medicare only",0,0
+"married","ins_lt65","Widowed","65+, Medicare and private",0,0
+"married","ins_lt65","Widowed","65+, Medicare and other public",0,0
+"married","ins_lt65","Widowed","65+, No medicare",0,0
+"married","ins_lt65","Divorced","<65, Any private",0.698499497764152,0.012100588072267
+"married","ins_lt65","Divorced","<65, Public only",0.124581123265736,0.00864419082626217
+"married","ins_lt65","Divorced","<65, Uninsured",0.176919378970113,0.0111208903745744
+"married","ins_lt65","Divorced","65+, Medicare only",0,0
+"married","ins_lt65","Divorced","65+, Medicare and private",0,0
+"married","ins_lt65","Divorced","65+, Medicare and other public",0,0
+"married","ins_lt65","Divorced","65+, No medicare",0,0
+"married","ins_lt65","Separated","<65, Any private",0.530166458177286,0.0279816957947988
+"married","ins_lt65","Separated","<65, Public only",0.206429235744936,0.0209240554655682
+"married","ins_lt65","Separated","<65, Uninsured",0.263404306077778,0.0252201378971684
+"married","ins_lt65","Separated","65+, Medicare only",0,0
+"married","ins_lt65","Separated","65+, Medicare and private",0,0
+"married","ins_lt65","Separated","65+, Medicare and other public",0,0
+"married","ins_lt65","Separated","65+, No medicare",0,0
+"married","ins_lt65","Never married","<65, Any private",0.683348285913573,0.00936961876643728
+"married","ins_lt65","Never married","<65, Public only",0.111675947329569,0.00611112245000343
+"married","ins_lt65","Never married","<65, Uninsured",0.204975766756858,0.00733735377681719
+"married","ins_lt65","Never married","65+, Medicare only",0,0
+"married","ins_lt65","Never married","65+, Medicare and private",0,0
+"married","ins_lt65","Never married","65+, Medicare and other public",0,0
+"married","ins_lt65","Never married","65+, No medicare",0,0
+"married","ins_lt65","Inapplicable (age < 16)","<65, Any private",0.677157208097899,0.00992590964003141
+"married","ins_lt65","Inapplicable (age < 16)","<65, Public only",0.217950545373341,0.0091055560842157
+"married","ins_lt65","Inapplicable (age < 16)","<65, Uninsured",0.10489224652876,0.0057714003838296
+"married","ins_lt65","Inapplicable (age < 16)","65+, Medicare only",0,0
+"married","ins_lt65","Inapplicable (age < 16)","65+, Medicare and private",0,0
+"married","ins_lt65","Inapplicable (age < 16)","65+, Medicare and other public",0,0
+"married","ins_lt65","Inapplicable (age < 16)","65+, No medicare",0,0
+"married","ins_lt65","Missing","<65, Any private",0,0
+"married","ins_lt65","Missing","<65, Public only",0,0
+"married","ins_lt65","Missing","<65, Uninsured",1,0
+"married","ins_lt65","Missing","65+, Medicare only",0,0
+"married","ins_lt65","Missing","65+, Medicare and private",0,0
+"married","ins_lt65","Missing","65+, Medicare and other public",0,0
+"married","ins_lt65","Missing","65+, No medicare",0,0
+"married","ins_ge65","Married","<65, Any private",0,0
+"married","ins_ge65","Married","<65, Public only",0,0
+"married","ins_ge65","Married","<65, Uninsured",0,0
+"married","ins_ge65","Married","65+, Medicare only",0.210648165183794,0.0149444701426287
+"married","ins_ge65","Married","65+, Medicare and private",0.731366374710363,0.0166551512156735
+"married","ins_ge65","Married","65+, Medicare and other public",0.0520765006502509,0.00721456355904019
+"married","ins_ge65","Married","65+, No medicare",0.00590895945559106,0.00164441725332492
+"married","ins_ge65","Widowed","<65, Any private",0,0
+"married","ins_ge65","Widowed","<65, Public only",0,0
+"married","ins_ge65","Widowed","<65, Uninsured",0,0
+"married","ins_ge65","Widowed","65+, Medicare only",0.296309499872131,0.0161383243059796
+"married","ins_ge65","Widowed","65+, Medicare and private",0.542933073606053,0.0181219003356354
+"married","ins_ge65","Widowed","65+, Medicare and other public",0.14601033635728,0.0112148443582063
+"married","ins_ge65","Widowed","65+, No medicare",0.0147470901645359,0.00480791078520315
+"married","ins_ge65","Divorced","<65, Any private",0,0
+"married","ins_ge65","Divorced","<65, Public only",0,0
+"married","ins_ge65","Divorced","<65, Uninsured",0,0
+"married","ins_ge65","Divorced","65+, Medicare only",0.285006904987436,0.02956361735278
+"married","ins_ge65","Divorced","65+, Medicare and private",0.483731904259727,0.0352274490829156
+"married","ins_ge65","Divorced","65+, Medicare and other public",0.18961539179766,0.0260819833121318
+"married","ins_ge65","Divorced","65+, No medicare",0.0416457989551768,0.0147496472632359
+"married","ins_ge65","Separated","<65, Any private",0,0
+"married","ins_ge65","Separated","<65, Public only",0,0
+"married","ins_ge65","Separated","<65, Uninsured",0,0
+"married","ins_ge65","Separated","65+, Medicare only",0.312002784344984,0.088354434496975
+"married","ins_ge65","Separated","65+, Medicare and private",0.399140820690419,0.101605061520071
+"married","ins_ge65","Separated","65+, Medicare and other public",0.288856394964597,0.0771533806774412
+"married","ins_ge65","Separated","65+, No medicare",0,0
+"married","ins_ge65","Never married","<65, Any private",0,0
+"married","ins_ge65","Never married","<65, Public only",0,0
+"married","ins_ge65","Never married","<65, Uninsured",0,0
+"married","ins_ge65","Never married","65+, Medicare only",0.32352406115661,0.0605992985948358
+"married","ins_ge65","Never married","65+, Medicare and private",0.436715604260832,0.054659980971005
+"married","ins_ge65","Never married","65+, Medicare and other public",0.180840568392425,0.0331170044030078
+"married","ins_ge65","Never married","65+, No medicare",0.0589197661901335,0.0371074384038366
+"race","insurance","Hispanic","Any private, all ages",0.481036669671174,0.0172645495457588
+"race","insurance","Hispanic","Public only, all ages",0.243905195603113,0.010514919887327
+"race","insurance","Hispanic","Uninsured, all ages",0.275058134725712,0.0121258935955403
+"race","insurance","Black","Any private, all ages",0.56900658088452,0.0148250239327372
+"race","insurance","Black","Public only, all ages",0.280083080086818,0.0137977220188177
+"race","insurance","Black","Uninsured, all ages",0.150910339028662,0.00917523568470005
+"race","insurance","White and other","Any private, all ages",0.794410044158251,0.0058675084930733
+"race","insurance","White and other","Public only, all ages",0.109622581317102,0.00455108316090037
+"race","insurance","White and other","Uninsured, all ages",0.0959673745246476,0.0035220725885427
+"race","ins_lt65","Hispanic","<65, Any private",0.490325344981986,0.0182786999984788
+"race","ins_lt65","Hispanic","<65, Public only",0.220045155376635,0.0113426475333776
+"race","ins_lt65","Hispanic","<65, Uninsured",0.289629499641379,0.0124995558175102
+"race","ins_lt65","Hispanic","65+, Medicare only",0,0
+"race","ins_lt65","Hispanic","65+, Medicare and private",0,0
+"race","ins_lt65","Hispanic","65+, Medicare and other public",0,0
+"race","ins_lt65","Hispanic","65+, No medicare",0,0
+"race","ins_lt65","Black","<65, Any private",0.583406680546433,0.0157222263492118
+"race","ins_lt65","Black","<65, Public only",0.253131682949329,0.0145954743428288
+"race","ins_lt65","Black","<65, Uninsured",0.163461636504238,0.00990236345491801
+"race","ins_lt65","Black","65+, Medicare only",0,0
+"race","ins_lt65","Black","65+, Medicare and private",0,0
+"race","ins_lt65","Black","65+, Medicare and other public",0,0
+"race","ins_lt65","Black","65+, No medicare",0,0
+"race","ins_lt65","White and other","<65, Any private",0.812785999734264,0.00612978034942221
+"race","ins_lt65","White and other","<65, Public only",0.0757069962831399,0.00454211312833573
+"race","ins_lt65","White and other","<65, Uninsured",0.111507003982596,0.00405233226179249
+"race","ins_lt65","White and other","65+, Medicare only",0,0
+"race","ins_lt65","White and other","65+, Medicare and private",0,0
+"race","ins_lt65","White and other","65+, Medicare and other public",0,0
+"race","ins_lt65","White and other","65+, No medicare",0,0
+"race","ins_ge65","Hispanic","<65, Any private",0,0
+"race","ins_ge65","Hispanic","<65, Public only",0,0
+"race","ins_ge65","Hispanic","<65, Uninsured",0,0
+"race","ins_ge65","Hispanic","65+, Medicare only",0.296934258692425,0.0283911023217899
+"race","ins_ge65","Hispanic","65+, Medicare and private",0.307832585784081,0.0302771895627317
+"race","ins_ge65","Hispanic","65+, Medicare and other public",0.365400655608324,0.0313137368353626
+"race","ins_ge65","Hispanic","65+, No medicare",0.0298324999151699,0.00952806983256795
+"race","ins_ge65","Black","<65, Any private",0,0
+"race","ins_ge65","Black","<65, Public only",0,0
+"race","ins_ge65","Black","<65, Uninsured",0,0
+"race","ins_ge65","Black","65+, Medicare only",0.300631108737818,0.0277131149630114
+"race","ins_ge65","Black","65+, Medicare and private",0.403228074447712,0.0301101496852394
+"race","ins_ge65","Black","65+, Medicare and other public",0.276877375553963,0.0273200230565614
+"race","ins_ge65","Black","65+, No medicare",0.0192634412605068,0.006899613473498
+"race","ins_ge65","White and other","<65, Any private",0,0
+"race","ins_ge65","White and other","<65, Public only",0,0
+"race","ins_ge65","White and other","<65, Uninsured",0,0
+"race","ins_ge65","White and other","65+, Medicare only",0.242624354122928,0.0116236079738361
+"race","ins_ge65","White and other","65+, Medicare and private",0.676789555751034,0.0131848495522602
+"race","ins_ge65","White and other","65+, Medicare and other public",0.0686143154884106,0.00611580496337228
+"race","ins_ge65","White and other","65+, No medicare",0.0119717746376275,0.00277967863242023
+"sex","insurance","Male","Any private, all ages",0.733624123447652,0.00676862170075193
+"sex","insurance","Male","Public only, all ages",0.126330552236219,0.00451878464477706
+"sex","insurance","Male","Uninsured, all ages",0.14004532431613,0.00451850518701608
+"sex","insurance","Female","Any private, all ages",0.726827587237325,0.00647802137174971
+"sex","insurance","Female","Public only, all ages",0.165671003598556,0.00499326591403822
+"sex","insurance","Female","Uninsured, all ages",0.107501409164119,0.00376279417808821
+"sex","ins_lt65","Male","<65, Any private",0.737471048131291,0.00718766969557681
+"sex","ins_lt65","Male","<65, Public only",0.105784179769228,0.00467873595679426
+"sex","ins_lt65","Male","<65, Uninsured",0.156744772099481,0.0050263357161666
+"sex","ins_lt65","Male","65+, Medicare only",0,0
+"sex","ins_lt65","Male","65+, Medicare and private",0,0
+"sex","ins_lt65","Male","65+, Medicare and other public",0,0
+"sex","ins_lt65","Male","65+, No medicare",0,0
+"sex","ins_lt65","Female","<65, Any private",0.747521043482301,0.00700447941956952
+"sex","ins_lt65","Female","<65, Public only",0.128140514649083,0.00519981272759021
+"sex","ins_lt65","Female","<65, Uninsured",0.124338441868616,0.00432386226774757
+"sex","ins_lt65","Female","65+, Medicare only",0,0
+"sex","ins_lt65","Female","65+, Medicare and private",0,0
+"sex","ins_lt65","Female","65+, Medicare and other public",0,0
+"sex","ins_lt65","Female","65+, No medicare",0,0
+"sex","ins_ge65","Male","<65, Any private",0,0
+"sex","ins_ge65","Male","<65, Public only",0,0
+"sex","ins_ge65","Male","<65, Uninsured",0,0
+"sex","ins_ge65","Male","65+, Medicare only",0.224837291980519,0.0138081340355185
+"sex","ins_ge65","Male","65+, Medicare and private",0.69070316103553,0.0154164674252262
+"sex","ins_ge65","Male","65+, Medicare and other public",0.067558147366374,0.00676693378156823
+"sex","ins_ge65","Male","65+, No medicare",0.0169013996175773,0.00390328579321693
+"sex","ins_ge65","Female","<65, Any private",0,0
+"sex","ins_ge65","Female","<65, Public only",0,0
+"sex","ins_ge65","Female","<65, Uninsured",0,0
+"sex","ins_ge65","Female","65+, Medicare only",0.268926161507575,0.0120220987045061
+"sex","ins_ge65","Female","65+, Medicare and private",0.595241848459899,0.0132341449262069
+"sex","ins_ge65","Female","65+, Medicare and other public",0.124950152174038,0.00844215198956887
+"sex","ins_ge65","Female","65+, No medicare",0.0108818378584874,0.00330323468314484
+"racesex","insurance","Female, Black","Any private, all ages",0.562621212688675,0.0169052689519959
+"racesex","insurance","Female, Black","Public only, all ages",0.303906711106781,0.0153565136485909
+"racesex","insurance","Female, Black","Uninsured, all ages",0.133472076204544,0.0102357527811605
+"racesex","insurance","Female, Hispanic","Any private, all ages",0.478467499235941,0.0173474964478001
+"racesex","insurance","Female, Hispanic","Public only, all ages",0.282389454162246,0.012963526396334
+"racesex","insurance","Female, Hispanic","Uninsured, all ages",0.239143046601814,0.0111148048184809
+"racesex","insurance","Female, White and other","Any private, all ages",0.790936240121126,0.00669730462949647
+"racesex","insurance","Female, White and other","Public only, all ages",0.124998037689369,0.00528388233524283
+"racesex","insurance","Female, White and other","Uninsured, all ages",0.0840657221895047,0.00410430928541912
+"racesex","insurance","Male, Black","Any private, all ages",0.576310746434784,0.0177656846686933
+"racesex","insurance","Male, Black","Public only, all ages",0.252831441709656,0.0162671900758902
+"racesex","insurance","Male, Black","Uninsured, all ages",0.17085781185556,0.012578489677761
+"racesex","insurance","Male, Hispanic","Any private, all ages",0.483479259876634,0.0197227035814102
+"racesex","insurance","Male, Hispanic","Public only, all ages",0.207317014557676,0.0106567594169984
+"racesex","insurance","Male, Hispanic","Uninsured, all ages",0.30920372556569,0.0158863538987288
+"racesex","insurance","Male, White and other","Any private, all ages",0.79804127450554,0.00652592220321771
+"racesex","insurance","Male, White and other","Public only, all ages",0.0935503379822104,0.0047662798561325
+"racesex","insurance","Male, White and other","Uninsured, all ages",0.10840838751225,0.00433708709582506
+"racesex","ins_lt65","Female, Black","<65, Any private",0.582161976430673,0.0181046678207201
+"racesex","ins_lt65","Female, Black","<65, Public only",0.272629223443033,0.0163694472645148
+"racesex","ins_lt65","Female, Black","<65, Uninsured",0.145208800126293,0.0111957731411416
+"racesex","ins_lt65","Female, Black","65+, Medicare only",0,0
+"racesex","ins_lt65","Female, Black","65+, Medicare and private",0,0
+"racesex","ins_lt65","Female, Black","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Female, Black","65+, No medicare",0,0
+"racesex","ins_lt65","Female, Hispanic","<65, Any private",0.490592862745299,0.0185966904856368
+"racesex","ins_lt65","Female, Hispanic","<65, Public only",0.255242375265337,0.0140567820880529
+"racesex","ins_lt65","Female, Hispanic","<65, Uninsured",0.254164761989364,0.0116553729579431
+"racesex","ins_lt65","Female, Hispanic","65+, Medicare only",0,0
+"racesex","ins_lt65","Female, Hispanic","65+, Medicare and private",0,0
+"racesex","ins_lt65","Female, Hispanic","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Female, Hispanic","65+, No medicare",0,0
+"racesex","ins_lt65","Female, White and other","<65, Any private",0.819565917158626,0.00699452204229026
+"racesex","ins_lt65","Female, White and other","<65, Public only",0.0808201288789584,0.00510915129560732
+"racesex","ins_lt65","Female, White and other","<65, Uninsured",0.0996139539624159,0.00482512573665662
+"racesex","ins_lt65","Female, White and other","65+, Medicare only",0,0
+"racesex","ins_lt65","Female, White and other","65+, Medicare and private",0,0
+"racesex","ins_lt65","Female, White and other","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Female, White and other","65+, No medicare",0,0
+"racesex","ins_lt65","Male, Black","<65, Any private",0.584794244001462,0.0184170168538775
+"racesex","ins_lt65","Male, Black","<65, Public only",0.231396336926563,0.0170604266630754
+"racesex","ins_lt65","Male, Black","<65, Uninsured",0.183809419071976,0.0134343006722028
+"racesex","ins_lt65","Male, Black","65+, Medicare only",0,0
+"racesex","ins_lt65","Male, Black","65+, Medicare and private",0,0
+"racesex","ins_lt65","Male, Black","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Male, Black","65+, No medicare",0,0
+"racesex","ins_lt65","Male, Hispanic","<65, Any private",0.490076266991016,0.0204992993077399
+"racesex","ins_lt65","Male, Hispanic","<65, Public only",0.187274049977616,0.0111260687136413
+"racesex","ins_lt65","Male, Hispanic","<65, Uninsured",0.322649683031369,0.0162990149967558
+"racesex","ins_lt65","Male, Hispanic","65+, Medicare only",0,0
+"racesex","ins_lt65","Male, Hispanic","65+, Medicare and private",0,0
+"racesex","ins_lt65","Male, Hispanic","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Male, Hispanic","65+, No medicare",0,0
+"racesex","ins_lt65","Male, White and other","<65, Any private",0.805972368526366,0.00676746397930237
+"racesex","ins_lt65","Male, White and other","<65, Public only",0.0705684381497023,0.00479563510386483
+"racesex","ins_lt65","Male, White and other","<65, Uninsured",0.123459193323932,0.0049224746724093
+"racesex","ins_lt65","Male, White and other","65+, Medicare only",0,0
+"racesex","ins_lt65","Male, White and other","65+, Medicare and private",0,0
+"racesex","ins_lt65","Male, White and other","65+, Medicare and other public",0,0
+"racesex","ins_lt65","Male, White and other","65+, No medicare",0,0
+"racesex","ins_ge65","Female, Black","<65, Any private",0,0
+"racesex","ins_ge65","Female, Black","<65, Public only",0,0
+"racesex","ins_ge65","Female, Black","<65, Uninsured",0,0
+"racesex","ins_ge65","Female, Black","65+, Medicare only",0.269727782997383,0.0324426140189434
+"racesex","ins_ge65","Female, Black","65+, Medicare and private",0.370272739343705,0.0333902115283132
+"racesex","ins_ge65","Female, Black","65+, Medicare and other public",0.335205175296109,0.0317417739791701
+"racesex","ins_ge65","Female, Black","65+, No medicare",0.0247943023628029,0.0101173708324508
+"racesex","ins_ge65","Female, Hispanic","<65, Any private",0,0
+"racesex","ins_ge65","Female, Hispanic","<65, Public only",0,0
+"racesex","ins_ge65","Female, Hispanic","<65, Uninsured",0,0
+"racesex","ins_ge65","Female, Hispanic","65+, Medicare only",0.278573410404369,0.0342912860014714
+"racesex","ins_ge65","Female, Hispanic","65+, Medicare and private",0.29951381728168,0.0346067105966019
+"racesex","ins_ge65","Female, Hispanic","65+, Medicare and other public",0.400328793889483,0.038627047823045
+"racesex","ins_ge65","Female, Hispanic","65+, No medicare",0.0215839784244679,0.00918888336667678
+"racesex","ins_ge65","Female, White and other","<65, Any private",0,0
+"racesex","ins_ge65","Female, White and other","<65, Public only",0,0
+"racesex","ins_ge65","Female, White and other","<65, Uninsured",0,0
+"racesex","ins_ge65","Female, White and other","65+, Medicare only",0.268290415845824,0.0134782026581728
+"racesex","ins_ge65","Female, White and other","65+, Medicare and private",0.635026329152348,0.0143760216353281
+"racesex","ins_ge65","Female, White and other","65+, Medicare and other public",0.0878256764734744,0.00799743530505857
+"racesex","ins_ge65","Female, White and other","65+, No medicare",0.00885757852835401,0.00361049347360848
+"racesex","ins_ge65","Male, Black","<65, Any private",0,0
+"racesex","ins_ge65","Male, Black","<65, Public only",0,0
+"racesex","ins_ge65","Male, Black","<65, Uninsured",0,0
+"racesex","ins_ge65","Male, Black","65+, Medicare only",0.347851612859221,0.0399900562642797
+"racesex","ins_ge65","Male, Black","65+, Medicare and private",0.453584063643555,0.0433573054137569
+"racesex","ins_ge65","Male, Black","65+, Medicare and other public",0.187752077802835,0.03379424849447
+"racesex","ins_ge65","Male, Black","65+, No medicare",0.0108122456943884,0.00797570717461146
+"racesex","ins_ge65","Male, Hispanic","<65, Any private",0,0
+"racesex","ins_ge65","Male, Hispanic","<65, Public only",0,0
+"racesex","ins_ge65","Male, Hispanic","<65, Uninsured",0,0
+"racesex","ins_ge65","Male, Hispanic","65+, Medicare only",0.322175281232331,0.0437380460038964
+"racesex","ins_ge65","Male, Hispanic","65+, Medicare and private",0.319268561942652,0.0430393232838895
+"racesex","ins_ge65","Male, Hispanic","65+, Medicare and other public",0.317384250712414,0.0408708839404743
+"racesex","ins_ge65","Male, Hispanic","65+, No medicare",0.0411719061126032,0.0158104846464684
+"racesex","ins_ge65","Male, White and other","<65, Any private",0,0
+"racesex","ins_ge65","Male, White and other","<65, Public only",0,0
+"racesex","ins_ge65","Male, White and other","<65, Uninsured",0,0
+"racesex","ins_ge65","Male, White and other","65+, Medicare only",0.208662287730166,0.014976533549319
+"racesex","ins_ge65","Male, White and other","65+, Medicare and private",0.732051850754996,0.0167665985033467
+"racesex","ins_ge65","Male, White and other","65+, Medicare and other public",0.0431932935835175,0.00608684076125057
+"racesex","ins_ge65","Male, White and other","65+, No medicare",0.0160925679313208,0.00432464089846247
+"education","insurance","Less than high school","Any private, all ages",0.483624965043606,0.0120888383222285
+"education","insurance","Less than high school","Public only, all ages",0.302799948045494,0.00968100561864504
+"education","insurance","Less than high school","Uninsured, all ages",0.213575086910901,0.00896339857537439
+"education","insurance","High school","Any private, all ages",0.723786368372566,0.00816970854757649
+"education","insurance","High school","Public only, all ages",0.129397493895882,0.0056593998332361
+"education","insurance","High school","Uninsured, all ages",0.146816137731552,0.00595129145061612
+"education","insurance","Some college","Any private, all ages",0.861422023521116,0.00470124918094995
+"education","insurance","Some college","Public only, all ages",0.0539983282239999,0.00300131081939457
+"education","insurance","Some college","Uninsured, all ages",0.0845796482548842,0.00385579404817413
+"education","insurance","Inapplicable (age < 18)","Any private, all ages",0.68619216013949,0.00955457173537615
+"education","insurance","Inapplicable (age < 18)","Public only, all ages",0.205727338476329,0.00851396599253203
+"education","insurance","Inapplicable (age < 18)","Uninsured, all ages",0.108080501384181,0.00537591727997049
+"education","insurance","Missing","Any private, all ages",0.402841753525383,0.100517356530831
+"education","insurance","Missing","Public only, all ages",0.423830949681949,0.099093695087314
+"education","insurance","Missing","Uninsured, all ages",0.173327296792668,0.100980616642408
+"education","ins_lt65","Less than high school","<65, Any private",0.460690346959016,0.0139164150318596
+"education","ins_lt65","Less than high school","<65, Public only",0.226294311210985,0.0104163144454806
+"education","ins_lt65","Less than high school","<65, Uninsured",0.313015341829999,0.0115501346631012
+"education","ins_lt65","Less than high school","65+, Medicare only",0,0
+"education","ins_lt65","Less than high school","65+, Medicare and private",0,0
+"education","ins_lt65","Less than high school","65+, Medicare and other public",0,0
+"education","ins_lt65","Less than high school","65+, No medicare",0,0
+"education","ins_lt65","High school","<65, Any private",0.734258911273403,0.00871456921727359
+"education","ins_lt65","High school","<65, Public only",0.088177947476426,0.00499800740463488
+"education","ins_lt65","High school","<65, Uninsured",0.177563141250171,0.00698160985245068
+"education","ins_lt65","High school","65+, Medicare only",0,0
+"education","ins_lt65","High school","65+, Medicare and private",0,0
+"education","ins_lt65","High school","65+, Medicare and other public",0,0
+"education","ins_lt65","High school","65+, No medicare",0,0
+"education","ins_lt65","Some college","<65, Any private",0.875813296549294,0.00469225851552941
+"education","ins_lt65","Some college","<65, Public only",0.0297138367475965,0.00224076168807051
+"education","ins_lt65","Some college","<65, Uninsured",0.0944728667031092,0.00424494004476131
+"education","ins_lt65","Some college","65+, Medicare only",0,0
+"education","ins_lt65","Some college","65+, Medicare and private",0,0
+"education","ins_lt65","Some college","65+, Medicare and other public",0,0
+"education","ins_lt65","Some college","65+, No medicare",0,0
+"education","ins_lt65","Inapplicable (age < 18)","<65, Any private",0.68619216013949,0.00955457173537615
+"education","ins_lt65","Inapplicable (age < 18)","<65, Public only",0.205727338476329,0.00851396599253203
+"education","ins_lt65","Inapplicable (age < 18)","<65, Uninsured",0.108080501384181,0.00537591727997049
+"education","ins_lt65","Inapplicable (age < 18)","65+, Medicare only",0,0
+"education","ins_lt65","Inapplicable (age < 18)","65+, Medicare and private",0,0
+"education","ins_lt65","Inapplicable (age < 18)","65+, Medicare and other public",0,0
+"education","ins_lt65","Inapplicable (age < 18)","65+, No medicare",0,0
+"education","ins_lt65","Missing","<65, Any private",0.545468424313613,0.159375130430544
+"education","ins_lt65","Missing","<65, Public only",0.173557548069731,0.111005872447803
+"education","ins_lt65","Missing","<65, Uninsured",0.280974027616657,0.16251454345967
+"education","ins_lt65","Missing","65+, Medicare only",0,0
+"education","ins_lt65","Missing","65+, Medicare and private",0,0
+"education","ins_lt65","Missing","65+, Medicare and other public",0,0
+"education","ins_lt65","Missing","65+, No medicare",0,0
+"education","ins_ge65","Less than high school","<65, Any private",0,0
+"education","ins_ge65","Less than high school","<65, Public only",0,0
+"education","ins_ge65","Less than high school","<65, Uninsured",0,0
+"education","ins_ge65","Less than high school","65+, Medicare only",0.266335939236201,0.0163798441200545
+"education","ins_ge65","Less than high school","65+, Medicare and private",0.52731031791812,0.0194894897289555
+"education","ins_ge65","Less than high school","65+, Medicare and other public",0.195063683158087,0.0131455421954822
+"education","ins_ge65","Less than high school","65+, No medicare",0.0112900596875928,0.00363134791831897
+"education","ins_ge65","High school","<65, Any private",0,0
+"education","ins_ge65","High school","<65, Public only",0,0
+"education","ins_ge65","High school","<65, Uninsured",0,0
+"education","ins_ge65","High school","65+, Medicare only",0.262481513372828,0.0168262541686955
+"education","ins_ge65","High school","65+, Medicare and private",0.668392717291772,0.0184362941238011
+"education","ins_ge65","High school","65+, Medicare and other public",0.058575911667711,0.00755646568137999
+"education","ins_ge65","High school","65+, No medicare",0.0105498576676894,0.00340955255860877
+"education","ins_ge65","Some college","<65, Any private",0,0
+"education","ins_ge65","Some college","<65, Public only",0,0
+"education","ins_ge65","Some college","<65, Uninsured",0,0
+"education","ins_ge65","Some college","65+, Medicare only",0.215786948468447,0.0165825706842547
+"education","ins_ge65","Some college","65+, Medicare and private",0.728035583121107,0.0173198104205217
+"education","ins_ge65","Some college","65+, Medicare and other public",0.0373428097188217,0.00705436647359924
+"education","ins_ge65","Some college","65+, No medicare",0.0188346586916247,0.00601142793794638
+"education","ins_ge65","Missing","<65, Any private",0,0
+"education","ins_ge65","Missing","<65, Public only",0,0
+"education","ins_ge65","Missing","<65, Uninsured",0,0
+"education","ins_ge65","Missing","65+, Medicare only",0.419467295051906,0.126003224126411
+"education","ins_ge65","Missing","65+, Medicare and private",0.222905114755406,0.113432781279146
+"education","ins_ge65","Missing","65+, Medicare and other public",0.320106526638154,0.118746232423426
+"education","ins_ge65","Missing","65+, No medicare",0.0375210635545336,0.0374607328587997
+"employed","insurance","Employed","Any private, all ages",0.82638887054848,0.00514220207163207
+"employed","insurance","Employed","Public only, all ages",0.0394406005483448,0.00230900222159393
+"employed","insurance","Employed","Uninsured, all ages",0.134170528903175,0.00443690479399178
+"employed","insurance","Not employed","Any private, all ages",0.601023608055205,0.00950999606214705
+"employed","insurance","Not employed","Public only, all ages",0.279740483694735,0.00773225512185413
+"employed","insurance","Not employed","Uninsured, all ages",0.11923590825006,0.00512907095820483
+"employed","insurance","Inapplicable (age < 16)","Any private, all ages",0.677153801317537,0.00993251454120373
+"employed","insurance","Inapplicable (age < 16)","Public only, all ages",0.217982066420969,0.00910922441720466
+"employed","insurance","Inapplicable (age < 16)","Uninsured, all ages",0.104864132261494,0.00577634951928969
+"employed","insurance","Missing","Any private, all ages",0.355431932247238,0.244691399105482
+"employed","insurance","Missing","Public only, all ages",0,0
+"employed","insurance","Missing","Uninsured, all ages",0.644568067752762,0.244691399105482
+"employed","ins_lt65","Employed","<65, Any private",0.829186487775793,0.0052179904170023
+"employed","ins_lt65","Employed","<65, Public only",0.0319665214292595,0.00212449439178876
+"employed","ins_lt65","Employed","<65, Uninsured",0.138846990794948,0.00457692587312083
+"employed","ins_lt65","Employed","65+, Medicare only",0,0
+"employed","ins_lt65","Employed","65+, Medicare and private",0,0
+"employed","ins_lt65","Employed","65+, Medicare and other public",0,0
+"employed","ins_lt65","Employed","65+, No medicare",0,0
+"employed","ins_lt65","Not employed","<65, Any private",0.583276459687132,0.0118612282721647
+"employed","ins_lt65","Not employed","<65, Public only",0.221838773058642,0.00862288180292527
+"employed","ins_lt65","Not employed","<65, Uninsured",0.194884767254226,0.0078371661902745
+"employed","ins_lt65","Not employed","65+, Medicare only",0,0
+"employed","ins_lt65","Not employed","65+, Medicare and private",0,0
+"employed","ins_lt65","Not employed","65+, Medicare and other public",0,0
+"employed","ins_lt65","Not employed","65+, No medicare",0,0
+"employed","ins_lt65","Inapplicable (age < 16)","<65, Any private",0.677153801317537,0.00993251454120373
+"employed","ins_lt65","Inapplicable (age < 16)","<65, Public only",0.217982066420969,0.00910922441720466
+"employed","ins_lt65","Inapplicable (age < 16)","<65, Uninsured",0.104864132261494,0.00577634951928969
+"employed","ins_lt65","Inapplicable (age < 16)","65+, Medicare only",0,0
+"employed","ins_lt65","Inapplicable (age < 16)","65+, Medicare and private",0,0
+"employed","ins_lt65","Inapplicable (age < 16)","65+, Medicare and other public",0,0
+"employed","ins_lt65","Inapplicable (age < 16)","65+, No medicare",0,0
+"employed","ins_lt65","Missing","<65, Any private",0.258224446263432,0.219119413854268
+"employed","ins_lt65","Missing","<65, Public only",0,0
+"employed","ins_lt65","Missing","<65, Uninsured",0.741775553736568,0.219119413854268
+"employed","ins_lt65","Missing","65+, Medicare only",0,0
+"employed","ins_lt65","Missing","65+, Medicare and private",0,0
+"employed","ins_lt65","Missing","65+, Medicare and other public",0,0
+"employed","ins_lt65","Missing","65+, No medicare",0,0
+"employed","ins_ge65","Employed","<65, Any private",0,0
+"employed","ins_ge65","Employed","<65, Public only",0,0
+"employed","ins_ge65","Employed","<65, Uninsured",0,0
+"employed","ins_ge65","Employed","65+, Medicare only",0.219126291204391,0.0233560375605468
+"employed","ins_ge65","Employed","65+, Medicare and private",0.719737841363935,0.0240194297951145
+"employed","ins_ge65","Employed","65+, Medicare and other public",0.0278661203425696,0.00785776521387192
+"employed","ins_ge65","Employed","65+, No medicare",0.0332697470891042,0.00762442331330571
+"employed","ins_ge65","Not employed","<65, Any private",0,0
+"employed","ins_ge65","Not employed","<65, Public only",0,0
+"employed","ins_ge65","Not employed","<65, Uninsured",0,0
+"employed","ins_ge65","Not employed","65+, Medicare only",0.255062406729648,0.0114719686747189
+"employed","ins_ge65","Not employed","65+, Medicare and private",0.622674563112108,0.0134151155493429
+"employed","ins_ge65","Not employed","65+, Medicare and other public",0.111939191126788,0.00755449696967606
+"employed","ins_ge65","Not employed","65+, No medicare",0.0103238390314571,0.00268841965660784
+"employed","ins_ge65","Missing","<65, Any private",0,0
+"employed","ins_ge65","Missing","<65, Public only",0,0
+"employed","ins_ge65","Missing","<65, Uninsured",0,0
+"employed","ins_ge65","Missing","65+, Medicare only",0,0
+"employed","ins_ge65","Missing","65+, Medicare and private",1,0
+"employed","ins_ge65","Missing","65+, Medicare and other public",0,0
+"employed","ins_ge65","Missing","65+, No medicare",0,0
+"poverty","insurance","Negative or poor","Any private, all ages",0.286195857153041,0.0128723204995531
+"poverty","insurance","Negative or poor","Public only, all ages",0.514621598361285,0.0139409721501805
+"poverty","insurance","Negative or poor","Uninsured, all ages",0.199182544485674,0.00956020040350051
+"poverty","insurance","Near-poor","Any private, all ages",0.461916145994497,0.0236057271956628
+"poverty","insurance","Near-poor","Public only, all ages",0.300788990082921,0.0188406858818615
+"poverty","insurance","Near-poor","Uninsured, all ages",0.237294863922582,0.0197404938140801
+"poverty","insurance","Low income","Any private, all ages",0.601249075898949,0.0131210972300318
+"poverty","insurance","Low income","Public only, all ages",0.198974650094598,0.00962141592928755
+"poverty","insurance","Low income","Uninsured, all ages",0.199776274006452,0.00941158312126025
+"poverty","insurance","Middle income","Any private, all ages",0.818121391887977,0.00688299110591237
+"poverty","insurance","Middle income","Public only, all ages",0.0729663709677394,0.00396397353387712
+"poverty","insurance","Middle income","Uninsured, all ages",0.108912237144283,0.00540074407754666
+"poverty","insurance","High income","Any private, all ages",0.906071740166626,0.00514273409650089
+"poverty","insurance","High income","Public only, all ages",0.0323249647971045,0.00288673882222026
+"poverty","insurance","High income","Uninsured, all ages",0.0616032950362692,0.00406923379704674
+"poverty","ins_lt65","Negative or poor","<65, Any private",0.271253310807951,0.0134321034157665
+"poverty","ins_lt65","Negative or poor","<65, Public only",0.506461002392106,0.0145994779451155
+"poverty","ins_lt65","Negative or poor","<65, Uninsured",0.222285686799942,0.010554159385137
+"poverty","ins_lt65","Negative or poor","65+, Medicare only",0,0
+"poverty","ins_lt65","Negative or poor","65+, Medicare and private",0,0
+"poverty","ins_lt65","Negative or poor","65+, Medicare and other public",0,0
+"poverty","ins_lt65","Negative or poor","65+, No medicare",0,0
+"poverty","ins_lt65","Near-poor","<65, Any private",0.439769190126762,0.0266150644816459
+"poverty","ins_lt65","Near-poor","<65, Public only",0.275746823646887,0.020215064521436
+"poverty","ins_lt65","Near-poor","<65, Uninsured",0.284483986226351,0.0227406082860705
+"poverty","ins_lt65","Near-poor","65+, Medicare only",0,0
+"poverty","ins_lt65","Near-poor","65+, Medicare and private",0,0
+"poverty","ins_lt65","Near-poor","65+, Medicare and other public",0,0
+"poverty","ins_lt65","Near-poor","65+, No medicare",0,0
+"poverty","ins_lt65","Low income","<65, Any private",0.613436887469096,0.0146023435615603
+"poverty","ins_lt65","Low income","<65, Public only",0.145471006457812,0.0100946683651849
+"poverty","ins_lt65","Low income","<65, Uninsured",0.241092106073092,0.0114608639644391
+"poverty","ins_lt65","Low income","65+, Medicare only",0,0
+"poverty","ins_lt65","Low income","65+, Medicare and private",0,0
+"poverty","ins_lt65","Low income","65+, Medicare and other public",0,0
+"poverty","ins_lt65","Low income","65+, No medicare",0,0
+"poverty","ins_lt65","Middle income","<65, Any private",0.836067230788356,0.00738330485236677
+"poverty","ins_lt65","Middle income","<65, Public only",0.0385329324278079,0.00330410014136384
+"poverty","ins_lt65","Middle income","<65, Uninsured",0.125399836783836,0.00616701535682616
+"poverty","ins_lt65","Middle income","65+, Medicare only",0,0
+"poverty","ins_lt65","Middle income","65+, Medicare and private",0,0
+"poverty","ins_lt65","Middle income","65+, Medicare and other public",0,0
+"poverty","ins_lt65","Middle income","65+, No medicare",0,0
+"poverty","ins_lt65","High income","<65, Any private",0.922614049481992,0.00499422821717554
+"poverty","ins_lt65","High income","<65, Public only",0.00961349329860161,0.0019148764177157
+"poverty","ins_lt65","High income","<65, Uninsured",0.0677724572194067,0.00450949081588158
+"poverty","ins_lt65","High income","65+, Medicare only",0,0
+"poverty","ins_lt65","High income","65+, Medicare and private",0,0
+"poverty","ins_lt65","High income","65+, Medicare and other public",0,0
+"poverty","ins_lt65","High income","65+, No medicare",0,0
+"poverty","ins_ge65","Negative or poor","<65, Any private",0,0
+"poverty","ins_ge65","Negative or poor","<65, Public only",0,0
+"poverty","ins_ge65","Negative or poor","<65, Uninsured",0,0
+"poverty","ins_ge65","Negative or poor","65+, Medicare only",0.281390326122657,0.0254614483555031
+"poverty","ins_ge65","Negative or poor","65+, Medicare and private",0.411665134313946,0.0303411071485829
+"poverty","ins_ge65","Negative or poor","65+, Medicare and other public",0.302533595698304,0.0260627844866787
+"poverty","ins_ge65","Negative or poor","65+, No medicare",0.00441094386509279,0.00263849029024992
+"poverty","ins_ge65","Near-poor","<65, Any private",0,0
+"poverty","ins_ge65","Near-poor","<65, Public only",0,0
+"poverty","ins_ge65","Near-poor","<65, Uninsured",0,0
+"poverty","ins_ge65","Near-poor","65+, Medicare only",0.259243989899992,0.0342686372023886
+"poverty","ins_ge65","Near-poor","65+, Medicare and private",0.570607746749907,0.037090140604644
+"poverty","ins_ge65","Near-poor","65+, Medicare and other public",0.164445554668671,0.021512363709822
+"poverty","ins_ge65","Near-poor","65+, No medicare",0.00570270868143033,0.00361238553785522
+"poverty","ins_ge65","Low income","<65, Any private",0,0
+"poverty","ins_ge65","Low income","<65, Public only",0,0
+"poverty","ins_ge65","Low income","<65, Uninsured",0,0
+"poverty","ins_ge65","Low income","65+, Medicare only",0.324171448990886,0.0247716674511548
+"poverty","ins_ge65","Low income","65+, Medicare and private",0.545229300517905,0.0274085629291438
+"poverty","ins_ge65","Low income","65+, Medicare and other public",0.120726111984774,0.0154482425604148
+"poverty","ins_ge65","Low income","65+, No medicare",0.00987313850643563,0.00578521302122644
+"poverty","ins_ge65","Middle income","<65, Any private",0,0
+"poverty","ins_ge65","Middle income","<65, Public only",0,0
+"poverty","ins_ge65","Middle income","<65, Uninsured",0,0
+"poverty","ins_ge65","Middle income","65+, Medicare only",0.235684135577326,0.0181780122331991
+"poverty","ins_ge65","Middle income","65+, Medicare and private",0.69250597975656,0.0199541582652131
+"poverty","ins_ge65","Middle income","65+, Medicare and other public",0.0585405938607536,0.00777394006827696
+"poverty","ins_ge65","Middle income","65+, No medicare",0.0132692908053597,0.00494070391771604
+"poverty","ins_ge65","High income","<65, Any private",0,0
+"poverty","ins_ge65","High income","<65, Public only",0,0
+"poverty","ins_ge65","High income","<65, Uninsured",0,0
+"poverty","ins_ge65","High income","65+, Medicare only",0.198491039949081,0.0188983445915722
+"poverty","ins_ge65","High income","65+, Medicare and private",0.737693706904376,0.019828435493776
+"poverty","ins_ge65","High income","65+, Medicare and other public",0.0419519266078517,0.00765504548170286
+"poverty","ins_ge65","High income","65+, No medicare",0.0218633265386911,0.00539326792095542
+"health","insurance","Excellent","Any private, all ages",0.783961709160463,0.00764796616739519
+"health","insurance","Excellent","Public only, all ages",0.100806875088173,0.00509944092366115
+"health","insurance","Excellent","Uninsured, all ages",0.115231415751364,0.00491110412267044
+"health","insurance","Very good","Any private, all ages",0.76726976972315,0.00753929745226159
+"health","insurance","Very good","Public only, all ages",0.112824399197112,0.00514340713357119
+"health","insurance","Very good","Uninsured, all ages",0.119905831079738,0.00525209958344071
+"health","insurance","Good","Any private, all ages",0.676667402797315,0.00879261732992184
+"health","insurance","Good","Public only, all ages",0.179263892917504,0.00692144680820909
+"health","insurance","Good","Uninsured, all ages",0.144068704285181,0.00634118245955907
+"health","insurance","Fair","Any private, all ages",0.590799249200543,0.0138197196016861
+"health","insurance","Fair","Public only, all ages",0.284258440953118,0.0120545103758871
+"health","insurance","Fair","Uninsured, all ages",0.124942309846339,0.00824436196021038
+"health","insurance","Poor","Any private, all ages",0.491763580461272,0.0193677419801505
+"health","insurance","Poor","Public only, all ages",0.418518892519885,0.0177250135512729
+"health","insurance","Poor","Uninsured, all ages",0.0897175270188428,0.0122119899631444
+"health","insurance","Missing","Any private, all ages",0.549628885305405,0.0731782148984201
+"health","insurance","Missing","Public only, all ages",0.408525593453981,0.0726888522005416
+"health","insurance","Missing","Uninsured, all ages",0.0418455212406135,0.0205866132848757
+"health","ins_lt65","Excellent","<65, Any private",0.78907126090587,0.00798800165345781
+"health","ins_lt65","Excellent","<65, Public only",0.08910260597503,0.00517920325210762
+"health","ins_lt65","Excellent","<65, Uninsured",0.1218261331191,0.00516258397799973
+"health","ins_lt65","Excellent","65+, Medicare only",0,0
+"health","ins_lt65","Excellent","65+, Medicare and private",0,0
+"health","ins_lt65","Excellent","65+, Medicare and other public",0,0
+"health","ins_lt65","Excellent","65+, No medicare",0,0
+"health","ins_lt65","Very good","<65, Any private",0.775599863317237,0.00773682739265279
+"health","ins_lt65","Very good","<65, Public only",0.0910444769063289,0.00508532228593155
+"health","ins_lt65","Very good","<65, Uninsured",0.133355659776434,0.00579734579097258
+"health","ins_lt65","Very good","65+, Medicare only",0,0
+"health","ins_lt65","Very good","65+, Medicare and private",0,0
+"health","ins_lt65","Very good","65+, Medicare and other public",0,0
+"health","ins_lt65","Very good","65+, No medicare",0,0
+"health","ins_lt65","Good","<65, Any private",0.683780127067475,0.00978760463872923
+"health","ins_lt65","Good","<65, Public only",0.144856552472999,0.00735162354656377
+"health","ins_lt65","Good","<65, Uninsured",0.171363320459526,0.00741999764516773
+"health","ins_lt65","Good","65+, Medicare only",0,0
+"health","ins_lt65","Good","65+, Medicare and private",0,0
+"health","ins_lt65","Good","65+, Medicare and other public",0,0
+"health","ins_lt65","Good","65+, No medicare",0,0
+"health","ins_lt65","Fair","<65, Any private",0.585724052517867,0.0150937339418103
+"health","ins_lt65","Fair","<65, Public only",0.241061712261463,0.0119023657833461
+"health","ins_lt65","Fair","<65, Uninsured",0.17321423522067,0.0110429169213581
+"health","ins_lt65","Fair","65+, Medicare only",0,0
+"health","ins_lt65","Fair","65+, Medicare and private",0,0
+"health","ins_lt65","Fair","65+, Medicare and other public",0,0
+"health","ins_lt65","Fair","65+, No medicare",0,0
+"health","ins_lt65","Poor","<65, Any private",0.47273396289084,0.0264963674001433
+"health","ins_lt65","Poor","<65, Public only",0.380694112059541,0.0245939107455461
+"health","ins_lt65","Poor","<65, Uninsured",0.146571925049618,0.018960137896503
+"health","ins_lt65","Poor","65+, Medicare only",0,0
+"health","ins_lt65","Poor","65+, Medicare and private",0,0
+"health","ins_lt65","Poor","65+, Medicare and other public",0,0
+"health","ins_lt65","Poor","65+, No medicare",0,0
+"health","ins_lt65","Missing","<65, Any private",0.868016510626087,0.0729484351606015
+"health","ins_lt65","Missing","<65, Public only",0,0
+"health","ins_lt65","Missing","<65, Uninsured",0.131983489373913,0.0729484351606015
+"health","ins_lt65","Missing","65+, Medicare only",0,0
+"health","ins_lt65","Missing","65+, Medicare and private",0,0
+"health","ins_lt65","Missing","65+, Medicare and other public",0,0
+"health","ins_lt65","Missing","65+, No medicare",0,0
+"health","ins_ge65","Excellent","<65, Any private",0,0
+"health","ins_ge65","Excellent","<65, Public only",0,0
+"health","ins_ge65","Excellent","<65, Uninsured",0,0
+"health","ins_ge65","Excellent","65+, Medicare only",0.24523979608898,0.0234489161180822
+"health","ins_ge65","Excellent","65+, Medicare and private",0.679440327536128,0.0255869834731525
+"health","ins_ge65","Excellent","65+, Medicare and other public",0.0496845625043479,0.00918112534903729
+"health","ins_ge65","Excellent","65+, No medicare",0.0256353138705438,0.00911414495160619
+"health","ins_ge65","Very good","<65, Any private",0,0
+"health","ins_ge65","Very good","<65, Public only",0,0
+"health","ins_ge65","Very good","<65, Uninsured",0,0
+"health","ins_ge65","Very good","65+, Medicare only",0.229266394343746,0.0179574750415073
+"health","ins_ge65","Very good","65+, Medicare and private",0.684598001264038,0.0205089817484748
+"health","ins_ge65","Very good","65+, Medicare and other public",0.0690584868247055,0.00893229037212618
+"health","ins_ge65","Very good","65+, No medicare",0.0170771175675102,0.00619706296417435
+"health","ins_ge65","Good","<65, Any private",0,0
+"health","ins_ge65","Good","<65, Public only",0,0
+"health","ins_ge65","Good","<65, Uninsured",0,0
+"health","ins_ge65","Good","65+, Medicare only",0.263093479320789,0.0169280398680203
+"health","ins_ge65","Good","65+, Medicare and private",0.637135683002868,0.0185707541307045
+"health","ins_ge65","Good","65+, Medicare and other public",0.0929155554989609,0.00983211461408967
+"health","ins_ge65","Good","65+, No medicare",0.00685528217738196,0.00241295414236272
+"health","ins_ge65","Fair","<65, Any private",0,0
+"health","ins_ge65","Fair","<65, Public only",0,0
+"health","ins_ge65","Fair","<65, Uninsured",0,0
+"health","ins_ge65","Fair","65+, Medicare only",0.239927088811299,0.0234531510705306
+"health","ins_ge65","Fair","65+, Medicare and private",0.598126989623092,0.0264474978377651
+"health","ins_ge65","Fair","65+, Medicare and other public",0.153561620813033,0.0140723785016301
+"health","ins_ge65","Fair","65+, No medicare",0.00838430075257563,0.00377136523389168
+"health","ins_ge65","Poor","<65, Any private",0,0
+"health","ins_ge65","Poor","<65, Public only",0,0
+"health","ins_ge65","Poor","<65, Uninsured",0,0
+"health","ins_ge65","Poor","65+, Medicare only",0.267969739219554,0.0304792267721426
+"health","ins_ge65","Poor","65+, Medicare and private",0.516237811292576,0.0304530311833644
+"health","ins_ge65","Poor","65+, Medicare and other public",0.203347677054978,0.0227217053782324
+"health","ins_ge65","Poor","65+, No medicare",0.0124447724328918,0.0100512786287682
+"health","ins_ge65","Missing","<65, Any private",0,0
+"health","ins_ge65","Missing","<65, Public only",0,0
+"health","ins_ge65","Missing","<65, Uninsured",0,0
+"health","ins_ge65","Missing","65+, Medicare only",0.444376467703415,0.0860873790661387
+"health","ins_ge65","Missing","65+, Medicare and private",0.429552210274161,0.0823111493845406
+"health","ins_ge65","Missing","65+, Medicare and other public",0.101948089617876,0.0434526031184962
+"health","ins_ge65","Missing","65+, No medicare",0.0241232324045477,0.0178105219656008
+"mnhlth","insurance","Excellent","Any private, all ages",0.778767388900328,0.00673157679303415
+"mnhlth","insurance","Excellent","Public only, all ages",0.108236941710455,0.00468004988231263
+"mnhlth","insurance","Excellent","Uninsured, all ages",0.112995669389217,0.004418952378449
+"mnhlth","insurance","Very good","Any private, all ages",0.756402961420544,0.00798310464954476
+"mnhlth","insurance","Very good","Public only, all ages",0.123822777769497,0.00577789404110397
+"mnhlth","insurance","Very good","Uninsured, all ages",0.119774260809959,0.00545327925413466
+"mnhlth","insurance","Good","Any private, all ages",0.657295282262573,0.00978817956843621
+"mnhlth","insurance","Good","Public only, all ages",0.191661835857792,0.00732711293228825
+"mnhlth","insurance","Good","Uninsured, all ages",0.151042881879635,0.00723697652556143
+"mnhlth","insurance","Fair","Any private, all ages",0.523499060309197,0.0187439350768307
+"mnhlth","insurance","Fair","Public only, all ages",0.361054051283111,0.0165057489106869
+"mnhlth","insurance","Fair","Uninsured, all ages",0.115446888407693,0.0110511223723848
+"mnhlth","insurance","Poor","Any private, all ages",0.462585650523446,0.0288165525254681
+"mnhlth","insurance","Poor","Public only, all ages",0.417261588808979,0.0259901702716237
+"mnhlth","insurance","Poor","Uninsured, all ages",0.120152760667575,0.0192642103746004
+"mnhlth","insurance","Missing","Any private, all ages",0.546032588035011,0.0727128204151792
+"mnhlth","insurance","Missing","Public only, all ages",0.405852554398167,0.0722834439022879
+"mnhlth","insurance","Missing","Uninsured, all ages",0.0481148575668219,0.0211062862369988
+"mnhlth","ins_lt65","Excellent","<65, Any private",0.788306126925407,0.00710253998383043
+"mnhlth","ins_lt65","Excellent","<65, Public only",0.0896147772030117,0.00488653033816918
+"mnhlth","ins_lt65","Excellent","<65, Uninsured",0.122079095871581,0.0047970215524633
+"mnhlth","ins_lt65","Excellent","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Excellent","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Excellent","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Excellent","65+, No medicare",0,0
+"mnhlth","ins_lt65","Very good","<65, Any private",0.767342938278152,0.00839833465841211
+"mnhlth","ins_lt65","Very good","<65, Public only",0.0967740077228335,0.00572107952949801
+"mnhlth","ins_lt65","Very good","<65, Uninsured",0.135883053999015,0.0060370616166426
+"mnhlth","ins_lt65","Very good","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Very good","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Very good","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Very good","65+, No medicare",0,0
+"mnhlth","ins_lt65","Good","<65, Any private",0.659759474498695,0.0108127959084079
+"mnhlth","ins_lt65","Good","<65, Public only",0.157234933635266,0.00762666923477276
+"mnhlth","ins_lt65","Good","<65, Uninsured",0.183005591866039,0.00835464980634474
+"mnhlth","ins_lt65","Good","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Good","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Good","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Good","65+, No medicare",0,0
+"mnhlth","ins_lt65","Fair","<65, Any private",0.519503235282388,0.021464753939552
+"mnhlth","ins_lt65","Fair","<65, Public only",0.325846088269572,0.0180025993596211
+"mnhlth","ins_lt65","Fair","<65, Uninsured",0.154650676448039,0.0141296067432162
+"mnhlth","ins_lt65","Fair","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Fair","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Fair","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Fair","65+, No medicare",0,0
+"mnhlth","ins_lt65","Poor","<65, Any private",0.426826029324261,0.0392190064634297
+"mnhlth","ins_lt65","Poor","<65, Public only",0.398285409427079,0.0342215443238259
+"mnhlth","ins_lt65","Poor","<65, Uninsured",0.17488856124866,0.0267308160912821
+"mnhlth","ins_lt65","Poor","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Poor","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Poor","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Poor","65+, No medicare",0,0
+"mnhlth","ins_lt65","Missing","<65, Any private",0.845927565902517,0.0742055827013108
+"mnhlth","ins_lt65","Missing","<65, Public only",0,0
+"mnhlth","ins_lt65","Missing","<65, Uninsured",0.154072434097483,0.0742055827013108
+"mnhlth","ins_lt65","Missing","65+, Medicare only",0,0
+"mnhlth","ins_lt65","Missing","65+, Medicare and private",0,0
+"mnhlth","ins_lt65","Missing","65+, Medicare and other public",0,0
+"mnhlth","ins_lt65","Missing","65+, No medicare",0,0
+"mnhlth","ins_ge65","Excellent","<65, Any private",0,0
+"mnhlth","ins_ge65","Excellent","<65, Public only",0,0
+"mnhlth","ins_ge65","Excellent","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Excellent","65+, Medicare only",0.271364284611344,0.0192237796662591
+"mnhlth","ins_ge65","Excellent","65+, Medicare and private",0.65334015705244,0.0203840098742155
+"mnhlth","ins_ge65","Excellent","65+, Medicare and other public",0.0551222837880317,0.00744711062634048
+"mnhlth","ins_ge65","Excellent","65+, No medicare",0.0201732745481844,0.00625982399044054
+"mnhlth","ins_ge65","Very good","<65, Any private",0,0
+"mnhlth","ins_ge65","Very good","<65, Public only",0,0
+"mnhlth","ins_ge65","Very good","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Very good","65+, Medicare only",0.230446459555398,0.0167776001214616
+"mnhlth","ins_ge65","Very good","65+, Medicare and private",0.668866970813512,0.0197213530498998
+"mnhlth","ins_ge65","Very good","65+, Medicare and other public",0.0875835760316867,0.0109167665212566
+"mnhlth","ins_ge65","Very good","65+, No medicare",0.0131029935994034,0.00517735139691317
+"mnhlth","ins_ge65","Good","<65, Any private",0,0
+"mnhlth","ins_ge65","Good","<65, Public only",0,0
+"mnhlth","ins_ge65","Good","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Good","65+, Medicare only",0.241442215781457,0.0169382438702281
+"mnhlth","ins_ge65","Good","65+, Medicare and private",0.639568836360541,0.0188457266775944
+"mnhlth","ins_ge65","Good","65+, Medicare and other public",0.109043807588889,0.00892049438498035
+"mnhlth","ins_ge65","Good","65+, No medicare",0.00994514026911329,0.00297692821599447
+"mnhlth","ins_ge65","Fair","<65, Any private",0,0
+"mnhlth","ins_ge65","Fair","<65, Public only",0,0
+"mnhlth","ins_ge65","Fair","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Fair","65+, Medicare only",0.249370264896807,0.033878645858974
+"mnhlth","ins_ge65","Fair","65+, Medicare and private",0.535265922365788,0.0366412196045472
+"mnhlth","ins_ge65","Fair","65+, Medicare and other public",0.215363812737405,0.0270876277720396
+"mnhlth","ins_ge65","Fair","65+, No medicare",0,0
+"mnhlth","ins_ge65","Poor","<65, Any private",0,0
+"mnhlth","ins_ge65","Poor","<65, Public only",0,0
+"mnhlth","ins_ge65","Poor","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Poor","65+, Medicare only",0.260743528644452,0.040126825999022
+"mnhlth","ins_ge65","Poor","65+, Medicare and private",0.525763524901027,0.0475303540682099
+"mnhlth","ins_ge65","Poor","65+, Medicare and other public",0.190043993520429,0.0297891740877582
+"mnhlth","ins_ge65","Poor","65+, No medicare",0.0234489529340924,0.0230053948875194
+"mnhlth","ins_ge65","Missing","<65, Any private",0,0
+"mnhlth","ins_ge65","Missing","<65, Public only",0,0
+"mnhlth","ins_ge65","Missing","<65, Uninsured",0,0
+"mnhlth","ins_ge65","Missing","65+, Medicare only",0.444376467703415,0.0860873790661387
+"mnhlth","ins_ge65","Missing","65+, Medicare and private",0.429552210274161,0.0823111493845406
+"mnhlth","ins_ge65","Missing","65+, Medicare and other public",0.101948089617876,0.0434526031184962
+"mnhlth","ins_ge65","Missing","65+, No medicare",0.0241232324045477,0.0178105219656008
+"agegrps_v2X","insurance","Under 18","Any private, all ages",0.68619216013949,0.00955457173537615
+"agegrps_v2X","insurance","Under 18","Public only, all ages",0.205727338476329,0.00851396599253203
+"agegrps_v2X","insurance","Under 18","Uninsured, all ages",0.108080501384181,0.00537591727997049
+"agegrps_v2X","insurance","18-64","Any private, all ages",0.767044361432768,0.00602129094725418
+"agegrps_v2X","insurance","18-64","Public only, all ages",0.078386346933929,0.00337200436852003
+"agegrps_v2X","insurance","18-64","Uninsured, all ages",0.154569291633303,0.00453829821584657
+"agegrps_v2X","insurance","65+","Any private, all ages",0.644363203222735,0.0119608365532888
+"agegrps_v2X","insurance","65+","Public only, all ages",0.350534981359343,0.0118745612889388
+"agegrps_v2X","insurance","65+","Uninsured, all ages",0.00510181541792236,0.00151711501147525
+"agegrps_v2X","ins_lt65","Under 18","<65, Any private",0.68619216013949,0.00955457173537615
+"agegrps_v2X","ins_lt65","Under 18","<65, Public only",0.205727338476329,0.00851396599253203
+"agegrps_v2X","ins_lt65","Under 18","<65, Uninsured",0.108080501384181,0.00537591727997049
+"agegrps_v2X","ins_lt65","Under 18","65+, Medicare only",0,0
+"agegrps_v2X","ins_lt65","Under 18","65+, Medicare and private",0,0
+"agegrps_v2X","ins_lt65","Under 18","65+, Medicare and other public",0,0
+"agegrps_v2X","ins_lt65","Under 18","65+, No medicare",0,0
+"agegrps_v2X","ins_lt65","18-64","<65, Any private",0.767044361432768,0.00602129094725418
+"agegrps_v2X","ins_lt65","18-64","<65, Public only",0.078386346933929,0.00337200436852003
+"agegrps_v2X","ins_lt65","18-64","<65, Uninsured",0.154569291633303,0.00453829821584657
+"agegrps_v2X","ins_lt65","18-64","65+, Medicare only",0,0
+"agegrps_v2X","ins_lt65","18-64","65+, Medicare and private",0,0
+"agegrps_v2X","ins_lt65","18-64","65+, Medicare and other public",0,0
+"agegrps_v2X","ins_lt65","18-64","65+, No medicare",0,0
+"agegrps_v2X","ins_ge65","65+","<65, Any private",0,0
+"agegrps_v2X","ins_ge65","65+","<65, Public only",0,0
+"agegrps_v2X","ins_ge65","65+","<65, Uninsured",0,0
+"agegrps_v2X","ins_ge65","65+","65+, Medicare only",0.250096304567413,0.0105250206685578
+"agegrps_v2X","ins_ge65","65+","65+, Medicare and private",0.636012294116624,0.0122124387457703
+"agegrps_v2X","ins_ge65","65+","65+, Medicare and other public",0.10043867679193,0.00658363761744012
+"agegrps_v2X","ins_ge65","65+","65+, No medicare",0.0134527245240341,0.00257689191482647
+"agegrps_v3X","insurance","Under 5","Any private, all ages",0.627091824400379,0.0145788276747677
+"agegrps_v3X","insurance","Under 5","Public only, all ages",0.270985887356228,0.0131661463710108
+"agegrps_v3X","insurance","Under 5","Uninsured, all ages",0.101922288243393,0.00852403677915891
+"agegrps_v3X","insurance","5-6","Any private, all ages",0.677708156449386,0.0187560575356046
+"agegrps_v3X","insurance","5-6","Public only, all ages",0.24702671895403,0.016504030915559
+"agegrps_v3X","insurance","5-6","Uninsured, all ages",0.0752651245965832,0.0102390824790055
+"agegrps_v3X","insurance","7-12","Any private, all ages",0.698788297760911,0.0124092864339461
+"agegrps_v3X","insurance","7-12","Public only, all ages",0.195153657404988,0.0114992387556206
+"agegrps_v3X","insurance","7-12","Uninsured, all ages",0.106058044834101,0.00763355681541614
+"agegrps_v3X","insurance","13-17","Any private, all ages",0.732539188021134,0.0125370929140079
+"agegrps_v3X","insurance","13-17","Public only, all ages",0.13707956058727,0.00884324874600144
+"agegrps_v3X","insurance","13-17","Uninsured, all ages",0.130381251391596,0.00918601176656075
+"agegrps_v3X","insurance","18","Any private, all ages",0.74792401370845,0.0257950304700449
+"agegrps_v3X","insurance","18","Public only, all ages",0.106747537329584,0.0169795454476655
+"agegrps_v3X","insurance","18","Uninsured, all ages",0.145328448961966,0.0204549631276456
+"agegrps_v3X","insurance","19-24","Any private, all ages",0.666946949705654,0.0133532069246033
+"agegrps_v3X","insurance","19-24","Public only, all ages",0.0979623473569872,0.00718543087021286
+"agegrps_v3X","insurance","19-24","Uninsured, all ages",0.235090702937359,0.0113903385514083
+"agegrps_v3X","insurance","25-29","Any private, all ages",0.70034158836013,0.0149284973079116
+"agegrps_v3X","insurance","25-29","Public only, all ages",0.0816691371937096,0.00778923471641368
+"agegrps_v3X","insurance","25-29","Uninsured, all ages",0.21798927444616,0.0123105443989705
+"agegrps_v3X","insurance","30-34","Any private, all ages",0.753259344113492,0.012353976536149
+"agegrps_v3X","insurance","30-34","Public only, all ages",0.0797974986452876,0.00699371893340501
+"agegrps_v3X","insurance","30-34","Uninsured, all ages",0.166943157241221,0.0101096462123922
+"agegrps_v3X","insurance","35-44","Any private, all ages",0.797025830687339,0.0078017797286311
+"agegrps_v3X","insurance","35-44","Public only, all ages",0.0666074042511341,0.00425297576417432
+"agegrps_v3X","insurance","35-44","Uninsured, all ages",0.136366765061527,0.00665934720965027
+"agegrps_v3X","insurance","45-54","Any private, all ages",0.824332347403608,0.00800746138873171
+"agegrps_v3X","insurance","45-54","Public only, all ages",0.0622692831266461,0.00483096668358866
+"agegrps_v3X","insurance","45-54","Uninsured, all ages",0.113398369469746,0.00656275625236626
+"agegrps_v3X","insurance","55-64","Any private, all ages",0.788422366049623,0.010205016838314
+"agegrps_v3X","insurance","55-64","Public only, all ages",0.0994157204705297,0.00692998497521365
+"agegrps_v3X","insurance","55-64","Uninsured, all ages",0.112161913479847,0.00717509581689185
+"agegrps_v3X","insurance","65+","Any private, all ages",0.644363203222735,0.0119608365532888
+"agegrps_v3X","insurance","65+","Public only, all ages",0.350534981359343,0.0118745612889388
+"agegrps_v3X","insurance","65+","Uninsured, all ages",0.00510181541792236,0.00151711501147525
+"agegrps_v3X","ins_lt65","Under 5","<65, Any private",0.627091824400379,0.0145788276747677
+"agegrps_v3X","ins_lt65","Under 5","<65, Public only",0.270985887356228,0.0131661463710108
+"agegrps_v3X","ins_lt65","Under 5","<65, Uninsured",0.101922288243393,0.00852403677915891
+"agegrps_v3X","ins_lt65","Under 5","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","Under 5","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","Under 5","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","Under 5","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","5-6","<65, Any private",0.677708156449386,0.0187560575356046
+"agegrps_v3X","ins_lt65","5-6","<65, Public only",0.24702671895403,0.016504030915559
+"agegrps_v3X","ins_lt65","5-6","<65, Uninsured",0.0752651245965832,0.0102390824790055
+"agegrps_v3X","ins_lt65","5-6","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","5-6","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","5-6","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","5-6","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","7-12","<65, Any private",0.698788297760911,0.0124092864339461
+"agegrps_v3X","ins_lt65","7-12","<65, Public only",0.195153657404988,0.0114992387556206
+"agegrps_v3X","ins_lt65","7-12","<65, Uninsured",0.106058044834101,0.00763355681541614
+"agegrps_v3X","ins_lt65","7-12","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","7-12","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","7-12","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","7-12","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","13-17","<65, Any private",0.732539188021134,0.0125370929140079
+"agegrps_v3X","ins_lt65","13-17","<65, Public only",0.13707956058727,0.00884324874600144
+"agegrps_v3X","ins_lt65","13-17","<65, Uninsured",0.130381251391596,0.00918601176656075
+"agegrps_v3X","ins_lt65","13-17","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","13-17","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","13-17","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","13-17","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","18","<65, Any private",0.74792401370845,0.0257950304700449
+"agegrps_v3X","ins_lt65","18","<65, Public only",0.106747537329584,0.0169795454476655
+"agegrps_v3X","ins_lt65","18","<65, Uninsured",0.145328448961966,0.0204549631276456
+"agegrps_v3X","ins_lt65","18","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","18","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","18","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","18","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","19-24","<65, Any private",0.666946949705654,0.0133532069246033
+"agegrps_v3X","ins_lt65","19-24","<65, Public only",0.0979623473569872,0.00718543087021286
+"agegrps_v3X","ins_lt65","19-24","<65, Uninsured",0.235090702937359,0.0113903385514083
+"agegrps_v3X","ins_lt65","19-24","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","19-24","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","19-24","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","19-24","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","25-29","<65, Any private",0.70034158836013,0.0149284973079116
+"agegrps_v3X","ins_lt65","25-29","<65, Public only",0.0816691371937096,0.00778923471641368
+"agegrps_v3X","ins_lt65","25-29","<65, Uninsured",0.21798927444616,0.0123105443989705
+"agegrps_v3X","ins_lt65","25-29","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","25-29","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","25-29","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","25-29","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","30-34","<65, Any private",0.753259344113492,0.012353976536149
+"agegrps_v3X","ins_lt65","30-34","<65, Public only",0.0797974986452876,0.00699371893340501
+"agegrps_v3X","ins_lt65","30-34","<65, Uninsured",0.166943157241221,0.0101096462123922
+"agegrps_v3X","ins_lt65","30-34","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","30-34","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","30-34","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","30-34","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","35-44","<65, Any private",0.797025830687339,0.0078017797286311
+"agegrps_v3X","ins_lt65","35-44","<65, Public only",0.0666074042511341,0.00425297576417432
+"agegrps_v3X","ins_lt65","35-44","<65, Uninsured",0.136366765061527,0.00665934720965027
+"agegrps_v3X","ins_lt65","35-44","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","35-44","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","35-44","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","35-44","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","45-54","<65, Any private",0.824332347403608,0.00800746138873171
+"agegrps_v3X","ins_lt65","45-54","<65, Public only",0.0622692831266461,0.00483096668358866
+"agegrps_v3X","ins_lt65","45-54","<65, Uninsured",0.113398369469746,0.00656275625236626
+"agegrps_v3X","ins_lt65","45-54","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","45-54","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","45-54","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","45-54","65+, No medicare",0,0
+"agegrps_v3X","ins_lt65","55-64","<65, Any private",0.788422366049623,0.010205016838314
+"agegrps_v3X","ins_lt65","55-64","<65, Public only",0.0994157204705297,0.00692998497521365
+"agegrps_v3X","ins_lt65","55-64","<65, Uninsured",0.112161913479847,0.00717509581689185
+"agegrps_v3X","ins_lt65","55-64","65+, Medicare only",0,0
+"agegrps_v3X","ins_lt65","55-64","65+, Medicare and private",0,0
+"agegrps_v3X","ins_lt65","55-64","65+, Medicare and other public",0,0
+"agegrps_v3X","ins_lt65","55-64","65+, No medicare",0,0
+"agegrps_v3X","ins_ge65","65+","<65, Any private",0,0
+"agegrps_v3X","ins_ge65","65+","<65, Public only",0,0
+"agegrps_v3X","ins_ge65","65+","<65, Uninsured",0,0
+"agegrps_v3X","ins_ge65","65+","65+, Medicare only",0.250096304567413,0.0105250206685578
+"agegrps_v3X","ins_ge65","65+","65+, Medicare and private",0.636012294116624,0.0122124387457703
+"agegrps_v3X","ins_ge65","65+","65+, Medicare and other public",0.10043867679193,0.00658363761744012
+"agegrps_v3X","ins_ge65","65+","65+, No medicare",0.0134527245240341,0.00257689191482647

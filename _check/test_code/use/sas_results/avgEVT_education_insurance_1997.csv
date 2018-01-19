@@ -1,0 +1,16 @@
+DomainLabel,education,insurance,VarName,Mean,N,StdErr
+education*insurance,Missing,"Any private, all ages",EXP,9.433693,16,4.087255
+education*insurance,Missing,"Public only, all ages",EXP,27.858772,20,10.089277
+education*insurance,Missing,"Uninsured, all ages",EXP,5.355879,7,1.773053
+education*insurance,Less than high school,"Any private, all ages",EXP,20.003036,2261,0.635023
+education*insurance,Less than high school,"Public only, all ages",EXP,27.937848,1902,0.993113
+education*insurance,Less than high school,"Uninsured, all ages",EXP,5.113587,1346,0.370919
+education*insurance,High school,"Any private, all ages",EXP,15.708652,5141,0.409229
+education*insurance,High school,"Public only, all ages",EXP,25.811020,1157,1.229391
+education*insurance,High school,"Uninsured, all ages",EXP,6.304719,1231,0.561121
+education*insurance,Some college,"Any private, all ages",EXP,14.716737,8134,0.325880
+education*insurance,Some college,"Public only, all ages",EXP,30.952940,667,1.715263
+education*insurance,Some college,"Uninsured, all ages",EXP,7.801256,935,0.600084
+education*insurance,Inapplicable (age < 18),"Any private, all ages",EXP,7.103568,5672,0.181797
+education*insurance,Inapplicable (age < 18),"Public only, all ages",EXP,5.630546,2869,0.227988
+education*insurance,Inapplicable (age < 18),"Uninsured, all ages",EXP,3.371496,1278,0.201819

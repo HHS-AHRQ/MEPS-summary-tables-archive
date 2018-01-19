@@ -1,0 +1,127 @@
+Table,domain,F_mnhlth,mnhlth,F_afford_PM,afford_PM,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_PM,insure_PM,F_other_PM,other_PM
+Table 1 of mnhlth * afford_PM,0,Missing,Missing,0,0,59,506781,74988,0.1820,0.0272,100.0000,0.0000,,,,,
+Table 1 of mnhlth * afford_PM,0,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Missing,Missing,Total,,59,506781,74988,0.1820,0.0272,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Excellent,Excellent,0,0,13996,112859044,2919344,40.5343,0.5537,100.0000,0.0000,-,,,,
+Table 1 of mnhlth * afford_PM,0,Excellent,Excellent,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Excellent,Excellent,Total,,13996,112859044,2919344,40.5343,0.5537,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Very good,Very good,0,0,11148,86744900,2263414,31.1552,0.4347,100.0000,0.0000,-,,,,
+Table 1 of mnhlth * afford_PM,0,Very good,Very good,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Very good,Very good,Total,,11148,86744900,2263414,31.1552,0.4347,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Good,Good,0,0,8803,62737494,1645862,22.5327,0.4404,100.0000,0.0000,-,,,,
+Table 1 of mnhlth * afford_PM,0,Good,Good,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Good,Good,Total,,8803,62737494,1645862,22.5327,0.4404,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Fair,Fair,0,0,1742,12047338,442876,4.3269,0.1521,100.0000,0.0000,-,,,,
+Table 1 of mnhlth * afford_PM,0,Fair,Fair,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Fair,Fair,Total,,1742,12047338,442876,4.3269,0.1521,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Poor,Poor,0,0,458,3532737,213015,1.2688,0.0746,100.0000,0.0000,-,,,,
+Table 1 of mnhlth * afford_PM,0,Poor,Poor,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of mnhlth * afford_PM,0,Poor,Poor,Total,,458,3532737,213015,1.2688,0.0746,100.0000,_,1,,,,
+Table 1 of mnhlth * afford_PM,0,Total,Missing,0,0,36206,278428294,5723447,100.0000,0.0000,_,_,-,,,,
+Table 1 of mnhlth * afford_PM,0,Total,Missing,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of mnhlth * afford_PM,0,Total,Missing,Total,,36206,278428294,5723447,100.0000,_,_,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Missing,Missing,0,0,0,,,,,,,,,,,
+Table 2 of mnhlth * afford_PM,1,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 2 of mnhlth * afford_PM,1,Missing,Missing,Total,,0,,,,,,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Excellent,Excellent,0,0,128,1306960,141734,13.3999,1.2560,57.0467,3.5170,-,,,,
+Table 2 of mnhlth * afford_PM,1,Excellent,Excellent,Couldn't afford,Couldn't afford,121,984073,103611,10.0895,0.9515,42.9533,3.5170,,,,,
+Table 2 of mnhlth * afford_PM,1,Excellent,Excellent,Total,,249,2291033,183606,23.4894,1.4449,100.0000,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Very good,Very good,0,0,152,1475361,134618,15.1265,1.3077,62.4221,3.4084,-,,,,
+Table 2 of mnhlth * afford_PM,1,Very good,Very good,Couldn't afford,Couldn't afford,138,888162,96875,9.1061,0.9199,37.5779,3.4084,,,,,
+Table 2 of mnhlth * afford_PM,1,Very good,Very good,Total,,290,2363524,162292,24.2326,1.4434,100.0000,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Good,Good,0,0,168,1421654,140327,14.5759,1.3515,46.2494,3.5001,-,,,,
+Table 2 of mnhlth * afford_PM,1,Good,Good,Couldn't afford,Couldn't afford,238,1652230,148031,16.9399,1.3671,53.7506,3.5001,,,,,
+Table 2 of mnhlth * afford_PM,1,Good,Good,Total,,406,3073884,191788,31.5158,1.5912,100.0000,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Fair,Fair,0,0,64,574290,81732,5.8881,0.8164,40.4574,4.4091,-,,,,
+Table 2 of mnhlth * afford_PM,1,Fair,Fair,Couldn't afford,Couldn't afford,122,845204,94888,8.6657,0.8946,59.5426,4.4091,,,,,
+Table 2 of mnhlth * afford_PM,1,Fair,Fair,Total,,186,1419494,123984,14.5537,1.1324,100.0000,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Poor,Poor,0,0,34,246086,55018,2.5231,0.5464,40.6394,7.5186,-,,,,
+Table 2 of mnhlth * afford_PM,1,Poor,Poor,Couldn't afford,Couldn't afford,47,359449,80723,3.6853,0.8039,59.3606,7.5186,,,,,
+Table 2 of mnhlth * afford_PM,1,Poor,Poor,Total,,81,605535,99163,6.2084,0.9591,100.0000,_,1,,,,
+Table 2 of mnhlth * afford_PM,1,Total,Missing,0,0,546,5024350,279936,51.5135,1.9865,_,_,-,,,,
+Table 2 of mnhlth * afford_PM,1,Total,Missing,Couldn't afford,Couldn't afford,666,4729118,281606,48.4865,1.9865,_,_,,,,,
+Table 2 of mnhlth * afford_PM,1,Total,Missing,Total,,1212,9753469,406664,100.0000,_,_,_,1,,,,
+Table 1 of mnhlth * insure_PM,0,Missing,Missing,,,59,506781,74988,0.1820,0.0272,100.0000,0.0000,,0,0,,
+Table 1 of mnhlth * insure_PM,0,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Missing,Missing,,,59,506781,74988,0.1820,0.0272,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Excellent,Excellent,,,13996,112859044,2919344,40.5343,0.5537,100.0000,0.0000,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Excellent,Excellent,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Excellent,Excellent,,,13996,112859044,2919344,40.5343,0.5537,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Very good,Very good,,,11148,86744900,2263414,31.1552,0.4347,100.0000,0.0000,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Very good,Very good,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Very good,Very good,,,11148,86744900,2263414,31.1552,0.4347,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Good,Good,,,8803,62737494,1645862,22.5327,0.4404,100.0000,0.0000,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Good,Good,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Good,Good,,,8803,62737494,1645862,22.5327,0.4404,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Fair,Fair,,,1742,12047338,442876,4.3269,0.1521,100.0000,0.0000,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Fair,Fair,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Fair,Fair,,,1742,12047338,442876,4.3269,0.1521,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Poor,Poor,,,458,3532737,213015,1.2688,0.0746,100.0000,0.0000,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Poor,Poor,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Poor,Poor,,,458,3532737,213015,1.2688,0.0746,100.0000,_,1,Total,,,
+Table 1 of mnhlth * insure_PM,0,Total,Missing,,,36206,278428294,5723447,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of mnhlth * insure_PM,0,Total,Missing,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of mnhlth * insure_PM,0,Total,Missing,,,36206,278428294,5723447,100.0000,_,_,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Missing,Missing,,,0,,,,,,,,0,0,,
+Table 2 of mnhlth * insure_PM,1,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Missing,Missing,,,0,,,,,,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Excellent,Excellent,,,205,1889535,165728,19.3730,1.3545,82.4752,2.6341,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Excellent,Excellent,,,44,401498,66988,4.1165,0.6635,17.5248,2.6341,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Excellent,Excellent,,,249,2291033,183606,23.4894,1.4449,100.0000,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Very good,Very good,,,230,1824342,135938,18.7045,1.2267,77.1874,2.6039,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Very good,Very good,,,60,539182,73852,5.5281,0.7392,22.8126,2.6039,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Very good,Very good,,,290,2363524,162292,24.2326,1.4434,100.0000,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Good,Good,,,341,2506927,178529,25.7029,1.5123,81.5557,2.5380,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Good,Good,,,65,566956,83899,5.8129,0.8569,18.4443,2.5380,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Good,Good,,,406,3073884,191788,31.5158,1.5912,100.0000,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Fair,Fair,,,166,1284877,120040,13.1735,1.0775,90.5165,2.1669,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Fair,Fair,,,20,134617,31517,1.3802,0.3314,9.4835,2.1669,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Fair,Fair,,,186,1419494,123984,14.5537,1.1324,100.0000,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Poor,Poor,,,71,522016,91321,5.3521,0.8923,86.2075,4.5803,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Poor,Poor,,,10,83518,30238,0.8563,0.3054,13.7925,4.5803,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Poor,Poor,,,81,605535,99163,6.2084,0.9591,100.0000,_,1,Total,,,
+Table 2 of mnhlth * insure_PM,1,Total,Missing,,,1013,8027697,377393,82.3061,1.3122,_,_,-,0,0,,
+Table 2 of mnhlth * insure_PM,1,Total,Missing,,,199,1725772,136179,17.6939,1.3122,_,_,,Insurance related,Insurance related,,
+Table 2 of mnhlth * insure_PM,1,Total,Missing,,,1212,9753469,406664,100.0000,_,_,_,1,Total,,,
+Table 1 of mnhlth * other_PM,0,Missing,Missing,,,59,506781,74988,0.1820,0.0272,100.0000,0.0000,,,,0,0
+Table 1 of mnhlth * other_PM,0,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Missing,Missing,,,59,506781,74988,0.1820,0.0272,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Excellent,Excellent,,,13996,112859044,2919344,40.5343,0.5537,100.0000,0.0000,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Excellent,Excellent,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Excellent,Excellent,,,13996,112859044,2919344,40.5343,0.5537,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Very good,Very good,,,11148,86744900,2263414,31.1552,0.4347,100.0000,0.0000,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Very good,Very good,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Very good,Very good,,,11148,86744900,2263414,31.1552,0.4347,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Good,Good,,,8803,62737494,1645862,22.5327,0.4404,100.0000,0.0000,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Good,Good,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Good,Good,,,8803,62737494,1645862,22.5327,0.4404,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Fair,Fair,,,1742,12047338,442876,4.3269,0.1521,100.0000,0.0000,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Fair,Fair,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Fair,Fair,,,1742,12047338,442876,4.3269,0.1521,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Poor,Poor,,,458,3532737,213015,1.2688,0.0746,100.0000,0.0000,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Poor,Poor,,,0,,,,,,,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Poor,Poor,,,458,3532737,213015,1.2688,0.0746,100.0000,_,1,,,Total,
+Table 1 of mnhlth * other_PM,0,Total,Missing,,,36206,278428294,5723447,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of mnhlth * other_PM,0,Total,Missing,,,0,,,,,_,_,,,,Other,Other
+Table 1 of mnhlth * other_PM,0,Total,Missing,,,36206,278428294,5723447,100.0000,_,_,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Missing,Missing,,,0,,,,,,,,,,0,0
+Table 2 of mnhlth * other_PM,1,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Missing,Missing,,,0,,,,,,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Excellent,Excellent,,,161,1352388,126192,13.8657,1.1277,59.0296,3.7259,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Excellent,Excellent,,,88,938645,122896,9.6237,1.1271,40.9704,3.7259,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Excellent,Excellent,,,249,2291033,183606,23.4894,1.4449,100.0000,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Very good,Very good,,,191,1361935,131067,13.9636,1.1979,57.6231,3.6738,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Very good,Very good,,,99,1001589,107763,10.2691,1.0968,42.3769,3.6738,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Very good,Very good,,,290,2363524,162292,24.2326,1.4434,100.0000,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Good,Good,,,300,2177103,159622,22.3213,1.4429,70.8258,2.9814,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Good,Good,,,106,896781,109974,9.1945,1.0619,29.1742,2.9814,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Good,Good,,,406,3073884,191788,31.5158,1.5912,100.0000,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Fair,Fair,,,141,973767,99572,9.9838,0.9579,68.5995,4.3436,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Fair,Fair,,,45,445728,76356,4.5699,0.7518,31.4005,4.3436,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Fair,Fair,,,186,1419494,123984,14.5537,1.1324,100.0000,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Poor,Poor,,,56,438881,87208,4.4997,0.8591,72.4783,6.1652,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Poor,Poor,,,25,166653,41729,1.7087,0.4184,27.5217,6.1652,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Poor,Poor,,,81,605535,99163,6.2084,0.9591,100.0000,_,1,,,Total,
+Table 2 of mnhlth * other_PM,1,Total,Missing,,,849,6304073,316748,64.6342,1.8816,_,_,-,,,0,0
+Table 2 of mnhlth * other_PM,1,Total,Missing,,,363,3449395,236000,35.3658,1.8816,_,_,,,,Other,Other
+Table 2 of mnhlth * other_PM,1,Total,Missing,,,1212,9753469,406664,100.0000,_,_,_,1,,,Total,

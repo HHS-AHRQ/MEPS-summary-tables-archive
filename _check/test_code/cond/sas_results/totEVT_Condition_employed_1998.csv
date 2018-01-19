@@ -1,0 +1,194 @@
+DomainLabel,condition,employed,VarName,Sum,StdDev
+condition*employed,-8,Employed,count,8598233,2037447
+condition*employed,-8,Not employed,count,7208017,770089
+condition*employed,-8,Inapplicable (age < 16),count,1951461,510180
+condition*employed,Acute Bronchitis and URI,Employed,count,40290580,2036559
+condition*employed,Acute Bronchitis and URI,Not employed,count,17010758,1131274
+condition*employed,Acute Bronchitis and URI,Inapplicable (age < 16),count,31339330,1714854
+condition*employed,Allergic reactions,Employed,count,6816555,1145582
+condition*employed,Allergic reactions,Not employed,count,4116234,575170
+condition*employed,Allergic reactions,Inapplicable (age < 16),count,3879509,523402
+condition*employed,Anemia and other deficiencies,Employed,count,1881685,383949
+condition*employed,Anemia and other deficiencies,Not employed,count,7251120,1727716
+condition*employed,Anemia and other deficiencies,Inapplicable (age < 16),count,360727,118176
+condition*employed,Appendicitis,Employed,count,277280,155705
+condition*employed,Appendicitis,Not employed,count,537060,193460
+condition*employed,Appendicitis,Inapplicable (age < 16),count,97518,65450
+condition*employed,Back problems,Employed,count,62097715,5905644
+condition*employed,Back problems,Not employed,count,46745077,3812587
+condition*employed,Back problems,Inapplicable (age < 16),count,275039,85276
+condition*employed,CNS infection,Employed,count,852922,556813
+condition*employed,CNS infection,Not employed,count,742419,365453
+condition*employed,CNS infection,Inapplicable (age < 16),count,417133,394874
+condition*employed,"COPD, asthma",Missing,count,1889.188101,1889.188101
+condition*employed,"COPD, asthma",Employed,count,76421750,5668976
+condition*employed,"COPD, asthma",Not employed,count,70181172,4336334
+condition*employed,"COPD, asthma",Inapplicable (age < 16),count,42762626,3111717
+condition*employed,Cancer,Employed,count,16798599,2651106
+condition*employed,Cancer,Not employed,count,40695392,4153976
+condition*employed,Cancer,Inapplicable (age < 16),count,2256390,1708698
+condition*employed,Cataract,Employed,count,1383539,392435
+condition*employed,Cataract,Not employed,count,14366419,1519920
+condition*employed,Cataract,Inapplicable (age < 16),count,51582,47082
+condition*employed,Cerebrovascular disease,Employed,count,1789272,468915
+condition*employed,Cerebrovascular disease,Not employed,count,8701012,1113761
+condition*employed,Cerebrovascular disease,Inapplicable (age < 16),count,16396,16396
+condition*employed,"Coma, brain damage",Employed,count,12585,12585
+condition*employed,"Coma, brain damage",Not employed,count,95618,63107
+condition*employed,Complications of pregnancy and birth,Employed,count,1434888,397925
+condition*employed,Complications of pregnancy and birth,Not employed,count,1104789,386851
+condition*employed,Complications of pregnancy and birth,Inapplicable (age < 16),count,153826,121125
+condition*employed,Complications of surgery or device,Employed,count,909813,253559
+condition*employed,Complications of surgery or device,Not employed,count,2635563,668448
+condition*employed,Complications of surgery or device,Inapplicable (age < 16),count,167306,115730
+condition*employed,Congenital anomalies,Employed,count,1753875,456455
+condition*employed,Congenital anomalies,Not employed,count,2621772,602434
+condition*employed,Congenital anomalies,Inapplicable (age < 16),count,3064613,949477
+condition*employed,Diabetes mellitus,Missing,count,27551,21374
+condition*employed,Diabetes mellitus,Employed,count,26089365,2509462
+condition*employed,Diabetes mellitus,Not employed,count,57563214,4355381
+condition*employed,Diabetes mellitus,Inapplicable (age < 16),count,569631,286649
+condition*employed,Disorders of mouth and esophagus,Employed,count,1112295,209236
+condition*employed,Disorders of mouth and esophagus,Not employed,count,615106,147877
+condition*employed,Disorders of mouth and esophagus,Inapplicable (age < 16),count,311348,128176
+condition*employed,Disorders of teeth and jaws,Employed,count,7458400,758169
+condition*employed,Disorders of teeth and jaws,Not employed,count,3879342,453353
+condition*employed,Disorders of teeth and jaws,Inapplicable (age < 16),count,1059383,223646
+condition*employed,Disorders of the upper GI,Employed,count,13988749,1072311
+condition*employed,Disorders of the upper GI,Not employed,count,18981959,1557881
+condition*employed,Disorders of the upper GI,Inapplicable (age < 16),count,1839232,268941
+condition*employed,Epilepsy and convulsions,Employed,count,3559546,786957
+condition*employed,Epilepsy and convulsions,Not employed,count,6493714,894441
+condition*employed,Epilepsy and convulsions,Inapplicable (age < 16),count,2128307,377820
+condition*employed,"Female genital disorders, and contraception",Employed,count,25345898,1621785
+condition*employed,"Female genital disorders, and contraception",Not employed,count,11268242,976157
+condition*employed,"Female genital disorders, and contraception",Inapplicable (age < 16),count,374916,140888
+condition*employed,"Gallbladder, pancreatic, and liver disease",Missing,count,19994,19994
+condition*employed,"Gallbladder, pancreatic, and liver disease",Employed,count,4137177,805571
+condition*employed,"Gallbladder, pancreatic, and liver disease",Not employed,count,3501804,403895
+condition*employed,"Gallbladder, pancreatic, and liver disease",Inapplicable (age < 16),count,825284,281683
+condition*employed,Glaucoma,Employed,count,2709752,431389
+condition*employed,Glaucoma,Not employed,count,13502474,1645278
+condition*employed,Headache,Employed,count,17331897,1930709
+condition*employed,Headache,Not employed,count,8708974,871776
+condition*employed,Headache,Inapplicable (age < 16),count,1167237,263949
+condition*employed,Heart disease,Missing,count,31270,27750
+condition*employed,Heart disease,Employed,count,25395824,3111839
+condition*employed,Heart disease,Not employed,count,89547044,6368563
+condition*employed,Heart disease,Inapplicable (age < 16),count,1797462,518200
+condition*employed,"Hemorrhagic, coagulation, and disorders of White Blood cells",Employed,count,1005691,410685
+condition*employed,"Hemorrhagic, coagulation, and disorders of White Blood cells",Not employed,count,3526244,1083283
+condition*employed,"Hemorrhagic, coagulation, and disorders of White Blood cells",Inapplicable (age < 16),count,120452,45313
+condition*employed,"Hereditary, degenerative and other nervous system disorders",Employed,count,2900996,952485
+condition*employed,"Hereditary, degenerative and other nervous system disorders",Not employed,count,6026138,903266
+condition*employed,"Hereditary, degenerative and other nervous system disorders",Inapplicable (age < 16),count,71289,44238
+condition*employed,Hernias,Employed,count,4777159,978583
+condition*employed,Hernias,Not employed,count,6090031,1164597
+condition*employed,Hernias,Inapplicable (age < 16),count,198698,74142
+condition*employed,Hyperlipidemia,Missing,count,3778.376202,3778.376202
+condition*employed,Hyperlipidemia,Employed,count,13892722,1226638
+condition*employed,Hyperlipidemia,Not employed,count,19848513,1444522
+condition*employed,Hyperlipidemia,Inapplicable (age < 16),count,6554.621300,6554.621300
+condition*employed,Hypertension,Employed,count,48397717,2673330
+condition*employed,Hypertension,Not employed,count,94027058,4747322
+condition*employed,Hypertension,Inapplicable (age < 16),count,300707,178393
+condition*employed,Infectious diseases,Employed,count,19404485,1740984
+condition*employed,Infectious diseases,Not employed,count,14513408,1872367
+condition*employed,Infectious diseases,Inapplicable (age < 16),count,10834658,920030
+condition*employed,Influenza,Employed,count,4964692,530257
+condition*employed,Influenza,Not employed,count,3347284,478980
+condition*employed,Influenza,Inapplicable (age < 16),count,3730748,459484
+condition*employed,Intestinal infection,Employed,count,6042138,561374
+condition*employed,Intestinal infection,Not employed,count,3107079,357147
+condition*employed,Intestinal infection,Inapplicable (age < 16),count,4820552,522303
+condition*employed,Kidney Disease,Missing,count,1889.188101,1889.188101
+condition*employed,Kidney Disease,Employed,count,8101300,2701925
+condition*employed,Kidney Disease,Not employed,count,26944461,6087479
+condition*employed,Kidney Disease,Inapplicable (age < 16),count,557282,333768
+condition*employed,Male genital disorders,Employed,count,3375111,633489
+condition*employed,Male genital disorders,Not employed,count,5399054,1059948
+condition*employed,Male genital disorders,Inapplicable (age < 16),count,213295,94509
+condition*employed,Mental disorders,Employed,count,62000858,5460577
+condition*employed,Mental disorders,Not employed,count,90312908,11808595
+condition*employed,Mental disorders,Inapplicable (age < 16),count,25240060,3143984
+condition*employed,Non-malignant breast disease,Employed,count,2955420,462874
+condition*employed,Non-malignant breast disease,Not employed,count,3506680,788242
+condition*employed,Non-malignant breast disease,Inapplicable (age < 16),count,31655,16141
+condition*employed,Non-malignant neoplasm,Employed,count,5962834,887919
+condition*employed,Non-malignant neoplasm,Not employed,count,3124590,464651
+condition*employed,Non-malignant neoplasm,Inapplicable (age < 16),count,500249,247780
+condition*employed,Normal birth/live born,Employed,count,27500829,2623326
+condition*employed,Normal birth/live born,Not employed,count,20426361,2386514
+condition*employed,Normal birth/live born,Inapplicable (age < 16),count,196114,96543
+condition*employed,Osteoarthritis and other non-traumatic joint disorders,Employed,count,33382894,3818866
+condition*employed,Osteoarthritis and other non-traumatic joint disorders,Not employed,count,53025625,3475741
+condition*employed,Osteoarthritis and other non-traumatic joint disorders,Inapplicable (age < 16),count,772797,256591
+condition*employed,Other CNS disorders,Employed,count,27920700,2784810
+condition*employed,Other CNS disorders,Not employed,count,28528047,2497902
+condition*employed,Other CNS disorders,Inapplicable (age < 16),count,6282607,1057512
+condition*employed,Other GI,Employed,count,8931970,976136
+condition*employed,Other GI,Not employed,count,12056340,1124195
+condition*employed,Other GI,Inapplicable (age < 16),count,1291303,201009
+condition*employed,Other bone and musculoskeletal disease,Employed,count,9786715,1911301
+condition*employed,Other bone and musculoskeletal disease,Not employed,count,15884208,3768959
+condition*employed,Other bone and musculoskeletal disease,Inapplicable (age < 16),count,1197009,304078
+condition*employed,Other care and screening,Employed,count,27391402,2827593
+condition*employed,Other care and screening,Not employed,count,32710108,2194848
+condition*employed,Other care and screening,Inapplicable (age < 16),count,4396504,1115726
+condition*employed,"Other circulatory conditions arteries, veins, and lymphatics",Missing,count,19994,19994
+condition*employed,"Other circulatory conditions arteries, veins, and lymphatics",Employed,count,7798701,1036331
+condition*employed,"Other circulatory conditions arteries, veins, and lymphatics",Not employed,count,18469786,1988026
+condition*employed,"Other circulatory conditions arteries, veins, and lymphatics",Inapplicable (age < 16),count,582793,366385
+condition*employed,"Other endocrine, nutritional & immune disorder",Employed,count,11882245,1067006
+condition*employed,"Other endocrine, nutritional & immune disorder",Not employed,count,23009975,2001022
+condition*employed,"Other endocrine, nutritional & immune disorder",Inapplicable (age < 16),count,1524821,560830
+condition*employed,Other eye disorders,Employed,count,12720741,1151122
+condition*employed,Other eye disorders,Not employed,count,16106850,1393046
+condition*employed,Other eye disorders,Inapplicable (age < 16),count,6155932,760641
+condition*employed,Other stomach and intestinal disorders,Employed,count,3737850,859831
+condition*employed,Other stomach and intestinal disorders,Not employed,count,3621400,776046
+condition*employed,Other stomach and intestinal disorders,Inapplicable (age < 16),count,135484,81500
+condition*employed,Other urinary,Employed,count,2666901,538486
+condition*employed,Other urinary,Not employed,count,4714623,612497
+condition*employed,Other urinary,Inapplicable (age < 16),count,1573775,557719
+condition*employed,Otitis media,Employed,count,7695874,812340
+condition*employed,Otitis media,Not employed,count,4135141,459965
+condition*employed,Otitis media,Inapplicable (age < 16),count,32476755,2198747
+condition*employed,Paralysis,Employed,count,990688,562299
+condition*employed,Paralysis,Not employed,count,3753356,1844900
+condition*employed,Paralysis,Inapplicable (age < 16),count,1048717,448750
+condition*employed,Perinatal Conditions,Not employed,count,111748,111748
+condition*employed,Perinatal Conditions,Inapplicable (age < 16),count,904411,533993
+condition*employed,Pneumonia,Employed,count,4693255,787260
+condition*employed,Pneumonia,Not employed,count,8386067,1371068
+condition*employed,Pneumonia,Inapplicable (age < 16),count,3520418,640395
+condition*employed,Poisoning by medical and non-medical substances,Employed,count,2083983,340767
+condition*employed,Poisoning by medical and non-medical substances,Not employed,count,2241117,407062
+condition*employed,Poisoning by medical and non-medical substances,Inapplicable (age < 16),count,1557749,418785
+condition*employed,Residual Codes,Employed,count,16633778,1870761
+condition*employed,Residual Codes,Not employed,count,29929630,2041133
+condition*employed,Residual Codes,Inapplicable (age < 16),count,1705928,466159
+condition*employed,Skin disorders,Employed,count,28675786,1720136
+condition*employed,Skin disorders,Not employed,count,27337208,1897434
+condition*employed,Skin disorders,Inapplicable (age < 16),count,8592960,879227
+condition*employed,Symptoms,Missing,count,33882,33882
+condition*employed,Symptoms,Employed,count,5646484,804010
+condition*employed,Symptoms,Not employed,count,6610329,693897
+condition*employed,Symptoms,Inapplicable (age < 16),count,3724221,449558
+condition*employed,Systemic lupus and connective tissues disorders,Missing,count,2499.225125,2499.225125
+condition*employed,Systemic lupus and connective tissues disorders,Employed,count,28497545,3143480
+condition*employed,Systemic lupus and connective tissues disorders,Not employed,count,26170273,2195586
+condition*employed,Systemic lupus and connective tissues disorders,Inapplicable (age < 16),count,1392404,478015
+condition*employed,Thyroid disease,Employed,count,12926460,1016068
+condition*employed,Thyroid disease,Not employed,count,17867702,1534875
+condition*employed,Thyroid disease,Inapplicable (age < 16),count,309064,157194
+condition*employed,Tonsillitis,Employed,count,1254532,368393
+condition*employed,Tonsillitis,Not employed,count,673654,190016
+condition*employed,Tonsillitis,Inapplicable (age < 16),count,2162502,443532
+condition*employed,Trauma-related disorders,Missing,count,33882,33882
+condition*employed,Trauma-related disorders,Employed,count,101399143,7319375
+condition*employed,Trauma-related disorders,Not employed,count,55333559,4268193
+condition*employed,Trauma-related disorders,Inapplicable (age < 16),count,17435650,1584190
+condition*employed,Urinary tract infections,Employed,count,9738591,994220
+condition*employed,Urinary tract infections,Not employed,count,10031140,879682
+condition*employed,Urinary tract infections,Inapplicable (age < 16),count,2399401,538179

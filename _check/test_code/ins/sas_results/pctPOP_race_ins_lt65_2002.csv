@@ -1,0 +1,97 @@
+Table,domain,F_race,race,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"<65, Any private","<65, Any private",0,,,,,,,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"65+, Medicare only","65+, Medicare only",178,805310,93750,2.2212,0.2624,37.0021,2.6882,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"65+, Medicare and private","65+, Medicare and private",96,521327,82285,1.4379,0.2221,23.9538,2.8884,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"65+, Medicare and other public","65+, Medicare and other public",232,769731,97789,2.1231,0.2701,35.3674,2.8750,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,"65+, No medicare","65+, No medicare",22,80020,21569,0.2207,0.0595,3.6767,0.9777,
+Table 1 of race * insurance_v2X,0,Hispanic,Hispanic,Total,,528,2176388,206341,6.0029,0.5665,100.0000,_,1
+Table 1 of race * insurance_v2X,0,White,White,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of race * insurance_v2X,0,White,White,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of race * insurance_v2X,0,White,White,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of race * insurance_v2X,0,White,White,"65+, Medicare only","65+, Medicare only",886,8446170,502854,23.2961,1.0810,28.4867,1.2786,
+Table 1 of race * insurance_v2X,0,White,White,"65+, Medicare and private","65+, Medicare and private",1948,18996151,766527,52.3948,1.3107,64.0690,1.4081,
+Table 1 of race * insurance_v2X,0,White,White,"65+, Medicare and other public","65+, Medicare and other public",263,1989807,183060,5.4883,0.4912,6.7111,0.6029,
+Table 1 of race * insurance_v2X,0,White,White,"65+, No medicare","65+, No medicare",19,217379,51908,0.5996,0.1434,0.7332,0.1747,
+Table 1 of race * insurance_v2X,0,White,White,Total,,3116,29649508,1026111,81.7787,0.9330,100.0000,_,1
+Table 1 of race * insurance_v2X,0,Black,Black,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of race * insurance_v2X,0,Black,Black,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of race * insurance_v2X,0,Black,Black,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of race * insurance_v2X,0,Black,Black,"65+, Medicare only","65+, Medicare only",160,905293,99014,2.4970,0.2675,29.7088,2.6111,
+Table 1 of race * insurance_v2X,0,Black,Black,"65+, Medicare and private","65+, Medicare and private",193,1332601,154793,3.6756,0.4174,43.7316,3.2165,
+Table 1 of race * insurance_v2X,0,Black,Black,"65+, Medicare and other public","65+, Medicare and other public",160,767661,99741,2.1173,0.2637,25.1921,2.6086,
+Table 1 of race * insurance_v2X,0,Black,Black,"65+, No medicare","65+, No medicare",8,41670,12705,0.1149,0.0346,1.3675,0.4197,
+Table 1 of race * insurance_v2X,0,Black,Black,Total,,521,3047225,242415,8.4048,0.6260,100.0000,_,1
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare only","65+, Medicare only",12,108496,37278,0.2993,0.1032,28.2154,8.0302,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare and private","65+, Medicare and private",23,169465,39439,0.4674,0.1081,44.0711,7.7141,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare and other public","65+, Medicare and other public",15,104108,37846,0.2871,0.1041,27.0742,6.9953,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, No medicare","65+, No medicare",1,2458,2458,0.0068,0.0068,0.6393,0.6474,
+Table 1 of race * insurance_v2X,0,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",Total,,51,384527,75316,1.0606,0.2072,100.0000,_,1
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare only","65+, Medicare only",34,274272,68048,0.7565,0.1866,27.4789,5.3250,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare and private","65+, Medicare and private",37,377488,89068,1.0412,0.2435,37.8200,6.6111,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare and other public","65+, Medicare and other public",31,288380,74536,0.7954,0.2029,28.8924,5.6649,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, No medicare","65+, No medicare",6,57978,24573,0.1599,0.0678,5.8087,2.4224,
+Table 1 of race * insurance_v2X,0,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",Total,,108,998118,156614,2.7530,0.4226,100.0000,_,1
+Table 1 of race * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 1 of race * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",1270,10539541,530903,29.0700,1.0886,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",2297,21397033,803894,59.0169,1.2326,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",701,3919687,260038,10.8112,0.6630,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",56,399505,61798,1.1019,0.1705,_,_,
+Table 1 of race * insurance_v2X,0,Total,Missing,Total,,4324,36255766,1131957,100.0000,_,_,_,1
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"<65, Any private","<65, Any private",3570,18000220,1016287,7.1450,0.3760,48.0153,1.2910,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"<65, Public only","<65, Public only",2694,8921300,556826,3.5412,0.2101,23.7974,0.9139,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"<65, Uninsured","<65, Uninsured",2635,10566999,712603,4.1945,0.2585,28.1873,1.0665,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Hispanic,Hispanic,Total,,8899,37488519,1925447,14.8808,0.6878,100.0000,_,1
+Table 2 of race * insurance_v2X,1,White,White,"<65, Any private","<65, Any private",13363,134499987,3477359,53.3887,0.7958,81.1154,0.6660,-
+Table 2 of race * insurance_v2X,1,White,White,"<65, Public only","<65, Public only",1967,14593373,856835,5.7927,0.3300,8.8011,0.4696,
+Table 2 of race * insurance_v2X,1,White,White,"<65, Uninsured","<65, Uninsured",1774,16719790,705236,6.6368,0.2623,10.0835,0.3734,
+Table 2 of race * insurance_v2X,1,White,White,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of race * insurance_v2X,1,White,White,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of race * insurance_v2X,1,White,White,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of race * insurance_v2X,1,White,White,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of race * insurance_v2X,1,White,White,Total,,17104,165813150,3998681,65.8182,0.8829,100.0000,_,1
+Table 2 of race * insurance_v2X,1,Black,Black,"<65, Any private","<65, Any private",2654,18701246,1072768,7.4233,0.3790,58.7567,1.7773,-
+Table 2 of race * insurance_v2X,1,Black,Black,"<65, Public only","<65, Public only",1714,8790350,818001,3.4893,0.3065,27.6181,1.7149,
+Table 2 of race * insurance_v2X,1,Black,Black,"<65, Uninsured","<65, Uninsured",681,4336676,317220,1.7214,0.1235,13.6252,0.9152,
+Table 2 of race * insurance_v2X,1,Black,Black,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Black,Black,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Black,Black,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Black,Black,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of race * insurance_v2X,1,Black,Black,Total,,5049,31828273,1695256,12.6340,0.5855,100.0000,_,1
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Any private","<65, Any private",460,3466548,358886,1.3760,0.1387,63.2291,3.1277,-
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Public only","<65, Public only",188,1226718,186492,0.4869,0.0752,22.3751,2.5320,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","<65, Uninsured","<65, Uninsured",105,789257,152997,0.3133,0.0608,14.3959,2.0443,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races","65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Amer. Indian, AK Native, or mult. races","Amer. Indian, AK Native, or mult. races",Total,,753,5482523,549412,2.1762,0.2163,100.0000,_,1
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Any private","<65, Any private",973,8891596,708853,3.5294,0.2659,78.5926,3.0271,-
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Public only","<65, Public only",176,1155360,324705,0.4586,0.1270,10.2122,2.5658,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","<65, Uninsured","<65, Uninsured",140,1266576,175111,0.5028,0.0687,11.1952,1.4010,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander","65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of race * insurance_v2X,1,"Asian, Hawaiian, or Pacific Islander","Asian, Hawaiian, or Pacific Islander",Total,,1289,11313533,864216,4.4908,0.3182,100.0000,_,1
+Table 2 of race * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",21020,183559597,4348143,72.8625,0.6521,_,_,-
+Table 2 of race * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",6739,34687101,1441697,13.7688,0.4884,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",5335,33679299,1144867,13.3687,0.3716,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 2 of race * insurance_v2X,1,Total,Missing,Total,,33094,251925997,5440176,100.0000,_,_,_,1

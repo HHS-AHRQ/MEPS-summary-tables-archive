@@ -1,0 +1,81 @@
+Table,domain,F_region,region,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"<65, Any private","<65, Any private",0,,,,,,,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"65+, Medicare only","65+, Medicare only",214,2718756,311262,6.2405,0.6912,32.0210,2.9063,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"65+, Medicare and private","65+, Medicare and private",315,4626859,456981,10.6202,0.9847,54.4943,3.2190,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"65+, Medicare and other public","65+, Medicare and other public",123,1026713,165878,2.3567,0.3798,12.0925,1.9335,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,"65+, No medicare","65+, No medicare",13,118203,42484,0.2713,0.0973,1.3922,0.4995,
+Table 1 of region * insurance_v2X,0,Northeast,Northeast,Total,,665,8490532,603072,19.4887,1.2513,100.0000,_,1
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"65+, Medicare only","65+, Medicare only",307,3395485,312143,7.7938,0.7034,34.8801,2.4664,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"65+, Medicare and private","65+, Medicare and private",475,5678007,418819,13.0330,0.9150,58.3273,2.6228,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"65+, Medicare and other public","65+, Medicare and other public",76,541354,79543,1.2426,0.1797,5.5611,0.7671,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,"65+, No medicare","65+, No medicare",16,119883,39014,0.2752,0.0904,1.2315,0.4060,
+Table 1 of region * insurance_v2X,0,Midwest,Midwest,Total,,874,9734729,559728,22.3446,1.2007,100.0000,_,1
+Table 1 of region * insurance_v2X,0,South,South,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of region * insurance_v2X,0,South,South,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of region * insurance_v2X,0,South,South,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of region * insurance_v2X,0,South,South,"65+, Medicare only","65+, Medicare only",605,5870192,506020,13.4741,0.9553,36.4528,1.9520,
+Table 1 of region * insurance_v2X,0,South,South,"65+, Medicare and private","65+, Medicare and private",615,8414824,738674,19.3149,1.3283,52.2545,2.0947,
+Table 1 of region * insurance_v2X,0,South,South,"65+, Medicare and other public","65+, Medicare and other public",289,1595061,187963,3.6612,0.4129,9.9050,1.1234,
+Table 1 of region * insurance_v2X,0,South,South,"65+, No medicare","65+, No medicare",32,223469,62135,0.5129,0.1401,1.3877,0.3735,
+Table 1 of region * insurance_v2X,0,South,South,Total,,1541,16103547,1140879,36.9632,1.8239,100.0000,_,1
+Table 1 of region * insurance_v2X,0,West,West,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of region * insurance_v2X,0,West,West,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of region * insurance_v2X,0,West,West,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of region * insurance_v2X,0,West,West,"65+, Medicare only","65+, Medicare only",361,3527591,349275,8.0970,0.7673,38.1872,2.4387,
+Table 1 of region * insurance_v2X,0,West,West,"65+, Medicare and private","65+, Medicare and private",428,4449894,320068,10.2140,0.7366,48.1714,2.6055,
+Table 1 of region * insurance_v2X,0,West,West,"65+, Medicare and other public","65+, Medicare and other public",161,1114260,157300,2.5576,0.3648,12.0622,1.7376,
+Table 1 of region * insurance_v2X,0,West,West,"65+, No medicare","65+, No medicare",26,145873,40776,0.3348,0.0939,1.5791,0.4396,
+Table 1 of region * insurance_v2X,0,West,West,Total,,976,9237618,520932,21.2035,1.1492,100.0000,_,1
+Table 1 of region * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 1 of region * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",1487,15512025,769848,35.6055,1.2083,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",1833,23169584,1044841,53.1822,1.3037,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",649,4277389,328517,9.8181,0.7252,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",87,607429,96424,1.3943,0.2189,_,_,
+Table 1 of region * insurance_v2X,0,Total,Missing,Total,,4056,43566427,1558668,100.0000,_,_,_,1
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"<65, Any private","<65, Any private",2537,32998356,2083528,12.3331,0.7152,70.0203,1.8031,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"<65, Public only","<65, Public only",1490,9274072,670869,3.4662,0.2464,19.6790,1.4073,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"<65, Uninsured","<65, Uninsured",627,4854402,414805,1.8143,0.1542,10.3007,0.8845,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Northeast,Northeast,Total,,4654,47126830,2281209,17.6136,0.7603,100.0000,_,1
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"<65, Any private","<65, Any private",3582,41314660,2364565,15.4413,0.7960,72.5079,1.7318,-
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"<65, Public only","<65, Public only",1471,9937704,754018,3.7142,0.2830,17.4408,1.4165,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"<65, Uninsured","<65, Uninsured",728,5727136,415184,2.1405,0.1511,10.0512,0.6738,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of region * insurance_v2X,1,Midwest,Midwest,Total,,5781,56979501,2478149,21.2960,0.8037,100.0000,_,1
+Table 2 of region * insurance_v2X,1,South,South,"<65, Any private","<65, Any private",5559,64728583,2797051,24.1922,0.8589,65.0225,1.4465,-
+Table 2 of region * insurance_v2X,1,South,South,"<65, Public only","<65, Public only",3007,17418783,979629,6.5103,0.3475,17.4979,0.8408,
+Table 2 of region * insurance_v2X,1,South,South,"<65, Uninsured","<65, Uninsured",2657,17400677,959717,6.5035,0.3378,17.4797,0.8324,
+Table 2 of region * insurance_v2X,1,South,South,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of region * insurance_v2X,1,South,South,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of region * insurance_v2X,1,South,South,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of region * insurance_v2X,1,South,South,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of region * insurance_v2X,1,South,South,Total,,11223,99548044,3415411,37.2060,0.9612,100.0000,_,1
+Table 2 of region * insurance_v2X,1,West,West,"<65, Any private","<65, Any private",4224,40507715,2136783,15.1397,0.6875,63.3874,1.4075,-
+Table 2 of region * insurance_v2X,1,West,West,"<65, Public only","<65, Public only",2109,12690853,1099064,4.7432,0.3907,19.8589,1.4083,
+Table 2 of region * insurance_v2X,1,West,West,"<65, Uninsured","<65, Uninsured",1575,10706388,643236,4.0015,0.2258,16.7536,0.8671,
+Table 2 of region * insurance_v2X,1,West,West,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of region * insurance_v2X,1,West,West,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of region * insurance_v2X,1,West,West,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of region * insurance_v2X,1,West,West,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of region * insurance_v2X,1,West,West,Total,,7908,63904956,2927146,23.8844,0.9026,100.0000,_,1
+Table 2 of region * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",15902,179549315,5030359,67.1064,0.8130,_,_,-
+Table 2 of region * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",8077,49321412,1821598,18.4338,0.5960,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",5587,38688604,1359328,14.4598,0.4367,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 2 of region * insurance_v2X,1,Total,Missing,Total,,29566,267559331,6180795,100.0000,_,_,_,1

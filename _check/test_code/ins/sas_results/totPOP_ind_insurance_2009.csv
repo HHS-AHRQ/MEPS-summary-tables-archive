@@ -1,0 +1,5 @@
+Table,F_ind,ind,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table ind * insurance,Total,Total,"Any private, all ages","Any private, all ages",19188,201394702,4950689,65.6735,0.7577,65.6735,0.7577,
+Table ind * insurance,Total,Total,"Public only, all ages","Public only, all ages",9906,63768674,2093537,20.7945,0.5521,20.7945,0.5521,
+Table ind * insurance,Total,Total,"Uninsured, all ages","Uninsured, all ages",5826,41497211,1730422,13.5320,0.4431,13.5320,0.4431,
+Table ind * insurance,Total,Total,Total,,34920,306660588,6698793,100.0000,_,100.0000,_,1

@@ -1,0 +1,73 @@
+Table,domain,F_agegrps,agegrps,F_diab_flu,diab_flu,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,Missing,Missing,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,In the past year,In the past year,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,Under 5,Under 5,Total,,0,,,,,,_,1
+Table 1 of agegrps * diab_flu,1,5-17,5-17,Missing,Missing,0,,,,,,,-
+Table 1 of agegrps * diab_flu,1,5-17,5-17,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,5-17,5-17,In the past year,In the past year,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,5-17,5-17,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,5-17,5-17,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 1 of agegrps * diab_flu,1,5-17,5-17,Total,,0,,,,,,_,1
+Table 1 of agegrps * diab_flu,1,18-44,18-44,Missing,Missing,0,,,,,,,-
+Table 1 of agegrps * diab_flu,1,18-44,18-44,Don't know/Non-response,Don't know/Non-response,2,25842,22140,0.1338,0.1146,1.0292,0.8766,
+Table 1 of agegrps * diab_flu,1,18-44,18-44,In the past year,In the past year,75,860883,119283,4.4558,0.5885,34.2859,3.9562,
+Table 1 of agegrps * diab_flu,1,18-44,18-44,More than 1 year ago,More than 1 year ago,54,564235,101951,2.9204,0.5210,22.4715,3.3496,
+Table 1 of agegrps * diab_flu,1,18-44,18-44,Never had flu shot,Never had flu shot,102,1059936,125844,5.4861,0.6271,42.2135,3.9198,
+Table 1 of agegrps * diab_flu,1,18-44,18-44,Total,,233,2510897,206443,12.9961,0.9672,100.0000,_,1
+Table 1 of agegrps * diab_flu,1,45-64,45-64,Missing,Missing,0,,,,,,,-
+Table 1 of agegrps * diab_flu,1,45-64,45-64,Don't know/Non-response,Don't know/Non-response,6,35944,16703,0.1860,0.0868,0.3962,0.1842,
+Table 1 of agegrps * diab_flu,1,45-64,45-64,In the past year,In the past year,442,5189562,293892,26.8605,1.2441,57.2065,2.0154,
+Table 1 of agegrps * diab_flu,1,45-64,45-64,More than 1 year ago,More than 1 year ago,146,1708201,174384,8.8414,0.8424,18.8302,1.7404,
+Table 1 of agegrps * diab_flu,1,45-64,45-64,Never had flu shot,Never had flu shot,212,2137919,173031,11.0656,0.8556,23.5671,1.6989,
+Table 1 of agegrps * diab_flu,1,45-64,45-64,Total,,806,9071625,384503,46.9536,1.3347,100.0000,_,1
+Table 1 of agegrps * diab_flu,1,65+,65+,Missing,Missing,0,,,,,,,-
+Table 1 of agegrps * diab_flu,1,65+,65+,Don't know/Non-response,Don't know/Non-response,12,136330,43120,0.7056,0.2215,1.7619,0.5496,
+Table 1 of agegrps * diab_flu,1,65+,65+,In the past year,In the past year,518,5738017,327817,29.6993,1.3547,74.1550,2.0606,
+Table 1 of agegrps * diab_flu,1,65+,65+,More than 1 year ago,More than 1 year ago,88,999908,126446,5.1754,0.6470,12.9223,1.6013,
+Table 1 of agegrps * diab_flu,1,65+,65+,Never had flu shot,Never had flu shot,90,863616,108791,4.4700,0.5512,11.1609,1.3249,
+Table 1 of agegrps * diab_flu,1,65+,65+,Total,,708,7737872,360998,40.0503,1.3591,100.0000,_,1
+Table 1 of agegrps * diab_flu,1,Total,,Missing,Missing,0,,,,,_,_,-
+Table 1 of agegrps * diab_flu,1,Total,,Don't know/Non-response,Don't know/Non-response,20,198116,51793,1.0254,0.2666,_,_,
+Table 1 of agegrps * diab_flu,1,Total,,In the past year,In the past year,1035,11788462,487423,61.0156,1.4153,_,_,
+Table 1 of agegrps * diab_flu,1,Total,,More than 1 year ago,More than 1 year ago,288,3272344,237804,16.9373,1.1141,_,_,
+Table 1 of agegrps * diab_flu,1,Total,,Never had flu shot,Never had flu shot,404,4061471,235117,21.0217,1.0802,_,_,
+Table 1 of agegrps * diab_flu,1,Total,,Total,,1747,19320394,621073,100.0000,_,_,_,1
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,Missing,Missing,2389,2389,77.91020,8.1767,0.1800,100.0000,0.0000,
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,In the past year,In the past year,0,,,,,,,
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,More than 1 year ago,More than 1 year ago,0,,,,,,,
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,Never had flu shot,Never had flu shot,0,,,,,,,
+Table 2 of agegrps * diab_flu,2,Under 5,Under 5,Total,,2389,2389,77.91020,8.1767,0.1800,100.0000,_,1
+Table 2 of agegrps * diab_flu,2,5-17,5-17,Missing,Missing,6542,6542,182.71289,22.3911,0.3126,99.3018,0.1093,-
+Table 2 of agegrps * diab_flu,2,5-17,5-17,Don't know/Non-response,Don't know/Non-response,2,2.00000,1.41421,0.0068,0.0048,0.0304,0.0215,
+Table 2 of agegrps * diab_flu,2,5-17,5-17,In the past year,In the past year,5,5.00000,2.23607,0.0171,0.0077,0.0759,0.0340,
+Table 2 of agegrps * diab_flu,2,5-17,5-17,More than 1 year ago,More than 1 year ago,5,5.00000,2.23607,0.0171,0.0076,0.0759,0.0338,
+Table 2 of agegrps * diab_flu,2,5-17,5-17,Never had flu shot,Never had flu shot,34,34.00000,6.48074,0.1164,0.0218,0.5161,0.0967,
+Table 2 of agegrps * diab_flu,2,5-17,5-17,Total,,6588,6588,184.06792,22.5485,0.3128,100.0000,_,1
+Table 2 of agegrps * diab_flu,2,18-44,18-44,Missing,Missing,57,57.00000,7.93725,0.1951,0.0272,0.5283,0.0731,-
+Table 2 of agegrps * diab_flu,2,18-44,18-44,Don't know/Non-response,Don't know/Non-response,404,404.00000,24.04163,1.3828,0.0776,3.7446,0.2092,
+Table 2 of agegrps * diab_flu,2,18-44,18-44,In the past year,In the past year,1663,1663,57.95688,5.6919,0.1717,15.4138,0.4571,
+Table 2 of agegrps * diab_flu,2,18-44,18-44,More than 1 year ago,More than 1 year ago,1966,1966,56.70979,6.7290,0.1651,18.2223,0.4304,
+Table 2 of agegrps * diab_flu,2,18-44,18-44,Never had flu shot,Never had flu shot,6699,6699,172.63256,22.9284,0.2950,62.0910,0.6373,
+Table 2 of agegrps * diab_flu,2,18-44,18-44,Total,,10789,10789,232.78531,36.9271,0.2672,100.0000,_,1
+Table 2 of agegrps * diab_flu,2,45-64,45-64,Missing,Missing,47,47.00000,7.14143,0.1609,0.0243,0.7192,0.1073,-
+Table 2 of agegrps * diab_flu,2,45-64,45-64,Don't know/Non-response,Don't know/Non-response,231,231.00000,17.40690,0.7906,0.0567,3.5348,0.2497,
+Table 2 of agegrps * diab_flu,2,45-64,45-64,In the past year,In the past year,2080,2080,67.37952,7.1191,0.2010,31.8286,0.7078,
+Table 2 of agegrps * diab_flu,2,45-64,45-64,More than 1 year ago,More than 1 year ago,1272,1272,40.21194,4.3536,0.1272,19.4644,0.5176,
+Table 2 of agegrps * diab_flu,2,45-64,45-64,Never had flu shot,Never had flu shot,2905,2905,73.76313,9.9428,0.2077,44.4529,0.7062,
+Table 2 of agegrps * diab_flu,2,45-64,45-64,Total,,6535,6535,136.80643,22.3671,0.3286,100.0000,_,1
+Table 2 of agegrps * diab_flu,2,65+,65+,Missing,Missing,168,168.00000,13.56466,0.5750,0.0463,5.7613,0.4352,-
+Table 2 of agegrps * diab_flu,2,65+,65+,Don't know/Non-response,Don't know/Non-response,58,58.00000,8.42615,0.1985,0.0288,1.9890,0.2875,
+Table 2 of agegrps * diab_flu,2,65+,65+,In the past year,In the past year,1793,1793,56.02678,6.1368,0.1891,61.4883,1.0395,
+Table 2 of agegrps * diab_flu,2,65+,65+,More than 1 year ago,More than 1 year ago,369,369.00000,21.67948,1.2630,0.0722,12.6543,0.6473,
+Table 2 of agegrps * diab_flu,2,65+,65+,Never had flu shot,Never had flu shot,528,528.00000,26.75818,1.8072,0.0899,18.1070,0.7779,
+Table 2 of agegrps * diab_flu,2,65+,65+,Total,,2916,2916,77.82673,9.9805,0.2553,100.0000,_,1
+Table 2 of agegrps * diab_flu,2,Total,,Missing,Missing,9203,9203,241.64851,31.4988,0.3468,_,_,-
+Table 2 of agegrps * diab_flu,2,Total,,Don't know/Non-response,Don't know/Non-response,695,695.00000,36.76955,2.3788,0.1163,_,_,
+Table 2 of agegrps * diab_flu,2,Total,,In the past year,In the past year,5541,5541,127.26743,18.9650,0.3461,_,_,
+Table 2 of agegrps * diab_flu,2,Total,,More than 1 year ago,More than 1 year ago,3612,3612,84.32082,12.3627,0.2308,_,_,
+Table 2 of agegrps * diab_flu,2,Total,,Never had flu shot,Never had flu shot,10166,10166,226.45750,34.7948,0.3465,_,_,
+Table 2 of agegrps * diab_flu,2,Total,,Total,,29217,29217,575.57363,100.0000,_,_,_,1

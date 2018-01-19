@@ -1,0 +1,6 @@
+DomainLabel,ind,education,VarName,VarLabel,Percentile,PercentSign,PercentileLabel,Quantile,Estimate,StdErr,LowerCL,UpperCL,ControlVar
+ind*education,Total,Missing,TOTEXP98,TOTAL HEALTH CARE EXP 98,50,%,Median,0.5,1440.577161,1425.938378,-1364.8211,4245.97542,
+ind*education,Total,Less than high school,TOTEXP98,TOTAL HEALTH CARE EXP 98,50,%,Median,0.5,1114.090817,60.857794,994.3589,1233.82274,
+ind*education,Total,High school,TOTEXP98,TOTAL HEALTH CARE EXP 98,50,%,Median,0.5,830.449741,39.714600,752.3150,908.58444,
+ind*education,Total,Some college,TOTEXP98,TOTAL HEALTH CARE EXP 98,50,%,Median,0.5,822.891027,24.074590,775.5266,870.25549,
+ind*education,Total,Inapplicable (age < 18),TOTEXP98,TOTAL HEALTH CARE EXP 98,50,%,Median,0.5,292.882474,8.395277,276.3656,309.39938,

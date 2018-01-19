@@ -1,0 +1,17 @@
+Table,F_race,race,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table race * insurance,Hispanic,Hispanic,"Any private, all ages","Any private, all ages",2447,15401288,750228,5.6305,0.2495,48.0423,1.5002,
+Table race * insurance,Hispanic,Hispanic,"Public only, all ages","Public only, all ages",1590,8045208,641475,2.9412,0.2340,25.0960,1.2310,
+Table race * insurance,Hispanic,Hispanic,"Uninsured, all ages","Uninsured, all ages",1548,8611276,603609,3.1482,0.2201,26.8617,1.1326,
+Table race * insurance,Hispanic,Hispanic,Total,,5585,32057773,1604649,11.7199,0.5615,100.0000,_,1
+Table race * insurance,Black,Black,"Any private, all ages","Any private, all ages",1748,18957201,1238685,6.9305,0.4440,55.0151,1.6961,-
+Table race * insurance,Black,Black,"Public only, all ages","Public only, all ages",1202,10188367,880596,3.7247,0.3311,29.5673,1.5870,
+Table race * insurance,Black,Black,"Uninsured, all ages","Uninsured, all ages",480,5312627,483273,1.9422,0.1713,15.4176,0.9172,
+Table race * insurance,Black,Black,Total,,3430,34458194,2155543,12.5974,0.7841,100.0000,_,1
+Table race * insurance,White and other,White and other,"Any private, all ages","Any private, all ages",10518,163496507,5050173,59.7720,0.9099,78.9771,0.7291,-
+Table race * insurance,White and other,White and other,"Public only, all ages","Public only, all ages",2055,25007765,1284437,9.1425,0.4135,12.0800,0.5204,
+Table race * insurance,White and other,White and other,"Uninsured, all ages","Uninsured, all ages",1365,18513452,1088299,6.7683,0.3505,8.9429,0.4497,
+Table race * insurance,White and other,White and other,Total,,13938,207017723,6083483,75.6827,0.9340,100.0000,_,1
+Table race * insurance,Total,Missing,"Any private, all ages","Any private, all ages",14713,197854996,5401818,72.3330,0.7259,_,_,-
+Table race * insurance,Total,Missing,"Public only, all ages","Public only, all ages",4847,43241339,1671757,15.8084,0.5586,_,_,
+Table race * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",3393,32437355,1344406,11.8586,0.4090,_,_,
+Table race * insurance,Total,Missing,Total,,22953,273533690,6518130,100.0000,_,_,_,1

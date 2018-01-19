@@ -1,0 +1,85 @@
+Table,domain,F_mnhlth,mnhlth,F_child_rating,child_rating,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of mnhlth * child_rating,0,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Missing,Missing,Inapplicable,Inapplicable,52,660945,111012,0.2512,0.0426,100.0000,0.0000,
+Table 1 of mnhlth * child_rating,0,Missing,Missing,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Missing,Missing,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Missing,Missing,9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Missing,Missing,Total,,52,660945,111012,0.2512,0.0426,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,1,2192,2192,0.0008,0.0008,0.0022,0.0022,-
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,Inapplicable,Inapplicable,9917,98819530,2828016,37.5631,0.5869,99.3589,0.1272,
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,0-6 rating,0-6 rating,4,13319,7177,0.0051,0.0027,0.0134,0.0073,
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,7-8 rating,7-8 rating,14,119023,41118,0.0452,0.0155,0.1197,0.0412,
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,9-10 rating,9-10 rating,48,503122,124871,0.1912,0.0465,0.5059,0.1228,
+Table 1 of mnhlth * child_rating,0,Excellent,Excellent,Total,,9984,99457186,2859095,37.8055,0.5858,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Very good,Very good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of mnhlth * child_rating,0,Very good,Very good,Inapplicable,Inapplicable,7419,77620637,2168033,29.5050,0.5083,99.7360,0.0759,
+Table 1 of mnhlth * child_rating,0,Very good,Very good,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Very good,Very good,7-8 rating,7-8 rating,7,83232,34419,0.0316,0.0131,0.1069,0.0443,
+Table 1 of mnhlth * child_rating,0,Very good,Very good,9-10 rating,9-10 rating,13,122226,45140,0.0465,0.0172,0.1571,0.0579,
+Table 1 of mnhlth * child_rating,0,Very good,Very good,Total,,7439,77826095,2169932,29.5831,0.5107,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Good,Good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of mnhlth * child_rating,0,Good,Good,Inapplicable,Inapplicable,7188,64776225,1891962,24.6226,0.4818,99.7942,0.0583,
+Table 1 of mnhlth * child_rating,0,Good,Good,0-6 rating,0-6 rating,2,8770,6402,0.0033,0.0024,0.0135,0.0099,
+Table 1 of mnhlth * child_rating,0,Good,Good,7-8 rating,7-8 rating,8,59464,25716,0.0226,0.0098,0.0916,0.0393,
+Table 1 of mnhlth * child_rating,0,Good,Good,9-10 rating,9-10 rating,8,65377,27262,0.0249,0.0103,0.1007,0.0421,
+Table 1 of mnhlth * child_rating,0,Good,Good,Total,,7206,64909835,1894984,24.6734,0.4829,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of mnhlth * child_rating,0,Fair,Fair,Inapplicable,Inapplicable,1820,15823435,672843,6.0148,0.2281,99.8959,0.0449,
+Table 1 of mnhlth * child_rating,0,Fair,Fair,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Fair,Fair,7-8 rating,7-8 rating,4,9880,5298,0.0038,0.0020,0.0624,0.0335,
+Table 1 of mnhlth * child_rating,0,Fair,Fair,9-10 rating,9-10 rating,2,6617,4691,0.0025,0.0018,0.0418,0.0297,
+Table 1 of mnhlth * child_rating,0,Fair,Fair,Total,,1826,15839932,672750,6.0210,0.2282,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Poor,Poor,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of mnhlth * child_rating,0,Poor,Poor,Inapplicable,Inapplicable,459,4367014,340552,1.6600,0.1245,99.6564,0.3221,
+Table 1 of mnhlth * child_rating,0,Poor,Poor,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Poor,Poor,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of mnhlth * child_rating,0,Poor,Poor,9-10 rating,9-10 rating,2,15058,14105,0.0057,0.0054,0.3436,0.3221,
+Table 1 of mnhlth * child_rating,0,Poor,Poor,Total,,461,4382072,340718,1.6657,0.1245,100.0000,_,1
+Table 1 of mnhlth * child_rating,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,1,2192,2192,0.0008,0.0008,_,_,-
+Table 1 of mnhlth * child_rating,0,Total,Missing,Inapplicable,Inapplicable,26855,262067786,5890179,99.6167,0.0557,_,_,
+Table 1 of mnhlth * child_rating,0,Total,Missing,0-6 rating,0-6 rating,6,22089,9617,0.0084,0.0037,_,_,
+Table 1 of mnhlth * child_rating,0,Total,Missing,7-8 rating,7-8 rating,33,271599,57084,0.1032,0.0216,_,_,
+Table 1 of mnhlth * child_rating,0,Total,Missing,9-10 rating,9-10 rating,73,712400,139389,0.2708,0.0518,_,_,
+Table 1 of mnhlth * child_rating,0,Total,Missing,Total,,26968,263076065,5927960,100.0000,_,_,_,1
+Table 2 of mnhlth * child_rating,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Missing,Missing,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Missing,Missing,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Missing,Missing,9-10 rating,9-10 rating,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,4,36132,24810,0.0619,0.0425,0.1039,0.0713,-
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,0-6 rating,0-6 rating,133,1030026,144275,1.7653,0.2437,2.9617,0.4145,
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,7-8 rating,7-8 rating,639,5491755,375944,9.4122,0.5818,15.7908,0.9467,
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,9-10 rating,9-10 rating,3151,28220308,1144305,48.3662,1.1974,81.1436,1.0276,
+Table 2 of mnhlth * child_rating,1,Excellent,Excellent,Total,,3927,34778220,1290972,59.6057,1.1736,100.0000,_,1
+Table 2 of mnhlth * child_rating,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,7,34529,15374,0.0592,0.0263,0.2589,0.1150,-
+Table 2 of mnhlth * child_rating,1,Very good,Very good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Very good,Very good,0-6 rating,0-6 rating,63,404841,72423,0.6938,0.1258,3.0356,0.5428,
+Table 2 of mnhlth * child_rating,1,Very good,Very good,7-8 rating,7-8 rating,427,3989450,355874,6.8374,0.5337,29.9135,1.7261,
+Table 2 of mnhlth * child_rating,1,Very good,Very good,9-10 rating,9-10 rating,1049,8907815,564293,15.2669,0.7498,66.7921,1.7577,
+Table 2 of mnhlth * child_rating,1,Very good,Very good,Total,,1546,13336635,800789,22.8574,1.0225,100.0000,_,1
+Table 2 of mnhlth * child_rating,1,Good,Good,Don't know/Non-response,Don't know/Non-response,7,40961,24140,0.0702,0.0412,0.4654,0.2729,-
+Table 2 of mnhlth * child_rating,1,Good,Good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Good,Good,0-6 rating,0-6 rating,95,810164,123430,1.3885,0.2117,9.2060,1.3766,
+Table 2 of mnhlth * child_rating,1,Good,Good,7-8 rating,7-8 rating,303,2170084,208133,3.7193,0.3134,24.6588,1.8668,
+Table 2 of mnhlth * child_rating,1,Good,Good,9-10 rating,9-10 rating,843,5779224,387388,9.9049,0.5797,65.6698,2.1263,
+Table 2 of mnhlth * child_rating,1,Good,Good,Total,,1248,8800433,498795,15.0829,0.6714,100.0000,_,1
+Table 2 of mnhlth * child_rating,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of mnhlth * child_rating,1,Fair,Fair,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Fair,Fair,0-6 rating,0-6 rating,17,109044,32566,0.1869,0.0563,10.2523,2.9091,
+Table 2 of mnhlth * child_rating,1,Fair,Fair,7-8 rating,7-8 rating,53,388283,64750,0.6655,0.1105,36.5063,4.9069,
+Table 2 of mnhlth * child_rating,1,Fair,Fair,9-10 rating,9-10 rating,89,566280,84910,0.9705,0.1398,53.2415,5.2191,
+Table 2 of mnhlth * child_rating,1,Fair,Fair,Total,,159,1063607,113065,1.8229,0.1863,100.0000,_,1
+Table 2 of mnhlth * child_rating,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,2,15213,11187,0.0261,0.0192,4.1308,2.7245,-
+Table 2 of mnhlth * child_rating,1,Poor,Poor,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of mnhlth * child_rating,1,Poor,Poor,0-6 rating,0-6 rating,8,52825,24186,0.0905,0.0413,14.3432,5.1174,
+Table 2 of mnhlth * child_rating,1,Poor,Poor,7-8 rating,7-8 rating,11,109356,58215,0.1874,0.0997,29.6928,11.3028,
+Table 2 of mnhlth * child_rating,1,Poor,Poor,9-10 rating,9-10 rating,24,190897,58690,0.3272,0.1000,51.8332,12.7752,
+Table 2 of mnhlth * child_rating,1,Poor,Poor,Total,,45,368291,100730,0.6312,0.1717,100.0000,_,1
+Table 2 of mnhlth * child_rating,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,20,126836,38688,0.2174,0.0658,_,_,-
+Table 2 of mnhlth * child_rating,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of mnhlth * child_rating,1,Total,Missing,0-6 rating,0-6 rating,316,2406899,233439,4.1251,0.3992,_,_,
+Table 2 of mnhlth * child_rating,1,Total,Missing,7-8 rating,7-8 rating,1433,12148927,635122,20.8218,0.7631,_,_,
+Table 2 of mnhlth * child_rating,1,Total,Missing,9-10 rating,9-10 rating,5156,43664523,1570303,74.8357,0.8595,_,_,
+Table 2 of mnhlth * child_rating,1,Total,Missing,Total,,6925,58347186,1990084,100.0000,_,_,_,1

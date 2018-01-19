@@ -1,0 +1,81 @@
+Table,domain,F_employed,employed,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"<65, Any private","<65, Any private",3,11202,7971,0.0042,0.0030,13.6623,9.4126,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"<65, Public only","<65, Public only",1,2073,2073,0.0008,0.0008,2.5283,2.5983,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"<65, Uninsured","<65, Uninsured",13,68716,25485,0.0258,0.0095,83.8094,9.8078,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Missing,Missing,Total,,17,81991,26783,0.0308,0.0100,100.0000,_,1
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"<65, Any private","<65, Any private",10175,108985677,2690680,40.9224,0.5561,79.2617,0.6553,-
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"<65, Public only","<65, Public only",905,5820051,357722,2.1853,0.1264,4.2327,0.2512,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"<65, Uninsured","<65, Uninsured",3042,22695293,988711,8.5217,0.2986,16.5055,0.5797,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Employed,Employed,Total,,14122,137501021,3222855,51.6294,0.4724,100.0000,_,1
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"<65, Any private","<65, Any private",3248,32293931,1187285,12.1258,0.3301,51.3352,1.1834,-
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"<65, Public only","<65, Public only",2571,15833814,695896,5.9453,0.2361,25.1698,0.8524,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"<65, Uninsured","<65, Uninsured",2193,14780258,673733,5.5497,0.2067,23.4950,0.8338,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Not employed,Not employed,Total,,8012,62908003,1791424,23.6209,0.3706,100.0000,_,1
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Any private","<65, Any private",4007,39545985,1452946,14.8489,0.4159,60.0711,1.3691,-
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Public only","<65, Public only",4334,22500187,1055523,8.4485,0.3401,34.1782,1.3026,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Uninsured","<65, Uninsured",544,3785844,355915,1.4215,0.1247,5.7508,0.4928,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of employed * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),Total,,8885,65832016,1908604,24.7189,0.3807,100.0000,_,1
+Table 1 of employed * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",17433,180836795,4552886,67.9013,0.8184,_,_,-
+Table 1 of employed * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",7811,44156125,1775667,16.5799,0.5592,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",5792,41330111,1717200,15.5188,0.4920,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 1 of employed * insurance_v2X,0,Total,Missing,Total,,31036,266323031,6091699,100.0000,_,_,_,1
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"<65, Any private","<65, Any private",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"65+, Medicare only","65+, Medicare only",3,40993,26163,0.1016,0.0653,100.0000,0.0000,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Missing,Missing,Total,,3,40993,26163,0.1016,0.0653,100.0000,_,1
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"65+, Medicare only","65+, Medicare only",181,1948851,178939,4.8314,0.4508,29.2565,2.3745,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"65+, Medicare and private","65+, Medicare and private",373,4316509,316191,10.7010,0.6761,64.8002,2.6646,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"65+, Medicare and other public","65+, Medicare and other public",25,202862,43850,0.5029,0.1073,3.0454,0.6480,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,"65+, No medicare","65+, No medicare",26,193040,49487,0.4786,0.1245,2.8980,0.7575,
+Table 2 of employed * insurance_v2X,1,Employed,Employed,Total,,605,6661262,358065,16.5138,0.7568,100.0000,_,1
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"65+, Medicare only","65+, Medicare only",1294,13648252,638604,33.8351,1.1280,40.5772,1.2967,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"65+, Medicare and private","65+, Medicare and private",1354,15959975,794152,39.5660,1.2145,47.4501,1.4024,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"65+, Medicare and other public","65+, Medicare and other public",590,3768093,264076,9.3414,0.6411,11.2028,0.7566,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,"65+, No medicare","65+, No medicare",38,258982,53838,0.6420,0.1328,0.7700,0.1601,
+Table 2 of employed * insurance_v2X,1,Not employed,Not employed,Total,,3276,33635302,1200242,83.3846,0.7564,100.0000,_,1
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Any private","<65, Any private",0,,,,,,,-
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Public only","<65, Public only",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of employed * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,,0,,,,,,_,1
+Table 2 of employed * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 2 of employed * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",1478,15638096,686517,38.7681,1.2474,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",1727,20276483,960142,50.2670,1.3698,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",615,3970955,270578,9.8443,0.6521,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",64,452022,79372,1.1206,0.1987,_,_,
+Table 2 of employed * insurance_v2X,1,Total,Missing,Total,,3884,40337557,1348683,100.0000,_,_,_,1

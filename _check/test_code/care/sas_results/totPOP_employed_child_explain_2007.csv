@@ -1,0 +1,61 @@
+Table,domain,F_employed,employed,F_child_explain,child_explain,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of employed * child_explain,0,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of employed * child_explain,0,Missing,Missing,Inapplicable,Inapplicable,16,228500,64686,0.0931,0.0262,100.0000,0.0000,
+Table 1 of employed * child_explain,0,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 1 of employed * child_explain,0,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 1 of employed * child_explain,0,Missing,Missing,Always,Always,0,,,,,,,
+Table 1 of employed * child_explain,0,Missing,Missing,Total,Missing,16,228500,64686,0.0931,0.0262,100.0000,_,1
+Table 1 of employed * child_explain,0,Employed,Employed,Don't know/Non-response,Don't know/Non-response,1,7740,7740,0.0032,0.0032,0.0052,0.0052,-
+Table 1 of employed * child_explain,0,Employed,Employed,Inapplicable,Inapplicable,12801,148326198,2993013,60.4336,0.4389,99.7553,0.0514,
+Table 1 of employed * child_explain,0,Employed,Employed,Sometimes/Never,Sometimes/Never,4,39426,31828,0.0161,0.0130,0.0265,0.0214,
+Table 1 of employed * child_explain,0,Employed,Employed,Usually,Usually,7,79998,32905,0.0326,0.0134,0.0538,0.0222,
+Table 1 of employed * child_explain,0,Employed,Employed,Always,Always,21,236733,61355,0.0965,0.0249,0.1592,0.0410,
+Table 1 of employed * child_explain,0,Employed,Employed,Total,Missing,12834,148690095,3000485,60.5819,0.4409,100.0000,_,1
+Table 1 of employed * child_explain,0,Not employed,Not employed,Don't know/Non-response,Don't know/Non-response,2,18622,17188,0.0076,0.0070,0.0229,0.0212,-
+Table 1 of employed * child_explain,0,Not employed,Not employed,Inapplicable,Inapplicable,8309,80505290,1714176,32.8009,0.4473,99.2097,0.1213,
+Table 1 of employed * child_explain,0,Not employed,Not employed,Sometimes/Never,Sometimes/Never,1,8509,8509,0.0035,0.0035,0.0105,0.0105,
+Table 1 of employed * child_explain,0,Not employed,Not employed,Usually,Usually,17,147782,50240,0.0602,0.0204,0.1821,0.0618,
+Table 1 of employed * child_explain,0,Not employed,Not employed,Always,Always,45,466395,83847,0.1900,0.0339,0.5748,0.1025,
+Table 1 of employed * child_explain,0,Not employed,Not employed,Total,Missing,8374,81146598,1726309,33.0622,0.4469,100.0000,_,1
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,2026,15371246,659985,6.2628,0.2270,100.0000,0.0000,
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Usually,Usually,0,,,,,,,
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Always,Always,0,,,,,,,
+Table 1 of employed * child_explain,0,Inapplicable (age < 16),Inapplicable (age < 16),Total,Missing,2026,15371246,659985,6.2628,0.2270,100.0000,_,1
+Table 1 of employed * child_explain,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,3,26362,18850,0.0107,0.0077,_,_,-
+Table 1 of employed * child_explain,0,Total,Missing,Inapplicable,Inapplicable,23152,244431234,4489981,99.5904,0.0466,_,_,
+Table 1 of employed * child_explain,0,Total,Missing,Sometimes/Never,Sometimes/Never,5,47935,32946,0.0195,0.0134,_,_,
+Table 1 of employed * child_explain,0,Total,Missing,Usually,Usually,24,227780,57930,0.0928,0.0236,_,_,
+Table 1 of employed * child_explain,0,Total,Missing,Always,Always,66,703129,98815,0.2865,0.0398,_,_,
+Table 1 of employed * child_explain,0,Total,Missing,Total,Missing,23250,245436440,4510485,100.0000,_,_,_,1
+Table 2 of employed * child_explain,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of employed * child_explain,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of employed * child_explain,1,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 2 of employed * child_explain,1,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 2 of employed * child_explain,1,Missing,Missing,Always,Always,0,,,,,,,
+Table 2 of employed * child_explain,1,Missing,Missing,Total,Missing,0,,,,,,_,1
+Table 2 of employed * child_explain,1,Employed,Employed,Don't know/Non-response,Don't know/Non-response,3,76992,55177,0.1378,0.0986,5.0074,3.4454,-
+Table 2 of employed * child_explain,1,Employed,Employed,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of employed * child_explain,1,Employed,Employed,Sometimes/Never,Sometimes/Never,6,47793,22787,0.0855,0.0406,3.1084,1.4665,
+Table 2 of employed * child_explain,1,Employed,Employed,Usually,Usually,30,274319,57819,0.4910,0.1026,17.8412,3.5567,
+Table 2 of employed * child_explain,1,Employed,Employed,Always,Always,94,1138450,133887,2.0376,0.2349,74.0429,4.5856,
+Table 2 of employed * child_explain,1,Employed,Employed,Total,Missing,133,1537554,156775,2.7519,0.2710,100.0000,_,1
+Table 2 of employed * child_explain,1,Not employed,Not employed,Don't know/Non-response,Don't know/Non-response,6,29228,15617,0.0523,0.0280,0.6135,0.3282,-
+Table 2 of employed * child_explain,1,Not employed,Not employed,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of employed * child_explain,1,Not employed,Not employed,Sometimes/Never,Sometimes/Never,26,204508,54658,0.3660,0.0972,4.2930,1.1133,
+Table 2 of employed * child_explain,1,Not employed,Not employed,Usually,Usually,103,936122,126147,1.6755,0.2229,19.6509,2.3211,
+Table 2 of employed * child_explain,1,Not employed,Not employed,Always,Always,408,3593909,243251,6.4323,0.4063,75.4426,2.4446,
+Table 2 of employed * child_explain,1,Not employed,Not employed,Total,Missing,543,4763767,288441,8.5261,0.4744,100.0000,_,1
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Don't know/Non-response,Don't know/Non-response,26,187226,48979,0.3351,0.0876,0.3777,0.0985,-
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Sometimes/Never,Sometimes/Never,231,1653109,165263,2.9587,0.2834,3.3348,0.3180,
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Usually,Usually,973,8454131,458485,15.1311,0.7048,17.0545,0.7942,
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Always,Always,4214,39276922,1196919,70.2972,0.9015,79.2330,0.8755,
+Table 2 of employed * child_explain,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,Missing,5444,49571389,1403965,88.7220,0.5413,100.0000,_,1
+Table 2 of employed * child_explain,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,35,293446,76582,0.5252,0.1366,_,_,-
+Table 2 of employed * child_explain,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of employed * child_explain,1,Total,Missing,Sometimes/Never,Sometimes/Never,263,1905410,181491,3.4103,0.3091,_,_,
+Table 2 of employed * child_explain,1,Total,Missing,Usually,Usually,1106,9664571,501511,17.2975,0.7641,_,_,
+Table 2 of employed * child_explain,1,Total,Missing,Always,Always,4716,44009282,1290395,78.7670,0.8460,_,_,
+Table 2 of employed * child_explain,1,Total,Missing,Total,Missing,6120,55872709,1526486,100.0000,_,_,_,1

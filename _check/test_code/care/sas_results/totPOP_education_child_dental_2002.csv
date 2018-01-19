@@ -1,0 +1,37 @@
+Table,domain,F_education,education,F_child_dental,child_dental,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of education * child_dental,0,Missing,Missing,No dental visits in past year,No dental visits in past year,143,1041112,114727,0.4672,0.0512,80.5681,3.4959,
+Table 1 of education * child_dental,0,Missing,Missing,One or more dental visits,One or more dental visits,34,251101,51628,0.1127,0.0234,19.4319,3.4959,
+Table 1 of education * child_dental,0,Missing,Missing,Total,,177,1292214,130455,0.5799,0.0588,100.0000,_,1
+Table 1 of education * child_dental,0,Less than high school,Less than high school,No dental visits in past year,No dental visits in past year,5840,34802456,1006764,15.6184,0.3571,74.9426,0.6565,-
+Table 1 of education * child_dental,0,Less than high school,Less than high school,One or more dental visits,One or more dental visits,1655,11636376,383661,5.2221,0.1577,25.0574,0.6565,
+Table 1 of education * child_dental,0,Less than high school,Less than high school,Total,,7495,46438833,1202042,20.8404,0.4120,100.0000,_,1
+Table 1 of education * child_dental,0,High school,High school,No dental visits in past year,No dental visits in past year,5409,41935990,1093245,18.8197,0.3684,60.0480,0.7696,-
+Table 1 of education * child_dental,0,High school,High school,One or more dental visits,One or more dental visits,3002,27901454,900386,12.5214,0.2966,39.9520,0.7696,
+Table 1 of education * child_dental,0,High school,High school,Total,,8411,69837444,1677880,31.3411,0.4513,100.0000,_,1
+Table 1 of education * child_dental,0,Some college,Some college,No dental visits in past year,No dental visits in past year,4960,44533148,1185850,19.9852,0.3594,45.5040,0.6048,-
+Table 1 of education * child_dental,0,Some college,Some college,One or more dental visits,One or more dental visits,5276,53333275,1569612,23.9345,0.4564,54.4960,0.6048,
+Table 1 of education * child_dental,0,Some college,Some college,Total,,10236,97866423,2489619,43.9197,0.6176,100.0000,_,1
+Table 1 of education * child_dental,0,Inapplicable (age < 18),Inapplicable (age < 18),No dental visits in past year,No dental visits in past year,1013,7249309,329045,3.2533,0.1216,98.0218,0.5379,-
+Table 1 of education * child_dental,0,Inapplicable (age < 18),Inapplicable (age < 18),One or more dental visits,One or more dental visits,17,146297,40183,0.0657,0.0180,1.9782,0.5379,
+Table 1 of education * child_dental,0,Inapplicable (age < 18),Inapplicable (age < 18),Total,,1030,7395606,332366,3.3189,0.1228,100.0000,_,1
+Table 1 of education * child_dental,0,Total,Missing,No dental visits in past year,No dental visits in past year,17365,129562016,2702585,58.1437,0.5335,_,_,-
+Table 1 of education * child_dental,0,Total,Missing,One or more dental visits,One or more dental visits,9984,93268503,2309257,41.8563,0.5335,_,_,
+Table 1 of education * child_dental,0,Total,Missing,Total,,27349,222830519,4415287,100.0000,_,_,_,1
+Table 2 of education * child_dental,1,Missing,Missing,No dental visits in past year,No dental visits in past year,0,,,,,,,
+Table 2 of education * child_dental,1,Missing,Missing,One or more dental visits,One or more dental visits,0,,,,,,,
+Table 2 of education * child_dental,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 2 of education * child_dental,1,Less than high school,Less than high school,No dental visits in past year,No dental visits in past year,0,,,,,,,-
+Table 2 of education * child_dental,1,Less than high school,Less than high school,One or more dental visits,One or more dental visits,0,,,,,,,
+Table 2 of education * child_dental,1,Less than high school,Less than high school,Total,,0,,,,,,_,1
+Table 2 of education * child_dental,1,High school,High school,No dental visits in past year,No dental visits in past year,0,,,,,,,-
+Table 2 of education * child_dental,1,High school,High school,One or more dental visits,One or more dental visits,0,,,,,,,
+Table 2 of education * child_dental,1,High school,High school,Total,,0,,,,,,_,1
+Table 2 of education * child_dental,1,Some college,Some college,No dental visits in past year,No dental visits in past year,0,,,,,,,-
+Table 2 of education * child_dental,1,Some college,Some college,One or more dental visits,One or more dental visits,0,,,,,,,
+Table 2 of education * child_dental,1,Some college,Some college,Total,,0,,,,,,_,1
+Table 2 of education * child_dental,1,Inapplicable (age < 18),Inapplicable (age < 18),No dental visits in past year,No dental visits in past year,5680,33283581,1050186,50.9303,0.8696,50.9303,0.8696,-
+Table 2 of education * child_dental,1,Inapplicable (age < 18),Inapplicable (age < 18),One or more dental visits,One or more dental visits,4389,32067663,1015012,49.0697,0.8696,49.0697,0.8696,
+Table 2 of education * child_dental,1,Inapplicable (age < 18),Inapplicable (age < 18),Total,,10069,65351244,1724179,100.0000,0.0000,100.0000,_,1
+Table 2 of education * child_dental,1,Total,Missing,No dental visits in past year,No dental visits in past year,5680,33283581,1050186,50.9303,0.8696,_,_,-
+Table 2 of education * child_dental,1,Total,Missing,One or more dental visits,One or more dental visits,4389,32067663,1015012,49.0697,0.8696,_,_,
+Table 2 of education * child_dental,1,Total,Missing,Total,,10069,65351244,1724179,100.0000,_,_,_,1

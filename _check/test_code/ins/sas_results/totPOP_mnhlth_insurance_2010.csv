@@ -1,0 +1,29 @@
+Table,F_mnhlth,mnhlth,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table mnhlth * insurance,Missing,Missing,"Any private, all ages","Any private, all ages",21,227389,64066,0.0737,0.0208,32.7411,6.8493,
+Table mnhlth * insurance,Missing,Missing,"Public only, all ages","Public only, all ages",36,331312,64650,0.1074,0.0209,47.7047,6.7832,
+Table mnhlth * insurance,Missing,Missing,"Uninsured, all ages","Uninsured, all ages",11,135805,46215,0.0440,0.0150,19.5542,6.1776,
+Table mnhlth * insurance,Missing,Missing,Total,,68,694506,106036,0.2251,0.0344,100.0000,_,1
+Table mnhlth * insurance,Excellent,Excellent,"Any private, all ages","Any private, all ages",7608,91333757,2812931,29.5987,0.5996,70.2768,0.8877,-
+Table mnhlth * insurance,Excellent,Excellent,"Public only, all ages","Public only, all ages",3282,23077210,957664,7.4787,0.3007,17.7568,0.6721,
+Table mnhlth * insurance,Excellent,Excellent,"Uninsured, all ages","Uninsured, all ages",1977,15551965,840619,5.0399,0.2390,11.9665,0.5141,
+Table mnhlth * insurance,Excellent,Excellent,Total,,12867,129962932,3522437,42.1173,0.6753,100.0000,_,1
+Table mnhlth * insurance,Very good,Very good,"Any private, all ages","Any private, all ages",5199,62111612,2056900,20.1286,0.4844,68.0508,0.8842,-
+Table mnhlth * insurance,Very good,Very good,"Public only, all ages","Public only, all ages",2322,17454292,737920,5.6564,0.2107,19.1233,0.6785,
+Table mnhlth * insurance,Very good,Very good,"Uninsured, all ages","Uninsured, all ages",1536,11706545,539956,3.7938,0.1551,12.8259,0.5251,
+Table mnhlth * insurance,Very good,Very good,Total,,9057,91272450,2566018,29.5788,0.5151,100.0000,_,1
+Table mnhlth * insurance,Good,Good,"Any private, all ages","Any private, all ages",3315,38175640,1326148,12.3716,0.3527,57.0745,1.2395,-
+Table mnhlth * insurance,Good,Good,"Public only, all ages","Public only, all ages",2465,18477625,849356,5.9881,0.2498,27.6250,0.9236,
+Table mnhlth * insurance,Good,Good,"Uninsured, all ages","Uninsured, all ages",1401,10234068,648649,3.3166,0.1872,15.3005,0.7288,
+Table mnhlth * insurance,Good,Good,Total,,7181,66887333,2074512,21.6763,0.4880,100.0000,_,1
+Table mnhlth * insurance,Fair,Fair,"Any private, all ages","Any private, all ages",578,7011768,396619,2.2723,0.1170,44.9229,1.7229,-
+Table mnhlth * insurance,Fair,Fair,"Public only, all ages","Public only, all ages",759,6266206,301093,2.0307,0.0939,40.1463,1.5425,
+Table mnhlth * insurance,Fair,Fair,"Uninsured, all ages","Uninsured, all ages",296,2330460,179224,0.7552,0.0556,14.9308,1.0167,
+Table mnhlth * insurance,Fair,Fair,Total,,1633,15608434,563100,5.0582,0.1529,100.0000,_,1
+Table mnhlth * insurance,Poor,Poor,"Any private, all ages","Any private, all ages",123,1719929,212712,0.5574,0.0681,41.4608,3.4014,-
+Table mnhlth * insurance,Poor,Poor,"Public only, all ages","Public only, all ages",250,1950033,185424,0.6319,0.0593,47.0078,3.1898,
+Table mnhlth * insurance,Poor,Poor,"Uninsured, all ages","Uninsured, all ages",49,478360,77309,0.1550,0.0252,11.5314,1.8411,
+Table mnhlth * insurance,Poor,Poor,Total,,422,4148321,313445,1.3444,0.0995,100.0000,_,1
+Table mnhlth * insurance,Total,Missing,"Any private, all ages","Any private, all ages",16844,200580095,5089211,65.0023,0.7722,_,_,-
+Table mnhlth * insurance,Total,Missing,"Public only, all ages","Public only, all ages",9114,67556678,2117738,21.8932,0.5866,_,_,
+Table mnhlth * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",5270,40437203,1614433,13.1045,0.4079,_,_,
+Table mnhlth * insurance,Total,Missing,Total,,31228,308573976,6665574,100.0000,_,_,_,1

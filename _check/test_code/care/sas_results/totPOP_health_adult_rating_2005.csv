@@ -1,0 +1,85 @@
+Table,domain,F_health,health,F_adult_rating,adult_rating,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * adult_rating,0,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * adult_rating,0,Missing,Missing,Inapplicable,Inapplicable,94,94.00000,10.95445,0.0001,0.0000,100.0000,0.0000,
+Table 1 of health * adult_rating,0,Missing,Missing,0-6 rating,0-6 rating,0,,,,,,,
+Table 1 of health * adult_rating,0,Missing,Missing,7-8 rating,7-8 rating,0,,,,,,,
+Table 1 of health * adult_rating,0,Missing,Missing,9-10 rating,9-10 rating,0,,,,,,,
+Table 1 of health * adult_rating,0,Missing,Missing,Total,,94,94.00000,10.95445,0.0001,0.0000,100.0000,_,1
+Table 1 of health * adult_rating,0,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,44,341626,67331,0.5115,0.0997,1.6189,0.3063,-
+Table 1 of health * adult_rating,0,Excellent,Excellent,Inapplicable,Inapplicable,7067,20102492,821680,30.0964,0.8490,95.2621,0.5993,
+Table 1 of health * adult_rating,0,Excellent,Excellent,0-6 rating,0-6 rating,8,64859,28453,0.0971,0.0423,0.3074,0.1348,
+Table 1 of health * adult_rating,0,Excellent,Excellent,7-8 rating,7-8 rating,19,203451,55523,0.3046,0.0824,0.9641,0.2570,
+Table 1 of health * adult_rating,0,Excellent,Excellent,9-10 rating,9-10 rating,45,389865,82374,0.5837,0.1213,1.8475,0.3761,
+Table 1 of health * adult_rating,0,Excellent,Excellent,Total,,7183,21102292,868989,31.5932,0.8951,100.0000,_,1
+Table 1 of health * adult_rating,0,Very good,Very good,Don't know/Non-response,Don't know/Non-response,54,499699,90627,0.7481,0.1368,2.1869,0.3852,-
+Table 1 of health * adult_rating,0,Very good,Very good,Inapplicable,Inapplicable,6248,21411191,832195,32.0557,0.8415,93.7054,0.5897,
+Table 1 of health * adult_rating,0,Very good,Very good,0-6 rating,0-6 rating,18,156236,44453,0.2339,0.0663,0.6838,0.1920,
+Table 1 of health * adult_rating,0,Very good,Very good,7-8 rating,7-8 rating,25,273826,65443,0.4100,0.0970,1.1984,0.2876,
+Table 1 of health * adult_rating,0,Very good,Very good,9-10 rating,9-10 rating,53,508527,82816,0.7613,0.1220,2.2256,0.3549,
+Table 1 of health * adult_rating,0,Very good,Very good,Total,,6398,22849479,870873,34.2090,0.8770,100.0000,_,1
+Table 1 of health * adult_rating,0,Good,Good,Don't know/Non-response,Don't know/Non-response,58,468153,74200,0.7009,0.1103,2.6877,0.4355,-
+Table 1 of health * adult_rating,0,Good,Good,Inapplicable,Inapplicable,4969,15888686,701200,23.7877,0.8045,91.2171,0.8671,
+Table 1 of health * adult_rating,0,Good,Good,0-6 rating,0-6 rating,18,90956,27024,0.1362,0.0407,0.5222,0.1548,
+Table 1 of health * adult_rating,0,Good,Good,7-8 rating,7-8 rating,38,375349,77991,0.5620,0.1156,2.1549,0.4402,
+Table 1 of health * adult_rating,0,Good,Good,9-10 rating,9-10 rating,67,595387,88845,0.8914,0.1314,3.4181,0.4936,
+Table 1 of health * adult_rating,0,Good,Good,Total,,5150,17418531,727617,26.0781,0.8123,100.0000,_,1
+Table 1 of health * adult_rating,0,Fair,Fair,Don't know/Non-response,Don't know/Non-response,37,300815,58674,0.4504,0.0871,6.8272,1.2502,-
+Table 1 of health * adult_rating,0,Fair,Fair,Inapplicable,Inapplicable,1048,3559115,219174,5.3285,0.3024,80.7765,2.0586,
+Table 1 of health * adult_rating,0,Fair,Fair,0-6 rating,0-6 rating,18,147158,39588,0.2203,0.0589,3.3399,0.8877,
+Table 1 of health * adult_rating,0,Fair,Fair,7-8 rating,7-8 rating,16,132878,39732,0.1989,0.0587,3.0158,0.8717,
+Table 1 of health * adult_rating,0,Fair,Fair,9-10 rating,9-10 rating,42,266160,55115,0.3985,0.0805,6.0407,1.1945,
+Table 1 of health * adult_rating,0,Fair,Fair,Total,,1161,4406127,253464,6.5966,0.3347,100.0000,_,1
+Table 1 of health * adult_rating,0,Poor,Poor,Don't know/Non-response,Don't know/Non-response,6,58058,27576,0.0869,0.0412,5.7077,2.6324,-
+Table 1 of health * adult_rating,0,Poor,Poor,Inapplicable,Inapplicable,284,692072,89587,1.0361,0.1337,68.0371,5.0422,
+Table 1 of health * adult_rating,0,Poor,Poor,0-6 rating,0-6 rating,12,84861,28040,0.1270,0.0424,8.3426,2.6952,
+Table 1 of health * adult_rating,0,Poor,Poor,7-8 rating,7-8 rating,7,52415,20765,0.0785,0.0310,5.1529,1.9935,
+Table 1 of health * adult_rating,0,Poor,Poor,9-10 rating,9-10 rating,14,129792,41941,0.1943,0.0625,12.7597,3.8694,
+Table 1 of health * adult_rating,0,Poor,Poor,Total,,323,1017198,105545,1.5229,0.1576,100.0000,_,1
+Table 1 of health * adult_rating,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,199,1668351,151154,2.4978,0.2229,_,_,-
+Table 1 of health * adult_rating,0,Total,Missing,Inapplicable,Inapplicable,19710,61653650,1777758,92.3046,0.4068,_,_,
+Table 1 of health * adult_rating,0,Total,Missing,0-6 rating,0-6 rating,74,544070,83024,0.8146,0.1237,_,_,
+Table 1 of health * adult_rating,0,Total,Missing,7-8 rating,7-8 rating,105,1037919,127654,1.5539,0.1835,_,_,
+Table 1 of health * adult_rating,0,Total,Missing,9-10 rating,9-10 rating,221,1889730,177448,2.8292,0.2493,_,_,
+Table 1 of health * adult_rating,0,Total,Missing,Total,,20309,66793721,1895857,100.0000,_,_,_,1
+Table 2 of health * adult_rating,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * adult_rating,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Missing,Missing,0-6 rating,0-6 rating,0,,,,,,,
+Table 2 of health * adult_rating,1,Missing,Missing,7-8 rating,7-8 rating,0,,,,,,,
+Table 2 of health * adult_rating,1,Missing,Missing,9-10 rating,9-10 rating,0,,,,,,,
+Table 2 of health * adult_rating,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 2 of health * adult_rating,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,24,210218,57216,0.1385,0.0376,0.6319,0.1709,-
+Table 2 of health * adult_rating,1,Excellent,Excellent,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Excellent,Excellent,0-6 rating,0-6 rating,246,2812771,220397,1.8535,0.1367,8.4543,0.6297,
+Table 2 of health * adult_rating,1,Excellent,Excellent,7-8 rating,7-8 rating,884,11363085,579159,7.4879,0.3140,34.1540,1.1571,
+Table 2 of health * adult_rating,1,Excellent,Excellent,9-10 rating,9-10 rating,1498,18884054,888314,12.4439,0.4274,56.7598,1.2084,
+Table 2 of health * adult_rating,1,Excellent,Excellent,Total,,2652,33270129,1309835,21.9238,0.5442,100.0000,_,1
+Table 2 of health * adult_rating,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,39,371438,73439,0.2448,0.0483,0.7305,0.1434,-
+Table 2 of health * adult_rating,1,Very good,Very good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Very good,Very good,0-6 rating,0-6 rating,488,5429191,308679,3.5776,0.1914,10.6770,0.5814,
+Table 2 of health * adult_rating,1,Very good,Very good,7-8 rating,7-8 rating,1641,20199941,776866,13.3110,0.3683,39.7251,0.9346,
+Table 2 of health * adult_rating,1,Very good,Very good,9-10 rating,9-10 rating,2054,24848752,948850,16.3744,0.4425,48.8674,0.8980,
+Table 2 of health * adult_rating,1,Very good,Very good,Total,,4222,50849321,1565410,33.5078,0.5481,100.0000,_,1
+Table 2 of health * adult_rating,1,Good,Good,Don't know/Non-response,Don't know/Non-response,65,573846,91235,0.3781,0.0597,1.3005,0.2029,-
+Table 2 of health * adult_rating,1,Good,Good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Good,Good,0-6 rating,0-6 rating,636,6248671,333621,4.1176,0.2095,14.1612,0.6726,
+Table 2 of health * adult_rating,1,Good,Good,7-8 rating,7-8 rating,1556,17593013,621574,11.5932,0.3464,39.8705,1.0084,
+Table 2 of health * adult_rating,1,Good,Good,9-10 rating,9-10 rating,1869,19709845,679450,12.9881,0.3606,44.6678,0.9795,
+Table 2 of health * adult_rating,1,Good,Good,Total,,4126,44125375,1129331,29.0770,0.4908,100.0000,_,1
+Table 2 of health * adult_rating,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,40,239903,51393,0.1581,0.0333,1.4328,0.3039,-
+Table 2 of health * adult_rating,1,Fair,Fair,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Fair,Fair,0-6 rating,0-6 rating,419,3745300,253654,2.4680,0.1626,22.3682,1.2017,
+Table 2 of health * adult_rating,1,Fair,Fair,7-8 rating,7-8 rating,610,5801063,321594,3.8227,0.1994,34.6459,1.4345,
+Table 2 of health * adult_rating,1,Fair,Fair,9-10 rating,9-10 rating,808,6957619,358053,4.5848,0.2141,41.5532,1.5003,
+Table 2 of health * adult_rating,1,Fair,Fair,Total,,1877,16743885,631583,11.0336,0.3542,100.0000,_,1
+Table 2 of health * adult_rating,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,22,166472,43829,0.1097,0.0286,2.4609,0.6389,-
+Table 2 of health * adult_rating,1,Poor,Poor,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_rating,1,Poor,Poor,0-6 rating,0-6 rating,199,1661251,145272,1.0947,0.0914,24.5573,1.8543,
+Table 2 of health * adult_rating,1,Poor,Poor,7-8 rating,7-8 rating,229,2073654,172915,1.3665,0.1159,30.6537,2.0610,
+Table 2 of health * adult_rating,1,Poor,Poor,9-10 rating,9-10 rating,325,2863406,217489,1.8869,0.1365,42.3281,2.1394,
+Table 2 of health * adult_rating,1,Poor,Poor,Total,,775,6764783,347008,4.4577,0.2128,100.0000,_,1
+Table 2 of health * adult_rating,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,190,1561877,150913,1.0292,0.0962,_,_,-
+Table 2 of health * adult_rating,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of health * adult_rating,1,Total,Missing,0-6 rating,0-6 rating,1988,19897184,752771,13.1115,0.4243,_,_,
+Table 2 of health * adult_rating,1,Total,Missing,7-8 rating,7-8 rating,4920,57030757,1618508,37.5812,0.5928,_,_,
+Table 2 of health * adult_rating,1,Total,Missing,9-10 rating,9-10 rating,6554,73263676,2150291,48.2781,0.6300,_,_,
+Table 2 of health * adult_rating,1,Total,Missing,Total,,13652,151753494,3715065,100.0000,_,_,_,1

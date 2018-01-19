@@ -1,0 +1,290 @@
+DomainLabel,condition,education,VarName,Sum,StdDev
+condition*education,Acute Bronchitis and URI,Missing,count,65321,36527
+condition*education,Acute Bronchitis and URI,Less than high school,count,6202539,483102
+condition*education,Acute Bronchitis and URI,High school,count,13825526,1079704
+condition*education,Acute Bronchitis and URI,Some college,count,30733548,1691765
+condition*education,Acute Bronchitis and URI,Inapplicable (age < 18),count,32954408,1974036
+condition*education,Allergic reactions,Less than high school,count,1614978,322230
+condition*education,Allergic reactions,High school,count,2603019,416954
+condition*education,Allergic reactions,Some college,count,10259669,1612334
+condition*education,Allergic reactions,Inapplicable (age < 18),count,4967521,539972
+condition*education,Anemia and other deficiencies,Less than high school,count,2514386,561796
+condition*education,Anemia and other deficiencies,High school,count,3449217,735131
+condition*education,Anemia and other deficiencies,Some college,count,5341624,1148465
+condition*education,Anemia and other deficiencies,Inapplicable (age < 18),count,300868,87693
+condition*education,Appendicitis,Less than high school,count,111225,82172
+condition*education,Appendicitis,High school,count,216045,116625
+condition*education,Appendicitis,Some college,count,572205,211562
+condition*education,Appendicitis,Inapplicable (age < 18),count,361795,148974
+condition*education,Back problems,Missing,count,487604,260173
+condition*education,Back problems,Less than high school,count,19440141,2047107
+condition*education,Back problems,High school,count,39979125,4095974
+condition*education,Back problems,Some college,count,87835012,5808979
+condition*education,Back problems,Inapplicable (age < 18),count,1734254,428202
+condition*education,CNS infection,Less than high school,count,121071,98955
+condition*education,CNS infection,High school,count,202903,133093
+condition*education,CNS infection,Some college,count,403109,217285
+condition*education,CNS infection,Inapplicable (age < 18),count,302612,148997
+condition*education,"COPD, asthma",Missing,count,607013,212118
+condition*education,"COPD, asthma",Less than high school,count,33621092,2479773
+condition*education,"COPD, asthma",High school,count,42743525,2425508
+condition*education,"COPD, asthma",Some college,count,77191925,4491441
+condition*education,"COPD, asthma",Inapplicable (age < 18),count,46095075,2972491
+condition*education,Cancer,Missing,count,656815,318691
+condition*education,Cancer,Less than high school,count,15925301,2728109
+condition*education,Cancer,High school,count,28386358,3386881
+condition*education,Cancer,Some college,count,45503218,4626216
+condition*education,Cancer,Inapplicable (age < 18),count,489344,178356
+condition*education,Cataract,Missing,count,161854,141679
+condition*education,Cataract,Less than high school,count,3641645,589467
+condition*education,Cataract,High school,count,6242326,885173
+condition*education,Cataract,Some college,count,7800844,826208
+condition*education,Cataract,Inapplicable (age < 18),count,10691,7702.554519
+condition*education,Cerebrovascular disease,Missing,count,220109,145935
+condition*education,Cerebrovascular disease,Less than high school,count,3884289,561704
+condition*education,Cerebrovascular disease,High school,count,7293811,1690514
+condition*education,Cerebrovascular disease,Some college,count,7617758,1447999
+condition*education,Cerebrovascular disease,Inapplicable (age < 18),count,70696,61546
+condition*education,"Coma, brain damage",High school,count,13329,10156
+condition*education,"Coma, brain damage",Some college,count,40801,24838
+condition*education,Complications of pregnancy and birth,Less than high school,count,596821,148879
+condition*education,Complications of pregnancy and birth,High school,count,1372884,476841
+condition*education,Complications of pregnancy and birth,Some college,count,2592491,598165
+condition*education,Complications of pregnancy and birth,Inapplicable (age < 18),count,8231.046594,6255.976365
+condition*education,Complications of surgery or device,Less than high school,count,399137,148137
+condition*education,Complications of surgery or device,High school,count,1374892,420358
+condition*education,Complications of surgery or device,Some college,count,1484177,450659
+condition*education,Complications of surgery or device,Inapplicable (age < 18),count,173549,80581
+condition*education,Congenital anomalies,Missing,count,149397,111082
+condition*education,Congenital anomalies,Less than high school,count,1013317,382825
+condition*education,Congenital anomalies,High school,count,1472421,520062
+condition*education,Congenital anomalies,Some college,count,2274795,643175
+condition*education,Congenital anomalies,Inapplicable (age < 18),count,2637436,686093
+condition*education,Diabetes mellitus,Missing,count,1302527,348340
+condition*education,Diabetes mellitus,Less than high school,count,39786200,2454910
+condition*education,Diabetes mellitus,High school,count,52070253,3278301
+condition*education,Diabetes mellitus,Some college,count,62609268,3668822
+condition*education,Diabetes mellitus,Inapplicable (age < 18),count,1352976,492064
+condition*education,Disorders of mouth and esophagus,Less than high school,count,284304,184403
+condition*education,Disorders of mouth and esophagus,High school,count,447471,175464
+condition*education,Disorders of mouth and esophagus,Some college,count,893816,179415
+condition*education,Disorders of mouth and esophagus,Inapplicable (age < 18),count,186281,63283
+condition*education,Disorders of teeth and jaws,Missing,count,47951,36943
+condition*education,Disorders of teeth and jaws,Less than high school,count,2035901,361864
+condition*education,Disorders of teeth and jaws,High school,count,3426332,443405
+condition*education,Disorders of teeth and jaws,Some college,count,6330372,587458
+condition*education,Disorders of teeth and jaws,Inapplicable (age < 18),count,1168883,181360
+condition*education,Disorders of the upper GI,Missing,count,228829,80580
+condition*education,Disorders of the upper GI,Less than high school,count,13839953,915821
+condition*education,Disorders of the upper GI,High school,count,18948749,1153968
+condition*education,Disorders of the upper GI,Some college,count,27213343,1418925
+condition*education,Disorders of the upper GI,Inapplicable (age < 18),count,3933651,571964
+condition*education,Epilepsy and convulsions,Missing,count,119932,119932
+condition*education,Epilepsy and convulsions,Less than high school,count,2622055,421533
+condition*education,Epilepsy and convulsions,High school,count,2515724,511393
+condition*education,Epilepsy and convulsions,Some college,count,3332851,724985
+condition*education,Epilepsy and convulsions,Inapplicable (age < 18),count,2067432,426740
+condition*education,"Female genital disorders, and contraception",Missing,count,19388,13734
+condition*education,"Female genital disorders, and contraception",Less than high school,count,3976717,503867
+condition*education,"Female genital disorders, and contraception",High school,count,8053921,883050
+condition*education,"Female genital disorders, and contraception",Some college,count,23722934,1731462
+condition*education,"Female genital disorders, and contraception",Inapplicable (age < 18),count,1618231,315193
+condition*education,"Gallbladder, pancreatic, and liver disease",Missing,count,46630,29966
+condition*education,"Gallbladder, pancreatic, and liver disease",Less than high school,count,2955588,520859
+condition*education,"Gallbladder, pancreatic, and liver disease",High school,count,3295115,765397
+condition*education,"Gallbladder, pancreatic, and liver disease",Some college,count,4720090,691056
+condition*education,"Gallbladder, pancreatic, and liver disease",Inapplicable (age < 18),count,1194235,395676
+condition*education,Glaucoma,Missing,count,96694,66756
+condition*education,Glaucoma,Less than high school,count,3873634,614291
+condition*education,Glaucoma,High school,count,6465809,878019
+condition*education,Glaucoma,Some college,count,8118017,1133629
+condition*education,Glaucoma,Inapplicable (age < 18),count,32166,18992
+condition*education,Headache,Missing,count,104968,76678
+condition*education,Headache,Less than high school,count,3507778,494089
+condition*education,Headache,High school,count,8315767,1079109
+condition*education,Headache,Some college,count,18965923,1973482
+condition*education,Headache,Inapplicable (age < 18),count,1861200,537467
+condition*education,Heart disease,Missing,count,819815,315207
+condition*education,Heart disease,Less than high school,count,29489484,2192623
+condition*education,Heart disease,High school,count,44091469,3359806
+condition*education,Heart disease,Some college,count,51736964,3483179
+condition*education,Heart disease,Inapplicable (age < 18),count,1437440,555442
+condition*education,"Hemorrhagic, coagulation, and disorders of White Blood cells",Missing,count,5326.823702,5326.823702
+condition*education,"Hemorrhagic, coagulation, and disorders of White Blood cells",Less than high school,count,565726,150513
+condition*education,"Hemorrhagic, coagulation, and disorders of White Blood cells",High school,count,1045212,343581
+condition*education,"Hemorrhagic, coagulation, and disorders of White Blood cells",Some college,count,1702038,546283
+condition*education,"Hemorrhagic, coagulation, and disorders of White Blood cells",Inapplicable (age < 18),count,509894,153809
+condition*education,"Hereditary, degenerative and other nervous system disorders",Missing,count,164075,110539
+condition*education,"Hereditary, degenerative and other nervous system disorders",Less than high school,count,2215189,446184
+condition*education,"Hereditary, degenerative and other nervous system disorders",High school,count,4663762,1030933
+condition*education,"Hereditary, degenerative and other nervous system disorders",Some college,count,9971398,2127130
+condition*education,"Hereditary, degenerative and other nervous system disorders",Inapplicable (age < 18),count,181506,105898
+condition*education,Hernias,Missing,count,39319,28126
+condition*education,Hernias,Less than high school,count,1725927,315046
+condition*education,Hernias,High school,count,2693391,470255
+condition*education,Hernias,Some college,count,2947583,503048
+condition*education,Hernias,Inapplicable (age < 18),count,426072,125024
+condition*education,Hyperlipidemia,Missing,count,1124284,380265
+condition*education,Hyperlipidemia,Less than high school,count,27993998,1504552
+condition*education,Hyperlipidemia,High school,count,46030082,2408474
+condition*education,Hyperlipidemia,Some college,count,61156843,2727541
+condition*education,Hyperlipidemia,Inapplicable (age < 18),count,95562,45647
+condition*education,Hypertension,Missing,count,1634849,338676
+condition*education,Hypertension,Less than high school,count,54990850,2612885
+condition*education,Hypertension,High school,count,86077920,3643705
+condition*education,Hypertension,Some college,count,108090567,4625725
+condition*education,Hypertension,Inapplicable (age < 18),count,461876,280950
+condition*education,Infectious diseases,Missing,count,206311,98865
+condition*education,Infectious diseases,Less than high school,count,4919255,666108
+condition*education,Infectious diseases,High school,count,11332045,1524638
+condition*education,Infectious diseases,Some college,count,20179841,1509897
+condition*education,Infectious diseases,Inapplicable (age < 18),count,10049762,792420
+condition*education,Influenza,Less than high school,count,630318,159157
+condition*education,Influenza,High school,count,886280,204601
+condition*education,Influenza,Some college,count,1805015,290066
+condition*education,Influenza,Inapplicable (age < 18),count,1871156,309006
+condition*education,Intestinal infection,Missing,count,16016,11708
+condition*education,Intestinal infection,Less than high school,count,1496687,201839
+condition*education,Intestinal infection,High school,count,3396418,520247
+condition*education,Intestinal infection,Some college,count,3991262,444609
+condition*education,Intestinal infection,Inapplicable (age < 18),count,6047168,495935
+condition*education,Kidney Disease,Missing,count,135641,103298
+condition*education,Kidney Disease,Less than high school,count,15825030,3847649
+condition*education,Kidney Disease,High school,count,8603522,2827983
+condition*education,Kidney Disease,Some college,count,19770698,4743011
+condition*education,Kidney Disease,Inapplicable (age < 18),count,556269,192489
+condition*education,Male genital disorders,Missing,count,159878,87097
+condition*education,Male genital disorders,Less than high school,count,2263949,395219
+condition*education,Male genital disorders,High school,count,3285316,436373
+condition*education,Male genital disorders,Some college,count,8958626,1055509
+condition*education,Male genital disorders,Inapplicable (age < 18),count,341062,154314
+condition*education,Mental disorders,Missing,count,3569787,1687164
+condition*education,Mental disorders,Less than high school,count,35863301,3088688
+condition*education,Mental disorders,High school,count,54273985,4931897
+condition*education,Mental disorders,Some college,count,104932755,6932045
+condition*education,Mental disorders,Inapplicable (age < 18),count,33391232,3389894
+condition*education,Non-malignant breast disease,Less than high school,count,594968,152358
+condition*education,Non-malignant breast disease,High school,count,1775263,366167
+condition*education,Non-malignant breast disease,Some college,count,2129844,273541
+condition*education,Non-malignant breast disease,Inapplicable (age < 18),count,182364,141382
+condition*education,Non-malignant neoplasm,Missing,count,3835.343379,3835.343379
+condition*education,Non-malignant neoplasm,Less than high school,count,774978,175313
+condition*education,Non-malignant neoplasm,High school,count,2733527,432956
+condition*education,Non-malignant neoplasm,Some college,count,5621087,554197
+condition*education,Non-malignant neoplasm,Inapplicable (age < 18),count,893710,272166
+condition*education,Normal birth/live born,Missing,count,190655,135110
+condition*education,Normal birth/live born,Less than high school,count,7282138,842126
+condition*education,Normal birth/live born,High school,count,13803251,1568501
+condition*education,Normal birth/live born,Some college,count,25973772,2455729
+condition*education,Normal birth/live born,Inapplicable (age < 18),count,1004831,257677
+condition*education,Osteoarthritis and other non-traumatic joint disorders,Missing,count,511636,183231
+condition*education,Osteoarthritis and other non-traumatic joint disorders,Less than high school,count,28042906,1936332
+condition*education,Osteoarthritis and other non-traumatic joint disorders,High school,count,42636172,2933399
+condition*education,Osteoarthritis and other non-traumatic joint disorders,Some college,count,65989725,4303404
+condition*education,Osteoarthritis and other non-traumatic joint disorders,Inapplicable (age < 18),count,1645252,392239
+condition*education,Other CNS disorders,Missing,count,332586,123248
+condition*education,Other CNS disorders,Less than high school,count,10186801,1439386
+condition*education,Other CNS disorders,High school,count,17514231,2040261
+condition*education,Other CNS disorders,Some college,count,28180052,2315576
+condition*education,Other CNS disorders,Inapplicable (age < 18),count,6238027,942489
+condition*education,Other GI,Missing,count,127254,61905
+condition*education,Other GI,Less than high school,count,5031946,654439
+condition*education,Other GI,High school,count,7060950,669998
+condition*education,Other GI,Some college,count,11625307,1073542
+condition*education,Other GI,Inapplicable (age < 18),count,2873565,468862
+condition*education,Other bone and musculoskeletal disease,Missing,count,114068,68690
+condition*education,Other bone and musculoskeletal disease,Less than high school,count,5895970,800605
+condition*education,Other bone and musculoskeletal disease,High school,count,10706281,1184501
+condition*education,Other bone and musculoskeletal disease,Some college,count,16248955,1338719
+condition*education,Other bone and musculoskeletal disease,Inapplicable (age < 18),count,2905856,915501
+condition*education,Other care and screening,Missing,count,414779,232177
+condition*education,Other care and screening,Less than high school,count,14929042,1782453
+condition*education,Other care and screening,High school,count,21442984,1735672
+condition*education,Other care and screening,Some college,count,36071547,2921939
+condition*education,Other care and screening,Inapplicable (age < 18),count,2051172,287756
+condition*education,"Other circulatory conditions arteries, veins, and lymphatics",Missing,count,468087,307122
+condition*education,"Other circulatory conditions arteries, veins, and lymphatics",Less than high school,count,6919214,1022653
+condition*education,"Other circulatory conditions arteries, veins, and lymphatics",High school,count,7296086,994452
+condition*education,"Other circulatory conditions arteries, veins, and lymphatics",Some college,count,11645396,1243188
+condition*education,"Other circulatory conditions arteries, veins, and lymphatics",Inapplicable (age < 18),count,519784,282281
+condition*education,"Other endocrine, nutritional & immune disorder",Missing,count,310952,141657
+condition*education,"Other endocrine, nutritional & immune disorder",Less than high school,count,7755134,746716
+condition*education,"Other endocrine, nutritional & immune disorder",High school,count,12539188,1277949
+condition*education,"Other endocrine, nutritional & immune disorder",Some college,count,16792467,1533297
+condition*education,"Other endocrine, nutritional & immune disorder",Inapplicable (age < 18),count,5727280,1916191
+condition*education,Other eye disorders,Missing,count,310374,127602
+condition*education,Other eye disorders,Less than high school,count,4702071,468110
+condition*education,Other eye disorders,High school,count,9059379,862879
+condition*education,Other eye disorders,Some college,count,17203290,1250615
+condition*education,Other eye disorders,Inapplicable (age < 18),count,7266853,778069
+condition*education,Other stomach and intestinal disorders,Less than high school,count,1240018,269404
+condition*education,Other stomach and intestinal disorders,High school,count,2083326,405213
+condition*education,Other stomach and intestinal disorders,Some college,count,4447075,840648
+condition*education,Other stomach and intestinal disorders,Inapplicable (age < 18),count,231824,130207
+condition*education,Other urinary,Missing,count,52608,27900
+condition*education,Other urinary,Less than high school,count,2440556,327801
+condition*education,Other urinary,High school,count,5313341,649414
+condition*education,Other urinary,Some college,count,6790248,814078
+condition*education,Other urinary,Inapplicable (age < 18),count,910356,185731
+condition*education,Otitis media,Less than high school,count,2043789,418306
+condition*education,Otitis media,High school,count,1994384,330030
+condition*education,Otitis media,Some college,count,4647559,591893
+condition*education,Otitis media,Inapplicable (age < 18),count,24077752,1781932
+condition*education,Paralysis,Missing,count,115384,115384
+condition*education,Paralysis,Less than high school,count,861237,340804
+condition*education,Paralysis,High school,count,1421897,488009
+condition*education,Paralysis,Some college,count,165658,165658
+condition*education,Paralysis,Inapplicable (age < 18),count,1059162,581224
+condition*education,Perinatal Conditions,Less than high school,count,4926.867475,4926.867475
+condition*education,Perinatal Conditions,High school,count,15456,15456
+condition*education,Perinatal Conditions,Some college,count,37960,27675
+condition*education,Perinatal Conditions,Inapplicable (age < 18),count,304925,121621
+condition*education,Pneumonia,Missing,count,15285,15285
+condition*education,Pneumonia,Less than high school,count,2066461,507117
+condition*education,Pneumonia,High school,count,3618463,587913
+condition*education,Pneumonia,Some college,count,5078287,680333
+condition*education,Pneumonia,Inapplicable (age < 18),count,2933727,509883
+condition*education,Poisoning by medical and non-medical substances,Missing,count,24505,17944
+condition*education,Poisoning by medical and non-medical substances,Less than high school,count,473216,123862
+condition*education,Poisoning by medical and non-medical substances,High school,count,1315629,407228
+condition*education,Poisoning by medical and non-medical substances,Some college,count,2313608,313686
+condition*education,Poisoning by medical and non-medical substances,Inapplicable (age < 18),count,1425580,357598
+condition*education,Residual Codes,Missing,count,575656,188059
+condition*education,Residual Codes,Less than high school,count,12680932,1075250
+condition*education,Residual Codes,High school,count,17696186,1336355
+condition*education,Residual Codes,Some college,count,29485880,2253280
+condition*education,Residual Codes,Inapplicable (age < 18),count,1196201,171894
+condition*education,Skin disorders,Missing,count,181852,61592
+condition*education,Skin disorders,Less than high school,count,11755275,1211449
+condition*education,Skin disorders,High school,count,15711623,1418721
+condition*education,Skin disorders,Some college,count,35042229,3034253
+condition*education,Skin disorders,Inapplicable (age < 18),count,10857470,895590
+condition*education,Symptoms,Missing,count,61699,61699
+condition*education,Symptoms,Less than high school,count,1999387,289547
+condition*education,Symptoms,High school,count,3412775,598141
+condition*education,Symptoms,Some college,count,7392035,1111798
+condition*education,Symptoms,Inapplicable (age < 18),count,4033382,391951
+condition*education,Systemic lupus and connective tissues disorders,Missing,count,710377,469065
+condition*education,Systemic lupus and connective tissues disorders,Less than high school,count,8377228,888410
+condition*education,Systemic lupus and connective tissues disorders,High school,count,21445508,2103294
+condition*education,Systemic lupus and connective tissues disorders,Some college,count,36269852,3072638
+condition*education,Systemic lupus and connective tissues disorders,Inapplicable (age < 18),count,2869991,1503483
+condition*education,Thyroid disease,Missing,count,261408,117774
+condition*education,Thyroid disease,Less than high school,count,8881288,895343
+condition*education,Thyroid disease,High school,count,16405373,1228977
+condition*education,Thyroid disease,Some college,count,24183865,1502468
+condition*education,Thyroid disease,Inapplicable (age < 18),count,860402,271469
+condition*education,Tonsillitis,Less than high school,count,151631,67562
+condition*education,Tonsillitis,High school,count,641836,227044
+condition*education,Tonsillitis,Some college,count,865742,211448
+condition*education,Tonsillitis,Inapplicable (age < 18),count,2352671,450760
+condition*education,Trauma-related disorders,Missing,count,1181517,455210
+condition*education,Trauma-related disorders,Less than high school,count,27673836,3758467
+condition*education,Trauma-related disorders,High school,count,46514989,3834027
+condition*education,Trauma-related disorders,Some college,count,84311986,5903286
+condition*education,Trauma-related disorders,Inapplicable (age < 18),count,18111421,1361344
+condition*education,Urinary tract infections,Missing,count,61801,33427
+condition*education,Urinary tract infections,Less than high school,count,3483259,426086
+condition*education,Urinary tract infections,High school,count,5587136,644521
+condition*education,Urinary tract infections,Some college,count,10192316,990277
+condition*education,Urinary tract infections,Inapplicable (age < 18),count,2941935,445699

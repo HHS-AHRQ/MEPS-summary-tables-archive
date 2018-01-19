@@ -1,0 +1,73 @@
+Table,domain,F_insurance,insurance,F_afford_DN,afford_DN,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_DN,insure_DN,F_other_DN,other_DN
+Table 1 of insurance * afford_DN,0,"Any private, all ages","Any private, all ages",0,0,17924,195548749,4676513,70.7357,0.6418,100.0000,0.0000,,,,,
+Table 1 of insurance * afford_DN,0,"Any private, all ages","Any private, all ages",Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of insurance * afford_DN,0,"Any private, all ages","Any private, all ages",Total,,17924,195548749,4676513,70.7357,0.6418,100.0000,_,1,,,,
+Table 1 of insurance * afford_DN,0,"Public only, all ages","Public only, all ages",0,0,8240,49131849,1696563,17.7724,0.4724,100.0000,0.0000,-,,,,
+Table 1 of insurance * afford_DN,0,"Public only, all ages","Public only, all ages",Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of insurance * afford_DN,0,"Public only, all ages","Public only, all ages",Total,,8240,49131849,1696563,17.7724,0.4724,100.0000,_,1,,,,
+Table 1 of insurance * afford_DN,0,"Uninsured, all ages","Uninsured, all ages",0,0,4616,31769421,1284126,11.4919,0.3562,100.0000,0.0000,-,,,,
+Table 1 of insurance * afford_DN,0,"Uninsured, all ages","Uninsured, all ages",Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of insurance * afford_DN,0,"Uninsured, all ages","Uninsured, all ages",Total,,4616,31769421,1284126,11.4919,0.3562,100.0000,_,1,,,,
+Table 1 of insurance * afford_DN,0,Total,,0,0,30780,276450019,6242995,100.0000,0.0000,_,_,-,,,,
+Table 1 of insurance * afford_DN,0,Total,,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of insurance * afford_DN,0,Total,,Total,,30780,276450019,6242995,100.0000,_,_,_,1,,,,
+Table 2 of insurance * afford_DN,1,"Any private, all ages","Any private, all ages",0,0,356,4100414,313802,24.0113,1.5602,46.1061,2.4038,,,,,
+Table 2 of insurance * afford_DN,1,"Any private, all ages","Any private, all ages",Couldn't afford,Couldn't afford,451,4793009,352349,28.0671,1.5254,53.8939,2.4038,,,,,
+Table 2 of insurance * afford_DN,1,"Any private, all ages","Any private, all ages",Total,,807,8893423,509921,52.0784,1.8139,100.0000,_,1,,,,
+Table 2 of insurance * afford_DN,1,"Public only, all ages","Public only, all ages",0,0,210,1407458,160462,8.2418,0.9277,37.6090,3.3744,-,,,,
+Table 2 of insurance * afford_DN,1,"Public only, all ages","Public only, all ages",Couldn't afford,Couldn't afford,363,2334883,218766,13.6727,1.0913,62.3910,3.3744,,,,,
+Table 2 of insurance * afford_DN,1,"Public only, all ages","Public only, all ages",Total,,573,3742342,277862,21.9145,1.3662,100.0000,_,1,,,,
+Table 2 of insurance * afford_DN,1,"Uninsured, all ages","Uninsured, all ages",0,0,41,410580,96901,2.4043,0.5618,9.2448,2.0308,-,,,,
+Table 2 of insurance * afford_DN,1,"Uninsured, all ages","Uninsured, all ages",Couldn't afford,Couldn't afford,536,4030640,275431,23.6028,1.2371,90.7552,2.0308,,,,,
+Table 2 of insurance * afford_DN,1,"Uninsured, all ages","Uninsured, all ages",Total,,577,4441220,296991,26.0071,1.3326,100.0000,_,1,,,,
+Table 2 of insurance * afford_DN,1,Total,,0,0,607,5918452,362079,34.6575,1.7175,_,_,-,,,,
+Table 2 of insurance * afford_DN,1,Total,,Couldn't afford,Couldn't afford,1350,11158532,605234,65.3425,1.7175,_,_,,,,,
+Table 2 of insurance * afford_DN,1,Total,,Total,,1957,17076984,747666,100.0000,_,_,_,1,,,,
+Table 1 of insurance * insure_DN,0,"Any private, all ages","Any private, all ages",,,17924,195548749,4676513,70.7357,0.6418,100.0000,0.0000,,0,0,,
+Table 1 of insurance * insure_DN,0,"Any private, all ages","Any private, all ages",,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of insurance * insure_DN,0,"Any private, all ages","Any private, all ages",,,17924,195548749,4676513,70.7357,0.6418,100.0000,_,1,Total,,,
+Table 1 of insurance * insure_DN,0,"Public only, all ages","Public only, all ages",,,8240,49131849,1696563,17.7724,0.4724,100.0000,0.0000,-,0,0,,
+Table 1 of insurance * insure_DN,0,"Public only, all ages","Public only, all ages",,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of insurance * insure_DN,0,"Public only, all ages","Public only, all ages",,,8240,49131849,1696563,17.7724,0.4724,100.0000,_,1,Total,,,
+Table 1 of insurance * insure_DN,0,"Uninsured, all ages","Uninsured, all ages",,,4616,31769421,1284126,11.4919,0.3562,100.0000,0.0000,-,0,0,,
+Table 1 of insurance * insure_DN,0,"Uninsured, all ages","Uninsured, all ages",,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of insurance * insure_DN,0,"Uninsured, all ages","Uninsured, all ages",,,4616,31769421,1284126,11.4919,0.3562,100.0000,_,1,Total,,,
+Table 1 of insurance * insure_DN,0,Total,,,,30780,276450019,6242995,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of insurance * insure_DN,0,Total,,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of insurance * insure_DN,0,Total,,,,30780,276450019,6242995,100.0000,_,_,_,1,Total,,,
+Table 2 of insurance * insure_DN,1,"Any private, all ages","Any private, all ages",,,739,8027267,473520,47.0063,1.7246,90.2607,1.4986,,0,0,,
+Table 2 of insurance * insure_DN,1,"Any private, all ages","Any private, all ages",,,68,866156,144258,5.0721,0.8212,9.7393,1.4986,,Insurance related,Insurance related,,
+Table 2 of insurance * insure_DN,1,"Any private, all ages","Any private, all ages",,,807,8893423,509921,52.0784,1.8139,100.0000,_,1,Total,,,
+Table 2 of insurance * insure_DN,1,"Public only, all ages","Public only, all ages",,,504,3282089,260566,19.2194,1.2768,87.7015,1.8846,-,0,0,,
+Table 2 of insurance * insure_DN,1,"Public only, all ages","Public only, all ages",,,69,460252,75139,2.6952,0.4421,12.2985,1.8846,,Insurance related,Insurance related,,
+Table 2 of insurance * insure_DN,1,"Public only, all ages","Public only, all ages",,,573,3742342,277862,21.9145,1.3662,100.0000,_,1,Total,,,
+Table 2 of insurance * insure_DN,1,"Uninsured, all ages","Uninsured, all ages",,,571,4404947,295006,25.7946,1.3245,99.1833,0.5722,-,0,0,,
+Table 2 of insurance * insure_DN,1,"Uninsured, all ages","Uninsured, all ages",,,6,36274,25591,0.2124,0.1496,0.8167,0.5722,,Insurance related,Insurance related,,
+Table 2 of insurance * insure_DN,1,"Uninsured, all ages","Uninsured, all ages",,,577,4441220,296991,26.0071,1.3326,100.0000,_,1,Total,,,
+Table 2 of insurance * insure_DN,1,Total,,,,1814,15714303,721804,92.0204,0.9520,_,_,-,0,0,,
+Table 2 of insurance * insure_DN,1,Total,,,,143,1362682,167778,7.9796,0.9520,_,_,,Insurance related,Insurance related,,
+Table 2 of insurance * insure_DN,1,Total,,,,1957,17076984,747666,100.0000,_,_,_,1,Total,,,
+Table 1 of insurance * other_DN,0,"Any private, all ages","Any private, all ages",,,17924,195548749,4676513,70.7357,0.6418,100.0000,0.0000,,,,0,0
+Table 1 of insurance * other_DN,0,"Any private, all ages","Any private, all ages",,,0,,,,,,,,,,Other,Other
+Table 1 of insurance * other_DN,0,"Any private, all ages","Any private, all ages",,,17924,195548749,4676513,70.7357,0.6418,100.0000,_,1,,,Total,
+Table 1 of insurance * other_DN,0,"Public only, all ages","Public only, all ages",,,8240,49131849,1696563,17.7724,0.4724,100.0000,0.0000,-,,,0,0
+Table 1 of insurance * other_DN,0,"Public only, all ages","Public only, all ages",,,0,,,,,,,,,,Other,Other
+Table 1 of insurance * other_DN,0,"Public only, all ages","Public only, all ages",,,8240,49131849,1696563,17.7724,0.4724,100.0000,_,1,,,Total,
+Table 1 of insurance * other_DN,0,"Uninsured, all ages","Uninsured, all ages",,,4616,31769421,1284126,11.4919,0.3562,100.0000,0.0000,-,,,0,0
+Table 1 of insurance * other_DN,0,"Uninsured, all ages","Uninsured, all ages",,,0,,,,,,,,,,Other,Other
+Table 1 of insurance * other_DN,0,"Uninsured, all ages","Uninsured, all ages",,,4616,31769421,1284126,11.4919,0.3562,100.0000,_,1,,,Total,
+Table 1 of insurance * other_DN,0,Total,,,,30780,276450019,6242995,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of insurance * other_DN,0,Total,,,,0,,,,,_,_,,,,Other,Other
+Table 1 of insurance * other_DN,0,Total,,,,30780,276450019,6242995,100.0000,_,_,_,1,,,Total,
+Table 2 of insurance * other_DN,1,"Any private, all ages","Any private, all ages",,,508,5548979,392353,32.4939,1.6658,62.3942,2.3413,,,,0,0
+Table 2 of insurance * other_DN,1,"Any private, all ages","Any private, all ages",,,299,3344443,272926,19.5845,1.3956,37.6058,2.3413,,,,Other,Other
+Table 2 of insurance * other_DN,1,"Any private, all ages","Any private, all ages",,,807,8893423,509921,52.0784,1.8139,100.0000,_,1,,,Total,
+Table 2 of insurance * other_DN,1,"Public only, all ages","Public only, all ages",,,425,2744029,233505,16.0686,1.1744,73.3239,3.0747,-,,,0,0
+Table 2 of insurance * other_DN,1,"Public only, all ages","Public only, all ages",,,148,998313,137174,5.8460,0.7844,26.6761,3.0747,,,,Other,Other
+Table 2 of insurance * other_DN,1,"Public only, all ages","Public only, all ages",,,573,3742342,277862,21.9145,1.3662,100.0000,_,1,,,Total,
+Table 2 of insurance * other_DN,1,"Uninsured, all ages","Uninsured, all ages",,,542,4066914,277543,23.8152,1.2461,91.5720,1.9729,-,,,0,0
+Table 2 of insurance * other_DN,1,"Uninsured, all ages","Uninsured, all ages",,,35,374307,93424,2.1919,0.5424,8.4280,1.9729,,,,Other,Other
+Table 2 of insurance * other_DN,1,"Uninsured, all ages","Uninsured, all ages",,,577,4441220,296991,26.0071,1.3326,100.0000,_,1,,,Total,
+Table 2 of insurance * other_DN,1,Total,,,,1475,12359922,631928,72.3777,1.6120,_,_,-,,,0,0
+Table 2 of insurance * other_DN,1,Total,,,,482,4717063,326663,27.6223,1.6120,_,_,,,,Other,Other
+Table 2 of insurance * other_DN,1,Total,,,,1957,17076984,747666,100.0000,_,_,_,1,,,Total,

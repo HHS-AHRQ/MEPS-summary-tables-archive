@@ -1,0 +1,71 @@
+Table,domain,F_health,health,F_diab_a1c,diab_a1c,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * diab_a1c,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * diab_a1c,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Missing,Missing,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 1 of health * diab_a1c,1,Missing,Missing,Had measurement,Had measurement,0,,,,,,,
+Table 1 of health * diab_a1c,1,Missing,Missing,Total,,0,,,,,,_,1
+Table 1 of health * diab_a1c,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,9,60062,24078,0.4286,0.1704,9.2368,3.6360,-
+Table 1 of health * diab_a1c,1,Excellent,Excellent,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Excellent,Excellent,Did not have measurement,Did not have measurement,11,82173,28138,0.5863,0.1994,12.6372,4.2526,
+Table 1 of health * diab_a1c,1,Excellent,Excellent,Had measurement,Had measurement,47,508015,88017,3.6248,0.6340,78.1260,5.2546,
+Table 1 of health * diab_a1c,1,Excellent,Excellent,Total,,67,650250,94133,4.6397,0.6717,100.0000,_,1
+Table 1 of health * diab_a1c,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,48,414041,66444,2.9543,0.4731,16.1298,2.3530,-
+Table 1 of health * diab_a1c,1,Very good,Very good,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Very good,Very good,Did not have measurement,Did not have measurement,31,253259,48129,1.8071,0.3357,9.8662,1.8183,
+Table 1 of health * diab_a1c,1,Very good,Very good,Had measurement,Had measurement,218,1899629,144542,13.5543,0.9074,74.0040,2.6321,
+Table 1 of health * diab_a1c,1,Very good,Very good,Total,,297,2566929,167972,18.3157,1.0260,100.0000,_,1
+Table 1 of health * diab_a1c,1,Good,Good,Don't know/Non-response,Don't know/Non-response,108,830345,98916,5.9247,0.6689,17.2253,1.8294,-
+Table 1 of health * diab_a1c,1,Good,Good,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Good,Good,Did not have measurement,Did not have measurement,49,325549,56668,2.3229,0.4040,6.7534,1.1281,
+Table 1 of health * diab_a1c,1,Good,Good,Had measurement,Had measurement,408,3664613,233231,26.1479,1.2916,76.0213,2.0690,
+Table 1 of health * diab_a1c,1,Good,Good,Total,,565,4820507,271821,34.3955,1.4191,100.0000,_,1
+Table 1 of health * diab_a1c,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,128,902424,101405,6.4390,0.6600,22.4936,2.0182,-
+Table 1 of health * diab_a1c,1,Fair,Fair,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Fair,Fair,Did not have measurement,Did not have measurement,36,224950,45896,1.6051,0.3273,5.6071,1.1507,
+Table 1 of health * diab_a1c,1,Fair,Fair,Had measurement,Had measurement,391,2884532,186126,20.5818,1.0929,71.8993,2.2281,
+Table 1 of health * diab_a1c,1,Fair,Fair,Total,,555,4011906,230653,28.6259,1.2342,100.0000,_,1
+Table 1 of health * diab_a1c,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,94,625389,71036,4.4623,0.5003,31.8209,3.2789,-
+Table 1 of health * diab_a1c,1,Poor,Poor,Inapplicable,Inapplicable,0,,,,,,,
+Table 1 of health * diab_a1c,1,Poor,Poor,Did not have measurement,Did not have measurement,25,188340,44767,1.3439,0.3171,9.5831,2.1475,
+Table 1 of health * diab_a1c,1,Poor,Poor,Had measurement,Had measurement,172,1151611,110786,8.2170,0.7025,58.5960,3.4189,
+Table 1 of health * diab_a1c,1,Poor,Poor,Total,,291,1965341,135554,14.0232,0.8215,100.0000,_,1
+Table 1 of health * diab_a1c,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,387,2832260,174732,20.2089,1.0227,_,_,-
+Table 1 of health * diab_a1c,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 1 of health * diab_a1c,1,Total,Missing,Did not have measurement,Did not have measurement,152,1074272,104000,7.6652,0.7147,_,_,
+Table 1 of health * diab_a1c,1,Total,Missing,Had measurement,Had measurement,1236,10108400,411726,72.1259,1.1477,_,_,
+Table 1 of health * diab_a1c,1,Total,Missing,Total,,1775,14014932,508717,100.0000,_,_,_,1
+Table 2 of health * diab_a1c,2,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * diab_a1c,2,Missing,Missing,Inapplicable,Inapplicable,92,92.00000,12.32883,0.2461,0.0327,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Missing,Missing,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Missing,Missing,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Missing,Missing,Total,,92,92.00000,12.32883,0.2461,0.0327,100.0000,_,1
+Table 2 of health * diab_a1c,2,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of health * diab_a1c,2,Excellent,Excellent,Inapplicable,Inapplicable,11368,11368,286.64787,30.4039,0.4697,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Excellent,Excellent,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Excellent,Excellent,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Excellent,Excellent,Total,,11368,11368,286.64787,30.4039,0.4697,100.0000,_,1
+Table 2 of health * diab_a1c,2,Very good,Very good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of health * diab_a1c,2,Very good,Very good,Inapplicable,Inapplicable,12244,12244,339.34054,32.7467,0.4428,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Very good,Very good,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Very good,Very good,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Very good,Very good,Total,,12244,12244,339.34054,32.7467,0.4428,100.0000,_,1
+Table 2 of health * diab_a1c,2,Good,Good,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of health * diab_a1c,2,Good,Good,Inapplicable,Inapplicable,9867,9867,270.30723,26.3894,0.4291,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Good,Good,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Good,Good,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Good,Good,Total,,9867,9867,270.30723,26.3894,0.4291,100.0000,_,1
+Table 2 of health * diab_a1c,2,Fair,Fair,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of health * diab_a1c,2,Fair,Fair,Inapplicable,Inapplicable,2853,2853,84.79976,7.6304,0.1731,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Fair,Fair,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Fair,Fair,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Fair,Fair,Total,,2853,2853,84.79976,7.6304,0.1731,100.0000,_,1
+Table 2 of health * diab_a1c,2,Poor,Poor,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 2 of health * diab_a1c,2,Poor,Poor,Inapplicable,Inapplicable,966,966.00000,39.76179,2.5836,0.1029,100.0000,0.0000,
+Table 2 of health * diab_a1c,2,Poor,Poor,Did not have measurement,Did not have measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Poor,Poor,Had measurement,Had measurement,0,,,,,,,
+Table 2 of health * diab_a1c,2,Poor,Poor,Total,,966,966.00000,39.76179,2.5836,0.1029,100.0000,_,1
+Table 2 of health * diab_a1c,2,Total,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,_,_,-
+Table 2 of health * diab_a1c,2,Total,Missing,Inapplicable,Inapplicable,37390,37390,812.68813,100.0000,0.0000,_,_,
+Table 2 of health * diab_a1c,2,Total,Missing,Did not have measurement,Did not have measurement,0,,,,,_,_,
+Table 2 of health * diab_a1c,2,Total,Missing,Had measurement,Had measurement,0,,,,,_,_,
+Table 2 of health * diab_a1c,2,Total,Missing,Total,,37390,37390,812.68813,100.0000,_,_,_,1

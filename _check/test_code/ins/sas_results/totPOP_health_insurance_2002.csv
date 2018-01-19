@@ -1,0 +1,29 @@
+Table,F_health,health,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table health * insurance,Missing,Missing,"Any private, all ages","Any private, all ages",23,216492,48627,0.0751,0.0170,43.6672,6.9724,
+Table health * insurance,Missing,Missing,"Public only, all ages","Public only, all ages",28,208167,44419,0.0722,0.0156,41.9881,7.0073,
+Table health * insurance,Missing,Missing,"Uninsured, all ages","Uninsured, all ages",7,71118,28661,0.0247,0.0099,14.3447,5.2528,
+Table health * insurance,Missing,Missing,Total,,58,495776,74176,0.1720,0.0260,100.0000,_,1
+Table health * insurance,Excellent,Excellent,"Any private, all ages","Any private, all ages",7446,67940781,2156040,23.5757,0.5097,76.3520,0.8173,-
+Table health * insurance,Excellent,Excellent,"Public only, all ages","Public only, all ages",2077,11619272,617769,4.0319,0.1929,13.0578,0.6540,
+Table health * insurance,Excellent,Excellent,"Uninsured, all ages","Uninsured, all ages",1362,9423635,526046,3.2700,0.1698,10.5903,0.5254,
+Table health * insurance,Excellent,Excellent,Total,,10885,88983688,2504629,30.8776,0.5031,100.0000,_,1
+Table health * insurance,Very good,Very good,"Any private, all ages","Any private, all ages",8151,72745957,1912216,25.2431,0.3894,76.4263,0.6730,-
+Table health * insurance,Very good,Very good,"Public only, all ages","Public only, all ages",2189,11962295,555923,4.1510,0.1672,12.5675,0.4774,
+Table health * insurance,Very good,Very good,"Uninsured, all ages","Uninsured, all ages",1650,10476229,450660,3.6353,0.1433,11.0062,0.4241,
+Table health * insurance,Very good,Very good,Total,,11990,95184481,2329948,33.0293,0.4083,100.0000,_,1
+Table health * insurance,Good,Good,"Any private, all ages","Any private, all ages",5705,47764046,1260991,16.5743,0.3308,65.8352,0.9227,-
+Table health * insurance,Good,Good,"Public only, all ages","Public only, all ages",2569,14425063,623492,5.0055,0.1962,19.8827,0.7039,
+Table health * insurance,Good,Good,"Uninsured, all ages","Uninsured, all ages",1717,10361830,485480,3.5956,0.1513,14.2821,0.5315,
+Table health * insurance,Good,Good,Total,,9991,72550939,1728385,25.1754,0.3934,100.0000,_,1
+Table health * insurance,Fair,Fair,"Any private, all ages","Any private, all ages",1547,12454957,466121,4.3219,0.1431,55.5741,1.2514,-
+Table health * insurance,Fair,Fair,"Public only, all ages","Public only, all ages",1246,7200283,332428,2.4985,0.1113,32.1277,1.1547,
+Table health * insurance,Fair,Fair,"Uninsured, all ages","Uninsured, all ages",499,2756181,159215,0.9564,0.0538,12.2981,0.6349,
+Table health * insurance,Fair,Fair,Total,,3292,22411422,653027,7.7768,0.1923,100.0000,_,1
+Table health * insurance,Poor,Poor,"Any private, all ages","Any private, all ages",470,4042882,223472,1.4029,0.0743,47.2550,1.7847,-
+Table health * insurance,Poor,Poor,"Public only, all ages","Public only, all ages",601,3731248,240778,1.2948,0.0839,43.6125,1.8190,
+Table health * insurance,Poor,Poor,"Uninsured, all ages","Uninsured, all ages",131,781327,87669,0.2711,0.0306,9.1325,0.9976,
+Table health * insurance,Poor,Poor,Total,,1202,8555457,371664,2.9688,0.1259,100.0000,_,1
+Table health * insurance,Total,Missing,"Any private, all ages","Any private, all ages",23342,205165114,4621707,71.1930,0.6202,_,_,-
+Table health * insurance,Total,Missing,"Public only, all ages","Public only, all ages",8710,49146329,1696633,17.0539,0.4887,_,_,
+Table health * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",5366,33870320,1147403,11.7531,0.3317,_,_,
+Table health * insurance,Total,Missing,Total,,37418,288181763,5847687,100.0000,_,_,_,1

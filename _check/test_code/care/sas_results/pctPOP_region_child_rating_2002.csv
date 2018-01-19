@@ -1,0 +1,61 @@
+Table,domain,F_region,region,F_child_rating,child_rating,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of region * child_rating,0,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of region * child_rating,0,Northeast,Northeast,Inapplicable,Inapplicable,4443,43664112,1532795,18.6803,0.6314,99.5504,0.1208,
+Table 1 of region * child_rating,0,Northeast,Northeast,0-6 rating,0-6 rating,1,3169,3169,0.0014,0.0014,0.0072,0.0072,
+Table 1 of region * child_rating,0,Northeast,Northeast,7-8 rating,7-8 rating,9,69928,28573,0.0299,0.0122,0.1594,0.0647,
+Table 1 of region * child_rating,0,Northeast,Northeast,9-10 rating,9-10 rating,15,124083,37938,0.0531,0.0162,0.2829,0.0844,
+Table 1 of region * child_rating,0,Northeast,Northeast,Total,,4468,43861292,1546171,18.7646,0.6366,100.0000,_,1
+Table 1 of region * child_rating,0,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,0,,,,,,,-
+Table 1 of region * child_rating,0,Midwest,Midwest,Inapplicable,Inapplicable,5814,52539657,2397636,22.4774,0.9124,99.5501,0.0865,
+Table 1 of region * child_rating,0,Midwest,Midwest,0-6 rating,0-6 rating,1,5949,5949,0.0025,0.0025,0.0113,0.0113,
+Table 1 of region * child_rating,0,Midwest,Midwest,7-8 rating,7-8 rating,9,83070,29889,0.0355,0.0127,0.1574,0.0545,
+Table 1 of region * child_rating,0,Midwest,Midwest,9-10 rating,9-10 rating,19,148430,38658,0.0635,0.0165,0.2812,0.0731,
+Table 1 of region * child_rating,0,Midwest,Midwest,Total,,5843,52777107,2411035,22.5790,0.9175,100.0000,_,1
+Table 1 of region * child_rating,0,South,South,Don't know/Non-response,Don't know/Non-response,1,12889,12889,0.0055,0.0055,0.0154,0.0154,-
+Table 1 of region * child_rating,0,South,South,Inapplicable,Inapplicable,11243,83303608,2983789,35.6387,1.0251,99.6033,0.0677,
+Table 1 of region * child_rating,0,South,South,0-6 rating,0-6 rating,7,35441,14934,0.0152,0.0064,0.0424,0.0181,
+Table 1 of region * child_rating,0,South,South,7-8 rating,7-8 rating,16,100433,28222,0.0430,0.0120,0.1201,0.0334,
+Table 1 of region * child_rating,0,South,South,9-10 rating,9-10 rating,25,183001,43109,0.0783,0.0186,0.2188,0.0534,
+Table 1 of region * child_rating,0,South,South,Total,,11292,83635373,2979163,35.7807,1.0229,100.0000,_,1
+Table 1 of region * child_rating,0,West,West,Don't know/Non-response,Don't know/Non-response,1,5270,5270,0.0023,0.0023,0.0099,0.0098,-
+Table 1 of region * child_rating,0,West,West,Inapplicable,Inapplicable,7935,53327239,2432998,22.8143,0.8874,99.7313,0.0552,
+Table 1 of region * child_rating,0,West,West,0-6 rating,0-6 rating,4,25397,14137,0.0109,0.0060,0.0475,0.0260,
+Table 1 of region * child_rating,0,West,West,7-8 rating,7-8 rating,8,42892,16884,0.0184,0.0072,0.0802,0.0303,
+Table 1 of region * child_rating,0,West,West,9-10 rating,9-10 rating,16,70090,20778,0.0300,0.0089,0.1311,0.0385,
+Table 1 of region * child_rating,0,West,West,Total,,7964,53470889,2446776,22.8758,0.8925,100.0000,_,1
+Table 1 of region * child_rating,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,2,18159,13925,0.0078,0.0059,_,_,-
+Table 1 of region * child_rating,0,Total,Missing,Inapplicable,Inapplicable,29435,232834616,4704954,99.6107,0.0407,_,_,
+Table 1 of region * child_rating,0,Total,Missing,0-6 rating,0-6 rating,13,69956,21641,0.0299,0.0093,_,_,
+Table 1 of region * child_rating,0,Total,Missing,7-8 rating,7-8 rating,42,296323,53738,0.1268,0.0226,_,_,
+Table 1 of region * child_rating,0,Total,Missing,9-10 rating,9-10 rating,75,525605,71735,0.2249,0.0308,_,_,
+Table 1 of region * child_rating,0,Total,Missing,Total,,29567,233744660,4720652,100.0000,_,_,_,1
+Table 2 of region * child_rating,1,Northeast,Northeast,Don't know/Non-response,Don't know/Non-response,4,18791,10544,0.0345,0.0194,0.1731,0.0971,
+Table 2 of region * child_rating,1,Northeast,Northeast,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of region * child_rating,1,Northeast,Northeast,0-6 rating,0-6 rating,66,510726,87328,0.9382,0.1581,4.7047,0.7337,
+Table 2 of region * child_rating,1,Northeast,Northeast,7-8 rating,7-8 rating,348,2696978,225355,4.9543,0.3942,24.8441,1.4691,
+Table 2 of region * child_rating,1,Northeast,Northeast,9-10 rating,9-10 rating,954,7629126,452079,14.0146,0.7664,70.2781,1.5987,
+Table 2 of region * child_rating,1,Northeast,Northeast,Total,,1372,10855620,614259,19.9416,1.0235,100.0000,_,1
+Table 2 of region * child_rating,1,Midwest,Midwest,Don't know/Non-response,Don't know/Non-response,2,16582,11727,0.0305,0.0214,0.1332,0.0921,-
+Table 2 of region * child_rating,1,Midwest,Midwest,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of region * child_rating,1,Midwest,Midwest,0-6 rating,0-6 rating,70,549768,100861,1.0099,0.1831,4.4173,0.7812,
+Table 2 of region * child_rating,1,Midwest,Midwest,7-8 rating,7-8 rating,421,3528078,285152,6.4810,0.4862,28.3477,1.6472,
+Table 2 of region * child_rating,1,Midwest,Midwest,9-10 rating,9-10 rating,1041,8351292,564717,15.3412,0.9119,67.1017,1.5918,
+Table 2 of region * child_rating,1,Midwest,Midwest,Total,,1534,12445720,759158,22.8626,1.1937,100.0000,_,1
+Table 2 of region * child_rating,1,South,South,Don't know/Non-response,Don't know/Non-response,3,16699,10923,0.0307,0.0200,0.0883,0.0571,-
+Table 2 of region * child_rating,1,South,South,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of region * child_rating,1,South,South,0-6 rating,0-6 rating,194,1177945,144188,2.1639,0.2554,6.2256,0.6802,
+Table 2 of region * child_rating,1,South,South,7-8 rating,7-8 rating,872,5806172,339510,10.6658,0.5535,30.6863,1.1426,
+Table 2 of region * child_rating,1,South,South,9-10 rating,9-10 rating,1851,11920257,570238,21.8973,0.9118,62.9999,1.4495,
+Table 2 of region * child_rating,1,South,South,Total,,2920,18921073,831291,34.7577,1.2480,100.0000,_,1
+Table 2 of region * child_rating,1,West,West,Don't know/Non-response,Don't know/Non-response,6,29812,13295,0.0548,0.0244,0.2441,0.1094,-
+Table 2 of region * child_rating,1,West,West,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of region * child_rating,1,West,West,0-6 rating,0-6 rating,184,923116,106059,1.6957,0.1887,7.5574,0.7393,
+Table 2 of region * child_rating,1,West,West,7-8 rating,7-8 rating,641,3859443,224075,7.0897,0.3983,31.5967,1.5166,
+Table 2 of region * child_rating,1,West,West,9-10 rating,9-10 rating,1194,7402319,506328,13.5979,0.8535,60.6018,1.8918,
+Table 2 of region * child_rating,1,West,West,Total,,2025,12214689,652274,22.4382,1.0701,100.0000,_,1
+Table 2 of region * child_rating,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,15,81884,23340,0.1504,0.0424,_,_,-
+Table 2 of region * child_rating,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of region * child_rating,1,Total,Missing,0-6 rating,0-6 rating,514,3161555,224233,5.8077,0.3732,_,_,
+Table 2 of region * child_rating,1,Total,Missing,7-8 rating,7-8 rating,2282,15890670,557099,29.1909,0.7152,_,_,
+Table 2 of region * child_rating,1,Total,Missing,9-10 rating,9-10 rating,5040,35302994,1034154,64.8510,0.8141,_,_,
+Table 2 of region * child_rating,1,Total,Missing,Total,,7851,54437102,1432877,100.0000,_,_,_,1

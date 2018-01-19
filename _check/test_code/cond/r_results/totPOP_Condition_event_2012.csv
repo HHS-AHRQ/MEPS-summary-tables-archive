@@ -1,0 +1,350 @@
+"var","Condition","event","count","se"
+"1","Acute Bronchitis and URI","ERT",1522722.812486,160106.763253618
+"1","Allergic reactions","ERT",653662.314251,97209.2180502551
+"1","Anemia and other deficiencies","ERT",99447.682426,17879.914673957
+"1","Appendicitis","ERT",409389.414092,98523.8643998068
+"1","Back problems","ERT",1203907.691707,151831.162038558
+"1","Cancer","ERT",423311.769956,70933.3184260119
+"1","Cataract","ERT",13836.085971,13836.085971
+"1","Cerebrovascular disease","ERT",630608.821383,102842.719303313
+"1","Complications of pregnancy and birth","ERT",457147.851198,80519.7485541055
+"1","Complications of surgery or device","ERT",121660.72543,36266.35210475
+"1","Congenital anomalies","ERT",39692.32599,15681.004217683
+"1","COPD, asthma","ERT",3380884.2576,208591.126652713
+"1","Diabetes mellitus","ERT",686607.386312,101044.937761574
+"1","Disorders of mouth and esophagus","ERT",54174.029623,24753.0120679537
+"1","Disorders of teeth and jaws","ERT",412409.000713,75593.4874439005
+"1","Disorders of the upper GI","ERT",1252563.941319,161586.330504377
+"1","Epilepsy and convulsions","ERT",434603.646386,68581.1431067863
+"1","Female genital disorders, and contraception","ERT",618690.033684,95819.5133811958
+"1","Gallbladder, pancreatic, and liver disease","ERT",1003134.041011,151538.811632561
+"1","Glaucoma","ERT",34239.771545,30105.4529956613
+"1","Headache","ERT",725929.454133,118487.299175712
+"1","Heart disease","ERT",3257608.298628,261831.863765785
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","ERT",121913.222896,78182.1809139648
+"1","Hereditary, degenerative and other nervous system disorders","ERT",68861.779038,25635.7634769982
+"1","Hernias","ERT",160351.77142,45001.5969777476
+"1","Hyperlipidemia","ERT",124198.933117,39036.7359039716
+"1","Hypertension","ERT",988560.456905,119531.070507971
+"1","Infectious diseases","ERT",1300072.230829,131541.699899574
+"1","Influenza","ERT",691959.789287,118141.684578157
+"1","Intestinal infection","ERT",826998.963262,123253.540264512
+"1","Kidney Disease","ERT",1181338.685155,159409.551567977
+"1","Male genital disorders","ERT",52709.547134,16948.7757105799
+"1","Mental disorders","ERT",1365562.131854,158201.680780768
+"1","Non-malignant breast disease","ERT",19743.279594,14994.5131231314
+"1","Non-malignant neoplasm","ERT",69448.861448,30278.5130313489
+"1","Normal birth/live born","ERT",692977.195242,110892.462330011
+"1","Osteoarthritis and other non-traumatic joint disorders","ERT",950958.443695,115064.828110702
+"1","Other bone and musculoskeletal disease","ERT",182899.892867,50694.4630987752
+"1","Other care and screening","ERT",131233.811813,36522.0705167582
+"1","Other circulatory conditions arteries, veins, and lymphatics","ERT",754843.055231,108465.542471543
+"1","Other CNS disorders","ERT",1512532.315196,192747.569044076
+"1","Other endocrine, nutritional & immune disorder","ERT",1234012.861393,153274.032895579
+"1","Other eye disorders","ERT",508297.562671,85215.7406912668
+"1","Other GI","ERT",846099.884168,105099.392633191
+"1","Other stomach and intestinal disorders","ERT",448000.37104,89599.5178338548
+"1","Other urinary","ERT",219089.336629,56010.8420811325
+"1","Otitis media","ERT",617926.004238,106849.048097529
+"1","Paralysis","ERT",8945.701908,6632.88768508094
+"1","Perinatal Conditions","ERT",11183.65741,8658.35523552169
+"1","Pneumonia","ERT",1264465.787083,149524.431731842
+"1","Poisoning by medical and non-medical substances","ERT",691003.235589,114356.637324738
+"1","Residual Codes","ERT",525204.381349,82193.1118802627
+"1","Skin disorders","ERT",1258809.347538,141496.731003757
+"1","Symptoms","ERT",1552900.099047,139860.649385976
+"1","Systemic lupus and connective tissues disorders","ERT",778396.353998,102293.242361256
+"1","Thyroid disease","ERT",53341.215097,26193.4545540293
+"1","Tonsillitis","ERT",98410.163263,29219.7468189426
+"1","Trauma-related disorders","ERT",12329903.272503,583052.217844432
+"1","Urinary tract infections","ERT",1317007.312065,162460.774565408
+"1","Allergic reactions","HHT",4717.89413,4717.89413
+"1","Anemia and other deficiencies","HHT",62831.147855,35741.6844550158
+"1","Appendicitis","HHT",18821.523001,13878.9203146342
+"1","Back problems","HHT",301925.888491,68318.0299571684
+"1","Cancer","HHT",447846.412878,92638.6210033607
+"1","Cataract","HHT",23897.807395,15566.3354310714
+"1","Cerebrovascular disease","HHT",430896.881748,80992.1966866015
+"1","Complications of pregnancy and birth","HHT",65945.906416,33340.2454535457
+"1","Complications of surgery or device","HHT",28895.121446,17138.7139471612
+"1","Congenital anomalies","HHT",59936.809518,25274.2317143357
+"1","COPD, asthma","HHT",737002.83174,107311.769200441
+"1","Diabetes mellitus","HHT",544230.461909,96671.6182773853
+"1","Disorders of teeth and jaws","HHT",20807.552551,20807.552551
+"1","Disorders of the upper GI","HHT",74733.819668,27429.6003160431
+"1","Epilepsy and convulsions","HHT",77889.243064,23972.5453109457
+"1","Female genital disorders, and contraception","HHT",3552.320813,3552.320813
+"1","Gallbladder, pancreatic, and liver disease","HHT",76768.652086,26292.708388436
+"1","Glaucoma","HHT",22186.546164,10716.448773702
+"1","Headache","HHT",11435.556936,6820.0521880448
+"1","Heart disease","HHT",1169286.572071,155515.354713781
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","HHT",75858.140165,75858.140165
+"1","Hereditary, degenerative and other nervous system disorders","HHT",180912.402954,51237.3160015978
+"1","Hernias","HHT",68402.718197,27016.9746098935
+"1","Hyperlipidemia","HHT",261611.243941,72020.9446474809
+"1","Hypertension","HHT",719393.43176,150505.218901375
+"1","Infectious diseases","HHT",182571.861091,54986.3195571394
+"1","Influenza","HHT",5123.886392,3769.83103282456
+"1","Intestinal infection","HHT",7476.702666,7476.702666
+"1","Kidney Disease","HHT",268227.731247,72742.8326441072
+"1","Male genital disorders","HHT",32885.124828,23143.2974537075
+"1","Mental disorders","HHT",1368732.678201,173663.883809878
+"1","Non-malignant neoplasm","HHT",2682.256011,2682.256011
+"1","Normal birth/live born","HHT",53338.516495,26145.3985627568
+"1","Osteoarthritis and other non-traumatic joint disorders","HHT",1176353.604189,154834.599562139
+"1","Other bone and musculoskeletal disease","HHT",239395.240011,71358.3393896613
+"1","Other care and screening","HHT",358244.099316,82939.5006644747
+"1","Other circulatory conditions arteries, veins, and lymphatics","HHT",220331.864157,63850.5332790423
+"1","Other CNS disorders","HHT",232041.063984,53658.5838123426
+"1","Other endocrine, nutritional & immune disorder","HHT",159813.074143,51769.5836215243
+"1","Other eye disorders","HHT",116687.55597,25025.2072145666
+"1","Other GI","HHT",64521.660866,21069.1680816858
+"1","Other stomach and intestinal disorders","HHT",6486.000502,6486.000502
+"1","Other urinary","HHT",26551.256902,21438.5423434495
+"1","Paralysis","HHT",102322.04383,32457.7800493177
+"1","Perinatal Conditions","HHT",83515.094464,38683.1483204449
+"1","Pneumonia","HHT",75347.09097,31341.2732036265
+"1","Poisoning by medical and non-medical substances","HHT",19021.624784,13833.0834607223
+"1","Residual Codes","HHT",499197.052549,85902.1926493601
+"1","Skin disorders","HHT",352225.935916,84306.7958047504
+"1","Symptoms","HHT",77392.475006,34263.2737819328
+"1","Systemic lupus and connective tissues disorders","HHT",489827.325852,96658.4881907086
+"1","Thyroid disease","HHT",133604.831062,51104.225136362
+"1","Trauma-related disorders","HHT",799136.786973,129390.937265993
+"1","Urinary tract infections","HHT",44054.82186,23428.5218981048
+"1","Acute Bronchitis and URI","IPT",95204.63492,31959.8958421434
+"1","Allergic reactions","IPT",76984.418928,46151.4553969997
+"1","Anemia and other deficiencies","IPT",136627.227898,41810.6153012506
+"1","Appendicitis","IPT",379279.066207,96926.402586912
+"1","Back problems","IPT",529133.565558,105632.922251852
+"1","Cancer","IPT",1234368.87535,147668.925968047
+"1","Cataract","IPT",21316.994733,17627.402147058
+"1","Cerebrovascular disease","IPT",668359.415422,106994.776713368
+"1","Complications of pregnancy and birth","IPT",287772.854397,91204.1446925846
+"1","Complications of surgery or device","IPT",119779.621987,38317.260146074
+"1","Congenital anomalies","IPT",82815.717077,32407.1949392349
+"1","COPD, asthma","IPT",1255858.42893,128555.45326395
+"1","Diabetes mellitus","IPT",530734.59243,84637.635567442
+"1","Disorders of mouth and esophagus","IPT",23187.369661,19230.9452194543
+"1","Disorders of teeth and jaws","IPT",50335.898181,20818.481083942
+"1","Disorders of the upper GI","IPT",362774.395036,79606.2838985516
+"1","Epilepsy and convulsions","IPT",163073.691611,46203.2667011898
+"1","Female genital disorders, and contraception","IPT",385843.919758,74366.1822357326
+"1","Gallbladder, pancreatic, and liver disease","IPT",1024508.793029,150333.445239337
+"1","Glaucoma","IPT",7852.164358,5565.46079086276
+"1","Headache","IPT",51258.73595,22640.1943019843
+"1","Heart disease","IPT",2711496.663363,209793.757325323
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","IPT",111445.803902,49550.3462747091
+"1","Hereditary, degenerative and other nervous system disorders","IPT",50561.37063,20207.6692772908
+"1","Hernias","IPT",226857.521966,81249.6595125122
+"1","Hyperlipidemia","IPT",109062.344109,38699.5405372267
+"1","Hypertension","IPT",491077.045443,79698.0600886579
+"1","Infectious diseases","IPT",663623.94863,102641.942739476
+"1","Influenza","IPT",68821.952652,24796.3517630988
+"1","Intestinal infection","IPT",216988.416668,67861.5591607493
+"1","Kidney Disease","IPT",638187.221303,112454.563905197
+"1","Male genital disorders","IPT",28326.525982,16130.3739005076
+"1","Mental disorders","IPT",1073348.016193,153085.293985258
+"1","Non-malignant breast disease","IPT",13161.137328,9397.72201051565
+"1","Non-malignant neoplasm","IPT",141808.777381,39926.4321193385
+"1","Normal birth/live born","IPT",3244608.63508,248268.48956732
+"1","Osteoarthritis and other non-traumatic joint disorders","IPT",962522.594322,137699.906631962
+"1","Other bone and musculoskeletal disease","IPT",359445.329025,93110.6493975479
+"1","Other care and screening","IPT",107360.174123,32156.1827907947
+"1","Other circulatory conditions arteries, veins, and lymphatics","IPT",844846.202455,115359.750709087
+"1","Other CNS disorders","IPT",583200.385723,114801.952782153
+"1","Other endocrine, nutritional & immune disorder","IPT",587234.570756,93403.7466581839
+"1","Other eye disorders","IPT",21873.490398,12242.5064148588
+"1","Other GI","IPT",355552.441716,66625.4144287082
+"1","Other stomach and intestinal disorders","IPT",343521.502851,72286.3095185499
+"1","Other urinary","IPT",65069.564189,28879.9263391733
+"1","Otitis media","IPT",70658.250129,35491.2502072096
+"1","Paralysis","IPT",3694.559915,3694.559915
+"1","Perinatal Conditions","IPT",122903.062869,40253.4422748523
+"1","Pneumonia","IPT",1116996.469815,147741.105166505
+"1","Poisoning by medical and non-medical substances","IPT",165767.085226,48988.9098374365
+"1","Residual Codes","IPT",576430.245752,95077.0491611523
+"1","Skin disorders","IPT",612657.779383,91723.0891013681
+"1","Symptoms","IPT",436519.636975,96395.696067654
+"1","Systemic lupus and connective tissues disorders","IPT",592149.804974,105339.562907686
+"1","Thyroid disease","IPT",81352.221676,31610.7350890786
+"1","Tonsillitis","IPT",43901.322672,36115.2227170295
+"1","Trauma-related disorders","IPT",1908003.948442,193970.169859483
+"1","Urinary tract infections","IPT",399388.128719,73958.5997841961
+"1","Acute Bronchitis and URI","OBV",24449692.937448,1037831.42626944
+"1","Allergic reactions","OBV",4283617.116434,340963.976155087
+"1","Anemia and other deficiencies","OBV",2028644.066123,194120.029966094
+"1","Appendicitis","OBV",279338.968778,71099.6829243679
+"1","Back problems","OBV",17296287.930368,721880.488614544
+"1","Cancer","OBV",13918928.010553,701671.030291263
+"1","Cataract","OBV",3620524.287747,288463.714919394
+"1","Cerebrovascular disease","OBV",1680330.478553,185549.542003095
+"1","Complications of pregnancy and birth","OBV",738411.894443,119790.167238711
+"1","Complications of surgery or device","OBV",476512.102053,101012.914977779
+"1","Congenital anomalies","OBV",1429215.369466,167826.717615242
+"1","COPD, asthma","OBV",26600605.483932,956184.548472465
+"1","Diabetes mellitus","OBV",16859996.518044,616667.266666209
+"1","Disorders of mouth and esophagus","OBV",377327.22703,76993.5111732892
+"1","Disorders of teeth and jaws","OBV",1224707.119716,161584.080225727
+"1","Disorders of the upper GI","OBV",7916740.540516,435293.078408999
+"1","Epilepsy and convulsions","OBV",1380529.947276,146204.875473119
+"1","Female genital disorders, and contraception","OBV",5857976.464753,365535.048988785
+"1","Gallbladder, pancreatic, and liver disease","OBV",2446644.186783,199952.261355908
+"1","Glaucoma","OBV",2914635.127852,281848.359443359
+"1","Headache","OBV",4902287.401253,357508.397934213
+"1","Heart disease","OBV",15786859.63351,654879.79725799
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","OBV",889345.020508,161345.427348366
+"1","Hereditary, degenerative and other nervous system disorders","OBV",1358945.703778,138740.091553836
+"1","Hernias","OBV",1443599.095089,175955.084796091
+"1","Hyperlipidemia","OBV",23272461.99427,977421.904529309
+"1","Hypertension","OBV",29030794.260989,1049763.40326403
+"1","Infectious diseases","OBV",11846411.126213,550758.448139066
+"1","Influenza","OBV",5341884.887998,417337.867414463
+"1","Intestinal infection","OBV",2390744.336051,234684.589844468
+"1","Kidney Disease","OBV",3549519.379754,294763.826625047
+"1","Male genital disorders","OBV",1900443.434837,175791.470388505
+"1","Mental disorders","OBV",24363669.145488,903269.224054136
+"1","Non-malignant breast disease","OBV",1110975.671711,126060.59956301
+"1","Non-malignant neoplasm","OBV",3814474.761961,332898.479692586
+"1","Normal birth/live born","OBV",5531600.781454,350656.635486679
+"1","Osteoarthritis and other non-traumatic joint disorders","OBV",27820623.142882,910501.589281
+"1","Other bone and musculoskeletal disease","OBV",4360686.266201,286913.403510716
+"1","Other care and screening","OBV",12155842.992649,825598.35536265
+"1","Other circulatory conditions arteries, veins, and lymphatics","OBV",4761177.19549,318840.57624024
+"1","Other CNS disorders","OBV",13174798.174272,564606.027693581
+"1","Other endocrine, nutritional & immune disorder","OBV",6224512.524766,358631.207985964
+"1","Other eye disorders","OBV",13339211.766251,639411.281087609
+"1","Other GI","OBV",4030255.647804,303284.258822907
+"1","Other stomach and intestinal disorders","OBV",1389696.612905,188620.592153362
+"1","Other urinary","OBV",2750511.001757,235646.294277187
+"1","Otitis media","OBV",7978592.620568,501839.208024436
+"1","Paralysis","OBV",150816.300365,35374.7762635869
+"1","Perinatal Conditions","OBV",356106.769254,84338.9716529135
+"1","Pneumonia","OBV",2668556.117996,242264.160782662
+"1","Poisoning by medical and non-medical substances","OBV",919681.64138,123866.005351457
+"1","Residual Codes","OBV",9444440.758147,464174.257255215
+"1","Skin disorders","OBV",17174115.635324,763172.784190615
+"1","Symptoms","OBV",4337767.174948,328299.191751737
+"1","Systemic lupus and connective tissues disorders","OBV",12679554.128494,528585.651220949
+"1","Thyroid disease","OBV",6999898.975052,438938.945402816
+"1","Tonsillitis","OBV",637186.580441,97477.9978428679
+"1","Trauma-related disorders","OBV",25452912.134039,1011424.57388291
+"1","Urinary tract infections","OBV",4757401.743826,297994.981450581
+"1","Acute Bronchitis and URI","OPT",690122.814464,134289.439663613
+"1","Allergic reactions","OPT",151566.964114,46914.8146692146
+"1","Anemia and other deficiencies","OPT",270235.199848,64881.6262158924
+"1","Appendicitis","OPT",67795.717819,27011.9230600616
+"1","Back problems","OPT",1961072.882048,210389.294897706
+"1","Cancer","OPT",2830911.726665,237941.978621051
+"1","Cataract","OPT",655266.164637,110944.365950635
+"1","Cerebrovascular disease","OPT",284582.752993,76864.3781902066
+"1","Complications of pregnancy and birth","OPT",217574.84294,59747.1935622236
+"1","Complications of surgery or device","OPT",148779.991206,50044.3013669078
+"1","Congenital anomalies","OPT",292491.90911,73869.1808581982
+"1","COPD, asthma","OPT",2112461.742636,194073.983186194
+"1","Diabetes mellitus","OPT",1446137.671229,183374.266122309
+"1","Disorders of mouth and esophagus","OPT",34582.666085,21765.6922333191
+"1","Disorders of teeth and jaws","OPT",93747.996415,31911.3459402687
+"1","Disorders of the upper GI","OPT",1027626.617332,124517.084513
+"1","Epilepsy and convulsions","OPT",155687.087699,51792.9930743977
+"1","Female genital disorders, and contraception","OPT",705292.880254,112254.70540288
+"1","Gallbladder, pancreatic, and liver disease","OPT",1161998.602087,142552.211179526
+"1","Glaucoma","OPT",144327.692769,45535.2163857961
+"1","Headache","OPT",605966.739903,126967.50653464
+"1","Heart disease","OPT",2920738.527073,277675.805006368
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","OPT",124216.636384,40540.52561869
+"1","Hereditary, degenerative and other nervous system disorders","OPT",146435.632282,40262.9502999814
+"1","Hernias","OPT",683361.797084,111402.842434731
+"1","Hyperlipidemia","OPT",1558640.141237,179656.214221212
+"1","Hypertension","OPT",1502978.57204,180356.031543859
+"1","Infectious diseases","OPT",683597.3397,135944.305656304
+"1","Influenza","OPT",142547.720376,46099.9288404648
+"1","Intestinal infection","OPT",65888.43865,37169.0069689461
+"1","Kidney Disease","OPT",953864.717972,140362.51561636
+"1","Male genital disorders","OPT",253967.103136,55826.1058736995
+"1","Mental disorders","OPT",1233124.516979,153646.084547432
+"1","Non-malignant breast disease","OPT",488371.157147,113536.510397394
+"1","Non-malignant neoplasm","OPT",592688.295573,128805.198267492
+"1","Normal birth/live born","OPT",746638.107589,104273.991498094
+"1","Osteoarthritis and other non-traumatic joint disorders","OPT",2845225.163194,235614.758770585
+"1","Other bone and musculoskeletal disease","OPT",997197.783226,167419.777518143
+"1","Other care and screening","OPT",1335505.637126,195641.361283584
+"1","Other circulatory conditions arteries, veins, and lymphatics","OPT",916473.923384,130180.988625288
+"1","Other CNS disorders","OPT",1841071.265109,204155.333888306
+"1","Other endocrine, nutritional & immune disorder","OPT",652017.257491,106903.532499892
+"1","Other eye disorders","OPT",529536.199999,84919.6132023378
+"1","Other GI","OPT",583520.991951,119599.005142159
+"1","Other stomach and intestinal disorders","OPT",436444.266658,120377.225661744
+"1","Other urinary","OPT",271451.13958,68219.4348589387
+"1","Otitis media","OPT",247462.084793,54961.090303887
+"1","Paralysis","OPT",23884.687923,12169.0681696922
+"1","Perinatal Conditions","OPT",21042.373227,10054.5481773585
+"1","Pneumonia","OPT",292117.002282,87967.6639184893
+"1","Poisoning by medical and non-medical substances","OPT",98717.880134,27454.4176618307
+"1","Residual Codes","OPT",1573221.038359,193419.70263209
+"1","Skin disorders","OPT",1221601.672604,173838.386706931
+"1","Symptoms","OPT",593594.736888,113545.064558054
+"1","Systemic lupus and connective tissues disorders","OPT",1762707.868697,203826.995545046
+"1","Thyroid disease","OPT",891154.284879,140498.393332024
+"1","Tonsillitis","OPT",53539.747939,20565.2274053243
+"1","Trauma-related disorders","OPT",4001375.899095,304528.440373252
+"1","Urinary tract infections","OPT",389239.607816,95217.3342273897
+"1","Acute Bronchitis and URI","RX",21849719.527049,956367.486381495
+"1","Allergic reactions","RX",4873212.878681,312576.77605109
+"1","Anemia and other deficiencies","RX",2469000.698179,212814.681322216
+"1","Appendicitis","RX",337388.199393,91353.3579967275
+"1","Back problems","RX",10067546.373212,456674.563935787
+"1","Cancer","RX",4926271.003578,350507.289355041
+"1","Cataract","RX",1672445.949408,160896.691158593
+"1","Cerebrovascular disease","RX",1890969.412546,185252.932909941
+"1","Complications of pregnancy and birth","RX",1038121.340462,121970.527248131
+"1","Complications of surgery or device","RX",644675.532552,107032.10395038
+"1","Congenital anomalies","RX",477269.097283,75158.735667937
+"1","COPD, asthma","RX",37321625.754969,1231568.5045474
+"1","Diabetes mellitus","RX",21358058.350213,751566.405774643
+"1","Disorders of mouth and esophagus","RX",629212.869966,89710.4819246662
+"1","Disorders of teeth and jaws","RX",6570661.229594,366263.894481093
+"1","Disorders of the upper GI","RX",20843944.046717,791125.234631776
+"1","Epilepsy and convulsions","RX",2293138.744287,204028.635284957
+"1","Female genital disorders, and contraception","RX",12087952.807986,636509.290247374
+"1","Gallbladder, pancreatic, and liver disease","RX",1652183.675961,161150.566450596
+"1","Glaucoma","RX",2867535.441676,265218.748121734
+"1","Headache","RX",6282062.742722,422838.069692916
+"1","Heart disease","RX",16484487.067376,636579.29877907
+"1","Hemorrhagic, coagulation, and disorders of White Blood cells","RX",524153.010736,107801.375012748
+"1","Hereditary, degenerative and other nervous system disorders","RX",2560115.19882,210002.987666053
+"1","Hernias","RX",1071415.163841,156485.252160092
+"1","Hyperlipidemia","RX",42498525.544964,1296314.50905937
+"1","Hypertension","RX",57290707.721764,1583862.981682
+"1","Infectious diseases","RX",11844755.373532,642307.335749952
+"1","Influenza","RX",4337758.828265,404608.774214445
+"1","Intestinal infection","RX",1759072.4227,197604.94987172
+"1","Kidney Disease","RX",2780455.812022,238303.990077189
+"1","Male genital disorders","RX",4124657.191396,251761.713363618
+"1","Mental disorders","RX",39669974.875071,1390848.36790725
+"1","Non-malignant breast disease","RX",235108.044397,66661.4724329237
+"1","Non-malignant neoplasm","RX",645717.081674,133405.191867802
+"1","Normal birth/live born","RX",2601642.217101,229242.209943895
+"1","Osteoarthritis and other non-traumatic joint disorders","RX",22617692.655561,743298.227088196
+"1","Other bone and musculoskeletal disease","RX",4182649.503573,262799.822160094
+"1","Other care and screening","RX",15093252.066151,709946.618589858
+"1","Other circulatory conditions arteries, veins, and lymphatics","RX",3616091.192527,243563.002420556
+"1","Other CNS disorders","RX",8947233.407808,470000.382677798
+"1","Other endocrine, nutritional & immune disorder","RX",12441797.741502,554456.791018069
+"1","Other eye disorders","RX",6577057.933034,373127.827291269
+"1","Other GI","RX",6495330.655028,396227.369443455
+"1","Other stomach and intestinal disorders","RX",1387182.064126,196550.025878001
+"1","Other urinary","RX",4129419.678385,327844.146463194
+"1","Otitis media","RX",8242978.130401,499388.296527758
+"1","Paralysis","RX",80240.653341,29589.0627371975
+"1","Perinatal Conditions","RX",172820.576011,53897.4335162489
+"1","Pneumonia","RX",2951190.996295,245053.452457919
+"1","Poisoning by medical and non-medical substances","RX",967686.063149,125691.40067455
+"1","Residual Codes","RX",19329729.945817,762047.918685396
+"1","Skin disorders","RX",16327537.08142,740309.962809736
+"1","Symptoms","RX",4286494.678315,319116.930461071
+"1","Systemic lupus and connective tissues disorders","RX",8938947.422898,423618.999037505
+"1","Thyroid disease","RX",15766955.62041,660312.711627032
+"1","Tonsillitis","RX",494057.096211,86006.4839055881
+"1","Trauma-related disorders","RX",14118390.037694,528372.417793007
+"1","Urinary tract infections","RX",6549280.620911,383732.902961859

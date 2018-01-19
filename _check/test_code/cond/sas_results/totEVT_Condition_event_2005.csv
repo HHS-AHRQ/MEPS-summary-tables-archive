@@ -1,0 +1,364 @@
+DomainLabel,condition,event,VarName,Sum,StdDev
+condition*event,Acute Bronchitis and URI,ER,count,1729870,181718
+condition*event,Acute Bronchitis and URI,IP,count,170261,46777
+condition*event,Acute Bronchitis and URI,OB,count,46910620,2081791
+condition*event,Acute Bronchitis and URI,OP,count,1193789,182261
+condition*event,Acute Bronchitis and URI,RX,count,47498217,1990198
+condition*event,Allergic reactions,ER,count,615023,85990
+condition*event,Allergic reactions,HH,count,128275,118733
+condition*event,Allergic reactions,IP,count,10898,7844.866842
+condition*event,Allergic reactions,OB,count,7203788,722233
+condition*event,Allergic reactions,OP,count,126855,56060
+condition*event,Allergic reactions,RX,count,9379769,658917
+condition*event,Anemia and other deficiencies,ER,count,107671,42814
+condition*event,Anemia and other deficiencies,HH,count,188410,102479
+condition*event,Anemia and other deficiencies,IP,count,189720,57092
+condition*event,Anemia and other deficiencies,OB,count,5653697,773450
+condition*event,Anemia and other deficiencies,OP,count,1550250,794184
+condition*event,Anemia and other deficiencies,RX,count,2481418,265069
+condition*event,Appendicitis,ER,count,242015,70193
+condition*event,Appendicitis,IP,count,264227,59285
+condition*event,Appendicitis,OB,count,274454,74473
+condition*event,Appendicitis,OP,count,76732,30241
+condition*event,Appendicitis,RX,count,263613,79423
+condition*event,Back problems,ER,count,1519831,167967
+condition*event,Back problems,HH,count,1496466,307623
+condition*event,Back problems,IP,count,561537,87951
+condition*event,Back problems,OB,count,133033071,8242971
+condition*event,Back problems,OP,count,5953272,677792
+condition*event,Back problems,RX,count,25777034,1331168
+condition*event,CNS infection,ER,count,158166,58507
+condition*event,CNS infection,HH,count,346291,302362
+condition*event,CNS infection,IP,count,56926,23316
+condition*event,CNS infection,OB,count,613096,279919
+condition*event,CNS infection,OP,count,155872,155872
+condition*event,CNS infection,RX,count,118710,43207
+condition*event,"COPD, asthma",ER,count,4351066,334816
+condition*event,"COPD, asthma",HH,count,3299583,544677
+condition*event,"COPD, asthma",IP,count,1625131,203997
+condition*event,"COPD, asthma",OB,count,88518885,4791770
+condition*event,"COPD, asthma",OP,count,4506843,1027674
+condition*event,"COPD, asthma",RX,count,122290444,4007412
+condition*event,Cancer,ER,count,509729,116470
+condition*event,Cancer,HH,count,1819587,373878
+condition*event,Cancer,IP,count,1533763,181223
+condition*event,Cancer,OB,count,54175328,4434849
+condition*event,Cancer,OP,count,13420172,2156385
+condition*event,Cancer,RX,count,9895161,848078
+condition*event,Cataract,HH,count,55445,40421
+condition*event,Cataract,IP,count,37941,19019
+condition*event,Cataract,OB,count,10639395,950552
+condition*event,Cataract,OP,count,1317438,208402
+condition*event,Cataract,RX,count,2676050,312658
+condition*event,Cerebrovascular disease,ER,count,692685,106837
+condition*event,Cerebrovascular disease,HH,count,2714563,618030
+condition*event,Cerebrovascular disease,IP,count,832155,128734
+condition*event,Cerebrovascular disease,OB,count,6890304,1497943
+condition*event,Cerebrovascular disease,OP,count,1146939,350948
+condition*event,Cerebrovascular disease,RX,count,2888997,353190
+condition*event,"Coma, brain damage",ER,count,52241,24419
+condition*event,"Coma, brain damage",HH,count,1083254,1011152
+condition*event,"Coma, brain damage",IP,count,64085,27140
+condition*event,"Coma, brain damage",OB,count,644895,421031
+condition*event,"Coma, brain damage",OP,count,64220,50678
+condition*event,"Coma, brain damage",RX,count,133376,67933
+condition*event,Complications of pregnancy and birth,ER,count,195099,55600
+condition*event,Complications of pregnancy and birth,HH,count,13065,13065
+condition*event,Complications of pregnancy and birth,IP,count,133340,35307
+condition*event,Complications of pregnancy and birth,OB,count,1130592,280919
+condition*event,Complications of pregnancy and birth,OP,count,168684,90808
+condition*event,Complications of pregnancy and birth,RX,count,1172501,194536
+condition*event,Complications of surgery or device,ER,count,221639,69510
+condition*event,Complications of surgery or device,HH,count,132014,57854
+condition*event,Complications of surgery or device,IP,count,342458,108483
+condition*event,Complications of surgery or device,OB,count,1501007,269481
+condition*event,Complications of surgery or device,OP,count,280953,113520
+condition*event,Complications of surgery or device,RX,count,1076364,174157
+condition*event,Congenital anomalies,ER,count,28279,19048
+condition*event,Congenital anomalies,HH,count,740645,297224
+condition*event,Congenital anomalies,IP,count,116370,40886
+condition*event,Congenital anomalies,OB,count,7644772,1701387
+condition*event,Congenital anomalies,OP,count,759223,283466
+condition*event,Congenital anomalies,RX,count,1372551,414757
+condition*event,Diabetes mellitus,ER,count,379845,70310
+condition*event,Diabetes mellitus,HH,count,3323919,505119
+condition*event,Diabetes mellitus,IP,count,431185,63455
+condition*event,Diabetes mellitus,OB,count,61267028,3665032
+condition*event,Diabetes mellitus,OP,count,4738670,644716
+condition*event,Diabetes mellitus,RX,count,75860890,2707798
+condition*event,Disorders of mouth and esophagus,ER,count,17070,10014
+condition*event,Disorders of mouth and esophagus,HH,count,41449,41449
+condition*event,Disorders of mouth and esophagus,IP,count,41449,41449
+condition*event,Disorders of mouth and esophagus,OB,count,619503,159993
+condition*event,Disorders of mouth and esophagus,OP,count,27128,23079
+condition*event,Disorders of mouth and esophagus,RX,count,1401494,243928
+condition*event,Disorders of teeth and jaws,ER,count,432910,71978
+condition*event,Disorders of teeth and jaws,HH,count,68532,68532
+condition*event,Disorders of teeth and jaws,IP,count,53680,28253
+condition*event,Disorders of teeth and jaws,OB,count,2159723,355707
+condition*event,Disorders of teeth and jaws,OP,count,250900,109684
+condition*event,Disorders of teeth and jaws,RX,count,11338262,659229
+condition*event,Disorders of the upper GI,ER,count,1177492,125706
+condition*event,Disorders of the upper GI,HH,count,826410,273361
+condition*event,Disorders of the upper GI,IP,count,540968,90133
+condition*event,Disorders of the upper GI,OB,count,22155942,1743836
+condition*event,Disorders of the upper GI,OP,count,2174933,291597
+condition*event,Disorders of the upper GI,RX,count,39843337,1679247
+condition*event,Epilepsy and convulsions,ER,count,516278,71999
+condition*event,Epilepsy and convulsions,HH,count,923419,445732
+condition*event,Epilepsy and convulsions,IP,count,278052,67028
+condition*event,Epilepsy and convulsions,OB,count,6436137,1627721
+condition*event,Epilepsy and convulsions,OP,count,549241,219276
+condition*event,Epilepsy and convulsions,RX,count,6105429,635706
+condition*event,"Female genital disorders, and contraception",ER,count,635318,104716
+condition*event,"Female genital disorders, and contraception",HH,count,38784,38784
+condition*event,"Female genital disorders, and contraception",IP,count,376477,69141
+condition*event,"Female genital disorders, and contraception",OB,count,15780156,1209336
+condition*event,"Female genital disorders, and contraception",OP,count,1548596,246253
+condition*event,"Female genital disorders, and contraception",RX,count,25519733,1109952
+condition*event,"Gallbladder, pancreatic, and liver disease",ER,count,613680,90603
+condition*event,"Gallbladder, pancreatic, and liver disease",HH,count,263114,120362
+condition*event,"Gallbladder, pancreatic, and liver disease",IP,count,769432,103498
+condition*event,"Gallbladder, pancreatic, and liver disease",OB,count,7114576,668620
+condition*event,"Gallbladder, pancreatic, and liver disease",OP,count,1764740,294059
+condition*event,"Gallbladder, pancreatic, and liver disease",RX,count,2951935,495484
+condition*event,Glaucoma,ER,count,3320.790297,3320.790297
+condition*event,Glaucoma,HH,count,305959,135214
+condition*event,Glaucoma,IP,count,6529.320191,6529.320191
+condition*event,Glaucoma,OB,count,8176105,790522
+condition*event,Glaucoma,OP,count,214154,70072
+condition*event,Glaucoma,RX,count,8355531,726741
+condition*event,Headache,ER,count,1119569,184413
+condition*event,Headache,HH,count,47648,28879
+condition*event,Headache,IP,count,117033,38819
+condition*event,Headache,OB,count,16028594,1544532
+condition*event,Headache,OP,count,594971,133959
+condition*event,Headache,RX,count,11520283,740601
+condition*event,Heart disease,ER,count,3589689,261022
+condition*event,Heart disease,HH,count,4746077,713075
+condition*event,Heart disease,IP,count,3518905,294319
+condition*event,Heart disease,OB,count,51781701,2936834
+condition*event,Heart disease,OP,count,6821150,818531
+condition*event,Heart disease,RX,count,52894549,2398987
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",ER,count,158079,77155
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",HH,count,23092,20503
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",IP,count,128891,52937
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",OB,count,3091237,817573
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",OP,count,608751,248040
+condition*event,"Hemorrhagic, coagulation, and disorders of White Blood cells",RX,count,1420247,319114
+condition*event,"Hereditary, degenerative and other nervous system disorders",ER,count,81054,34230
+condition*event,"Hereditary, degenerative and other nervous system disorders",HH,count,2297022,624630
+condition*event,"Hereditary, degenerative and other nervous system disorders",IP,count,206488,108611
+condition*event,"Hereditary, degenerative and other nervous system disorders",OB,count,9345381,2324969
+condition*event,"Hereditary, degenerative and other nervous system disorders",OP,count,755771,233183
+condition*event,"Hereditary, degenerative and other nervous system disorders",RX,count,6170775,634462
+condition*event,Hernias,ER,count,238664,58533
+condition*event,Hernias,HH,count,73528,48744
+condition*event,Hernias,IP,count,368452,64370
+condition*event,Hernias,OB,count,4861671,545487
+condition*event,Hernias,OP,count,990080,145153
+condition*event,Hernias,RX,count,2170454,259856
+condition*event,Hyperlipidemia,ER,count,30967,12369
+condition*event,Hyperlipidemia,HH,count,603701,205424
+condition*event,Hyperlipidemia,IP,count,37643,18711
+condition*event,Hyperlipidemia,OB,count,40194639,1993423
+condition*event,Hyperlipidemia,OP,count,3177889,390907
+condition*event,Hyperlipidemia,RX,count,62455425,2569418
+condition*event,Hypertension,ER,count,852643,120003
+condition*event,Hypertension,HH,count,3179962,546539
+condition*event,Hypertension,IP,count,455992,76722
+condition*event,Hypertension,OB,count,73614249,3067040
+condition*event,Hypertension,OP,count,5233113,1252904
+condition*event,Hypertension,RX,count,154431140,4912151
+condition*event,Infectious diseases,ER,count,1314987,162069
+condition*event,Infectious diseases,HH,count,203289,85685
+condition*event,Infectious diseases,IP,count,625667,119791
+condition*event,Infectious diseases,OB,count,26858646,2027378
+condition*event,Infectious diseases,OP,count,1769207,372225
+condition*event,Infectious diseases,RX,count,19789375,1141675
+condition*event,Influenza,ER,count,561783,93902
+condition*event,Influenza,HH,count,57077,43594
+condition*event,Influenza,IP,count,112164,38349
+condition*event,Influenza,OB,count,5394462,430486
+condition*event,Influenza,OP,count,134330,55605
+condition*event,Influenza,RX,count,5406146,417048
+condition*event,Intestinal infection,ER,count,1297435,147319
+condition*event,Intestinal infection,HH,count,137536,82799
+condition*event,Intestinal infection,IP,count,356887,80418
+condition*event,Intestinal infection,OB,count,7464418,469169
+condition*event,Intestinal infection,OP,count,188879,62887
+condition*event,Intestinal infection,RX,count,5947625,513748
+condition*event,Kidney Disease,ER,count,1180827,151834
+condition*event,Kidney Disease,HH,count,643230,177169
+condition*event,Kidney Disease,IP,count,817264,150740
+condition*event,Kidney Disease,OB,count,39314889,7275384
+condition*event,Kidney Disease,OP,count,9832284,2919109
+condition*event,Kidney Disease,RX,count,6254694,759653
+condition*event,Male genital disorders,ER,count,133537,45224
+condition*event,Male genital disorders,HH,count,8414.652668,8414.652668
+condition*event,Male genital disorders,IP,count,162813,46793
+condition*event,Male genital disorders,OB,count,5480839,502451
+condition*event,Male genital disorders,OP,count,650637,147815
+condition*event,Male genital disorders,RX,count,6077236,503084
+condition*event,Mental disorders,ER,count,1379071,196227
+condition*event,Mental disorders,HH,count,7220388,944857
+condition*event,Mental disorders,IP,count,1071723,139521
+condition*event,Mental disorders,OB,count,149213636,9667010
+condition*event,Mental disorders,OP,count,6321254,1373260
+condition*event,Mental disorders,RX,count,89222680,3328812
+condition*event,Non-malignant breast disease,ER,count,71724,31911
+condition*event,Non-malignant breast disease,HH,count,3115.170727,3115.170727
+condition*event,Non-malignant breast disease,IP,count,60501,34237
+condition*event,Non-malignant breast disease,OB,count,4166917,478744
+condition*event,Non-malignant breast disease,OP,count,1218233,162825
+condition*event,Non-malignant breast disease,RX,count,495698,109161
+condition*event,Non-malignant neoplasm,ER,count,31463,20926
+condition*event,Non-malignant neoplasm,HH,count,49814,49814
+condition*event,Non-malignant neoplasm,IP,count,230923,64103
+condition*event,Non-malignant neoplasm,OB,count,7213662,624424
+condition*event,Non-malignant neoplasm,OP,count,884715,151838
+condition*event,Non-malignant neoplasm,RX,count,893699,145044
+condition*event,Normal birth/live born,ER,count,1067032,140478
+condition*event,Normal birth/live born,HH,count,130885,66646
+condition*event,Normal birth/live born,IP,count,3889643,251679
+condition*event,Normal birth/live born,OB,count,44364471,2869264
+condition*event,Normal birth/live born,OP,count,2407383,437293
+condition*event,Normal birth/live born,RX,count,5649896,456663
+condition*event,Osteoarthritis and other non-traumatic joint disorders,ER,count,655276,107471
+condition*event,Osteoarthritis and other non-traumatic joint disorders,HH,count,4027942,600456
+condition*event,Osteoarthritis and other non-traumatic joint disorders,IP,count,728043,119425
+condition*event,Osteoarthritis and other non-traumatic joint disorders,OB,count,71885621,4440610
+condition*event,Osteoarthritis and other non-traumatic joint disorders,OP,count,6266620,766836
+condition*event,Osteoarthritis and other non-traumatic joint disorders,RX,count,33828187,1497894
+condition*event,Other CNS disorders,ER,count,886109,118002
+condition*event,Other CNS disorders,HH,count,1673891,357851
+condition*event,Other CNS disorders,IP,count,347448,74647
+condition*event,Other CNS disorders,OB,count,44802803,4536769
+condition*event,Other CNS disorders,OP,count,3527320,701640
+condition*event,Other CNS disorders,RX,count,13463253,863969
+condition*event,Other GI,ER,count,689277,107945
+condition*event,Other GI,HH,count,444242,154927
+condition*event,Other GI,IP,count,486509,98034
+condition*event,Other GI,OB,count,9082103,766466
+condition*event,Other GI,OP,count,1048344,164008
+condition*event,Other GI,RX,count,10577933,669446
+condition*event,Other bone and musculoskeletal disease,ER,count,80037,29202
+condition*event,Other bone and musculoskeletal disease,HH,count,782407,198116
+condition*event,Other bone and musculoskeletal disease,IP,count,65858,25760
+condition*event,Other bone and musculoskeletal disease,OB,count,20284538,2120248
+condition*event,Other bone and musculoskeletal disease,OP,count,1244648,198297
+condition*event,Other bone and musculoskeletal disease,RX,count,14905523,825170
+condition*event,Other care and screening,ER,count,205418,66756
+condition*event,Other care and screening,HH,count,1155381,249715
+condition*event,Other care and screening,IP,count,152567,49791
+condition*event,Other care and screening,OB,count,36817180,3029695
+condition*event,Other care and screening,OP,count,3097076,477675
+condition*event,Other care and screening,RX,count,53452718,2679625
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",ER,count,607896,90652
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",HH,count,1522047,397201
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",IP,count,909940,120300
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",OB,count,17609305,1580794
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",OP,count,3638148,1197454
+condition*event,"Other circulatory conditions arteries, veins, and lymphatics",RX,count,10355243,852254
+condition*event,"Other endocrine, nutritional & immune disorder",ER,count,894354,144263
+condition*event,"Other endocrine, nutritional & immune disorder",HH,count,1178622,299793
+condition*event,"Other endocrine, nutritional & immune disorder",IP,count,635889,106615
+condition*event,"Other endocrine, nutritional & immune disorder",OB,count,17871180,1859311
+condition*event,"Other endocrine, nutritional & immune disorder",OP,count,1578952,511607
+condition*event,"Other endocrine, nutritional & immune disorder",RX,count,21964025,1213354
+condition*event,Other eye disorders,ER,count,464802,85909
+condition*event,Other eye disorders,HH,count,750798,282764
+condition*event,Other eye disorders,IP,count,41814,19294
+condition*event,Other eye disorders,OB,count,25413924,1285741
+condition*event,Other eye disorders,OP,count,1207884,342998
+condition*event,Other eye disorders,RX,count,9445762,529725
+condition*event,Other stomach and intestinal disorders,ER,count,445812,103972
+condition*event,Other stomach and intestinal disorders,HH,count,73845,34114
+condition*event,Other stomach and intestinal disorders,IP,count,503369,100380
+condition*event,Other stomach and intestinal disorders,OB,count,4476939,652426
+condition*event,Other stomach and intestinal disorders,OP,count,650614,119564
+condition*event,Other stomach and intestinal disorders,RX,count,3219903,500384
+condition*event,Other urinary,ER,count,151326,45965
+condition*event,Other urinary,HH,count,656141,234857
+condition*event,Other urinary,IP,count,289018,90071
+condition*event,Other urinary,OB,count,7056697,775271
+condition*event,Other urinary,OP,count,732156,170338
+condition*event,Other urinary,RX,count,7388506,596181
+condition*event,Otitis media,ER,count,1160137,136071
+condition*event,Otitis media,HH,count,15458,15458
+condition*event,Otitis media,IP,count,17804,12846
+condition*event,Otitis media,OB,count,16902145,1026723
+condition*event,Otitis media,OP,count,383654,80716
+condition*event,Otitis media,RX,count,14888404,793061
+condition*event,Paralysis,ER,count,24952,17754
+condition*event,Paralysis,HH,count,840192,358840
+condition*event,Paralysis,IP,count,25250,17805
+condition*event,Paralysis,OB,count,1350350,685339
+condition*event,Paralysis,OP,count,567948,452752
+condition*event,Paralysis,RX,count,474873,199205
+condition*event,Perinatal Conditions,ER,count,36800,36800
+condition*event,Perinatal Conditions,HH,count,67521,38310
+condition*event,Perinatal Conditions,IP,count,33862,14668
+condition*event,Perinatal Conditions,OB,count,622341,216323
+condition*event,Perinatal Conditions,OP,count,91189,60078
+condition*event,Perinatal Conditions,RX,count,3431.587189,3431.587189
+condition*event,Pneumonia,ER,count,1442083,160522
+condition*event,Pneumonia,HH,count,460167,168395
+condition*event,Pneumonia,IP,count,1249944,165111
+condition*event,Pneumonia,OB,count,6350151,575735
+condition*event,Pneumonia,OP,count,597199,130340
+condition*event,Pneumonia,RX,count,5968085,458360
+condition*event,Poisoning by medical and non-medical substances,ER,count,1012171,124317
+condition*event,Poisoning by medical and non-medical substances,HH,count,18019,14084
+condition*event,Poisoning by medical and non-medical substances,IP,count,219847,60214
+condition*event,Poisoning by medical and non-medical substances,OB,count,2449565,518210
+condition*event,Poisoning by medical and non-medical substances,OP,count,146175,53682
+condition*event,Poisoning by medical and non-medical substances,RX,count,1847550,247815
+condition*event,Residual Codes,ER,count,403376,86541
+condition*event,Residual Codes,HH,count,1885410,341495
+condition*event,Residual Codes,IP,count,479183,89764
+condition*event,Residual Codes,OB,count,23212000,1862840
+condition*event,Residual Codes,OP,count,1978808,332927
+condition*event,Residual Codes,RX,count,33612303,1611349
+condition*event,Skin disorders,ER,count,1384400,184573
+condition*event,Skin disorders,HH,count,1171069,289127
+condition*event,Skin disorders,IP,count,619209,112927
+condition*event,Skin disorders,OB,count,39277681,2323198
+condition*event,Skin disorders,OP,count,2669775,1011861
+condition*event,Skin disorders,RX,count,27095141,1377217
+condition*event,Symptoms,ER,count,1491180,166466
+condition*event,Symptoms,HH,count,509763,186215
+condition*event,Symptoms,IP,count,372263,77582
+condition*event,Symptoms,OB,count,10487761,1036174
+condition*event,Symptoms,OP,count,817863,149934
+condition*event,Symptoms,RX,count,5081541,404004
+condition*event,Systemic lupus and connective tissues disorders,ER,count,774951,113386
+condition*event,Systemic lupus and connective tissues disorders,HH,count,1038549,227421
+condition*event,Systemic lupus and connective tissues disorders,IP,count,330437,68854
+condition*event,Systemic lupus and connective tissues disorders,OB,count,48523709,3165758
+condition*event,Systemic lupus and connective tissues disorders,OP,count,3931609,584959
+condition*event,Systemic lupus and connective tissues disorders,RX,count,17719304,1084904
+condition*event,Thyroid disease,ER,count,118855,75516
+condition*event,Thyroid disease,HH,count,557770,241579
+condition*event,Thyroid disease,IP,count,110127,31987
+condition*event,Thyroid disease,OB,count,19768926,1384227
+condition*event,Thyroid disease,OP,count,1967138,407900
+condition*event,Thyroid disease,RX,count,30529895,1353768
+condition*event,Tonsillitis,ER,count,93472,35985
+condition*event,Tonsillitis,HH,count,7880.652813,7880.652813
+condition*event,Tonsillitis,IP,count,62379,30959
+condition*event,Tonsillitis,OB,count,1701686,245328
+condition*event,Tonsillitis,OP,count,272702,67599
+condition*event,Tonsillitis,RX,count,1300139,202142
+condition*event,Trauma-related disorders,ER,count,15339574,618573
+condition*event,Trauma-related disorders,HH,count,3263306,552375
+condition*event,Trauma-related disorders,IP,count,2483800,224241
+condition*event,Trauma-related disorders,OB,count,119985537,6010784
+condition*event,Trauma-related disorders,OP,count,13078803,1668567
+condition*event,Trauma-related disorders,RX,count,24357454,972418
+condition*event,Urinary tract infections,ER,count,1115404,126032
+condition*event,Urinary tract infections,HH,count,138202,60227
+condition*event,Urinary tract infections,IP,count,449376,82701
+condition*event,Urinary tract infections,OB,count,11504631,1075283
+condition*event,Urinary tract infections,OP,count,499589,105140
+condition*event,Urinary tract infections,RX,count,11206273,692017

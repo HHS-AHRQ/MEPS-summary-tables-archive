@@ -1,0 +1,295 @@
+DomainLabel,condition,agegrps,VarName,Mean,StdErr
+condition*agegrps,Acute Bronchitis and URI,Under 5,XP08X,257.291494,37.147125
+condition*agegrps,Acute Bronchitis and URI,5-17,XP08X,208.485048,17.780898
+condition*agegrps,Acute Bronchitis and URI,18-44,XP08X,286.570993,85.014572
+condition*agegrps,Acute Bronchitis and URI,45-64,XP08X,311.149022,31.343122
+condition*agegrps,Acute Bronchitis and URI,65+,XP08X,518.042644,208.959762
+condition*agegrps,Allergic reactions,Under 5,XP08X,288.718330,53.012489
+condition*agegrps,Allergic reactions,5-17,XP08X,280.533627,63.901758
+condition*agegrps,Allergic reactions,18-44,XP08X,288.856492,45.250245
+condition*agegrps,Allergic reactions,45-64,XP08X,475.790210,197.333114
+condition*agegrps,Allergic reactions,65+,XP08X,458.596093,110.751628
+condition*agegrps,Anemia and other deficiencies,Under 5,XP08X,270.198676,110.539820
+condition*agegrps,Anemia and other deficiencies,5-17,XP08X,301.140478,156.461825
+condition*agegrps,Anemia and other deficiencies,18-44,XP08X,3022.850308,2512.169223
+condition*agegrps,Anemia and other deficiencies,45-64,XP08X,805.170871,209.844382
+condition*agegrps,Anemia and other deficiencies,65+,XP08X,1193.604720,289.782965
+condition*agegrps,Appendicitis,Under 5,XP08X,17.000000,0
+condition*agegrps,Appendicitis,5-17,XP08X,17302,4144.044945
+condition*agegrps,Appendicitis,18-44,XP08X,4039.234275,1657.422603
+condition*agegrps,Appendicitis,45-64,XP08X,10127,3596.811507
+condition*agegrps,Appendicitis,65+,XP08X,18548,3722.646390
+condition*agegrps,Back problems,Under 5,XP08X,2061.081312,1410.892234
+condition*agegrps,Back problems,5-17,XP08X,682.213102,247.193626
+condition*agegrps,Back problems,18-44,XP08X,1663.693339,337.644303
+condition*agegrps,Back problems,45-64,XP08X,1881.408371,209.624213
+condition*agegrps,Back problems,65+,XP08X,2629.409069,408.898697
+condition*agegrps,CNS infection,Under 5,XP08X,2986.271139,790.487409
+condition*agegrps,CNS infection,5-17,XP08X,604.331998,95.435280
+condition*agegrps,CNS infection,18-44,XP08X,8100.699044,1806.479497
+condition*agegrps,CNS infection,45-64,XP08X,4267.314398,1598.546987
+condition*agegrps,CNS infection,65+,XP08X,5210.826349,5041.464271
+condition*agegrps,"COPD, asthma",Under 5,XP08X,1276.180562,555.316402
+condition*agegrps,"COPD, asthma",5-17,XP08X,588.832584,51.891143
+condition*agegrps,"COPD, asthma",18-44,XP08X,691.088053,56.769950
+condition*agegrps,"COPD, asthma",45-64,XP08X,1491.587668,146.953428
+condition*agegrps,"COPD, asthma",65+,XP08X,1689.165791,127.565578
+condition*agegrps,Cancer,Under 5,XP08X,448.736485,188.412768
+condition*agegrps,Cancer,5-17,XP08X,6870.107287,5378.632943
+condition*agegrps,Cancer,18-44,XP08X,3798.068614,1026.655959
+condition*agegrps,Cancer,45-64,XP08X,5900.812960,943.338822
+condition*agegrps,Cancer,65+,XP08X,4028.210657,616.179422
+condition*agegrps,Cataract,5-17,XP08X,1658.326475,1367.754574
+condition*agegrps,Cataract,18-44,XP08X,569.157096,319.801970
+condition*agegrps,Cataract,45-64,XP08X,2310.048213,1133.927571
+condition*agegrps,Cataract,65+,XP08X,1226.613751,137.989867
+condition*agegrps,Cerebrovascular disease,5-17,XP08X,20796,0
+condition*agegrps,Cerebrovascular disease,18-44,XP08X,2997.698854,1572.022776
+condition*agegrps,Cerebrovascular disease,45-64,XP08X,6052.400786,1737.713642
+condition*agegrps,Cerebrovascular disease,65+,XP08X,4812.557364,760.062874
+condition*agegrps,"Coma, brain damage",Under 5,XP08X,245.230000,0
+condition*agegrps,"Coma, brain damage",5-17,XP08X,3589.190000,0
+condition*agegrps,"Coma, brain damage",18-44,XP08X,467.365548,48.689120
+condition*agegrps,"Coma, brain damage",45-64,XP08X,5342.460000,0
+condition*agegrps,"Coma, brain damage",65+,XP08X,5080.732932,2792.292983
+condition*agegrps,Complications of pregnancy and birth,5-17,XP08X,38.241146,14.309512
+condition*agegrps,Complications of pregnancy and birth,18-44,XP08X,1973.676520,398.596460
+condition*agegrps,Complications of surgery or device,Under 5,XP08X,7598.300386,3534.454063
+condition*agegrps,Complications of surgery or device,5-17,XP08X,452.946493,290.066320
+condition*agegrps,Complications of surgery or device,18-44,XP08X,604.551647,274.555123
+condition*agegrps,Complications of surgery or device,45-64,XP08X,3535.529431,1449.148831
+condition*agegrps,Complications of surgery or device,65+,XP08X,5461.466496,1841.683465
+condition*agegrps,Congenital anomalies,Under 5,XP08X,11716,5161.774471
+condition*agegrps,Congenital anomalies,5-17,XP08X,1355.876340,752.133311
+condition*agegrps,Congenital anomalies,18-44,XP08X,6471.151975,5124.236048
+condition*agegrps,Congenital anomalies,45-64,XP08X,2260.033063,1435.873348
+condition*agegrps,Congenital anomalies,65+,XP08X,1910.131048,902.784679
+condition*agegrps,Diabetes mellitus,Under 5,XP08X,5539.150000,0
+condition*agegrps,Diabetes mellitus,5-17,XP08X,1795.666856,456.385499
+condition*agegrps,Diabetes mellitus,18-44,XP08X,2194.096524,445.112357
+condition*agegrps,Diabetes mellitus,45-64,XP08X,2265.369257,193.788206
+condition*agegrps,Diabetes mellitus,65+,XP08X,2055.769300,143.743639
+condition*agegrps,Disorders of mouth and esophagus,Under 5,XP08X,1158.835218,985.051767
+condition*agegrps,Disorders of mouth and esophagus,5-17,XP08X,320.315269,264.896783
+condition*agegrps,Disorders of mouth and esophagus,18-44,XP08X,242.581474,104.428085
+condition*agegrps,Disorders of mouth and esophagus,45-64,XP08X,2426.004148,2042.963812
+condition*agegrps,Disorders of mouth and esophagus,65+,XP08X,510.656364,214.571805
+condition*agegrps,Disorders of teeth and jaws,Under 5,XP08X,1102.290658,556.056587
+condition*agegrps,Disorders of teeth and jaws,5-17,XP08X,302.427103,96.156418
+condition*agegrps,Disorders of teeth and jaws,18-44,XP08X,465.697058,335.658767
+condition*agegrps,Disorders of teeth and jaws,45-64,XP08X,175.455454,54.827890
+condition*agegrps,Disorders of teeth and jaws,65+,XP08X,313.067178,155.506982
+condition*agegrps,Disorders of the upper GI,Under 5,XP08X,3183.868937,1672.446197
+condition*agegrps,Disorders of the upper GI,5-17,XP08X,1426.800896,503.864490
+condition*agegrps,Disorders of the upper GI,18-44,XP08X,963.754449,86.052894
+condition*agegrps,Disorders of the upper GI,45-64,XP08X,1232.620221,98.993946
+condition*agegrps,Disorders of the upper GI,65+,XP08X,1117.210603,100.221601
+condition*agegrps,Epilepsy and convulsions,Under 5,XP08X,3584.742260,885.480237
+condition*agegrps,Epilepsy and convulsions,5-17,XP08X,3849.521392,1332.147409
+condition*agegrps,Epilepsy and convulsions,18-44,XP08X,3218.865489,656.035454
+condition*agegrps,Epilepsy and convulsions,45-64,XP08X,3646.653525,830.299479
+condition*agegrps,Epilepsy and convulsions,65+,XP08X,2143.865108,515.013384
+condition*agegrps,"Female genital disorders, and contraception",Under 5,XP08X,416.550923,135.611237
+condition*agegrps,"Female genital disorders, and contraception",5-17,XP08X,362.485587,62.168530
+condition*agegrps,"Female genital disorders, and contraception",18-44,XP08X,955.639112,130.278476
+condition*agegrps,"Female genital disorders, and contraception",45-64,XP08X,757.688473,116.429891
+condition*agegrps,"Female genital disorders, and contraception",65+,XP08X,1011.748473,408.877858
+condition*agegrps,"Gallbladder, pancreatic, and liver disease",Under 5,XP08X,4167.305018,2998.738106
+condition*agegrps,"Gallbladder, pancreatic, and liver disease",5-17,XP08X,7787.322108,1980.969738
+condition*agegrps,"Gallbladder, pancreatic, and liver disease",18-44,XP08X,3544.178519,759.978925
+condition*agegrps,"Gallbladder, pancreatic, and liver disease",45-64,XP08X,7381.388759,1475.834442
+condition*agegrps,"Gallbladder, pancreatic, and liver disease",65+,XP08X,4004.290786,873.166477
+condition*agegrps,Glaucoma,5-17,XP08X,301.509456,48.144110
+condition*agegrps,Glaucoma,18-44,XP08X,561.245186,221.586139
+condition*agegrps,Glaucoma,45-64,XP08X,740.484445,114.317653
+condition*agegrps,Glaucoma,65+,XP08X,833.205389,103.004915
+condition*agegrps,Headache,Under 5,XP08X,68.984682,30.835549
+condition*agegrps,Headache,5-17,XP08X,597.083129,173.321758
+condition*agegrps,Headache,18-44,XP08X,905.310732,102.582129
+condition*agegrps,Headache,45-64,XP08X,1088.741150,141.472820
+condition*agegrps,Headache,65+,XP08X,645.455737,148.537176
+condition*agegrps,Heart disease,Under 5,XP08X,15240,7680.633368
+condition*agegrps,Heart disease,5-17,XP08X,776.962107,191.924250
+condition*agegrps,Heart disease,18-44,XP08X,3683.987762,889.590268
+condition*agegrps,Heart disease,45-64,XP08X,4486.804141,665.767572
+condition*agegrps,Heart disease,65+,XP08X,3820.088982,385.716557
+condition*agegrps,"Hemorrhagic, coagulation, and disorders of White Blood cells",Under 5,XP08X,113.752705,40.955680
+condition*agegrps,"Hemorrhagic, coagulation, and disorders of White Blood cells",5-17,XP08X,1330.175450,1097.326245
+condition*agegrps,"Hemorrhagic, coagulation, and disorders of White Blood cells",18-44,XP08X,2227.292507,909.110566
+condition*agegrps,"Hemorrhagic, coagulation, and disorders of White Blood cells",45-64,XP08X,1752.633508,522.605110
+condition*agegrps,"Hemorrhagic, coagulation, and disorders of White Blood cells",65+,XP08X,3608.137686,1975.103838
+condition*agegrps,"Hereditary, degenerative and other nervous system disorders",Under 5,XP08X,6057.686746,2654.971425
+condition*agegrps,"Hereditary, degenerative and other nervous system disorders",5-17,XP08X,4884.515850,4688.201505
+condition*agegrps,"Hereditary, degenerative and other nervous system disorders",18-44,XP08X,4191.371782,1154.200000
+condition*agegrps,"Hereditary, degenerative and other nervous system disorders",45-64,XP08X,5294.134906,1370.848357
+condition*agegrps,"Hereditary, degenerative and other nervous system disorders",65+,XP08X,3204.084680,775.122859
+condition*agegrps,Hernias,Under 5,XP08X,94690,51770
+condition*agegrps,Hernias,5-17,XP08X,2304.800627,1674.943724
+condition*agegrps,Hernias,18-44,XP08X,1966.830841,470.298410
+condition*agegrps,Hernias,45-64,XP08X,4573.552371,826.483004
+condition*agegrps,Hernias,65+,XP08X,4222.719723,1042.887033
+condition*agegrps,Hyperlipidemia,Under 5,XP08X,100.000000,0
+condition*agegrps,Hyperlipidemia,5-17,XP08X,227.592978,40.564248
+condition*agegrps,Hyperlipidemia,18-44,XP08X,549.639241,34.889234
+condition*agegrps,Hyperlipidemia,45-64,XP08X,902.290531,57.067244
+condition*agegrps,Hyperlipidemia,65+,XP08X,902.205261,38.440778
+condition*agegrps,Hypertension,Under 5,XP08X,303.360000,0
+condition*agegrps,Hypertension,5-17,XP08X,286.399715,52.383014
+condition*agegrps,Hypertension,18-44,XP08X,783.071222,120.512616
+condition*agegrps,Hypertension,45-64,XP08X,744.254107,52.196379
+condition*agegrps,Hypertension,65+,XP08X,1001.576514,80.028848
+condition*agegrps,Infectious diseases,Under 5,XP08X,801.059670,293.033490
+condition*agegrps,Infectious diseases,5-17,XP08X,250.907338,28.454012
+condition*agegrps,Infectious diseases,18-44,XP08X,745.504726,141.096408
+condition*agegrps,Infectious diseases,45-64,XP08X,1358.694054,203.810321
+condition*agegrps,Infectious diseases,65+,XP08X,1942.747029,529.905759
+condition*agegrps,Influenza,Under 5,XP08X,203.541776,38.621800
+condition*agegrps,Influenza,5-17,XP08X,147.232862,26.658778
+condition*agegrps,Influenza,18-44,XP08X,325.283208,67.422997
+condition*agegrps,Influenza,45-64,XP08X,213.550496,32.590973
+condition*agegrps,Influenza,65+,XP08X,336.612211,120.627652
+condition*agegrps,Intestinal infection,Under 5,XP08X,302.720162,77.047998
+condition*agegrps,Intestinal infection,5-17,XP08X,235.168855,50.003350
+condition*agegrps,Intestinal infection,18-44,XP08X,474.829766,118.277444
+condition*agegrps,Intestinal infection,45-64,XP08X,878.041246,280.661741
+condition*agegrps,Intestinal infection,65+,XP08X,1945.194945,1210.628928
+condition*agegrps,Kidney Disease,Under 5,XP08X,4478.817280,2876.096010
+condition*agegrps,Kidney Disease,5-17,XP08X,9938.279490,7913.391154
+condition*agegrps,Kidney Disease,18-44,XP08X,4225.892776,1331.842563
+condition*agegrps,Kidney Disease,45-64,XP08X,4747.385352,999.004146
+condition*agegrps,Kidney Disease,65+,XP08X,4664.367041,962.093766
+condition*agegrps,Male genital disorders,Under 5,XP08X,319.044771,116.151068
+condition*agegrps,Male genital disorders,5-17,XP08X,4093.549308,2067.687970
+condition*agegrps,Male genital disorders,18-44,XP08X,385.396073,73.946302
+condition*agegrps,Male genital disorders,45-64,XP08X,1025.569314,291.610396
+condition*agegrps,Male genital disorders,65+,XP08X,742.469989,61.933610
+condition*agegrps,Mental disorders,Under 5,XP08X,4438.357585,1882.427104
+condition*agegrps,Mental disorders,5-17,XP08X,2378.267997,289.740379
+condition*agegrps,Mental disorders,18-44,XP08X,1734.075021,146.599916
+condition*agegrps,Mental disorders,45-64,XP08X,1701.623373,152.432687
+condition*agegrps,Mental disorders,65+,XP08X,2185.637940,255.643512
+condition*agegrps,Non-malignant breast disease,Under 5,XP08X,73.210000,0
+condition*agegrps,Non-malignant breast disease,5-17,XP08X,164.412950,94.226917
+condition*agegrps,Non-malignant breast disease,18-44,XP08X,1940.044197,705.980767
+condition*agegrps,Non-malignant breast disease,45-64,XP08X,1369.236138,422.854262
+condition*agegrps,Non-malignant breast disease,65+,XP08X,1709.867096,850.638869
+condition*agegrps,Non-malignant neoplasm,Under 5,XP08X,863.930000,0
+condition*agegrps,Non-malignant neoplasm,5-17,XP08X,234.790859,79.297873
+condition*agegrps,Non-malignant neoplasm,18-44,XP08X,1851.115729,454.367556
+condition*agegrps,Non-malignant neoplasm,45-64,XP08X,1044.544009,198.741111
+condition*agegrps,Non-malignant neoplasm,65+,XP08X,1497.989838,496.956294
+condition*agegrps,Normal birth/live born,Under 5,XP08X,8146.139134,6705.068010
+condition*agegrps,Normal birth/live born,5-17,XP08X,4998.432880,775.395277
+condition*agegrps,Normal birth/live born,18-44,XP08X,5658.707455,363.931779
+condition*agegrps,Normal birth/live born,45-64,XP08X,828.995789,192.424038
+condition*agegrps,Osteoarthritis and other non-traumatic joint disorders,Under 5,XP08X,506.861738,313.376726
+condition*agegrps,Osteoarthritis and other non-traumatic joint disorders,5-17,XP08X,1784.666708,992.892382
+condition*agegrps,Osteoarthritis and other non-traumatic joint disorders,18-44,XP08X,996.473099,133.992116
+condition*agegrps,Osteoarthritis and other non-traumatic joint disorders,45-64,XP08X,1659.819282,165.074737
+condition*agegrps,Osteoarthritis and other non-traumatic joint disorders,65+,XP08X,1856.152901,210.201141
+condition*agegrps,Other CNS disorders,Under 5,XP08X,766.146616,292.152725
+condition*agegrps,Other CNS disorders,5-17,XP08X,816.642199,203.304052
+condition*agegrps,Other CNS disorders,18-44,XP08X,977.428079,140.459250
+condition*agegrps,Other CNS disorders,45-64,XP08X,1873.152003,397.953677
+condition*agegrps,Other CNS disorders,65+,XP08X,1100.748186,145.518126
+condition*agegrps,Other GI,Under 5,XP08X,427.254024,161.637606
+condition*agegrps,Other GI,5-17,XP08X,912.431228,278.666750
+condition*agegrps,Other GI,18-44,XP08X,1179.720488,246.299434
+condition*agegrps,Other GI,45-64,XP08X,1818.938097,408.246864
+condition*agegrps,Other GI,65+,XP08X,1551.574777,427.114407
+condition*agegrps,Other bone and musculoskeletal disease,Under 5,XP08X,345.777068,56.785146
+condition*agegrps,Other bone and musculoskeletal disease,5-17,XP08X,1664.192671,1089.581400
+condition*agegrps,Other bone and musculoskeletal disease,18-44,XP08X,654.447274,119.366449
+condition*agegrps,Other bone and musculoskeletal disease,45-64,XP08X,884.028586,106.593143
+condition*agegrps,Other bone and musculoskeletal disease,65+,XP08X,722.384801,80.789925
+condition*agegrps,Other care and screening,Under 5,XP08X,1265.461028,1080.726898
+condition*agegrps,Other care and screening,5-17,XP08X,691.462237,310.842521
+condition*agegrps,Other care and screening,18-44,XP08X,469.586386,145.064760
+condition*agegrps,Other care and screening,45-64,XP08X,743.722755,172.573925
+condition*agegrps,Other care and screening,65+,XP08X,721.262569,101.098498
+condition*agegrps,"Other circulatory conditions arteries, veins, and lymphatics",Under 5,XP08X,2572.702242,2332.589110
+condition*agegrps,"Other circulatory conditions arteries, veins, and lymphatics",5-17,XP08X,814.028381,469.918996
+condition*agegrps,"Other circulatory conditions arteries, veins, and lymphatics",18-44,XP08X,1524.786102,374.719967
+condition*agegrps,"Other circulatory conditions arteries, veins, and lymphatics",45-64,XP08X,3265.078578,635.743811
+condition*agegrps,"Other circulatory conditions arteries, veins, and lymphatics",65+,XP08X,3773.221227,827.595751
+condition*agegrps,"Other endocrine, nutritional & immune disorder",Under 5,XP08X,5372.973254,2432.691908
+condition*agegrps,"Other endocrine, nutritional & immune disorder",5-17,XP08X,3748.103343,1133.939828
+condition*agegrps,"Other endocrine, nutritional & immune disorder",18-44,XP08X,618.440970,118.375451
+condition*agegrps,"Other endocrine, nutritional & immune disorder",45-64,XP08X,741.959438,169.143120
+condition*agegrps,"Other endocrine, nutritional & immune disorder",65+,XP08X,997.367701,211.014514
+condition*agegrps,Other eye disorders,Under 5,XP08X,302.926931,88.554717
+condition*agegrps,Other eye disorders,5-17,XP08X,205.663432,36.726231
+condition*agegrps,Other eye disorders,18-44,XP08X,360.286824,58.334912
+condition*agegrps,Other eye disorders,45-64,XP08X,814.879321,189.707409
+condition*agegrps,Other eye disorders,65+,XP08X,828.607474,126.787877
+condition*agegrps,Other stomach and intestinal disorders,Under 5,XP08X,10351,0
+condition*agegrps,Other stomach and intestinal disorders,5-17,XP08X,8249.971345,4755.076375
+condition*agegrps,Other stomach and intestinal disorders,18-44,XP08X,3829.654142,1021.126484
+condition*agegrps,Other stomach and intestinal disorders,45-64,XP08X,3846.731733,1085.098788
+condition*agegrps,Other stomach and intestinal disorders,65+,XP08X,4272.695496,1391.995292
+condition*agegrps,Other urinary,Under 5,XP08X,539.604437,192.427855
+condition*agegrps,Other urinary,5-17,XP08X,696.925396,154.544263
+condition*agegrps,Other urinary,18-44,XP08X,1135.411994,347.882606
+condition*agegrps,Other urinary,45-64,XP08X,2612.246006,972.470818
+condition*agegrps,Other urinary,65+,XP08X,1356.515729,384.527227
+condition*agegrps,Otitis media,Under 5,XP08X,312.340217,30.197416
+condition*agegrps,Otitis media,5-17,XP08X,450.787406,96.173351
+condition*agegrps,Otitis media,18-44,XP08X,241.027837,36.834140
+condition*agegrps,Otitis media,45-64,XP08X,319.360161,60.709993
+condition*agegrps,Otitis media,65+,XP08X,617.955247,279.852495
+condition*agegrps,Paralysis,5-17,XP08X,10171,7596.448486
+condition*agegrps,Paralysis,18-44,XP08X,8185.960604,3025.727813
+condition*agegrps,Paralysis,45-64,XP08X,26148,13504
+condition*agegrps,Paralysis,65+,XP08X,6429.284854,3048.625661
+condition*agegrps,Perinatal Conditions,Under 5,XP08X,21722,11650
+condition*agegrps,Perinatal Conditions,5-17,XP08X,613.546415,426.561308
+condition*agegrps,Perinatal Conditions,18-44,XP08X,105.217729,9.250830
+condition*agegrps,Pneumonia,Under 5,XP08X,2610.208894,1100.878365
+condition*agegrps,Pneumonia,5-17,XP08X,659.847862,169.392597
+condition*agegrps,Pneumonia,18-44,XP08X,1451.727196,635.686370
+condition*agegrps,Pneumonia,45-64,XP08X,3786.137747,807.751886
+condition*agegrps,Pneumonia,65+,XP08X,6913.609869,1233.275775
+condition*agegrps,Poisoning by medical and non-medical substances,Under 5,XP08X,377.995588,96.289703
+condition*agegrps,Poisoning by medical and non-medical substances,5-17,XP08X,415.619719,146.837395
+condition*agegrps,Poisoning by medical and non-medical substances,18-44,XP08X,2411.556580,1362.834552
+condition*agegrps,Poisoning by medical and non-medical substances,45-64,XP08X,1039.030428,379.727473
+condition*agegrps,Poisoning by medical and non-medical substances,65+,XP08X,2496.869635,1015.056094
+condition*agegrps,Residual Codes,Under 5,XP08X,5275.696996,5117.066141
+condition*agegrps,Residual Codes,5-17,XP08X,712.252755,479.974127
+condition*agegrps,Residual Codes,18-44,XP08X,741.556083,119.477111
+condition*agegrps,Residual Codes,45-64,XP08X,920.107103,204.484682
+condition*agegrps,Residual Codes,65+,XP08X,1105.900562,184.922866
+condition*agegrps,Skin disorders,Under 5,XP08X,808.171119,290.654471
+condition*agegrps,Skin disorders,5-17,XP08X,391.273224,65.328482
+condition*agegrps,Skin disorders,18-44,XP08X,1105.263622,311.598662
+condition*agegrps,Skin disorders,45-64,XP08X,1505.433935,321.171389
+condition*agegrps,Skin disorders,65+,XP08X,1082.276143,258.041928
+condition*agegrps,Symptoms,Under 5,XP08X,392.795922,93.293256
+condition*agegrps,Symptoms,5-17,XP08X,406.311896,81.916043
+condition*agegrps,Symptoms,18-44,XP08X,1105.363295,195.620593
+condition*agegrps,Symptoms,45-64,XP08X,1678.144892,420.635647
+condition*agegrps,Symptoms,65+,XP08X,1151.224733,351.434404
+condition*agegrps,Systemic lupus and connective tissues disorders,Under 5,XP08X,875.737667,620.809237
+condition*agegrps,Systemic lupus and connective tissues disorders,5-17,XP08X,836.359548,246.956582
+condition*agegrps,Systemic lupus and connective tissues disorders,18-44,XP08X,1098.284751,127.318232
+condition*agegrps,Systemic lupus and connective tissues disorders,45-64,XP08X,1366.146693,157.895422
+condition*agegrps,Systemic lupus and connective tissues disorders,65+,XP08X,1406.790106,225.000727
+condition*agegrps,Thyroid disease,Under 5,XP08X,353.424546,103.764492
+condition*agegrps,Thyroid disease,5-17,XP08X,443.869200,156.451798
+condition*agegrps,Thyroid disease,18-44,XP08X,445.792029,74.932906
+condition*agegrps,Thyroid disease,45-64,XP08X,355.701917,40.643828
+condition*agegrps,Thyroid disease,65+,XP08X,272.963150,30.924532
+condition*agegrps,Tonsillitis,Under 5,XP08X,2218.146837,653.133109
+condition*agegrps,Tonsillitis,5-17,XP08X,1166.736607,298.849500
+condition*agegrps,Tonsillitis,18-44,XP08X,317.700005,109.909818
+condition*agegrps,Tonsillitis,45-64,XP08X,1058.729563,699.069326
+condition*agegrps,Trauma-related disorders,Under 5,XP08X,764.377902,179.966902
+condition*agegrps,Trauma-related disorders,5-17,XP08X,1096.271475,138.410404
+condition*agegrps,Trauma-related disorders,18-44,XP08X,1559.523961,209.261010
+condition*agegrps,Trauma-related disorders,45-64,XP08X,3059.087218,722.995185
+condition*agegrps,Trauma-related disorders,65+,XP08X,3741.975049,624.229324
+condition*agegrps,Urinary tract infections,Under 5,XP08X,272.147117,117.995201
+condition*agegrps,Urinary tract infections,5-17,XP08X,613.034218,301.599380
+condition*agegrps,Urinary tract infections,18-44,XP08X,549.887202,84.256808
+condition*agegrps,Urinary tract infections,45-64,XP08X,539.696806,133.586399
+condition*agegrps,Urinary tract infections,65+,XP08X,2417.555809,573.982191

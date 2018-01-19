@@ -1,0 +1,113 @@
+Table,domain,F_married,married,F_insurance_v2X,insurance_v2X,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of married * insurance_v2X,0,Married,Married,"<65, Any private","<65, Any private",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Married,Married,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Married,Married,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Married,Married,"65+, Medicare only","65+, Medicare only",433,5255468,408581,15.1561,1.0738,28.4552,1.8510,
+Table 1 of married * insurance_v2X,0,Married,Married,"65+, Medicare and private","65+, Medicare and private",952,11917110,611208,34.3674,1.2376,64.5239,1.8153,
+Table 1 of married * insurance_v2X,0,Married,Married,"65+, Medicare and other public","65+, Medicare and other public",130,1079438,160366,3.1130,0.4541,5.8445,0.8365,
+Table 1 of married * insurance_v2X,0,Married,Married,"65+, No medicare","65+, No medicare",23,217267,58641,0.6266,0.1687,1.1764,0.3144,
+Table 1 of married * insurance_v2X,0,Married,Married,Total,,1538,18469283,786194,53.2631,1.3147,100.0000,_,1
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"65+, Medicare only","65+, Medicare only",328,4253255,310140,12.2658,0.7904,34.3772,1.8084,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"65+, Medicare and private","65+, Medicare and private",427,6060758,394494,17.4785,0.9703,48.9864,2.1002,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"65+, Medicare and other public","65+, Medicare and other public",181,1907581,174413,5.5012,0.4852,15.4181,1.3007,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,"65+, No medicare","65+, No medicare",12,150728,52502,0.4347,0.1512,1.2183,0.4219,
+Table 1 of married * insurance_v2X,0,Widowed,Widowed,Total,,948,12372322,588176,35.6802,1.2367,100.0000,_,1
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"65+, Medicare only","65+, Medicare only",68,885768,133284,2.5544,0.3734,37.0546,3.9232,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"65+, Medicare and private","65+, Medicare and private",72,993533,146288,2.8652,0.4092,41.5628,4.0472,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"65+, Medicare and other public","65+, Medicare and other public",43,458027,82740,1.3209,0.2347,19.1608,3.0238,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,"65+, No medicare","65+, No medicare",6,53110,24050,0.1532,0.0693,2.2218,1.0111,
+Table 1 of married * insurance_v2X,0,Divorced,Divorced,Total,,189,2390437,247749,6.8937,0.6725,100.0000,_,1
+Table 1 of married * insurance_v2X,0,Separated,Separated,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of married * insurance_v2X,0,Separated,Separated,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Separated,Separated,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Separated,Separated,"65+, Medicare only","65+, Medicare only",10,100370,39109,0.2895,0.1123,46.7708,12.1894,
+Table 1 of married * insurance_v2X,0,Separated,Separated,"65+, Medicare and private","65+, Medicare and private",3,34049,20307,0.0982,0.0587,15.8662,8.9376,
+Table 1 of married * insurance_v2X,0,Separated,Separated,"65+, Medicare and other public","65+, Medicare and other public",10,80181,28581,0.2312,0.0829,37.3630,11.7357,
+Table 1 of married * insurance_v2X,0,Separated,Separated,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Separated,Separated,Total,,23,214600,50757,0.6189,0.1466,100.0000,_,1
+Table 1 of married * insurance_v2X,0,Never married,Never married,"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of married * insurance_v2X,0,Never married,Never married,"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Never married,Never married,"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Never married,Never married,"65+, Medicare only","65+, Medicare only",32,358541,81300,1.0340,0.2271,29.1747,5.3191,
+Table 1 of married * insurance_v2X,0,Never married,Never married,"65+, Medicare and private","65+, Medicare and private",39,554190,104714,1.5982,0.3005,45.0947,6.6824,
+Table 1 of married * insurance_v2X,0,Never married,Never married,"65+, Medicare and other public","65+, Medicare and other public",24,282454,83297,0.8146,0.2379,22.9834,5.6385,
+Table 1 of married * insurance_v2X,0,Never married,Never married,"65+, No medicare","65+, No medicare",1,33762,33762,0.0974,0.0971,2.7472,2.6969,
+Table 1 of married * insurance_v2X,0,Never married,Never married,Total,,96,1228947,167846,3.5441,0.4629,100.0000,_,1
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Any private","<65, Any private",0,,,,,,,-
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Public only","<65, Public only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Uninsured","<65, Uninsured",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 1 of married * insurance_v2X,0,Inapplicable (age < 16),Inapplicable (age < 16),Total,,0,,,,,,_,1
+Table 1 of married * insurance_v2X,0,Total,Missing,"<65, Any private","<65, Any private",0,,,,,_,_,-
+Table 1 of married * insurance_v2X,0,Total,Missing,"<65, Public only","<65, Public only",0,,,,,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,"<65, Uninsured","<65, Uninsured",0,,,,,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,"65+, Medicare only","65+, Medicare only",871,10853402,576316,31.2998,1.2703,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,"65+, Medicare and private","65+, Medicare and private",1493,19559640,833635,56.4075,1.3505,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",388,3807681,297806,10.9809,0.8053,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,"65+, No medicare","65+, No medicare",42,454867,96487,1.3118,0.2762,_,_,
+Table 1 of married * insurance_v2X,0,Total,Missing,Total,,2794,34675590,1180118,100.0000,_,_,_,1
+Table 2 of married * insurance_v2X,1,Married,Married,"<65, Any private","<65, Any private",6753,83200353,2863824,34.4180,0.4846,86.8256,0.6179,
+Table 2 of married * insurance_v2X,1,Married,Married,"<65, Public only","<65, Public only",404,3678053,343626,1.5215,0.1472,3.8383,0.3729,
+Table 2 of married * insurance_v2X,1,Married,Married,"<65, Uninsured","<65, Uninsured",1073,8946282,496312,3.7009,0.1854,9.3361,0.4566,
+Table 2 of married * insurance_v2X,1,Married,Married,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Married,Married,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Married,Married,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Married,Married,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Married,Married,Total,,8230,95824689,3062700,39.6404,0.4623,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"<65, Any private","<65, Any private",157,1846982,179390,0.7641,0.0702,59.2016,3.3100,-
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"<65, Public only","<65, Public only",51,477618,79685,0.1976,0.0336,15.3092,2.3348,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"<65, Uninsured","<65, Uninsured",80,795216,101227,0.3290,0.0421,25.4892,3.0085,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Widowed,Widowed,Total,,288,3119815,220909,1.2906,0.0879,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"<65, Any private","<65, Any private",1031,13878446,721347,5.7412,0.2321,70.0603,1.2707,-
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"<65, Public only","<65, Public only",203,2281496,203755,0.9438,0.0773,11.5173,0.8755,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"<65, Uninsured","<65, Uninsured",292,3649358,283621,1.5097,0.1059,18.4224,1.1546,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Divorced,Divorced,Total,,1526,19809300,950931,8.1946,0.2842,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Separated,Separated,"<65, Any private","<65, Any private",174,1998278,208231,0.8266,0.0863,60.0065,3.1339,-
+Table 2 of married * insurance_v2X,1,Separated,Separated,"<65, Public only","<65, Public only",86,617298,96052,0.2554,0.0388,18.5369,2.6079,
+Table 2 of married * insurance_v2X,1,Separated,Separated,"<65, Uninsured","<65, Uninsured",87,714527,96152,0.2956,0.0393,21.4566,2.5681,
+Table 2 of married * insurance_v2X,1,Separated,Separated,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Separated,Separated,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Separated,Separated,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Separated,Separated,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Separated,Separated,Total,,347,3330104,268686,1.3776,0.1088,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Never married,Never married,"<65, Any private","<65, Any private",2628,37818381,1537718,15.6446,0.3678,68.1405,1.0268,-
+Table 2 of married * insurance_v2X,1,Never married,Never married,"<65, Public only","<65, Public only",623,6649356,444805,2.7507,0.1796,11.9807,0.7730,
+Table 2 of married * insurance_v2X,1,Never married,Never married,"<65, Uninsured","<65, Uninsured",1014,11032863,625578,4.5640,0.2106,19.8788,0.8445,
+Table 2 of married * insurance_v2X,1,Never married,Never married,"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Never married,Never married,"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Never married,Never married,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Never married,Never married,"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Never married,Never married,Total,,4265,55500601,1993109,22.9593,0.3968,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Any private","<65, Any private",3863,45777636,1750947,18.9371,0.3931,71.3596,1.1568,-
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Public only","<65, Public only",1615,13444668,757550,5.5617,0.3078,20.9580,1.0627,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"<65, Uninsured","<65, Uninsured",637,4928363,334448,2.0387,0.1287,7.6825,0.4849,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare only","65+, Medicare only",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and private","65+, Medicare and private",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, Medicare and other public","65+, Medicare and other public",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),"65+, No medicare","65+, No medicare",0,,,,,,,
+Table 2 of married * insurance_v2X,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,,6115,64150668,2059614,26.5376,0.3966,100.0000,_,1
+Table 2 of married * insurance_v2X,1,Total,Missing,"<65, Any private","<65, Any private",14606,184520077,6120658,76.3315,0.6998,_,_,-
+Table 2 of married * insurance_v2X,1,Total,Missing,"<65, Public only","<65, Public only",2982,27148489,1313451,11.2307,0.5275,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,"<65, Uninsured","<65, Uninsured",3183,30066610,1317388,12.4378,0.4141,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,"65+, Medicare only","65+, Medicare only",0,,,,,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,"65+, Medicare and private","65+, Medicare and private",0,,,,,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,"65+, Medicare and other public","65+, Medicare and other public",0,,,,,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,"65+, No medicare","65+, No medicare",0,,,,,_,_,
+Table 2 of married * insurance_v2X,1,Total,Missing,Total,,20771,241735177,7218454,100.0000,_,_,_,1

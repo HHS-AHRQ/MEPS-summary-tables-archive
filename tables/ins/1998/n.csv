@@ -1,0 +1,182 @@
+"rowGrp","colGrp","rowLevels","n","n_se"
+"ind","insurance","Total",22953,0
+"ind","ins_lt65","Total",20182,0
+"ind","ins_ge65","Total",2771,0
+"agegrps","insurance","Under 5",1726,0
+"agegrps","insurance","5-17",5175,0
+"agegrps","insurance","18-44",8562,0
+"agegrps","insurance","45-64",4719,0
+"agegrps","insurance","65+",2771,0
+"agegrps","ins_lt65","Under 5",1726,0
+"agegrps","ins_lt65","5-17",5175,0
+"agegrps","ins_lt65","18-44",8562,0
+"agegrps","ins_lt65","45-64",4719,0
+"agegrps","ins_ge65","65+",2771,0
+"region","insurance","Northeast",4159,0
+"region","insurance","Midwest",4537,0
+"region","insurance","South",8340,0
+"region","insurance","West",5917,0
+"region","ins_lt65","Northeast",3624,0
+"region","ins_lt65","Midwest",3932,0
+"region","ins_lt65","South",7281,0
+"region","ins_lt65","West",5345,0
+"region","ins_ge65","Northeast",535,0
+"region","ins_ge65","Midwest",605,0
+"region","ins_ge65","South",1059,0
+"region","ins_ge65","West",572,0
+"married","insurance","Married",9039,0
+"married","insurance","Widowed",1276,0
+"married","insurance","Divorced",1713,0
+"married","insurance","Separated",416,0
+"married","insurance","Never married",4440,0
+"married","insurance","Inapplicable (age < 16)",6069,0
+"married","ins_lt65","Married",7629,0
+"married","ins_lt65","Widowed",284,0
+"married","ins_lt65","Divorced",1488,0
+"married","ins_lt65","Separated",389,0
+"married","ins_lt65","Never married",4323,0
+"married","ins_lt65","Inapplicable (age < 16)",6069,0
+"married","ins_ge65","Married",1410,0
+"married","ins_ge65","Widowed",992,0
+"married","ins_ge65","Divorced",225,0
+"married","ins_ge65","Separated",27,0
+"married","ins_ge65","Never married",117,0
+"race","insurance","Hispanic",5585,0
+"race","insurance","Black",3430,0
+"race","insurance","White and other",13938,0
+"race","ins_lt65","Hispanic",5266,0
+"race","ins_lt65","Black",3056,0
+"race","ins_lt65","White and other",11860,0
+"race","ins_ge65","Hispanic",319,0
+"race","ins_ge65","Black",374,0
+"race","ins_ge65","White and other",2078,0
+"sex","insurance","Male",10859,0
+"sex","insurance","Female",12094,0
+"sex","ins_lt65","Male",9740,0
+"sex","ins_lt65","Female",10442,0
+"sex","ins_ge65","Male",1119,0
+"sex","ins_ge65","Female",1652,0
+"racesex","insurance","Female, Black",1936,0
+"racesex","insurance","Female, Hispanic",2882,0
+"racesex","insurance","Female, White and other",7276,0
+"racesex","insurance","Male, Black",1494,0
+"racesex","insurance","Male, Hispanic",2703,0
+"racesex","insurance","Male, White and other",6662,0
+"racesex","ins_lt65","Female, Black",1705,0
+"racesex","ins_lt65","Female, Hispanic",2692,0
+"racesex","ins_lt65","Female, White and other",6045,0
+"racesex","ins_lt65","Male, Black",1351,0
+"racesex","ins_lt65","Male, Hispanic",2574,0
+"racesex","ins_lt65","Male, White and other",5815,0
+"racesex","ins_ge65","Female, Black",231,0
+"racesex","ins_ge65","Female, Hispanic",190,0
+"racesex","ins_ge65","Female, White and other",1231,0
+"racesex","ins_ge65","Male, Black",143,0
+"racesex","ins_ge65","Male, Hispanic",129,0
+"racesex","ins_ge65","Male, White and other",847,0
+"education","insurance","Less than high school",3949,0
+"education","insurance","High school",5373,0
+"education","insurance","Some college",6677,0
+"education","insurance","Inapplicable (age < 18)",6901,0
+"education","insurance","Missing",53,0
+"education","ins_lt65","Less than high school",2846,0
+"education","ins_lt65","High school",4502,0
+"education","ins_lt65","Some college",5913,0
+"education","ins_lt65","Inapplicable (age < 18)",6901,0
+"education","ins_lt65","Missing",20,0
+"education","ins_ge65","Less than high school",1103,0
+"education","ins_ge65","High school",871,0
+"education","ins_ge65","Some college",764,0
+"education","ins_ge65","Missing",33,0
+"employed","insurance","Employed",10096,0
+"employed","insurance","Not employed",6797,0
+"employed","insurance","Inapplicable (age < 16)",6052,0
+"employed","insurance","Missing",8,0
+"employed","ins_lt65","Employed",9765,0
+"employed","ins_lt65","Not employed",4361,0
+"employed","ins_lt65","Inapplicable (age < 16)",6052,0
+"employed","ins_lt65","Missing",4,0
+"employed","ins_ge65","Employed",331,0
+"employed","ins_ge65","Not employed",2436,0
+"employed","ins_ge65","Missing",4,0
+"poverty","insurance","Negative or poor",3999,0
+"poverty","insurance","Near-poor",1304,0
+"poverty","insurance","Low income",3674,0
+"poverty","insurance","Middle income",7133,0
+"poverty","insurance","High income",6843,0
+"poverty","ins_lt65","Negative or poor",3660,0
+"poverty","ins_lt65","Near-poor",1129,0
+"poverty","ins_lt65","Low income",3212,0
+"poverty","ins_lt65","Middle income",6246,0
+"poverty","ins_lt65","High income",5935,0
+"poverty","ins_ge65","Negative or poor",339,0
+"poverty","ins_ge65","Near-poor",175,0
+"poverty","ins_ge65","Low income",462,0
+"poverty","ins_ge65","Middle income",887,0
+"poverty","ins_ge65","High income",908,0
+"health","insurance","Excellent",7315,0
+"health","insurance","Very good",6844,0
+"health","insurance","Good",5891,0
+"health","insurance","Fair",2012,0
+"health","insurance","Poor",805,0
+"health","insurance","Missing",86,0
+"health","ins_lt65","Excellent",6955,0
+"health","ins_lt65","Very good",6209,0
+"health","ins_lt65","Good",5004,0
+"health","ins_lt65","Fair",1479,0
+"health","ins_lt65","Poor",511,0
+"health","ins_lt65","Missing",24,0
+"health","ins_ge65","Excellent",360,0
+"health","ins_ge65","Very good",635,0
+"health","ins_ge65","Good",887,0
+"health","ins_ge65","Fair",533,0
+"health","ins_ge65","Poor",294,0
+"health","ins_ge65","Missing",62,0
+"mnhlth","insurance","Excellent",9290,0
+"mnhlth","insurance","Very good",6598,0
+"mnhlth","insurance","Good",5447,0
+"mnhlth","insurance","Fair",1135,0
+"mnhlth","insurance","Poor",397,0
+"mnhlth","insurance","Missing",86,0
+"mnhlth","ins_lt65","Excellent",8648,0
+"mnhlth","ins_lt65","Very good",5841,0
+"mnhlth","ins_lt65","Good",4564,0
+"mnhlth","ins_lt65","Fair",852,0
+"mnhlth","ins_lt65","Poor",253,0
+"mnhlth","ins_lt65","Missing",24,0
+"mnhlth","ins_ge65","Excellent",642,0
+"mnhlth","ins_ge65","Very good",757,0
+"mnhlth","ins_ge65","Good",883,0
+"mnhlth","ins_ge65","Fair",283,0
+"mnhlth","ins_ge65","Poor",144,0
+"mnhlth","ins_ge65","Missing",62,0
+"agegrps_v2X","insurance","Under 18",6901,0
+"agegrps_v2X","insurance","18-64",13281,0
+"agegrps_v2X","insurance","65+",2771,0
+"agegrps_v2X","ins_lt65","Under 18",6901,0
+"agegrps_v2X","ins_lt65","18-64",13281,0
+"agegrps_v2X","ins_ge65","65+",2771,0
+"agegrps_v3X","insurance","Under 5",1726,0
+"agegrps_v3X","insurance","5-6",788,0
+"agegrps_v3X","insurance","7-12",2444,0
+"agegrps_v3X","insurance","13-17",1943,0
+"agegrps_v3X","insurance","18",384,0
+"agegrps_v3X","insurance","19-24",1756,0
+"agegrps_v3X","insurance","25-29",1402,0
+"agegrps_v3X","insurance","30-34",1545,0
+"agegrps_v3X","insurance","35-44",3475,0
+"agegrps_v3X","insurance","45-54",2905,0
+"agegrps_v3X","insurance","55-64",1814,0
+"agegrps_v3X","insurance","65+",2771,0
+"agegrps_v3X","ins_lt65","Under 5",1726,0
+"agegrps_v3X","ins_lt65","5-6",788,0
+"agegrps_v3X","ins_lt65","7-12",2444,0
+"agegrps_v3X","ins_lt65","13-17",1943,0
+"agegrps_v3X","ins_lt65","18",384,0
+"agegrps_v3X","ins_lt65","19-24",1756,0
+"agegrps_v3X","ins_lt65","25-29",1402,0
+"agegrps_v3X","ins_lt65","30-34",1545,0
+"agegrps_v3X","ins_lt65","35-44",3475,0
+"agegrps_v3X","ins_lt65","45-54",2905,0
+"agegrps_v3X","ins_lt65","55-64",1814,0
+"agegrps_v3X","ins_ge65","65+",2771,0

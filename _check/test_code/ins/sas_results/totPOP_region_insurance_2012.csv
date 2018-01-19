@@ -1,0 +1,21 @@
+Table,F_region,region,F_insurance,insurance,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table region * insurance,Northeast,Northeast,"Any private, all ages","Any private, all ages",3073,36584619,2096002,11.6701,0.6061,65.6835,1.5658,
+Table region * insurance,Northeast,Northeast,"Public only, all ages","Public only, all ages",2226,14469045,944979,4.6155,0.2886,25.9775,1.4421,
+Table region * insurance,Northeast,Northeast,"Uninsured, all ages","Uninsured, all ages",753,4644659,321416,1.4816,0.0990,8.3390,0.4977,
+Table region * insurance,Northeast,Northeast,Total,,6052,55698323,2608011,17.7672,0.7303,100.0000,_,1
+Table region * insurance,Midwest,Midwest,"Any private, all ages","Any private, all ages",4128,47345017,2646934,15.1026,0.7742,70.8220,1.8549,-
+Table region * insurance,Midwest,Midwest,"Public only, all ages","Public only, all ages",1888,13449758,835797,4.2903,0.2624,20.1191,1.2145,
+Table region * insurance,Midwest,Midwest,"Uninsured, all ages","Uninsured, all ages",801,6055917,556238,1.9318,0.1795,9.0589,0.8881,
+Table region * insurance,Midwest,Midwest,Total,,6817,66850692,2728000,21.3247,0.7707,100.0000,_,1
+Table region * insurance,South,South,"Any private, all ages","Any private, all ages",6625,72236874,3166633,23.0428,0.8348,61.7315,1.5864,-
+Table region * insurance,South,South,"Public only, all ages","Public only, all ages",4350,26474896,1353936,8.4452,0.4001,22.6247,0.9715,
+Table region * insurance,South,South,"Uninsured, all ages","Uninsured, all ages",3029,18306047,1166884,5.8394,0.3433,15.6438,0.8247,
+Table region * insurance,South,South,Total,,14004,117017817,3975110,37.3275,0.9138,100.0000,_,1
+Table region * insurance,West,West,"Any private, all ages","Any private, all ages",5240,45743994,2007283,14.5919,0.5802,61.8806,1.5588,-
+Table region * insurance,West,West,"Public only, all ages","Public only, all ages",3135,17338990,1299796,5.5310,0.3916,23.4555,1.3750,
+Table region * insurance,West,West,"Uninsured, all ages","Uninsured, all ages",1934,10840038,553129,3.4579,0.1673,14.6640,0.6758,
+Table region * insurance,West,West,Total,,10309,73923021,2747414,23.5807,0.7410,100.0000,_,1
+Table region * insurance,Total,Missing,"Any private, all ages","Any private, all ages",19066,201910503,5327728,64.4073,0.8584,_,_,-
+Table region * insurance,Total,Missing,"Public only, all ages","Public only, all ages",11599,71732690,2376595,22.8820,0.6140,_,_,
+Table region * insurance,Total,Missing,"Uninsured, all ages","Uninsured, all ages",6517,39846660,1496222,12.7107,0.4124,_,_,
+Table region * insurance,Total,Missing,Total,,37182,313489853,6766172,100.0000,_,_,_,1

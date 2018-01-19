@@ -1,0 +1,19 @@
+DomainLabel,employed,race,VarName,Mean,N,StdErr
+employed*race,Missing,Hispanic,EXP,0,4,0
+employed*race,Missing,White,EXP,1.594368,4,0.760257
+employed*race,Missing,Black,EXP,0,2,0
+employed*race,Employed,Hispanic,EXP,6.908561,3295,0.322535
+employed*race,Employed,White,EXP,15.860363,8020,0.313960
+employed*race,Employed,Black,EXP,10.848527,1828,0.493913
+employed*race,Employed,"Amer. Indian, AK Native, or mult. races",EXP,16.455519,240,2.096144
+employed*race,Employed,"Asian, Hawaiian, or Pacific Islander",EXP,8.128966,724,0.649644
+employed*race,Not employed,Hispanic,EXP,16.992106,2543,0.829337
+employed*race,Not employed,White,EXP,35.156457,5175,0.729041
+employed*race,Not employed,Black,EXP,26.585109,1587,1.322351
+employed*race,Not employed,"Amer. Indian, AK Native, or mult. races",EXP,36.265830,222,3.762524
+employed*race,Not employed,"Asian, Hawaiian, or Pacific Islander",EXP,15.346977,375,1.401553
+employed*race,Inapplicable (age < 16),Hispanic,EXP,5.152960,3180,0.284432
+employed*race,Inapplicable (age < 16),White,EXP,7.948735,3355,0.230073
+employed*race,Inapplicable (age < 16),Black,EXP,4.901198,1574,0.315365
+employed*race,Inapplicable (age < 16),"Amer. Indian, AK Native, or mult. races",EXP,6.701493,272,0.649850
+employed*race,Inapplicable (age < 16),"Asian, Hawaiian, or Pacific Islander",EXP,4.289286,337,0.407350

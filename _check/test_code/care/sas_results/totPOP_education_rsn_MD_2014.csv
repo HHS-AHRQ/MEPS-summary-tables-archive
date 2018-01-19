@@ -1,0 +1,109 @@
+Table,domain,F_education,education,F_afford_MD,afford_MD,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_MD,insure_MD,F_other_MD,other_MD
+Table 1 of education * afford_MD,0,Missing,Missing,0,0,170,1135085,135185,0.3721,0.0448,100.0000,0.0000,,,,,
+Table 1 of education * afford_MD,0,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of education * afford_MD,0,Missing,Missing,Total,,170,1135085,135185,0.3721,0.0448,100.0000,_,1,,,,
+Table 1 of education * afford_MD,0,Less than high school,Less than high school,0,0,4903,32905314,1102925,10.7868,0.3048,100.0000,0.0000,-,,,,
+Table 1 of education * afford_MD,0,Less than high school,Less than high school,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of education * afford_MD,0,Less than high school,Less than high school,Total,,4903,32905314,1102925,10.7868,0.3048,100.0000,_,1,,,,
+Table 1 of education * afford_MD,0,High school,High school,0,0,6236,60466959,1600060,19.8219,0.4140,100.0000,0.0000,-,,,,
+Table 1 of education * afford_MD,0,High school,High school,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of education * afford_MD,0,High school,High school,Total,,6236,60466959,1600060,19.8219,0.4140,100.0000,_,1,,,,
+Table 1 of education * afford_MD,0,Some college,Some college,0,0,11467,137816028,3739101,45.1780,0.5659,100.0000,0.0000,-,,,,
+Table 1 of education * afford_MD,0,Some college,Some college,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of education * afford_MD,0,Some college,Some college,Total,,11467,137816028,3739101,45.1780,0.5659,100.0000,_,1,,,,
+Table 1 of education * afford_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),0,0,9157,72727798,2408328,23.8412,0.4188,100.0000,0.0000,-,,,,
+Table 1 of education * afford_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of education * afford_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),Total,,9157,72727798,2408328,23.8412,0.4188,100.0000,_,1,,,,
+Table 1 of education * afford_MD,0,Total,Missing,0,0,31933,305051184,7061308,100.0000,0.0000,_,_,-,,,,
+Table 1 of education * afford_MD,0,Total,Missing,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of education * afford_MD,0,Total,Missing,Total,,31933,305051184,7061308,100.0000,_,_,_,1,,,,
+Table 2 of education * afford_MD,1,Missing,Missing,0,0,0,,,,,,,,,,,
+Table 2 of education * afford_MD,1,Missing,Missing,Couldn't afford,Couldn't afford,4,29869,19072,0.2231,0.1420,100.0000,0.0000,,,,,
+Table 2 of education * afford_MD,1,Missing,Missing,Total,,4,29869,19072,0.2231,0.1420,100.0000,_,1,,,,
+Table 2 of education * afford_MD,1,Less than high school,Less than high school,0,0,102,810917,114417,6.0565,0.8153,53.8216,4.7642,-,,,,
+Table 2 of education * afford_MD,1,Less than high school,Less than high school,Couldn't afford,Couldn't afford,96,695758,92926,5.1964,0.6578,46.1784,4.7642,,,,,
+Table 2 of education * afford_MD,1,Less than high school,Less than high school,Total,,198,1506675,149304,11.2529,1.0077,100.0000,_,1,,,,
+Table 2 of education * afford_MD,1,High school,High school,0,0,151,1676307,173028,12.5198,1.1929,53.8003,3.5475,-,,,,
+Table 2 of education * afford_MD,1,High school,High school,Couldn't afford,Couldn't afford,133,1439491,161509,10.7511,1.0543,46.1997,3.5475,,,,,
+Table 2 of education * afford_MD,1,High school,High school,Total,,284,3115798,250908,23.2709,1.5196,100.0000,_,1,,,,
+Table 2 of education * afford_MD,1,Some college,Some college,0,0,365,4714440,326349,35.2107,1.7791,61.5126,2.4171,-,,,,
+Table 2 of education * afford_MD,1,Some college,Some college,Couldn't afford,Couldn't afford,260,2949744,238902,22.0307,1.5168,38.4874,2.4171,,,,,
+Table 2 of education * afford_MD,1,Some college,Some college,Total,,625,7664185,420089,57.2414,1.7427,100.0000,_,1,,,,
+Table 2 of education * afford_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),0,0,95,913473,138387,6.8224,0.9457,85.1554,4.5819,-,,,,
+Table 2 of education * afford_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),Couldn't afford,Couldn't afford,23,159240,50648,1.1893,0.3743,14.8446,4.5819,,,,,
+Table 2 of education * afford_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),Total,,118,1072712,143731,8.0117,0.9633,100.0000,_,1,,,,
+Table 2 of education * afford_MD,1,Total,Missing,0,0,713,8115137,465487,60.6094,1.9778,_,_,-,,,,
+Table 2 of education * afford_MD,1,Total,Missing,Couldn't afford,Couldn't afford,516,5274102,360266,39.3906,1.9778,_,_,,,,,
+Table 2 of education * afford_MD,1,Total,Missing,Total,,1229,13389239,627115,100.0000,_,_,_,1,,,,
+Table 1 of education * insure_MD,0,Missing,Missing,,,170,1135085,135185,0.3721,0.0448,100.0000,0.0000,,0,0,,
+Table 1 of education * insure_MD,0,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,Missing,Missing,,,170,1135085,135185,0.3721,0.0448,100.0000,_,1,Total,,,
+Table 1 of education * insure_MD,0,Less than high school,Less than high school,,,4903,32905314,1102925,10.7868,0.3048,100.0000,0.0000,-,0,0,,
+Table 1 of education * insure_MD,0,Less than high school,Less than high school,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,Less than high school,Less than high school,,,4903,32905314,1102925,10.7868,0.3048,100.0000,_,1,Total,,,
+Table 1 of education * insure_MD,0,High school,High school,,,6236,60466959,1600060,19.8219,0.4140,100.0000,0.0000,-,0,0,,
+Table 1 of education * insure_MD,0,High school,High school,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,High school,High school,,,6236,60466959,1600060,19.8219,0.4140,100.0000,_,1,Total,,,
+Table 1 of education * insure_MD,0,Some college,Some college,,,11467,137816028,3739101,45.1780,0.5659,100.0000,0.0000,-,0,0,,
+Table 1 of education * insure_MD,0,Some college,Some college,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,Some college,Some college,,,11467,137816028,3739101,45.1780,0.5659,100.0000,_,1,Total,,,
+Table 1 of education * insure_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,9157,72727798,2408328,23.8412,0.4188,100.0000,0.0000,-,0,0,,
+Table 1 of education * insure_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,9157,72727798,2408328,23.8412,0.4188,100.0000,_,1,Total,,,
+Table 1 of education * insure_MD,0,Total,Missing,,,31933,305051184,7061308,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of education * insure_MD,0,Total,Missing,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of education * insure_MD,0,Total,Missing,,,31933,305051184,7061308,100.0000,_,_,_,1,Total,,,
+Table 2 of education * insure_MD,1,Missing,Missing,,,3,26235,18723,0.1959,0.1394,87.8341,13.1280,,0,0,,
+Table 2 of education * insure_MD,1,Missing,Missing,,,1,3634,3634,0.0271,0.0272,12.1659,13.1280,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,Missing,Missing,,,4,29869,19072,0.2231,0.1420,100.0000,_,1,Total,,,
+Table 2 of education * insure_MD,1,Less than high school,Less than high school,,,170,1294589,134779,9.6689,0.9131,85.9235,3.6222,-,0,0,,
+Table 2 of education * insure_MD,1,Less than high school,Less than high school,,,28,212087,60235,1.5840,0.4469,14.0765,3.6222,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,Less than high school,Less than high school,,,198,1506675,149304,11.2529,1.0077,100.0000,_,1,Total,,,
+Table 2 of education * insure_MD,1,High school,High school,,,242,2595214,234994,19.3828,1.4739,83.2921,2.7914,-,0,0,,
+Table 2 of education * insure_MD,1,High school,High school,,,42,520584,92321,3.8881,0.6757,16.7079,2.7914,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,High school,High school,,,284,3115798,250908,23.2709,1.5196,100.0000,_,1,Total,,,
+Table 2 of education * insure_MD,1,Some college,Some college,,,530,6685579,411633,49.9325,2.0118,87.2314,1.6233,-,0,0,,
+Table 2 of education * insure_MD,1,Some college,Some college,,,95,978606,124397,7.3089,0.8861,12.7686,1.6233,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,Some college,Some college,,,625,7664185,420089,57.2414,1.7427,100.0000,_,1,Total,,,
+Table 2 of education * insure_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,85,743915,119091,5.5561,0.8277,69.3490,6.8313,-,0,0,,
+Table 2 of education * insure_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,33,328797,88357,2.4557,0.6431,30.6510,6.8313,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,118,1072712,143731,8.0117,0.9633,100.0000,_,1,Total,,,
+Table 2 of education * insure_MD,1,Total,Missing,,,1030,11345532,577265,84.7362,1.4845,_,_,-,0,0,,
+Table 2 of education * insure_MD,1,Total,Missing,,,199,2043707,215926,15.2638,1.4845,_,_,,Insurance related,Insurance related,,
+Table 2 of education * insure_MD,1,Total,Missing,,,1229,13389239,627115,100.0000,_,_,_,1,Total,,,
+Table 1 of education * other_MD,0,Missing,Missing,,,170,1135085,135185,0.3721,0.0448,100.0000,0.0000,,,,0,0
+Table 1 of education * other_MD,0,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 1 of education * other_MD,0,Missing,Missing,,,170,1135085,135185,0.3721,0.0448,100.0000,_,1,,,Total,
+Table 1 of education * other_MD,0,Less than high school,Less than high school,,,4903,32905314,1102925,10.7868,0.3048,100.0000,0.0000,-,,,0,0
+Table 1 of education * other_MD,0,Less than high school,Less than high school,,,0,,,,,,,,,,Other,Other
+Table 1 of education * other_MD,0,Less than high school,Less than high school,,,4903,32905314,1102925,10.7868,0.3048,100.0000,_,1,,,Total,
+Table 1 of education * other_MD,0,High school,High school,,,6236,60466959,1600060,19.8219,0.4140,100.0000,0.0000,-,,,0,0
+Table 1 of education * other_MD,0,High school,High school,,,0,,,,,,,,,,Other,Other
+Table 1 of education * other_MD,0,High school,High school,,,6236,60466959,1600060,19.8219,0.4140,100.0000,_,1,,,Total,
+Table 1 of education * other_MD,0,Some college,Some college,,,11467,137816028,3739101,45.1780,0.5659,100.0000,0.0000,-,,,0,0
+Table 1 of education * other_MD,0,Some college,Some college,,,0,,,,,,,,,,Other,Other
+Table 1 of education * other_MD,0,Some college,Some college,,,11467,137816028,3739101,45.1780,0.5659,100.0000,_,1,,,Total,
+Table 1 of education * other_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,9157,72727798,2408328,23.8412,0.4188,100.0000,0.0000,-,,,0,0
+Table 1 of education * other_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,0,,,,,,,,,,Other,Other
+Table 1 of education * other_MD,0,Inapplicable (age < 18),Inapplicable (age < 18),,,9157,72727798,2408328,23.8412,0.4188,100.0000,_,1,,,Total,
+Table 1 of education * other_MD,0,Total,Missing,,,31933,305051184,7061308,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of education * other_MD,0,Total,Missing,,,0,,,,,_,_,,,,Other,Other
+Table 1 of education * other_MD,0,Total,Missing,,,31933,305051184,7061308,100.0000,_,_,_,1,,,Total,
+Table 2 of education * other_MD,1,Missing,Missing,,,3,24752,18373,0.1849,0.1370,82.8688,17.6802,,,,0,0
+Table 2 of education * other_MD,1,Missing,Missing,,,1,5117,5117,0.0382,0.0381,17.1312,17.6802,,,,Other,Other
+Table 2 of education * other_MD,1,Missing,Missing,,,4,29869,19072,0.2231,0.1420,100.0000,_,1,,,Total,
+Table 2 of education * other_MD,1,Less than high school,Less than high school,,,116,845895,107684,6.3177,0.7674,56.1432,4.8491,-,,,0,0
+Table 2 of education * other_MD,1,Less than high school,Less than high school,,,82,660780,101121,4.9352,0.7181,43.8568,4.8491,,,,Other,Other
+Table 2 of education * other_MD,1,Less than high school,Less than high school,,,198,1506675,149304,11.2529,1.0077,100.0000,_,1,,,Total,
+Table 2 of education * other_MD,1,High school,High school,,,166,1848752,180237,13.8077,1.1516,59.3348,3.4739,-,,,0,0
+Table 2 of education * other_MD,1,High school,High school,,,118,1267046,151927,9.4632,1.0637,40.6652,3.4739,,,,Other,Other
+Table 2 of education * other_MD,1,High school,High school,,,284,3115798,250908,23.2709,1.5196,100.0000,_,1,,,Total,
+Table 2 of education * other_MD,1,Some college,Some college,,,334,3740076,252214,27.9334,1.4668,48.7994,2.4024,-,,,0,0
+Table 2 of education * other_MD,1,Some college,Some college,,,291,3924108,305096,29.3079,1.7812,51.2006,2.4024,,,,Other,Other
+Table 2 of education * other_MD,1,Some college,Some college,,,625,7664185,420089,57.2414,1.7427,100.0000,_,1,,,Total,
+Table 2 of education * other_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,55,485013,94609,3.6224,0.6764,45.2137,6.5295,-,,,0,0
+Table 2 of education * other_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,63,587699,106409,4.3893,0.7479,54.7863,6.5295,,,,Other,Other
+Table 2 of education * other_MD,1,Inapplicable (age < 18),Inapplicable (age < 18),,,118,1072712,143731,8.0117,0.9633,100.0000,_,1,,,Total,
+Table 2 of education * other_MD,1,Total,Missing,,,674,6944488,411040,51.8662,1.9780,_,_,-,,,0,0
+Table 2 of education * other_MD,1,Total,Missing,,,555,6444751,409546,48.1338,1.9780,_,_,,,,Other,Other
+Table 2 of education * other_MD,1,Total,Missing,,,1229,13389239,627115,100.0000,_,_,_,1,,,Total,

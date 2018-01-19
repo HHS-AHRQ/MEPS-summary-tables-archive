@@ -1,0 +1,91 @@
+Table,domain,F_employed,employed,F_afford_DN,afford_DN,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_DN,insure_DN,F_other_DN,other_DN
+Table 1 of employed * afford_DN,0,Missing,Missing,0,0,19,167449,47460,0.0551,0.0156,100.0000,0.0000,,,,,
+Table 1 of employed * afford_DN,0,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of employed * afford_DN,0,Missing,Missing,Total,,19,167449,47460,0.0551,0.0156,100.0000,_,1,,,,
+Table 1 of employed * afford_DN,0,Employed,Employed,0,0,14194,148364266,3787378,48.8029,0.4777,100.0000,0.0000,-,,,,
+Table 1 of employed * afford_DN,0,Employed,Employed,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of employed * afford_DN,0,Employed,Employed,Total,,14194,148364266,3787378,48.8029,0.4777,100.0000,_,1,,,,
+Table 1 of employed * afford_DN,0,Not employed,Not employed,0,0,9846,91768022,2386966,30.1862,0.5310,100.0000,0.0000,-,,,,
+Table 1 of employed * afford_DN,0,Not employed,Not employed,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of employed * afford_DN,0,Not employed,Not employed,Total,,9846,91768022,2386966,30.1862,0.5310,100.0000,_,1,,,,
+Table 1 of employed * afford_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),0,0,8001,63707223,2127155,20.9558,0.4096,100.0000,0.0000,-,,,,
+Table 1 of employed * afford_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of employed * afford_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),Total,,8001,63707223,2127155,20.9558,0.4096,100.0000,_,1,,,,
+Table 1 of employed * afford_DN,0,Total,Missing,0,0,32060,304006961,7036572,100.0000,0.0000,_,_,-,,,,
+Table 1 of employed * afford_DN,0,Total,Missing,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of employed * afford_DN,0,Total,Missing,Total,,32060,304006961,7036572,100.0000,_,_,_,1,,,,
+Table 2 of employed * afford_DN,1,Missing,Missing,0,0,0,,,,,,,,,,,
+Table 2 of employed * afford_DN,1,Missing,Missing,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 2 of employed * afford_DN,1,Missing,Missing,Total,,0,,,,,,_,1,,,,
+Table 2 of employed * afford_DN,1,Employed,Employed,0,0,330,3381667,277471,19.4167,1.4172,37.2524,2.3899,-,,,,
+Table 2 of employed * afford_DN,1,Employed,Employed,Couldn't afford,Couldn't afford,576,5696045,403434,32.7053,1.5689,62.7476,2.3899,,,,,
+Table 2 of employed * afford_DN,1,Employed,Employed,Total,,906,9077711,514486,52.1220,1.6358,100.0000,_,1,,,,
+Table 2 of employed * afford_DN,1,Not employed,Not employed,0,0,301,2661435,244968,15.2813,1.1408,36.6367,2.3264,-,,,,
+Table 2 of employed * afford_DN,1,Not employed,Not employed,Couldn't afford,Couldn't afford,487,4602967,324994,26.4291,1.3645,63.3633,2.3264,,,,,
+Table 2 of employed * afford_DN,1,Not employed,Not employed,Total,,788,7264402,455477,41.7104,1.5603,100.0000,_,1,,,,
+Table 2 of employed * afford_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),0,0,89,683398,114694,3.9239,0.5826,63.6206,5.7590,-,,,,
+Table 2 of employed * afford_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),Couldn't afford,Couldn't afford,50,390779,76152,2.2438,0.4148,36.3794,5.7590,,,,,
+Table 2 of employed * afford_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),Total,,139,1074177,141715,6.1677,0.6792,100.0000,_,1,,,,
+Table 2 of employed * afford_DN,1,Total,Missing,0,0,720,6726499,450456,38.6219,1.7312,_,_,-,,,,
+Table 2 of employed * afford_DN,1,Total,Missing,Couldn't afford,Couldn't afford,1113,10689790,621507,61.3781,1.7312,_,_,,,,,
+Table 2 of employed * afford_DN,1,Total,Missing,Total,,1833,17416290,878191,100.0000,_,_,_,1,,,,
+Table 1 of employed * insure_DN,0,Missing,Missing,,,19,167449,47460,0.0551,0.0156,100.0000,0.0000,,0,0,,
+Table 1 of employed * insure_DN,0,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of employed * insure_DN,0,Missing,Missing,,,19,167449,47460,0.0551,0.0156,100.0000,_,1,Total,,,
+Table 1 of employed * insure_DN,0,Employed,Employed,,,14194,148364266,3787378,48.8029,0.4777,100.0000,0.0000,-,0,0,,
+Table 1 of employed * insure_DN,0,Employed,Employed,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of employed * insure_DN,0,Employed,Employed,,,14194,148364266,3787378,48.8029,0.4777,100.0000,_,1,Total,,,
+Table 1 of employed * insure_DN,0,Not employed,Not employed,,,9846,91768022,2386966,30.1862,0.5310,100.0000,0.0000,-,0,0,,
+Table 1 of employed * insure_DN,0,Not employed,Not employed,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of employed * insure_DN,0,Not employed,Not employed,,,9846,91768022,2386966,30.1862,0.5310,100.0000,_,1,Total,,,
+Table 1 of employed * insure_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,8001,63707223,2127155,20.9558,0.4096,100.0000,0.0000,-,0,0,,
+Table 1 of employed * insure_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of employed * insure_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,8001,63707223,2127155,20.9558,0.4096,100.0000,_,1,Total,,,
+Table 1 of employed * insure_DN,0,Total,Missing,,,32060,304006961,7036572,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of employed * insure_DN,0,Total,Missing,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of employed * insure_DN,0,Total,Missing,,,32060,304006961,7036572,100.0000,_,_,_,1,Total,,,
+Table 2 of employed * insure_DN,1,Missing,Missing,,,0,,,,,,,,0,0,,
+Table 2 of employed * insure_DN,1,Missing,Missing,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 2 of employed * insure_DN,1,Missing,Missing,,,0,,,,,,_,1,Total,,,
+Table 2 of employed * insure_DN,1,Employed,Employed,,,809,8205613,476981,47.1146,1.6985,90.3930,1.3149,-,0,0,,
+Table 2 of employed * insure_DN,1,Employed,Employed,,,97,872098,130425,5.0074,0.6856,9.6070,1.3149,,Insurance related,Insurance related,,
+Table 2 of employed * insure_DN,1,Employed,Employed,,,906,9077711,514486,52.1220,1.6358,100.0000,_,1,Total,,,
+Table 2 of employed * insure_DN,1,Not employed,Not employed,,,659,6158909,370234,35.3629,1.4871,84.7821,2.1404,-,0,0,,
+Table 2 of employed * insure_DN,1,Not employed,Not employed,,,129,1105492,188367,6.3475,0.9558,15.2179,2.1404,,Insurance related,Insurance related,,
+Table 2 of employed * insure_DN,1,Not employed,Not employed,,,788,7264402,455477,41.7104,1.5603,100.0000,_,1,Total,,,
+Table 2 of employed * insure_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,118,908876,128092,5.2185,0.6181,84.6114,4.9575,-,0,0,,
+Table 2 of employed * insure_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,21,165301,58804,0.9491,0.3347,15.3886,4.9575,,Insurance related,Insurance related,,
+Table 2 of employed * insure_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,139,1074177,141715,6.1677,0.6792,100.0000,_,1,Total,,,
+Table 2 of employed * insure_DN,1,Total,Missing,,,1586,15273398,755814,87.6961,1.3599,_,_,-,0,0,,
+Table 2 of employed * insure_DN,1,Total,Missing,,,247,2142892,280554,12.3039,1.3599,_,_,,Insurance related,Insurance related,,
+Table 2 of employed * insure_DN,1,Total,Missing,,,1833,17416290,878191,100.0000,_,_,_,1,Total,,,
+Table 1 of employed * other_DN,0,Missing,Missing,,,19,167449,47460,0.0551,0.0156,100.0000,0.0000,,,,0,0
+Table 1 of employed * other_DN,0,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 1 of employed * other_DN,0,Missing,Missing,,,19,167449,47460,0.0551,0.0156,100.0000,_,1,,,Total,
+Table 1 of employed * other_DN,0,Employed,Employed,,,14194,148364266,3787378,48.8029,0.4777,100.0000,0.0000,-,,,0,0
+Table 1 of employed * other_DN,0,Employed,Employed,,,0,,,,,,,,,,Other,Other
+Table 1 of employed * other_DN,0,Employed,Employed,,,14194,148364266,3787378,48.8029,0.4777,100.0000,_,1,,,Total,
+Table 1 of employed * other_DN,0,Not employed,Not employed,,,9846,91768022,2386966,30.1862,0.5310,100.0000,0.0000,-,,,0,0
+Table 1 of employed * other_DN,0,Not employed,Not employed,,,0,,,,,,,,,,Other,Other
+Table 1 of employed * other_DN,0,Not employed,Not employed,,,9846,91768022,2386966,30.1862,0.5310,100.0000,_,1,,,Total,
+Table 1 of employed * other_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,8001,63707223,2127155,20.9558,0.4096,100.0000,0.0000,-,,,0,0
+Table 1 of employed * other_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,0,,,,,,,,,,Other,Other
+Table 1 of employed * other_DN,0,Inapplicable (age < 16),Inapplicable (age < 16),,,8001,63707223,2127155,20.9558,0.4096,100.0000,_,1,,,Total,
+Table 1 of employed * other_DN,0,Total,Missing,,,32060,304006961,7036572,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of employed * other_DN,0,Total,Missing,,,0,,,,,_,_,,,,Other,Other
+Table 1 of employed * other_DN,0,Total,Missing,,,32060,304006961,7036572,100.0000,_,_,_,1,,,Total,
+Table 2 of employed * other_DN,1,Missing,Missing,,,0,,,,,,,,,,0,0
+Table 2 of employed * other_DN,1,Missing,Missing,,,0,,,,,,,,,,Other,Other
+Table 2 of employed * other_DN,1,Missing,Missing,,,0,,,,,,_,1,,,Total,
+Table 2 of employed * other_DN,1,Employed,Employed,,,658,6421555,432954,36.8710,1.5382,70.7398,2.1867,-,,,0,0
+Table 2 of employed * other_DN,1,Employed,Employed,,,248,2656157,235830,15.2510,1.2809,29.2602,2.1867,,,,Other,Other
+Table 2 of employed * other_DN,1,Employed,Employed,,,906,9077711,514486,52.1220,1.6358,100.0000,_,1,,,Total,
+Table 2 of employed * other_DN,1,Not employed,Not employed,,,589,5463218,376442,31.3684,1.4059,75.2053,1.8262,-,,,0,0
+Table 2 of employed * other_DN,1,Not employed,Not employed,,,199,1801183,167689,10.3419,0.8506,24.7947,1.8262,,,,Other,Other
+Table 2 of employed * other_DN,1,Not employed,Not employed,,,788,7264402,455477,41.7104,1.5603,100.0000,_,1,,,Total,
+Table 2 of employed * other_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,68,521762,96293,2.9958,0.5252,48.5732,6.5689,-,,,0,0
+Table 2 of employed * other_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,71,552415,103737,3.1718,0.5321,51.4268,6.5689,,,,Other,Other
+Table 2 of employed * other_DN,1,Inapplicable (age < 16),Inapplicable (age < 16),,,139,1074177,141715,6.1677,0.6792,100.0000,_,1,,,Total,
+Table 2 of employed * other_DN,1,Total,Missing,,,1315,12406535,698016,71.2352,1.3649,_,_,-,,,0,0
+Table 2 of employed * other_DN,1,Total,Missing,,,518,5009755,323154,28.7648,1.3649,_,_,,,,Other,Other
+Table 2 of employed * other_DN,1,Total,Missing,,,1833,17416290,878191,100.0000,_,_,_,1,,,Total,

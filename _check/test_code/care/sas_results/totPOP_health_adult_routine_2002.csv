@@ -1,0 +1,85 @@
+Table,domain,F_health,health,F_adult_routine,adult_routine,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine
+Table 1 of health * adult_routine,0,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 1 of health * adult_routine,0,Missing,Missing,Inapplicable,Inapplicable,92,92.00000,12.32883,0.0001,0.0000,100.0000,0.0000,
+Table 1 of health * adult_routine,0,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 1 of health * adult_routine,0,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 1 of health * adult_routine,0,Missing,Missing,Always,Always,0,,,,,,,
+Table 1 of health * adult_routine,0,Missing,Missing,Total,Missing,92,92.00000,12.32883,0.0001,0.0000,100.0000,_,1
+Table 1 of health * adult_routine,0,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,46,395459,68344,0.5329,0.0899,1.7633,0.2918,-
+Table 1 of health * adult_routine,0,Excellent,Excellent,Inapplicable,Inapplicable,8279,21351646,691782,28.7702,0.6047,95.2020,0.5497,
+Table 1 of health * adult_routine,0,Excellent,Excellent,Sometimes/Never,Sometimes/Never,28,235428,68246,0.3172,0.0908,1.0497,0.2947,
+Table 1 of health * adult_routine,0,Excellent,Excellent,Usually,Usually,12,151022,57030,0.2035,0.0766,0.6734,0.2519,
+Table 1 of health * adult_routine,0,Excellent,Excellent,Always,Always,37,294169,62839,0.3964,0.0837,1.3116,0.2732,
+Table 1 of health * adult_routine,0,Excellent,Excellent,Total,Missing,8402,22427724,748356,30.2201,0.6530,100.0000,_,1
+Table 1 of health * adult_routine,0,Very good,Very good,Don't know/Non-response,Don't know/Non-response,91,750155,89911,1.0108,0.1204,2.9802,0.3504,-
+Table 1 of health * adult_routine,0,Very good,Very good,Inapplicable,Inapplicable,7566,23743632,752674,31.9933,0.6415,94.3292,0.4681,
+Table 1 of health * adult_routine,0,Very good,Very good,Sometimes/Never,Sometimes/Never,25,214200,48054,0.2886,0.0644,0.8510,0.1904,
+Table 1 of health * adult_routine,0,Very good,Very good,Usually,Usually,24,144861,32512,0.1952,0.0440,0.5755,0.1301,
+Table 1 of health * adult_routine,0,Very good,Very good,Always,Always,37,318190,64298,0.4287,0.0862,1.2641,0.2548,
+Table 1 of health * adult_routine,0,Very good,Very good,Total,Missing,7743,25171038,772331,33.9166,0.6436,100.0000,_,1
+Table 1 of health * adult_routine,0,Good,Good,Don't know/Non-response,Don't know/Non-response,104,704040,98414,0.9487,0.1297,3.5376,0.4844,-
+Table 1 of health * adult_routine,0,Good,Good,Inapplicable,Inapplicable,5785,17962185,641046,24.2031,0.6759,90.2551,0.8296,
+Table 1 of health * adult_routine,0,Good,Good,Sometimes/Never,Sometimes/Never,43,411829,100844,0.5549,0.1370,2.0693,0.5118,
+Table 1 of health * adult_routine,0,Good,Good,Usually,Usually,44,361000,61569,0.4864,0.0813,1.8139,0.2975,
+Table 1 of health * adult_routine,0,Good,Good,Always,Always,61,462522,77384,0.6232,0.1047,2.3240,0.3875,
+Table 1 of health * adult_routine,0,Good,Good,Total,Missing,6037,19901576,666174,26.8163,0.6837,100.0000,_,1
+Table 1 of health * adult_routine,0,Fair,Fair,Don't know/Non-response,Don't know/Non-response,45,332318,62913,0.4478,0.0836,6.2677,1.1509,-
+Table 1 of health * adult_routine,0,Fair,Fair,Inapplicable,Inapplicable,1280,4474718,240251,6.0294,0.3098,84.3961,1.5997,
+Table 1 of health * adult_routine,0,Fair,Fair,Sometimes/Never,Sometimes/Never,15,102634,30893,0.1383,0.0414,1.9357,0.5728,
+Table 1 of health * adult_routine,0,Fair,Fair,Usually,Usually,25,164781,37966,0.2220,0.0514,3.1079,0.7117,
+Table 1 of health * adult_routine,0,Fair,Fair,Always,Always,36,227592,33131,0.3067,0.0447,4.2925,0.6179,
+Table 1 of health * adult_routine,0,Fair,Fair,Total,Missing,1401,5302043,257672,7.1442,0.3264,100.0000,_,1
+Table 1 of health * adult_routine,0,Poor,Poor,Don't know/Non-response,Don't know/Non-response,20,127198,33051,0.1714,0.0442,9.0083,2.3000,-
+Table 1 of health * adult_routine,0,Poor,Poor,Inapplicable,Inapplicable,387,1166480,112489,1.5718,0.1498,82.6108,2.8769,
+Table 1 of health * adult_routine,0,Poor,Poor,Sometimes/Never,Sometimes/Never,5,28739,14253,0.0387,0.0192,2.0353,1.0057,
+Table 1 of health * adult_routine,0,Poor,Poor,Usually,Usually,8,48612,20363,0.0655,0.0273,3.4427,1.4236,
+Table 1 of health * adult_routine,0,Poor,Poor,Always,Always,8,40990,16809,0.0552,0.0226,2.9029,1.1742,
+Table 1 of health * adult_routine,0,Poor,Poor,Total,Missing,428,1412019,119927,1.9026,0.1581,100.0000,_,1
+Table 1 of health * adult_routine,0,Total,Missing,Don't know/Non-response,Don't know/Non-response,306,2309170,171769,3.1115,0.2152,_,_,-
+Table 1 of health * adult_routine,0,Total,Missing,Inapplicable,Inapplicable,23389,68698753,1628993,92.5678,0.3749,_,_,
+Table 1 of health * adult_routine,0,Total,Missing,Sometimes/Never,Sometimes/Never,116,992831,130729,1.3378,0.1744,_,_,
+Table 1 of health * adult_routine,0,Total,Missing,Usually,Usually,113,870275,98456,1.1726,0.1298,_,_,
+Table 1 of health * adult_routine,0,Total,Missing,Always,Always,179,1343463,141365,1.8102,0.1883,_,_,
+Table 1 of health * adult_routine,0,Total,Missing,Total,Missing,24103,74214492,1731492,100.0000,_,_,_,1
+Table 2 of health * adult_routine,1,Missing,Missing,Don't know/Non-response,Don't know/Non-response,0,,,,,,,
+Table 2 of health * adult_routine,1,Missing,Missing,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Missing,Missing,Sometimes/Never,Sometimes/Never,0,,,,,,,
+Table 2 of health * adult_routine,1,Missing,Missing,Usually,Usually,0,,,,,,,
+Table 2 of health * adult_routine,1,Missing,Missing,Always,Always,0,,,,,,,
+Table 2 of health * adult_routine,1,Missing,Missing,Total,Missing,0,,,,,,_,1
+Table 2 of health * adult_routine,1,Excellent,Excellent,Don't know/Non-response,Don't know/Non-response,93,973026,136102,0.7093,0.0981,3.1876,0.4270,-
+Table 2 of health * adult_routine,1,Excellent,Excellent,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Excellent,Excellent,Sometimes/Never,Sometimes/Never,465,4445777,278221,3.2406,0.1855,14.5644,0.7771,
+Table 2 of health * adult_routine,1,Excellent,Excellent,Usually,Usually,1061,11139599,504746,8.1199,0.3180,36.4933,1.0093,
+Table 2 of health * adult_routine,1,Excellent,Excellent,Always,Always,1414,13966638,610642,10.1805,0.3406,45.7547,1.0032,
+Table 2 of health * adult_routine,1,Excellent,Excellent,Total,Missing,3033,30525040,1114112,22.2503,0.5771,100.0000,_,1
+Table 2 of health * adult_routine,1,Very good,Very good,Don't know/Non-response,Don't know/Non-response,149,1360450,130667,0.9917,0.0927,2.9223,0.2727,-
+Table 2 of health * adult_routine,1,Very good,Very good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Very good,Very good,Sometimes/Never,Sometimes/Never,774,7341683,359419,5.3515,0.2269,15.7704,0.5982,
+Table 2 of health * adult_routine,1,Very good,Very good,Usually,Usually,1748,17516547,621232,12.7681,0.3360,37.6268,0.8022,
+Table 2 of health * adult_routine,1,Very good,Very good,Always,Always,2127,20334748,646410,14.8224,0.3370,43.6805,0.8461,
+Table 2 of health * adult_routine,1,Very good,Very good,Total,Missing,4798,46553428,1271456,33.9336,0.4908,100.0000,_,1
+Table 2 of health * adult_routine,1,Good,Good,Don't know/Non-response,Don't know/Non-response,167,1398009,122716,1.0190,0.0886,3.6133,0.3066,-
+Table 2 of health * adult_routine,1,Good,Good,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Good,Good,Sometimes/Never,Sometimes/Never,782,6700766,316188,4.8843,0.2047,17.3190,0.6707,
+Table 2 of health * adult_routine,1,Good,Good,Usually,Usually,1520,13696931,487781,9.9839,0.2860,35.4016,0.8113,
+Table 2 of health * adult_routine,1,Good,Good,Always,Always,1926,16894487,522270,12.3147,0.3242,43.6661,0.9710,
+Table 2 of health * adult_routine,1,Good,Good,Total,Missing,4395,38690193,954452,28.2020,0.4450,100.0000,_,1
+Table 2 of health * adult_routine,1,Fair,Fair,Don't know/Non-response,Don't know/Non-response,75,588443,86811,0.4289,0.0631,3.8427,0.5344,-
+Table 2 of health * adult_routine,1,Fair,Fair,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Fair,Fair,Sometimes/Never,Sometimes/Never,369,2659568,166140,1.9386,0.1203,17.3677,1.0068,
+Table 2 of health * adult_routine,1,Fair,Fair,Usually,Usually,619,5097536,262486,3.7157,0.1688,33.2883,1.1391,
+Table 2 of health * adult_routine,1,Fair,Fair,Always,Always,944,6967745,308311,5.0789,0.2066,45.5013,1.2544,
+Table 2 of health * adult_routine,1,Fair,Fair,Total,Missing,2007,15313292,535970,11.1621,0.3306,100.0000,_,1
+Table 2 of health * adult_routine,1,Poor,Poor,Don't know/Non-response,Don't know/Non-response,32,242862,52023,0.1770,0.0378,3.9763,0.8133,-
+Table 2 of health * adult_routine,1,Poor,Poor,Inapplicable,Inapplicable,0,,,,,,,
+Table 2 of health * adult_routine,1,Poor,Poor,Sometimes/Never,Sometimes/Never,148,1083858,106476,0.7900,0.0778,17.7459,1.5475,
+Table 2 of health * adult_routine,1,Poor,Poor,Usually,Usually,260,1877990,160371,1.3689,0.1175,30.7481,2.0817,
+Table 2 of health * adult_routine,1,Poor,Poor,Always,Always,389,2902950,203873,2.1160,0.1454,47.5297,2.2449,
+Table 2 of health * adult_routine,1,Poor,Poor,Total,Missing,829,6107660,313886,4.4520,0.2254,100.0000,_,1
+Table 2 of health * adult_routine,1,Total,Missing,Don't know/Non-response,Don't know/Non-response,516,4562789,249152,3.3259,0.1716,_,_,-
+Table 2 of health * adult_routine,1,Total,Missing,Inapplicable,Inapplicable,0,,,,,_,_,
+Table 2 of health * adult_routine,1,Total,Missing,Sometimes/Never,Sometimes/Never,2538,22231652,702281,16.2051,0.3720,_,_,
+Table 2 of health * adult_routine,1,Total,Missing,Usually,Usually,5208,49328603,1281658,35.9565,0.4761,_,_,
+Table 2 of health * adult_routine,1,Total,Missing,Always,Always,6800,61066569,1529608,44.5125,0.5713,_,_,
+Table 2 of health * adult_routine,1,Total,Missing,Total,Missing,15062,137189613,2982275,100.0000,_,_,_,1

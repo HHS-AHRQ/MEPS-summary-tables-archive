@@ -1,0 +1,55 @@
+Table,domain,F_SEX,SEX,F_afford_DN,afford_DN,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_insure_DN,insure_DN,F_other_DN,other_DN
+Table 1 of SEX * afford_DN,0,Male,Male,0,0,16951,133920342,2886637,49.1121,0.2615,100.0000,0.0000,,,,,
+Table 1 of SEX * afford_DN,0,Male,Male,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of SEX * afford_DN,0,Male,Male,Total,,16951,133920342,2886637,49.1121,0.2615,100.0000,_,1,,,,
+Table 1 of SEX * afford_DN,0,Female,Female,0,0,18466,138762774,2902980,50.8879,0.2615,100.0000,0.0000,-,,,,
+Table 1 of SEX * afford_DN,0,Female,Female,Couldn't afford,Couldn't afford,0,,,,,,,,,,,
+Table 1 of SEX * afford_DN,0,Female,Female,Total,,18466,138762774,2902980,50.8879,0.2615,100.0000,_,1,,,,
+Table 1 of SEX * afford_DN,0,Total,,0,0,35417,272683116,5611807,100.0000,0.0000,_,_,-,,,,
+Table 1 of SEX * afford_DN,0,Total,,Couldn't afford,Couldn't afford,0,,,,,_,_,,,,,
+Table 1 of SEX * afford_DN,0,Total,,Total,,35417,272683116,5611807,100.0000,_,_,_,1,,,,
+Table 2 of SEX * afford_DN,1,Male,Male,0,0,300,2543035,201059,16.4081,1.1413,36.9542,2.2682,,,,,
+Table 2 of SEX * afford_DN,1,Male,Male,Couldn't afford,Couldn't afford,545,4338550,288231,27.9931,1.2394,63.0458,2.2682,,,,,
+Table 2 of SEX * afford_DN,1,Male,Male,Total,,845,6881585,369582,44.4012,1.2681,100.0000,_,1,,,,
+Table 2 of SEX * afford_DN,1,Female,Female,0,0,384,3081320,188699,19.8812,1.1232,35.7584,1.7715,-,,,,
+Table 2 of SEX * afford_DN,1,Female,Female,Couldn't afford,Couldn't afford,772,5535741,280642,35.7176,1.2163,64.2416,1.7715,,,,,
+Table 2 of SEX * afford_DN,1,Female,Female,Total,,1156,8617061,347469,55.5988,1.2681,100.0000,_,1,,,,
+Table 2 of SEX * afford_DN,1,Total,,0,0,684,5624355,307184,36.2893,1.6384,_,_,-,,,,
+Table 2 of SEX * afford_DN,1,Total,,Couldn't afford,Couldn't afford,1317,9874292,496675,63.7107,1.6384,_,_,,,,,
+Table 2 of SEX * afford_DN,1,Total,,Total,,2001,15498646,606893,100.0000,_,_,_,1,,,,
+Table 1 of SEX * insure_DN,0,Male,Male,,,16951,133920342,2886637,49.1121,0.2615,100.0000,0.0000,,0,0,,
+Table 1 of SEX * insure_DN,0,Male,Male,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of SEX * insure_DN,0,Male,Male,,,16951,133920342,2886637,49.1121,0.2615,100.0000,_,1,Total,,,
+Table 1 of SEX * insure_DN,0,Female,Female,,,18466,138762774,2902980,50.8879,0.2615,100.0000,0.0000,-,0,0,,
+Table 1 of SEX * insure_DN,0,Female,Female,,,0,,,,,,,,Insurance related,Insurance related,,
+Table 1 of SEX * insure_DN,0,Female,Female,,,18466,138762774,2902980,50.8879,0.2615,100.0000,_,1,Total,,,
+Table 1 of SEX * insure_DN,0,Total,,,,35417,272683116,5611807,100.0000,0.0000,_,_,-,0,0,,
+Table 1 of SEX * insure_DN,0,Total,,,,0,,,,,_,_,,Insurance related,Insurance related,,
+Table 1 of SEX * insure_DN,0,Total,,,,35417,272683116,5611807,100.0000,_,_,_,1,Total,,,
+Table 2 of SEX * insure_DN,1,Male,Male,,,748,6059375,343944,39.0962,1.2799,88.0520,1.4389,,0,0,,
+Table 2 of SEX * insure_DN,1,Male,Male,,,97,822211,106785,5.3050,0.6583,11.9480,1.4389,,Insurance related,Insurance related,,
+Table 2 of SEX * insure_DN,1,Male,Male,,,845,6881585,369582,44.4012,1.2681,100.0000,_,1,Total,,,
+Table 2 of SEX * insure_DN,1,Female,Female,,,1044,7843617,343739,50.6084,1.2844,91.0243,1.0879,-,0,0,,
+Table 2 of SEX * insure_DN,1,Female,Female,,,112,773444,94025,4.9904,0.6194,8.9757,1.0879,,Insurance related,Insurance related,,
+Table 2 of SEX * insure_DN,1,Female,Female,,,1156,8617061,347469,55.5988,1.2681,100.0000,_,1,Total,,,
+Table 2 of SEX * insure_DN,1,Total,,,,1792,13902992,587596,89.7046,1.0186,_,_,-,0,0,,
+Table 2 of SEX * insure_DN,1,Total,,,,209,1595654,161480,10.2954,1.0186,_,_,,Insurance related,Insurance related,,
+Table 2 of SEX * insure_DN,1,Total,,,,2001,15498646,606893,100.0000,_,_,_,1,Total,,,
+Table 1 of SEX * other_DN,0,Male,Male,,,16951,133920342,2886637,49.1121,0.2615,100.0000,0.0000,,,,0,0
+Table 1 of SEX * other_DN,0,Male,Male,,,0,,,,,,,,,,Other,Other
+Table 1 of SEX * other_DN,0,Male,Male,,,16951,133920342,2886637,49.1121,0.2615,100.0000,_,1,,,Total,
+Table 1 of SEX * other_DN,0,Female,Female,,,18466,138762774,2902980,50.8879,0.2615,100.0000,0.0000,-,,,0,0
+Table 1 of SEX * other_DN,0,Female,Female,,,0,,,,,,,,,,Other,Other
+Table 1 of SEX * other_DN,0,Female,Female,,,18466,138762774,2902980,50.8879,0.2615,100.0000,_,1,,,Total,
+Table 1 of SEX * other_DN,0,Total,,,,35417,272683116,5611807,100.0000,0.0000,_,_,-,,,0,0
+Table 1 of SEX * other_DN,0,Total,,,,0,,,,,_,_,,,,Other,Other
+Table 1 of SEX * other_DN,0,Total,,,,35417,272683116,5611807,100.0000,_,_,_,1,,,Total,
+Table 2 of SEX * other_DN,1,Male,Male,,,629,5057399,306295,32.6312,1.1812,73.4918,1.7974,,,,0,0
+Table 2 of SEX * other_DN,1,Male,Male,,,216,1824186,152270,11.7700,0.8886,26.5082,1.7974,,,,Other,Other
+Table 2 of SEX * other_DN,1,Male,Male,,,845,6881585,369582,44.4012,1.2681,100.0000,_,1,,,Total,
+Table 2 of SEX * other_DN,1,Female,Female,,,864,6189177,283717,39.9337,1.2161,71.8247,1.5664,-,,,0,0
+Table 2 of SEX * other_DN,1,Female,Female,,,292,2427884,166757,15.6651,0.9638,28.1753,1.5664,,,,Other,Other
+Table 2 of SEX * other_DN,1,Female,Female,,,1156,8617061,347469,55.5988,1.2681,100.0000,_,1,,,Total,
+Table 2 of SEX * other_DN,1,Total,,,,1493,11246576,506629,72.5649,1.3042,_,_,-,,,0,0
+Table 2 of SEX * other_DN,1,Total,,,,508,4252071,245593,27.4351,1.3042,_,_,,,,Other,Other
+Table 2 of SEX * other_DN,1,Total,,,,2001,15498646,606893,100.0000,_,_,_,1,,,Total,

@@ -1,0 +1,25 @@
+Table,domain,F_ind,ind,F_delay_ANY,delay_ANY,Frequency,WgtFreq,StdDev,Percent,StdErr,RowPercent,RowStdErr,_SkipLine,F_delay_MD,delay_MD,F_delay_DN,delay_DN,F_delay_PM,delay_PM
+Table 1 of ind * delay_ANY,0,Total,Total,No difficulty,No difficulty,463,3850940,231220,100.0000,0.0000,100.0000,0.0000,,,,,,,
+Table 1 of ind * delay_ANY,0,Total,Total,Difficulty accessing care,Difficulty accessing care,0,,,,,,,,,,,,,
+Table 1 of ind * delay_ANY,0,Total,Total,Total,,463,3850940,231220,100.0000,_,100.0000,_,1,,,,,,
+Table 2 of ind * delay_ANY,1,Total,Total,No difficulty,No difficulty,33100,253451302,5345900,89.1396,0.2645,89.1396,0.2645,,,,,,,
+Table 2 of ind * delay_ANY,1,Total,Total,Difficulty accessing care,Difficulty accessing care,3855,30879521,919185,10.8604,0.2645,10.8604,0.2645,,,,,,,
+Table 2 of ind * delay_ANY,1,Total,Total,Total,,36955,284330823,5830692,100.0000,_,100.0000,_,1,,,,,,
+Table 1 of ind * delay_MD,0,Total,Total,,,463,3850940,231220,100.0000,0.0000,100.0000,0.0000,,No difficulty,No difficulty,,,,
+Table 1 of ind * delay_MD,0,Total,Total,,,0,,,,,,,,Difficulty accessing care,Difficulty accessing care,,,,
+Table 1 of ind * delay_MD,0,Total,Total,,,463,3850940,231220,100.0000,_,100.0000,_,1,Total,,,,,
+Table 2 of ind * delay_MD,1,Total,Total,,,35134,269486700,5593474,94.7793,0.1769,94.7793,0.1769,,No difficulty,No difficulty,,,,
+Table 2 of ind * delay_MD,1,Total,Total,,,1821,14844123,564177,5.2207,0.1769,5.2207,0.1769,,Difficulty accessing care,Difficulty accessing care,,,,
+Table 2 of ind * delay_MD,1,Total,Total,,,36955,284330823,5830692,100.0000,_,100.0000,_,1,Total,,,,,
+Table 1 of ind * delay_DN,0,Total,Total,,,463,3850940,231220,100.0000,0.0000,100.0000,0.0000,,,,No difficulty,No difficulty,,
+Table 1 of ind * delay_DN,0,Total,Total,,,0,,,,,,,,,,Difficulty accessing care,Difficulty accessing care,,
+Table 1 of ind * delay_DN,0,Total,Total,,,463,3850940,231220,100.0000,_,100.0000,_,1,,,Total,,,
+Table 2 of ind * delay_DN,1,Total,Total,,,34954,268832177,5594986,94.5491,0.1934,94.5491,0.1934,,,,No difficulty,No difficulty,,
+Table 2 of ind * delay_DN,1,Total,Total,,,2001,15498646,606893,5.4509,0.1934,5.4509,0.1934,,,,Difficulty accessing care,Difficulty accessing care,,
+Table 2 of ind * delay_DN,1,Total,Total,,,36955,284330823,5830692,100.0000,_,100.0000,_,1,,,Total,,,
+Table 1 of ind * delay_PM,0,Total,Total,,,463,3850940,231220,100.0000,0.0000,100.0000,0.0000,,,,,,No difficulty,No difficulty
+Table 1 of ind * delay_PM,0,Total,Total,,,0,,,,,,,,,,,,Difficulty accessing care,Difficulty accessing care
+Table 1 of ind * delay_PM,0,Total,Total,,,463,3850940,231220,100.0000,_,100.0000,_,1,,,,,Total,
+Table 2 of ind * delay_PM,1,Total,Total,,,35743,274577354,5705997,96.5697,0.1364,96.5697,0.1364,,,,,,No difficulty,No difficulty
+Table 2 of ind * delay_PM,1,Total,Total,,,1212,9753469,406664,3.4303,0.1364,3.4303,0.1364,,,,,,Difficulty accessing care,Difficulty accessing care
+Table 2 of ind * delay_PM,1,Total,Total,,,36955,284330823,5830692,100.0000,_,100.0000,_,1,,,,,Total,
