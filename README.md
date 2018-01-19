@@ -15,7 +15,7 @@ install.packages("shiny")
 library(shiny)
 ```
 
-Next, open the R programs from the [app](app) folder in RStudio, highlight the code and click **Run** or **Run App** (if available). Only one Shiny program can be run at a time in RStudio. Note that local links in the navigation bar will not work as expected when using Shiny to run the tables (an external server is needed).
+Next, open the R programs from the [apps](apps) folder in RStudio, highlight the code and click **Run** or **Run App** (if available). Only one Shiny program can be run at a time in RStudio. Note that local links in the navigation bar will not work as expected when using Shiny to run the tables (an external server is needed).
 
 ## Code
 
