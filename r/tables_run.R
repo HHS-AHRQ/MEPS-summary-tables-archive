@@ -10,7 +10,7 @@ source("codes.R", chdir = T)
 
 #appKey = 'ins' ; year_list = 1996:2015; year = 1996;
 #appKey = 'cond'; year_list = 1996:2015; year = 2003;
-#appKey = 'pmed'; year_list = 2013:2015; year = 2014;
+#appKey = 'pmed'; year_list = 1996:2015; year = 2014;
 #appKey = 'care'; year_list = 2002:2015; year = 2002;
 #appKey = 'use' ; year_list = 1996:2015; year = 2015; 
 
@@ -162,8 +162,13 @@ run_tables <- function(appKey, year_list) {
 # run_tables(appKey = 'pmed', year_list = c(2013,2015))
 # run_tables(appKey = 'ins',  year_list = c(1996,2015))
 
+
+run_tables(appKey = 'pmed', year_list = 1996:2015)
+
+
+
 run_tables(appKey = 'ins',  year_list = 1996:2015)
-run_tables(appKey = 'pmed', year_list = 2013:2015)
+run_tables(appKey = 'pmed', year_list = 1996:2015)
 run_tables(appKey = 'care', year_list = 2002:2015)
 run_tables(appKey = 'cond', year_list = 1996:2015)
 
