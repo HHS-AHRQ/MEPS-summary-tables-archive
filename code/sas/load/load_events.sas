@@ -65,6 +65,8 @@
 %load_events(HH,&HH.);
 
 /* Define sub-levels for office-based, outpatient, and home health */
+/* To compute estimates for these sub-events, replace 'event' with 'event_v2X'
+   in the 'proc surveymeans' statement below, when applicable */
 data OB; set OB;
 	if SEEDOC = 1 then event_v2X = 'OBD';
 	else if SEEDOC = 2 then event_v2X = 'OBO';

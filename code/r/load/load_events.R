@@ -11,6 +11,8 @@
   HHT <- read.xport('.PUFdir./.HH..ssp')
 
 # Define sub-levels for office-based and outpatient
+#  To compute estimates for these sub-events, replace 'event' with 'event_v2X'
+#  in the 'svyby' statement below, when applicable
   OBV <- OBV %>%
     mutate(event_v2X = recode_factor(
       SEEDOC, .default = 'Missing', '1' = 'OBD', '2' = 'OBO'))
