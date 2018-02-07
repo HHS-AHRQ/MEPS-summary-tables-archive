@@ -290,7 +290,7 @@ careCaption <- list(
   "rsn_PM" = "Reasons for difficulty among persons with difficulty receiving needed prescription medicines",
 
   "adult_nosmok" = "Adults advised to quit smoking",
-  "child_dental" = "Children receiving dental care",
+  "child_dental" = "Children ages 2-17 receiving dental care",
 
   "diab_a1c" = "Hemoglobin A1c measurement among adults with diabetes",
   "diab_chol" = "Lipid profile among adults with diabetes",
