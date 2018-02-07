@@ -453,14 +453,13 @@ $('#meps-table').hide(); // hide until new data is imported
       seCSV = "";
     }
 
-    var suppress = $('#suppress').is(":visible") ? $('#suppress').text(): "";
-    var RSE = $('#RSE').is(":visible") ? $('#RSE').text(): "";
     var dlSource = newSource.replace('<b>','').replace('</b>','');
 
     var csv = $.grep(
       ['"'+newCaption.replace(" (standard errors)","")+'"', coefCSV,
        '"'+seCaption.replace(" (standard errors)","") +'"', seCSV,
-       suppress, RSE,
+       $('#suppress').text(),
+       $('#RSE').text(),
        '"'+dlSource+'"'], Boolean).join("\n");
 
     downloadFile({file: csv, filename: 'meps-table-' + shortDate() + '.csv'});
@@ -719,35 +718,24 @@ $('#meps-table').hide(); // hide until new data is imported
 
 // Caption, Citation, Notes ---------------------------------------------------
     var newCaption, plotCaption, newSource, rowName, colName;
-    var anySuppress = false, plotSuppress = false, anyRSE = false;
+    var plotSuppress = false;
 
     // Footnotes
     $(document).on('updateNotes', function() {
-      var cellData = table.cells({search: 'applied'},'.showDT.coef').data().toArray();
-      /* Reset to false */
-      anyRSE = false; anySuppress = false; plotSuppress = false;
+      
+      if(isPivot) {
+        var cellData = table.cells('.selected','.showDT.coef').data().toArray();
+      } else {
+        var cellData = table.cells({search: 'applied'},'.showDT.coef').data().toArray();
+      }
+
+      plotSuppress = false; /* Reset to false */
       for(var i = 0; i < cellData.length; i++) {
         var el_i = cellData[i];
-        anySuppress = (el_i===null || el_i=="NA") ? true : anySuppress;
-        if(el_i !== null) {anyRSE = el_i.includes("*") ? true : anyRSE;}
-        /* Can stop looping if both are true */
-        if(anyRSE && anySuppress) {break;}
+        plotSuppress = (el_i===null || el_i=="NA") ? true : plotSuppress;
+        if(plotSuppress) {break;}
       }
-
-      if(isPivot) {
-        var cellDataSelected = table.cells('.selected','.showDT.coef').data().toArray();
-        for(var j = 0; j < cellDataSelected.length; j++) {
-          var el_j = cellDataSelected[j];
-          plotSuppress = (el_j===null || el_j=="NA") ? true : plotSuppress;
-          if(plotSuppress) {break;}
-        }
-      } else {
-        plotSuppress = anySuppress;
-      }
-
-      anySuppress ? $('#suppress').show() : $('#suppress').hide();
       plotSuppress ? $('#plot-suppress').show() : $('#plot-suppress').hide();
-      anyRSE ? $('#RSE').show() : $('#RSE').hide();
     });
 
     $(document).on('updateNotes', function() {
