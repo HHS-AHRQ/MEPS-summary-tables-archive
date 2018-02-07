@@ -722,7 +722,7 @@ $('#meps-table').hide(); // hide until new data is imported
 
     // Footnotes
     $(document).on('updateNotes', function() {
-      
+
       if(isPivot) {
         var cellData = table.cells('.selected','.showDT.coef').data().toArray();
       } else {
@@ -806,5 +806,5 @@ $('#meps-table').hide(); // hide until new data is imported
 
 // Trigger --------------------------------------------------------------------
 // trigger on load too -- must be at end;
-    $('#stat, #code-language').trigger('change');
+    $('#stat, #code-language, #data-view').trigger('change');
 });
