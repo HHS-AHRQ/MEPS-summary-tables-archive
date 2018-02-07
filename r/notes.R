@@ -193,7 +193,7 @@ Reasons for difficulty are not mutually exclusive. For instance, a person can ha
 # Medical Conditions  --------------------------------------------------------
 
 notes$Condition <- "
-<h4>Condition</h4>
+<h4>Conditions</h4>
 <p>Medical conditions are based on conditions for which treatment was received, where treatment includes emergency room visits, home health care, inpatient stays, office-based visits, outpatient visits, and prescription medicine purchases. <i>Other medical equipment and services</i> and <i>dental visits</i> are not included in these tables since medical conditions are not collected for these event types.</p>
 
 <p>Starting in 2007, new survey questions were introduced into MEPS asking participants about whether they had been told they have certain priority health conditions. This change in the survey methodology may have impacted responses for utilization and expenditures related to the following conditions: hypertension, heart disease, cerebrovascular disease, COPD, asthma, hyperlipidemia, cancer, diabetes mellitus, and osteoarthritis. Care should be taken when analyzing these conditions over a time period that spans the 2007 change in survey methodology.</p>
