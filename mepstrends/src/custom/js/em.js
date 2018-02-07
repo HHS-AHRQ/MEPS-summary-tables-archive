@@ -543,7 +543,7 @@ $('#meps-table').hide(); // hide until new data is imported
       hideLegend = (rowX == 'ind' && colX == 'ind');
       hideYaxis = false;
       layout.yaxis = {tickformat: '0,.5', hoverformat: hoverfmt};
-      layout.margin.l = 50;
+      layout.margin.l = 60;
       layout.xaxis = x.length < 5 ? {tickvals: x_values} : {};
 
     } else {
