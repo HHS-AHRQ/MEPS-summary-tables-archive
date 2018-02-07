@@ -272,7 +272,7 @@ function fill(array, length) {
 function shortDate() {
   var today = new Date();
   var dd = today.getDate();
-  var mm = today.getMonth();
+  var mm = today.getMonth() + 1;
   var yy = today.getFullYear();
   return [yy,mm,dd].join("-");
 }
