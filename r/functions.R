@@ -249,8 +249,36 @@ format_tbl <- function(df, appKey) {
   }
   
   if(appKey == "pmed") {
+    
     fmt_tbl <- fmt_tbl %>% 
       mutate(rowLevels = str_to_title(rowLevels))
+     
+    # # Check abbreviations
+    # abbrevs <- array()
+    # for(lev in unique(fmt_tbl$rowLevels)) {
+    #   components <- strsplit(lev, "/")[[1]] 
+    #   abbrevs <- c(abbrevs, components[nchar(components) < 5])
+    # }
+    # print(unique(abbrevs))
+
+    # Make abbreviations all caps
+    abbrevs <- 
+      c("ASA", "APAP", "PPA", "CPM", "PE", 
+        "PB", "HC", "PSE", "DM", "TCN", "GG",  # "ADOL"
+        "ALOH", "MGOH", "FA")
+    
+    for(abb in abbrevs) {
+      ABB_str1 <- sprintf("^%s/", abb); re1 <- sprintf("%s/", abb);
+      ABB_str2 <- sprintf("/%s/", abb); re2 <- ABB_str2;
+      ABB_str3 <- sprintf("/%s$", abb); re3 <- sprintf("/%s", abb);
+
+      fmt_tbl <- fmt_tbl %>%
+        mutate(
+          rowLevels = gsub(ABB_str1, re1, rowLevels, ignore.case = T),
+          rowLevels = gsub(ABB_str2, re2, rowLevels, ignore.case = T),
+          rowLevels = gsub(ABB_str3, re3, rowLevels, ignore.case = T))
+    }
+
   }
 
   # Remove rows with too small n

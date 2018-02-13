@@ -23,7 +23,7 @@ source("notes.R")
 #   sprintf("'%s'",.)
 # 
 
-write_data = FALSE
+write_data = TRUE
 write_code = TRUE
 
 # Adjustment (can change for specific apps) -----------------------------------
