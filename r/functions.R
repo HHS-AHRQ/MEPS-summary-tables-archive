@@ -485,6 +485,11 @@ code_toJSON <- function(appKey, years) {
   subgrps  <- demo_grps %>% unlist(use.names = F)
   pufNames <- lapply(years, get_puf_names, web = F) %>% setNames(years)
   
+  # For years after 2013, set 'Multum' to the 2013 dataset
+    for(year in 2014:max(years)) {
+      pufNames[[as.character(year)]]$Multum = pufNames[['2013']]$Multum
+    }
+  
   if(appKey != 'use') grpCode <- grpCode[!names(grpCode) %in% c("event", "sop", "event_sop")]
   
   appKeyJ <- sprintf("var appKey = '%s';", appKey)
