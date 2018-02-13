@@ -203,13 +203,36 @@ notes$Condition <- "
 
 # Prescribed Drugs ------------------------------------------------------------
 
-notes$RXDRGNAM <- "
-Data source for generic drug name is Cerner Multum Inc.
-"
+notes$RXDRGNAM <- '
+<p>Data source for generic drug name is Cerner Multum Inc.</p>
+
+<p>Prescribed drugs are identified using a list of generic names from the Multum Lexicon that are created for physicians and are edited to fit into a fixed amount of space. In general, a component of a drug name such as a salt, chemical or estername is included only if it is important to identify the drug and a physician is likely to use it.  In most cases, they will be excluded. For example, "buspirone hydrochloride" will appear as "buspirone.""  In a combination drug with two ingredients, the ingredients are separated by a dash.  In a combination drug with three or more ingredients, the ingredients are separated by a "/" and common drug name abbreviations may be used for some ingredients. These include "ASA" for aspirin, "APAP" for acetaminophen and "PPA" for phenylpropanolamine.
+</p>
+'
 
 notes$TC1name <- '
 <p>Data source for therapeutic class is Cerner Multum Inc.</p>
 
 <p>The overwhelming majority of items in the "Not Ascertained" category are medical supplies and devices, such as test strips, lancets, and glucometers.</p>
 
-<p>Users should be cautious when assessing trends in therapeutic classes, because Multum\'s therapeutic classification has changed across the years of the MEPS. The Multum variables on each year of this table reflect the most recent classification available in the year the MEPS Prescribed Medicines files were originally released. Since the release of the 1996 Prescribed Medicines file, the Multum classification has been changed by the addition of new classes, and by drugs switching classes. For example: 1) In 1996-2004, antidiabetic drugs were a subclass of the hormone class, but in subsequent years, the antidiabetic subclass is part of a class of metabolic drugs. 2) In 1996-2004, antihyperlipidemic agents were categorized as a class. In subsequent files, antihyperlipidemic drugs were a subclass in the metabolic class. 3) In 1996-2004, the psychotherapeutic class comprised drugs from four subclasses: antidepressants, antipsychotics, anxiolytics/sedatives/hypnotics, and CNS stimulants. In subsequent files, the psychotherapeutic class comprised only antidepressants and antipsychotics.</p>'
+<p>Users should be cautious when assessing trends in therapeutic classes, because Multum\'s therapeutic classification has changed across the years of the MEPS. The Multum variables on each year of this table reflect the most recent classification available in the year the MEPS Prescribed Medicines files were originally released. Four changes explain breaks in the trends:
+
+<ol>
+  <li>
+    From 1996-2004, antidiabetic drugs were a subclass of the hormone class, but in subsequent years, the antidiabetic subclass is part of a class of metabolic drugs.
+  </li>
+  <li>
+    From 1996-2004, antihyperlipidemic agents were categorized as a class. In subsequent years, antihyperlipidemic drugs were a subclass in the metabolic class.
+  </li>
+  <li>
+     From 1996-2004, the psychotherapeutic class comprised drugs from four subclasses: antidepressants, antipsychotics, anxiolytics/sedatives/hypnotics, and CNS stimulants. In subsequent files, the psychotherapeutic class comprised only antidepressants and antipsychotics.
+   </li>
+   <li>
+     From 1996-2007, genitourinary agents were in the miscellaneous agent therapeutic class.  In subsequent years, they are their own class.
+   </li>
+ </p>
+</ol>
+
+<p>
+Smaller changes may occur each year. In 2015, for example, the therapeutic class for sulfasalazine was switched from anti-infectives to gastrointestinal agents. Changes may occur between any years, so for more precise estimates, it is prudent to use the RXDRGNAM variable in the Prescription Medication public use files and Multum Lexicon Addendum Files to MEPS Prescribed Medicines Files to create a consistent classification over time.  For additional information, please refer to www.multum.com/Lexicon.html.
+</p>'
