@@ -206,7 +206,7 @@ notes$Condition <- "
 notes$RXDRGNAM <- '
 <p>Data source for generic drug name is Cerner Multum Inc. Prescribed drugs with inadequate precision for all years are not shown.</p>
 
-<p>Prescribed drugs are identified using a list of generic names from the Multum Lexicon that are created for physicians and are edited to fit into a fixed amount of space. In general, a component of a drug name such as a salt, chemical or estername is included only if it is important to identify the drug and a physician is likely to use it.  In most cases, they will be excluded. For example, "buspirone hydrochloride" will appear as "buspirone.""  In a combination drug with two ingredients, the ingredients are separated by a dash.  In a combination drug with three or more ingredients, the ingredients are separated by a "/" and common drug name abbreviations may be used for some ingredients. These include "ASA" for aspirin, "APAP" for acetaminophen and "PPA" for phenylpropanolamine.
+<p>Prescribed drugs are identified using a list of generic names from the Multum Lexicon that are created for physicians and are edited to fit into a fixed amount of space. In general, a component of a drug name such as a salt, chemical or estername is included only if it is important to identify the drug and a physician is likely to use it.  In most cases, they will be excluded. For example, "buspirone hydrochloride" will appear as "buspirone." In a combination drug with two ingredients, the ingredients are separated by a dash.  In a combination drug with three or more ingredients, the ingredients are separated by a "/" and common drug name abbreviations may be used for some ingredients. These include "ASA" for aspirin, "APAP" for acetaminophen and "PPA" for phenylpropanolamine.
 </p>
 '
 
