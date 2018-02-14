@@ -22,11 +22,13 @@
 
 table {table-layout: auto;}
 td, th {white-space: nowrap;}
-a {text-decoration: none;}
 
-.info-box a {
-  text-decoration: underline;
+ol li {
+  list-style: decimal;
 }
+
+footer a {text-decoration: none;}
+header a {text-decoration: none;}
 
 .tooltip {
   bottom: auto;
@@ -190,7 +192,7 @@ a:focus{
   max-width: 600px;
 }
 
-#control-totals, #RSE, #dl-table, #suppress {
+#control-totals, #dl-table {
   display: none;
 }
 

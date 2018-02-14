@@ -290,7 +290,7 @@ careCaption <- list(
   "rsn_PM" = "Reasons for difficulty among persons with difficulty receiving needed prescription medicines",
 
   "adult_nosmok" = "Adults advised to quit smoking",
-  "child_dental" = "Children receiving dental care",
+  "child_dental" = "Children ages 2-17 receiving dental care",
 
   "diab_a1c" = "Hemoglobin A1c measurement among adults with diabetes",
   "diab_chol" = "Lipid profile among adults with diabetes",
@@ -385,7 +385,7 @@ img = list(src="../src/custom/img/icon_pmed.png", alt = "pills"),
 
 preview = "Purchases and spending by prescribed drug or therapeutic class.",
 
-description = "These MEPS summary tables provide statistics on total expenditures, total purchases, and number of persons with purchases for prescription medicines or therapeutic class groups. Tables are available for the years 2013-2015. Tables from earlier years will be available shortly.",
+description = "These MEPS summary tables provide statistics on total expenditures, total purchases, and number of persons with purchases for prescription medicines or therapeutic class groups.",
 
 instructions1 = 'Use the options below to select a statistic of interest, data years, and grouping variable (therapeutic class or generic drug name). After you select the available options, the table will automatically be updated. The table can be sorted by drug name or therapeutic class name, or data values for each year by clicking on the column header.',
 

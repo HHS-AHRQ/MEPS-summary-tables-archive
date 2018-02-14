@@ -335,7 +335,7 @@ write(as.character(care_page), file = "../mepstrends/hc_care/index.html")
 
 # Prescribed Drugs ------------------------------------------------------------
 
-year_list = 2013:2015
+year_list = 1996:2015
 
 pmed_forms <- tagList(
   statInput('pmed'),

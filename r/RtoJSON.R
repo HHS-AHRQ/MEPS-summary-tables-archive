@@ -59,7 +59,7 @@ if(write_data) data_toJSON(appKey = 'cond', years = years, adj = adj, pivot = T)
 if(write_code) code_toJSON(appKey = 'cond', years = years)
 
 # Prescribed Drugs ------------------------------------------------------------
-years = 2013:2015
+years = 1996:2015
 if(write_data) data_toJSON(appKey = 'pmed', years = years, adj = adj, pivot = T)
 if(write_code) code_toJSON(appKey = 'pmed', years = years)
 
