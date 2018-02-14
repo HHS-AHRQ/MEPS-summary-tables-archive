@@ -138,6 +138,7 @@ $('#meps-table').hide(); // hide until new data is imported
   var colLevels = {}, rowLevels = {};
 
   $(document).on('updateData', function() {
+    $('#updating-overlay').show();
     var filename = 'json/data/' + stat + '__' + rowX + '__' + colX + '.json';
     $.getJSON(filename, function(data) {
       newData = data.data;
@@ -222,6 +223,7 @@ $('#meps-table').hide(); // hide until new data is imported
      $(document).trigger('updateNotes');
 
       $('#meps-table').show();
+      $('#updating-overlay').hide();
     });
   });
 
@@ -707,6 +709,7 @@ $('#meps-table').hide(); // hide until new data is imported
     codeText = codeText.replace("\n\n\n","\n\n");
 
     $('#code').html(codeText);
+    $('#updating-overlay').hide(); // Remove 'updating' overlay faster for code
   });
 
   // Export code to text files --------------------

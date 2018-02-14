@@ -23,10 +23,6 @@
 table {table-layout: auto;}
 td, th {white-space: nowrap;}
 
-ol li {
-  list-style: decimal;
-}
-
 footer a {text-decoration: none;}
 header a {text-decoration: none;}
 
@@ -138,6 +134,10 @@ body{
   min-width: 0;
 }
 
+ol li {
+  list-style: decimal;
+}
+
 label {margin-top: 1rem;}
 select {
   max-width: none;
@@ -201,6 +201,29 @@ a:focus{
   font-style: italic;
 }
 
+#updating-overlay {
+  position: absolute;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 1rem;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255,255,255,0.7);
+  z-index: 200000;
+}
+
+#updating-text {
+  margin: 10rem;
+  font-size: 40px;
+  width: 500px;
+  text-align: center;
+  font-style: italic;
+  padding: 2rem;
+  background: white;
+  background: radial-gradient(white 1%, rgba(255,255,255,0.8));
+}
 
 /**** Home page *****/
 

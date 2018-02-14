@@ -107,6 +107,9 @@ build_main <- function(pivot = F) {
 
   div(class = 'tab-content',
 
+      div(id = 'updating-overlay',
+          div(id = 'updating-text', 'Updating, please wait...')),
+      
     # TABLE -----------------------------------------------------------
       div(id = 'table-tab', class = 'tab-pane active',
           div(class = 'caption-block',
