@@ -809,5 +809,5 @@ $('#meps-table').hide(); // hide until new data is imported
 
 // Trigger --------------------------------------------------------------------
 // trigger on load too -- must be at end;
-    $('#stat, #code-language, #data-view').trigger('change');
+     $('#stat, #code-language, #data-view, #colGrp, #rowGrp, #year, #showSEs').trigger('change');
 });
