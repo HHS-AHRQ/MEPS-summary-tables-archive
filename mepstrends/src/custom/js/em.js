@@ -141,6 +141,7 @@ $('#meps-table').hide(); // hide until new data is imported
     $('#updating-overlay').show();
     var filename = 'json/data/' + stat + '__' + rowX + '__' + colX + '.json';
     $.getJSON(filename, function(data) {
+      $('#updating-overlay').hide();
       newData = data.data;
       var newNames = data.names;
       var newClasses = data.classes;
@@ -223,7 +224,6 @@ $('#meps-table').hide(); // hide until new data is imported
      $(document).trigger('updateNotes');
 
       $('#meps-table').show();
-      $('#updating-overlay').hide();
     });
   });
 

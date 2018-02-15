@@ -210,19 +210,20 @@ a:focus{
   left: 1rem;
   right: 0;
   bottom: 0;
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.3);
   z-index: 200000;
 }
 
 #updating-text {
-  margin: 10rem;
+  font-style: italic;
+  /*margin: 10rem;
   font-size: 40px;
   width: 500px;
   text-align: center;
-  font-style: italic;
   padding: 2rem;
   background: white;
   background: radial-gradient(white 1%, rgba(255,255,255,0.8));
+  */
 }
 
 /**** Home page *****/
