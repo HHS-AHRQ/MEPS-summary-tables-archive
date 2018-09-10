@@ -6,37 +6,30 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 csv_only <- function(vec) vec[grepl('csv',vec)]
 
-setwd("../tables/care")
+setwd("../build_hc_tables/data_tables/hc_cond")
 
 years <- list.files()
 for(year in years){
    files = list.files(as.character(year)) %>% csv_only
-   #unlink(sprintf("%s/_DONE.Rdata",year))
+   unlink(sprintf("%s/_DONE.Rdata",year))
    
-   for(file in files) {
+   print(c(year,files))
+   
+   event_files <- "totEVT.csv"
+   
+   for(file in event_files) {
      fname = sprintf("%s/%s",year,file)
      
-     print(fname)
+     #print(fname)
+   
+     #unlink(fname)
      
-     tab = read.csv(fname,stringsAsFactors = F)
-     
-     tab <- tab %>% 
-       mutate(rowLevels = replace(rowLevels, 
-                                  rowLevels == "Amer. Indian, AK Native, or mult. races",
-                                  "Amer. Indian, Alaska Native, or mult. races"),
-              colLevels = replace(colLevels, 
-                                  colLevels == "Amer. Indian, AK Native, or mult. races",
-                                  "Amer. Indian, Alaska Native, or mult. races")
-              )
-              
-      print(tab$rowLevels %>% unique)
-      print(tab$colLevels %>% unique)
-              
+   }
+}
+    
      # 
      # tab <- tab %>% filter(!rowGrp %in% c("event", "sop"),
      #                       !colGrp %in% c("event", "sop")) 
      # 
      # write.csv(tab, file = fname, row.names = F)
-   }
-
-}
+  

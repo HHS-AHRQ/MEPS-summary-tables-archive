@@ -287,6 +287,7 @@ function shortDate() {
 
   function toNumber(str) {
     if(str === null) return str;
+    if(!isNaN(str)) return str*1;
     var newstr = str.replaceAll(",","").replace("*","");
     return newstr*1;
   }
@@ -313,14 +314,21 @@ function shortDate() {
 
   // Line break in 'Inapplicable' level
   function editLabel(label) {
-    var newlabel = label
-      .replaceAll("Inapplicable \\(", "Inapplicable<br>(")
-      .replaceAll("hysician", "hys.")
-      .replaceAll("Emergency room", "ER");
-    return newlabel;
+    if(!isNaN(label)) {
+      return label;
+    } else {
+      var newlabel = label
+        .replaceAll("Inapplicable \\(", "Inapplicable<br>(")
+        .replaceAll("hysician", "hys.")
+        .replaceAll("Emergency room", "ER");
+      return newlabel;
+    }
   }
 
   function wrap(str, width) {
+    if(!isNaN(str)) {
+      return str + "";
+    } else {
       var spaceReplacer = '<br>';
       var brkpoints = ["/"," ","-"];
       if (str.indexOf(spaceReplacer) > 0) { return str; }
@@ -336,6 +344,7 @@ function shortDate() {
           }
       }
       return str;
+    }
   }
 
   function wrap15(str) {

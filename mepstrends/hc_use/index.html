@@ -259,8 +259,8 @@ After you select the available options, the table will automatically be updated.
 <div class="row full-screen">
   <div class="col-sm-12 col-md-3" id="meps-form-container">
     <form class="usa-form-large">
-      <label for="stat">Select statistic:</label>
-      <select id="stat"><optgroup label="Population">
+      <label for="stat_var">Select statistic:</label>
+      <select id="stat_var"><optgroup label="Population">
 <option value="totPOP" selected>Number of people</option>
 <option value="pctEXP">Percent of population with an expense (%)</option>
 </optgroup>
@@ -298,7 +298,8 @@ After you select the available options, the table will automatically be updated.
         <div class="flex-parent">
           <div class="flex-child-fill year-start">
             <label for="year-start">Year:</label>
-            <select id="year-start"><option value="2015">2015</option>
+            <select id="year-start"><option value="2016">2016</option>
+<option value="2015">2015</option>
 <option value="2014">2014</option>
 <option value="2013">2013</option>
 <option value="2012">2012</option>
@@ -321,7 +322,8 @@ After you select the available options, the table will automatically be updated.
           </div>
           <div class="flex-child-fill year-main">
             <label for="year">to:</label>
-            <select id="year"><option value="2015" selected>2015</option>
+            <select id="year"><option value="2016" selected>2016</option>
+<option value="2015">2015</option>
 <option value="2014">2014</option>
 <option value="2013">2013</option>
 <option value="2012">2012</option>
@@ -345,10 +347,10 @@ After you select the available options, the table will automatically be updated.
         </div>
       </fieldset>
       <fieldset class="">
-        <label for="colGrp" class="">Group by (columns):</label>
+        <label for="col_var" class="">Group by (columns):</label>
         <div role="group">
           <div role="group">
-            <select id="colGrp"><option value="ind" selected>(none)</option>
+            <select id="col_var"><option value="ind" selected>(none)</option>
 <optgroup label="Event characteristics">
 <option value="event">Event type</option>
 <option value="sop">Source of payment</option>
@@ -395,10 +397,10 @@ After you select the available options, the table will automatically be updated.
       </fieldset>
       <fieldset class="hide-if-trend">
         <fieldset class="">
-          <label for="rowGrp" class="">Group by (rows):</label>
+          <label for="row_var" class="">Group by (rows):</label>
           <div role="group">
             <div role="group">
-              <select id="rowGrp"><option value="ind" selected>(none)</option>
+              <select id="row_var"><option value="ind" selected>(none)</option>
 <optgroup label="Event characteristics">
 <option value="event">Event type</option>
 <option value="sop">Source of payment</option>
@@ -506,16 +508,16 @@ After you select the available options, the table will automatically be updated.
           </a>
         </div>
         <p>To run the code, first download and unzip the required public use data files from the
-              <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
-              data files page</a>, and save them to your computer. More information on downloading and analyzing
-              MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
-              href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
-              <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
-              error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
-              lonely PSUs.</p>
+  <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
+  data files page</a>, and save them to your computer. More information on downloading and analyzing
+  MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
+  href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
+  <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
+  error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
+  lonely PSUs.</p>
         <p>The following code can be used to generate the selected estimates, where the SAS transport data
-                 files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
-                 for the most recent year selected:</p>
+  files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
+  for the most recent year selected:</p>
         <pre id="code" role="region" aria-live="polite"></pre>
       </div>
     </div>
@@ -524,15 +526,15 @@ After you select the available options, the table will automatically be updated.
       <h3>Notes</h3>
       <div id="notes" role="region" aria-live="polite"></div>
       <p>This tool is provided as a convenience. It is the responsibility of the user to review
-        results for statistical significance and overall reasonableness.</p>
+               results for statistical significance and overall reasonableness.</p>
       <h3>About the data</h3>
       <p>The MEPS Household Component collects data on all members of sample households
-        who are in-scope for the survey.  These data can be used to produce nationally
-        representative estimates of medical conditions, health status, use of medical
-        care services, charges and payments, access to care, satisfaction with care,
-        health insurance coverage, income, and employment. The target population
-        represented in the tables and figures is persons in the U.S. civilian
-        non-institutionalized population for all or part of the year.</p>
+               who are in-scope for the survey.  These data can be used to produce nationally
+               representative estimates of medical conditions, health status, use of medical
+               care services, charges and payments, access to care, experience with care,
+               health insurance coverage, income, and employment. The target population
+               represented in the tables and figures is persons in the U.S. civilian
+               non-institutionalized population for all or part of the year.</p>
       <h3>Suggested citation</h3>
       <div id="citation"></div>
     </div>
@@ -754,7 +756,7 @@ After you select the available options, the table will automatically be updated.
   
 <script src="../src/custom/js/functions.js"></script>
 <script src="json/init.js"></script>
-<script src="json/code.js"></script>
+<script src="json/notes.js"></script>
 <script src="../src/custom/js/em.js"></script>
 
 

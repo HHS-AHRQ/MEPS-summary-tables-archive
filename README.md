@@ -1,7 +1,7 @@
 # MEPS summary tables
 
 This repository contains the code needed to create the interactive **Medical Expenditure Panel Survey (MEPS) Household Component summary tables** found on the [MEPS website](https://meps.ahrq.gov/mepsweb/data_stats/quick_tables.jsp). The code is provided for researchers and developers interested in creating similar interactive tables, or in customizing the MEPS summary tables for personal use. The tables created from the code in this repository provide frequently used summary statistics at the national level for:
-* Health care utilization, expenditures, and population characteristics
+* Health care use, expenditures, and population characteristics
 * Health insurance coverage
 * Accessibility and quality of care
 * Medical conditions
@@ -22,13 +22,28 @@ Next, open the R programs from the [apps](apps) folder in RStudio, highlight the
 The [R Programming language](https://www.r-project.org/) (version 3.3.3) was used as the statistical software to create survey statistics from raw MEPS data files and as a templating engine to build individual HTML files. [RStudio's Shiny](http://shiny.rstudio.com/) package was used as a local server to run the interactive tables.
 
 The code for creating these tables is organized as follows:
-* [mepstrends](mepstrends): Main directory containing all components needed to run the summary tables on a server (css, html, js, and json)
-* [apps](apps): Supplemental folder of RStudio Shiny apps for running the tables locally (no external server needed)
-* [code](code): Folder containing snippets of R and SAS codes for creating tables
-* [html](html): HTML templates needed to build index.html files
-* [r](r): functions, dictionaries, notes, and R code for creating tabular data, converting tables to JSON data, and building index.html files
-* [tables](tables): Complete set of summary tables organized by table category, year, and statistic
-* [_check](_check): Supplemental programs for comparing SAS and R codes displayed on the web tables with tables stored in the [tables](tables) folder
+
+* [apps](apps): Supplemental folder of RStudio Shiny apps for running the tables locally (no external server needed).
+* [build_hc_tables](build_hc_tables): Folder containing code to create data tables from MEPS household component (HC) public use files (PUFs). Also contains R and SAS codes for creating the tables.
+* [formatted_tables](formatted_tables): Contains formatted tables for each table series.
+* [html](html): HTML templates needed to build index.html files.
+* [mepstrends](mepstrends): Main directory containing all components needed to run the summary tables on a server (css, html, js, and json).
+* [r](r): Functions, dictionaries, and notes for converting formatted tables to JSON data and building *index.html* files.
+
+## Updating Household Component tables
+
+Each year, after the MEPS full-year-consolidated (FYC) file is released, the following steps can be used to add data from the new year to the existing tables:
+
+1. Update the R/SAS code snippets in [build_hc_tables/code](build_hc_tables/code). For example, the education variable changed in 2016, so the files [education.R](build_hc_tables/code/r/grps/education.R) and [education.sas](build_hc_tables/code/sas/grps/education.sas) were edited.
+
+2. Add new PUF names to [meps_file_names.csv](https://github.com/HHS-AHRQ/MEPS/blob/master/Quick_Reference_Guides/meps_file_names.csv) on the main MEPS repository on the HHS-AHRQ GitHub site. Subsequent codes read this dataset to check file names of new years.
+
+3. On [build_hc_tables/UPDATE.R](build_hc_tables/UPDATE.R), change *year_list* to the new year and *mydir* to a local directory on your computer where you want to store the PUF files.
+
+4. Run [build_hc_tables/UPDATE.R](build_hc_tables/UPDATE.R) (takes approximately 3 hours for one year of data).
+
+5. Test new data by running tables locally using R codes in the [apps](apps) folder.
+
 
 ## Survey background
 The **Medical Expenditure Panel Survey (MEPS)**, which began in 1996, is a set of large-scale surveys of families and individuals, their medical providers (doctors, hospitals, pharmacies, etc.), and employers across the United States. The MEPS Household Component (MEPS-HC) survey collects information from families and individuals pertaining to medical expenditures, conditions, and events; demographics (e.g., age, ethnicity, and income); health insurance coverage; access to care; health status; and jobs held. The MEPS-HC is designed to produce national and regional estimates of the health care use, expenditures, sources of payment, and insurance coverage of the U.S. civilian noninstitutionalized population. The sample design of the survey includes weighting, stratification, clustering, multiple stages of selection, and disproportionate sampling.

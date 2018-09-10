@@ -95,6 +95,7 @@ $('#meps-table').hide(); // hide until new data is imported
       columns: initCols
     });
 
+// After initial tables have loaded, hide overlay and show table (initially hidden in css)
   $('.dataTable').wrap('<div class="dataTables_scroll" />');
   $('#loading').hide();
   $('#dl-table').show();
@@ -104,16 +105,35 @@ $('#meps-table').hide(); // hide until new data is imported
   }
 
 // DATA: update ---------------------------------------------------------------
-  var newData, colNames, colClasses, stat, colGrp, colX, rowGrp, rowX;
+  var newData, colNames, colClasses, stat_var, col_var, colX, row_var, rowX;
+  var newCaption = "Medical Expenditure Panel Survey";
   var year, yearStart, rowYears, colYears;
   var rcEqual = false, highlightedRows = {};
 
-  $('#stat, #colGrp, #rowGrp, #year, #year-start, #data-view').on('change', function() {
+  $('#stat_var, #col_var, #row_var, #year, #year-start, #data-view, .subgrp').on('change', function() {
     $(document).trigger("updateValues");
   });
 
   $(document).on('updateValues', function() {
-    stat = $('#stat').val();
+    stat_var = $('#stat_var').val();
+
+    // get subgrp key by checking for (by ___) in statName;
+    $('.subgrp').hide();
+    statName = $('#stat_var option:selected').text();
+      any_sG = statName.match(/\(by([^)]+)\)/);
+        if(any_sG !== null) {
+          //sG_key = any_sG[1].trim().replaceAll(" ","");
+          sG_key = stat_var.split("_")[0];
+          $('#'+sG_key).show();
+          $("input:radio[name="+sG_key+"]").each(function(){
+              if($(this).is(":checked")) {
+                subGrp = $(this).val();
+              }
+          });
+          console.log(subGrp);
+        } else {
+          subGrp = "";
+        }
 
     year = $('#year').val();
     yearStart = $('#year-start').val();
@@ -122,11 +142,11 @@ $('#meps-table').hide(); // hide until new data is imported
     rowYears = isPivot ? 'All': yrX;
     colYears = isPivot ? yrX : '__';
 
-    colGrp = $('#colGrp').val();
-    colX = isTrend &&  isPivot ? 'ind' : colGrp;
+    col_var = $('#col_var').val();
+    colX = isTrend &&  isPivot ? 'ind' : col_var;
 
-    rowGrp = $('#rowGrp').val();
-    rowX = isTrend && !isPivot ? 'ind' : rowGrp;
+    row_var = $('#row_var').val();
+    rowX = isTrend && !isPivot ? 'ind' : row_var;
 
     rcEqual = (rowX == colX && rowX != 'ind');
     if(rcEqual) { rowX = 'ind'; }
@@ -135,14 +155,17 @@ $('#meps-table').hide(); // hide until new data is imported
     if(activeTab == 'code-pill'){ $(document).trigger("updateCode"); }
   });
 
+  var filename1;
   var colLevels = {}, rowLevels = {};
 
   $(document).on('updateData', function() {
     $('#updating-overlay').show();
-    var filename = 'json/data/' + stat + '__' + rowX + '__' + colX + '.json';
-    $.getJSON(filename, function(data) {
+
+    filename1 = stat_var + '__' + rowX + '__' + colX + '__' + subGrp;
+    $.getJSON('json/data/' + filename1 + '.json', function(data) {
       $('#updating-overlay').hide();
       newData = data.data;
+      newCaption = data.caption[0];
       var newNames = data.names;
       var newClasses = data.classes;
 
@@ -183,7 +206,7 @@ $('#meps-table').hide(); // hide until new data is imported
            // Generate colLevels
            if($(this).hasClass('coef')) {
               colData = table.cells(yrIndexes, index).data().toArray();
-              skip_missing_cols = (appKey == 'use' && colData.every(isNull));
+              skip_missing_cols = (appKey == 'hc_use' && colData.every(isNull));
               if(!skip_missing_cols) {
                 var colNm = colNames[index];
                 var colKey = colClasses[index].split("__")[1];
@@ -194,12 +217,12 @@ $('#meps-table').hide(); // hide until new data is imported
       });
 
       // Change group column name
-      var grpName = rowX == 'ind' ? 'Year' : $('#rowGrp option:selected').text();
+      var grpName = rowX == 'ind' ? 'Year' : $('#row_var option:selected').text();
       table.columns(2).header().toJQuery().text(grpName);
 
       // For 'use' app, convert header to statistic label if no colgrp selected
-      var colgrpName = $('#stat option:selected').text();
-      if(colGrp == 'ind' && !isPivot) {
+      var colgrpName = $('#stat_var option:selected').text();
+      if(col_var == 'ind' && !isPivot) {
          table.columns(5).header().toJQuery().text(colgrpName);
          table.columns(6).header().toJQuery().text(colgrpName);
       }
@@ -232,25 +255,25 @@ $('#meps-table').hide(); // hide until new data is imported
 
     // Switch rows and cols (use app only)
     $('#switchRC').on('click', function() {
-      var currentRow = $('#rowGrp').val();
-      var currentCol = $('#colGrp').val();
-      $('#colGrp').val(currentRow);
-      $('#rowGrp').val(currentCol);
+      var currentRow = $('#row_var').val();
+      var currentCol = $('#col_var').val();
+      $('#col_var').val(currentRow);
+      $('#row_var').val(currentCol);
       $(document).trigger('updateValues');
     });
 
     // Update levels checkbox groups
     $(document).on('updateRowLevels', function() {
-       createCheckboxGroup('row', rowLevels, selectedLevels[rowGrp]);
-       if(rowGrp == 'ind' || rcEqual) {
+       createCheckboxGroup('row', rowLevels, selectedLevels[row_var]);
+       if(row_var == 'ind' || rcEqual) {
          $('#rowDrop').slideUp('fast');
        } else {
          $('#rowDrop').slideDown('fast');
        }
     });
     $(document).on('updateColLevels', function() {
-       createCheckboxGroup('col', colLevels, selectedLevels[colGrp]);
-       if (colGrp == 'ind') {
+       createCheckboxGroup('col', colLevels, selectedLevels[col_var]);
+       if (col_var == 'ind') {
          $('#colDrop').slideUp('fast');
        } else {
          $('#colDrop').slideDown('fast');
@@ -259,11 +282,11 @@ $('#meps-table').hide(); // hide until new data is imported
 
     // Reset checkboxes
     $('#rowReset').on('click', function() {
-      createCheckboxGroup('row', rowLevels, initLevels[rowGrp]);
+      createCheckboxGroup('row', rowLevels, initLevels[row_var]);
       $(document).trigger("selectRowLevels");
     });
     $('#colReset').on('click', function() {
-       createCheckboxGroup('col', colLevels, initLevels[colGrp]);
+       createCheckboxGroup('col', colLevels, initLevels[col_var]);
        $(document).trigger("selectColLevels");
     });
 
@@ -274,11 +297,11 @@ $('#meps-table').hide(); // hide until new data is imported
     // Search rows based on selected levels
     $(document).on("selectRowLevels", function() {
       var checkedLevels = checkList('#rowLevels');
-      var currentSelected = selectedLevels[rowGrp];
+      var currentSelected = selectedLevels[row_var];
       var hidden = notIn(currentSelected, rowLevels);
       $.extend(checkedLevels, hidden);
 
-      selectedLevels[rowGrp] = checkedLevels;
+      selectedLevels[row_var] = checkedLevels;
       selectRowLevels(table, rowLevels, selectedLevels, rowX);
       if(activeTab == 'table-pill') { $(document).trigger("updateTable");}
       if(activeTab == 'plot-pill')  { $(document).trigger("updatePlot");}
@@ -288,11 +311,11 @@ $('#meps-table').hide(); // hide until new data is imported
     // Show/hide columns based on selected levels
     $(document).on("selectColLevels", function() {
       var checkedLevels = checkList('#colLevels');
-      var currentSelected = selectedLevels[colGrp];
+      var currentSelected = selectedLevels[col_var];
       var hidden = notIn(currentSelected, colLevels);
       $.extend(checkedLevels, hidden);
 
-      selectedLevels[colGrp] = checkedLevels;
+      selectedLevels[col_var] = checkedLevels;
       selectColLevels(table, colLevels, selectedLevels, colX, colNames);
       if(activeTab == 'table-pill') { $(document).trigger("updateTable"); }
       if(activeTab == 'plot-pill')  { $(document).trigger("updatePlot");}
@@ -389,7 +412,7 @@ $('#meps-table').hide(); // hide until new data is imported
     $(document).on('checkControlTotals', function() {
       var ctVars = ['ind', 'agegrps', 'race', 'sex', 'poverty', 'region'];
 
-      controlTotals = (ctVars.includes(rowX) && ctVars.includes(colX) && stat == 'totPOP');
+      controlTotals = (ctVars.includes(rowX) && ctVars.includes(colX) && stat_var == 'totPOP');
       if(checkedSEs && controlTotals) {
         showSEs = false;
         $('#control-totals').slideDown('fast');
@@ -448,7 +471,7 @@ $('#meps-table').hide(); // hide until new data is imported
     var seCSV   = convertArrayOfObjectsToCSV({data: seRows, colnames: cNames});
 
     var seCaption = "Standard errors for " +
-        newCaption.charAt(0).toLowerCase() + newCaption.slice(1);
+        fullCaption.charAt(0).toLowerCase() + fullCaption.slice(1);
 
     if(controlTotals) {
       seCaption = $('#control-totals').text();
@@ -458,7 +481,7 @@ $('#meps-table').hide(); // hide until new data is imported
     var dlSource = newSource.replace('<b>','').replace('</b>','');
 
     var csv = $.grep(
-      ['"'+newCaption.replace(" (standard errors)","")+'"', coefCSV,
+      ['"'+fullCaption.replace(" (standard errors)","")+'"', coefCSV,
        '"'+seCaption.replace(" (standard errors)","") +'"', seCSV,
        $('#suppress').text(),
        $('#RSE').text(),
@@ -528,9 +551,12 @@ $('#meps-table').hide(); // hide until new data is imported
     x = x.map(editLabel);
     y_names = y_names.map(editLabel);
 
-    var legendText = isPivot ? colName : rowName;
+    var cTitle = colX == "ind" ? "" : $('#col_var option:selected').text().toLowerCase();
+    var rTitle = rowX == "ind" ? "" : $('#row_var option:selected').text().toLowerCase();
+
+    var legendText = isPivot ? cTitle : rTitle;
     var legendTitle = camelCase(wrap(legendText, 20));
-    var hoverfmt = stat.slice(0,3) == 'pct' ? '0,.1f' : '0,.0f';
+    var hoverfmt = stat_var.slice(0,3) == 'pct' ? '0,.1f' : '0,.0f';
 
     if(isTrend) {
       plotTraces = linePlotData(
@@ -618,98 +644,27 @@ $('#meps-table').hide(); // hide until new data is imported
   });
 
   $(document).on('updateCode', function() {
-    var row = rowX, col = colX;
-    var rowD = row.split("_")[0];
-    var colD = col.split("_")[0];
+    var lowerlang = lang.toLowerCase();
+    var codefile = 'json/code/' + lowerlang + "/" + filename1 + '.' + lowerlang;
+    $.get(codefile, function(code) {
+        var yearC = isTrend ?  Math.max(year, yearStart)+"" : year;
+        var subList = {
+          "year": yearC,
+          "yy": yearC.substr(2,3),
+          "ya": (yearC*1 + 1 + "").substr(2,3),
+          "yb": (yearC*1 - 1 + "").substr(2,3)
+          };
 
-    var grps = [row, col];
+        code = rsub(code, subList, lang = lang);
+        code = rsub(code, pufNames[yearC][0], lang = lang);
 
-    var is_evt_stat = ['meanEVT','avgEVT','totEVT'].includes(stat);
+        codeText = code;
 
-    var is_evt = grps.includes('event');
-    var is_sop = grps.includes('sop');
-    var sKey = (is_evt && is_sop) ? ['event_sop'] : grps;
+        $('#code').html(code);
+        $('#updating-overlay').hide(); // Remove 'updating' overlay faster for code
 
-    /*
-    dsgn
-      - demo, event, sop, default
-      - adult, diab, demo
-      - RXDRGNAM, TC1name
+    }, 'text');
 
-    stats
-      - demo, event, sop, event_sop
-      - insurance, ins_lt65, ins_gt65
-      - adult_explain, child_listen, diab_foot,...
-      - RXDRGNAM, TC1name
-    */
-
-    var dsgnKey = intersection([rowD, colD], getKeys(dsgnCode)).filter(unique).join('');
-    var statKey = intersection(sKey, getKeys(statCode)).filter(unique).join('');
-
-    if(dsgnKey === "") {dsgnKey = "demo";}
-    if(statKey === "") {statKey = "demo";}
-
-     var loadC = get(loadCode, [lang, stat]);
-     var rowC  = ['event', 'sop'].includes(row) && is_evt_stat ? '' : get(grpCode, [lang, row]);
-     var colC  = ['event', 'sop'].includes(col) && is_evt_stat ? '' : get(grpCode, [lang, col]);
-
-     var grpC  = is_evt && is_sop && !is_evt_stat ?
-        get(grpCode, [lang, 'event_sop']) :
-        [colC, rowC].filter(unique).join("\n");
-
-     var dsgnC = lang == "R" ?  get(dsgnCode, [lang, stat, dsgnKey]) : '';
-     var codeC = get(statCode, [lang, stat, statKey]);
-
-    var byGrps;
-    switch(byVars) {
-      case 'row': byGrps = [row]; break;
-      case 'col': byGrps = [col]; break;
-      default: byGrps = [row, col].filter(unique);
-    }
-
-    byGrps = remove(byGrps, ['event', 'sop']);
-    if(byGrps.length === 0){
-      byGrps = ['ind'];
-    }
-
-    var fmt = byGrps.map(makeFMT).join(" ");
-    var gp  = byGrps.join(" ");
-    var yearC = isTrend ?  Math.max(year, yearStart)+"" : year;
-
-    var subgrps = grps.concat('ind').filter(unique);
-    subgrps = remove(subgrps, ['sop', 'event', 'Condition']);
-
-    var subList = {
-      /* R */
-        "subgrps": subgrps.join(","),
-        "by": byGrps.filter(unique).join(" + "),
-        "var": col,
-      /* SAS */
-        "domain": byGrps.join("*"),
-        "fmt": fmt,
-        "format": "FORMAT " + fmt,
-        "gp": gp,
-        // "gp_star": byGrps.join('*')+"*",
-        "where": "and " + gp + " ne .",
-      "PUFdir": lang == "SAS" ? "C:\\MEPS" : "C:/MEPS",
-      "year": yearC,
-      "yy": yearC.substr(2,3),
-      "ya": (yearC*1 + 1 + "").substr(2,3),
-      "yb": (yearC*1 - 1 + "").substr(2,3)
-      };
-
-
-    codeText = $.grep(
-      [loadPkgs[lang], loadFYC[lang], grpC, loadC, dsgnC, codeC], Boolean)
-      .join("\n");
-    //codeText = [grpC, dsgnC, codeC].join("\n");
-
-    codeText = rsub(codeText, subList, lang = lang);
-    codeText = rsub(codeText, pufNames[yearC][0], lang = lang);
-    codeText = codeText.replace("\n\n\n","\n\n");
-
-    $('#code').html(codeText);
-    $('#updating-overlay').hide(); // Remove 'updating' overlay faster for code
   });
 
   // Export code to text files --------------------
@@ -720,7 +675,7 @@ $('#meps-table').hide(); // hide until new data is imported
 
 
 // Caption, Citation, Notes ---------------------------------------------------
-    var newCaption, plotCaption, newSource, rowName, colName;
+    var fullCaption, plotCaption, newSource;
     var plotSuppress = false;
 
     // Footnotes
@@ -742,48 +697,16 @@ $('#meps-table').hide(); // hide until new data is imported
     });
 
     $(document).on('updateNotes', function() {
-      var statName = $('#stat option:selected').text().replace(/ *\([^)]*\) */g, "") ;
-      var seName = showSEs ? " (standard errors)" : "";
-      var adjName = adjustStat[stat] === undefined ? "" : adjustStat[stat] ;
-
-      colName = colX == "ind" ? "" :
-          $('#colGrp option:selected').text().toLowerCase();
-
-      rowName = rowX == "ind" ? "" :
-          $('#rowGrp option:selected').text().toLowerCase();
-
-      var grpNames = $.grep([rowName,colName],Boolean).join(" and ");
-      //var byGrps = grpNames == "(none)" ? "" : " by " + grpNames;
-      var byGrps = grpNames === "" ? "" : " by " + grpNames;
 
       var yearName = isTrend ? [year, yearStart].filter(unique).sort().join("-") : year;
 
-      // Caption
-      var statExtra = "", statNote = "";
-      if(appKey == 'use' && stat == 'totPOP') {
-        statExtra =
-          [rowX, colX].includes('sop') ?   ' with an expense' :
-          [rowX, colX].includes('event') ? ' with an event' : "";
-      }
+      fullCaption = newCaption + ", " + yearName;
 
-      statNote = mepsNotes[appKey][stat];
-      if(appKey == 'care') {
-        // Difficulty and reasons for difficulty don't need statement on 'percents may not add to 100'
-        if(colX.includes('rsn') || colX == "difficulty") {
-          statNote = "";
-        }
-        var byRow = rowName === "" ? "" : " by " + rowName;
-        newCaption = careCaption[colGrp] + ", " + statName.toLowerCase() + " " +
-          adjName + seName + byRow + ", United States, " + yearName;
-      } else {
-        newCaption = statName + " " + adjName + statExtra + seName + byGrps +
-          ", United States, " + yearName;
-      }
+      var tableCaption = showSEs ? fullCaption :
+        fullCaption.replace(" (standard errors)", "");
+      $('#table-caption').text(tableCaption);
 
-      newCaption = newCaption.replaceAll("  "," ").replaceAll(" ,",",");
-      $('#table-caption').text(newCaption);
-
-      plotCaption = newCaption.replace(" (standard errors)"," (95% confidence intervals)");
+      plotCaption = tableCaption.replace(" (standard errors)"," (95% confidence intervals)");
       $('#plot-caption').text(plotCaption);
 
       // Citation
@@ -791,15 +714,22 @@ $('#meps-table').hide(); // hide until new data is imported
       var MEPS = "Medical Expenditure Panel Survey";
       var CFACT = "Center for Financing, Access and Cost Trends";
       var today = new Date();
-      var newCitation = AHRQ+". "+newCaption+". "+MEPS+
+      var newCitation = AHRQ+". "+tableCaption+". "+MEPS+
           ". Generated interactively: "+today.toDateString() +".";
 
       newSource = "<b>Source:</b> "+CFACT+", "+AHRQ+", "+MEPS+", "+yearName;
 
-      var newNotes = $.grep(
-        [statNote,
-         mepsNotes[appKey][rowX], mepsNotes[rowX],
-         mepsNotes[appKey][colX], mepsNotes[colX]], Boolean).join("\n");
+      var statNote = mepsNotes[stat_var];
+
+      // Difficulty and reasons for difficulty don't need statement on 'percents may not add to 100'
+      if(appKey == 'hc_care' && (colX.includes('rsn') || colX == "difficulty")) {
+        statNote = "";
+      }
+
+      var newNotes = $.grep([
+        statNote,
+        mepsNotes[rowX],
+        mepsNotes[colX]], Boolean).join("\n");
 
       $('#source').html(newSource);
       $('#notes').html(newNotes);
@@ -809,5 +739,5 @@ $('#meps-table').hide(); // hide until new data is imported
 
 // Trigger --------------------------------------------------------------------
 // trigger on load too -- must be at end;
-     $('#stat, #code-language, #data-view, #colGrp, #rowGrp, #year, #showSEs').trigger('change');
+     $('#stat_var, #code-language, #data-view, #col_var, #row_var, #year, #showSEs').trigger('change');
 });

@@ -1,65 +1,89 @@
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+# setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-library(dplyr)
-library(tidyr)
+library(tidyverse)
 library(stringr)
 library(jsonlite)
 library(MEPS)
-library(RColorBrewer)
 
 source("functions.R")
-source("dictionaries.R")
-source("codes.R")
-source("notes.R")
+source("functions_toJSON.R")
 
-# Color brewer palette --------------------------------------------------------
-# 
-# vec = brewer.pal(12, "Paired") %>% col2rgb %>% 
-#   apply(2, function(x) paste0(x, collapse=",")) %>%
-#   matrix(nrow = 2) 
-# 
-# c(vec[2,],vec[1,]) %>%
-#   paste0(collapse = "','") %>% 
-#   sprintf("'%s'",.)
-# 
-
-write_data = FALSE
-write_code = TRUE
-
-# Adjustment (can change for specific apps) -----------------------------------
-
-adj = data.frame(
-  stat     = c("totPOP", "totEXP", "totEVT", "meanEVT", "meanEXP", "meanEXP0", "medEXP", "pctEXP", "pctPOP", "avgEVT"),
-  denom    = c(    10^3,     10^6,     10^3,         1,         1,         1,         1,  10^(-2),  10^(-2),        1),
-  digits    = c(      0,        0,        0,         0,         0,         0,         0,        1,       1,         1),
-  se_digits = c(      0,        0,        0,         1,         1,         1,         1,        2,       2,         2))
-
-adj_use = adj
-adj_use[adj$stat == "totEVT",c('denom', 'digits', 'se_digits')] = c(10^6, 0, 1) 
+source("app_info_hc.R")
+source("app_notes_hc.R")
 
 
-# Use, expenditures, and population -------------------------------------------
-years = 1996:2015
-if(write_data) data_toJSON(appKey = 'use', years = years, adj = adj_use, pivot = F)
-if(write_code) code_toJSON(appKey = 'use', years = years)
+# write_data  = TRUE
+# write_notes = TRUE
 
-# Health insurance ------------------------------------------------------------
-years = 1996:2015
-if(write_data) data_toJSON(appKey = 'ins', years = years, adj = adj, pivot = F)
-if(write_code) code_toJSON(appKey = 'ins', years = years)
 
-# Accessibility and quality of care -------------------------------------------
-years = 2002:2015
-if(write_data) data_toJSON(appKey = 'care', years = years , adj = adj, pivot = F)
-if(write_code) code_toJSON(appKey = 'care', years = years)
+# HC tables -------------------------------------------------------------------
 
-# Medical conditions ----------------------------------------------------------
-years = 1996:2015
-if(write_data) data_toJSON(appKey = 'cond', years = years, adj = adj, pivot = T)
-if(write_code) code_toJSON(appKey = 'cond', years = years)
+notes <- list()
 
-# Prescribed Drugs ------------------------------------------------------------
-years = 1996:2015
-if(write_data) data_toJSON(appKey = 'pmed', years = years, adj = adj, pivot = T)
-if(write_code) code_toJSON(appKey = 'pmed', years = years)
+# Use, expenditures, and population ---------------------------------
+
+notes[['hc_use']] <- 
+  list(totEVT  = EVT,
+       meanEVT = EVT,
+       avgEVT  = EVT,
+       
+       totEXP   = EXP,
+       meanEXP  = EXP,
+       meanEXP0 = EXP,
+       medEXP   = paste(EXP, median),
+       
+       event = event,
+       sop   = sop) %>% append(demographics)
+
+if(write_data)  data_toJSON(appKey = 'hc_use', pivot = F)
+if(write_notes) notes_toJSON(appKey = 'hc_use', notes = notes[['hc_use']])
+
+
+# Health insurance --------------------------------------------------
+notes[['hc_ins']] <- 
+  list(pctPOP = rounding) %>% 
+  append(demographics)
+
+if(write_data)  data_toJSON(appKey = 'hc_ins', pivot = F)
+if(write_notes) notes_toJSON(appKey = 'hc_ins', notes = notes[['hc_ins']])
+
+# Accessibility and quality of care ---------------------------------
+
+notes[['hc_care']] <- 
+  list(pctPOP = rounding,
+       usc = usc,
+       diab_eye = diab_eye,
+       diab_foot = diab_foot,
+       difficulty = difficulty,
+       rsn_ANY = rsn_difficulty,
+       rsn_MD = rsn_difficulty,
+       rsn_DN = rsn_difficulty,
+       rsn_PM = rsn_difficulty) %>% 
+  append(demographics)
+
+if(write_data)  data_toJSON(appKey = 'hc_care', pivot = F)
+if(write_notes) notes_toJSON(appKey = 'hc_care', notes = notes[['hc_care']])
+
+# Medical conditions ------------------------------------------------
+
+notes[['hc_cond']] <- 
+  list(totEVT  = EVT2,
+       totEXP  = EXP,
+       meanEXP = EXP,
+       Condition = Condition,
+       event = event_cond,
+       sop   = sop) %>% 
+  append(demographics)
+
+if(write_data)  data_toJSON(appKey = 'hc_cond', pivot = T)
+if(write_notes) notes_toJSON(appKey = 'hc_cond', notes = notes[['hc_cond']])
+
+# Prescribed Drugs --------------------------------------------------
+
+notes[['hc_pmed']] <-
+  list(RXDRGNAM = RXDRGNAM,
+       TC1name = TC1name)
+
+if(write_data)  data_toJSON(appKey = 'hc_pmed', pivot = T)
+if(write_notes) notes_toJSON(appKey = 'hc_pmed', notes = notes[['hc_pmed']])
 

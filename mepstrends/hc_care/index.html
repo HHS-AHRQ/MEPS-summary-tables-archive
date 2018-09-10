@@ -258,16 +258,16 @@ Use the options below to select a statistic (number or percentage of people), va
 <div class="row full-screen">
   <div class="col-sm-12 col-md-3" id="meps-form-container">
     <form class="usa-form-large">
-      <label for="stat">Select statistic:</label>
-      <select id="stat"><option value="totPOP" selected>Number of people</option>
+      <label for="stat_var">Select statistic:</label>
+      <select id="stat_var"><option value="totPOP" selected>Number of people</option>
 <option value="pctPOP">Percentage of people</option></select>
       <input id="showSEs" type="checkbox" name="showSEs" value="showSEs" class=""/>
       <label for="showSEs">Show standard errors</label>
       <fieldset class="">
-        <label for="colGrp" class="">Select variable:</label>
+        <label for="col_var" class="">Select variable:</label>
         <div role="group">
           <div role="group">
-            <select id="colGrp"><optgroup label="Access to Care">
+            <select id="col_var"><optgroup label="Access to Care">
 <option value="usc" selected>Usual source of care</option>
 <option value="difficulty">Difficulty receiving needed care</option>
 <option value="rsn_ANY">Reasons for difficulty receiving needed care</option>
@@ -347,7 +347,8 @@ Use the options below to select a statistic (number or percentage of people), va
         <div class="flex-parent">
           <div class="flex-child-fill year-start">
             <label for="year-start">Year:</label>
-            <select id="year-start"><option value="2015">2015</option>
+            <select id="year-start"><option value="2016">2016</option>
+<option value="2015">2015</option>
 <option value="2014">2014</option>
 <option value="2013">2013</option>
 <option value="2012">2012</option>
@@ -364,7 +365,8 @@ Use the options below to select a statistic (number or percentage of people), va
           </div>
           <div class="flex-child-fill year-main">
             <label for="year">to:</label>
-            <select id="year"><option value="2015" selected>2015</option>
+            <select id="year"><option value="2016" selected>2016</option>
+<option value="2015">2015</option>
 <option value="2014">2014</option>
 <option value="2013">2013</option>
 <option value="2012">2012</option>
@@ -383,10 +385,10 @@ Use the options below to select a statistic (number or percentage of people), va
       </fieldset>
       <fieldset class="hide-if-trend">
         <fieldset class="">
-          <label for="rowGrp" class="">Group by:</label>
+          <label for="row_var" class="">Group by:</label>
           <div role="group">
             <div role="group">
-              <select id="rowGrp"><option value="ind" selected>(none)</option>
+              <select id="row_var"><option value="ind" selected>(none)</option>
 <optgroup label="Demographics">
 <option value="agegrps">Age groups</option>
 <option value="region">Census region</option>
@@ -489,16 +491,16 @@ Use the options below to select a statistic (number or percentage of people), va
           </a>
         </div>
         <p>To run the code, first download and unzip the required public use data files from the
-              <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
-              data files page</a>, and save them to your computer. More information on downloading and analyzing
-              MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
-              href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
-              <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
-              error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
-              lonely PSUs.</p>
+  <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
+  data files page</a>, and save them to your computer. More information on downloading and analyzing
+  MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
+  href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
+  <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
+  error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
+  lonely PSUs.</p>
         <p>The following code can be used to generate the selected estimates, where the SAS transport data
-                 files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
-                 for the most recent year selected:</p>
+  files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
+  for the most recent year selected:</p>
         <pre id="code" role="region" aria-live="polite"></pre>
       </div>
     </div>
@@ -507,15 +509,15 @@ Use the options below to select a statistic (number or percentage of people), va
       <h3>Notes</h3>
       <div id="notes" role="region" aria-live="polite"></div>
       <p>This tool is provided as a convenience. It is the responsibility of the user to review
-        results for statistical significance and overall reasonableness.</p>
+               results for statistical significance and overall reasonableness.</p>
       <h3>About the data</h3>
       <p>The MEPS Household Component collects data on all members of sample households
-        who are in-scope for the survey.  These data can be used to produce nationally
-        representative estimates of medical conditions, health status, use of medical
-        care services, charges and payments, access to care, satisfaction with care,
-        health insurance coverage, income, and employment. The target population
-        represented in the tables and figures is persons in the U.S. civilian
-        non-institutionalized population for all or part of the year.</p>
+               who are in-scope for the survey.  These data can be used to produce nationally
+               representative estimates of medical conditions, health status, use of medical
+               care services, charges and payments, access to care, experience with care,
+               health insurance coverage, income, and employment. The target population
+               represented in the tables and figures is persons in the U.S. civilian
+               non-institutionalized population for all or part of the year.</p>
       <h3>Suggested citation</h3>
       <div id="citation"></div>
     </div>
@@ -737,7 +739,7 @@ Use the options below to select a statistic (number or percentage of people), va
   
 <script src="../src/custom/js/functions.js"></script>
 <script src="json/init.js"></script>
-<script src="json/code.js"></script>
+<script src="json/notes.js"></script>
 <script src="../src/custom/js/em.js"></script>
 
 

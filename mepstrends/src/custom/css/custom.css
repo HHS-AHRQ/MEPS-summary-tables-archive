@@ -529,6 +529,10 @@ a:focus{
 
 /***** Code *****/
 
+#code {
+  padding: 1em;
+}
+
 .code-select select{
   max-width: 250px;
   width: 80%;
