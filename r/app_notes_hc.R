@@ -7,12 +7,12 @@ Percentages may not sum to 100 due to rounding.
 
 EVT <- "
 <h4>Utilization</h4>
-Events include all dental visits, prescribed medicine purchases, office-based and outpatient visits, emergency room visits, inpatient stays, and home health events. A <i>home health event</i> is defined as one month during which home health service was received. <i>Other medical equipment and services</i> are not included in utilization estimates because information for these events is collected per interview (e.g. eyeglasses) or per year (e.g. wheelchairs, hearing aids) for each person, rather than on a per-purchase basis.
+Events include all dental visits, prescribed medicine purchases (including refills), office-based and outpatient visits, emergency room visits, inpatient stays, and home health events. A <i>home health event</i> is defined as one month during which home health service was received. <i>Other medical equipment and services</i> are not included in utilization estimates because information for these events is collected per interview (e.g. eyeglasses) or per year (e.g. wheelchairs, hearing aids) for each person, rather than on a per-purchase basis.
 "
 
 EVT2 <- "
-<h4>Utilization</h4>
-Events include all emergency room visits, home health events, inpatient stays, office-based and outpatient visits, and prescribed medicine purchases associated with a medical condition. A <i>home health event</i> is defined as one month during which home health service was received.
+<h4>Utilization (i.e. Number of events)</h4>
+Events include all emergency room visits, home health events, inpatient stays, office-based and outpatient visits, and prescribed medicine purchases (including refills) associated with a medical condition. A <i>home health event</i> is defined as one month during which home health service was received. <i><b>Update 7/2019:</b></i> Utilization counts were edited to include prescription medicine refills (previously, only the initial fill was counted).
 "
 
 EXP <- "
@@ -47,14 +47,14 @@ sop <- "
 
 hh <- "A <i>home health event</i> is defined as one month during which home health service was received."
 rx <- "For <i>prescription medicines</i>, an event is defined as a purchase or refill."
-  
+
 event <- sprintf("
 <h4>Event type</h4>
 <ul>
 <li>
   <i>Physician office visits</i> and <i>Non-physician office visits</i> are sub-categories of <i>Office-based events</i>.
 </li>
-<li>  
+<li>
   <i>Physician hosp. visits</i> and <i>Non-physician hosp. visits</i> are sub-categories of <i>Outpatient events</i>.
 </li>
 <li>%s</li>
@@ -205,7 +205,7 @@ Condition <- "
 
 <p>Starting in 2007, new survey questions were introduced into MEPS asking participants about whether they had been told they have certain priority health conditions. This change in the survey methodology may have impacted responses for utilization and expenditures related to the following conditions: hypertension, heart disease, cerebrovascular disease, COPD, asthma, hyperlipidemia, cancer, diabetes mellitus, and osteoarthritis. Care should be taken when analyzing these conditions over a time period that spans the 2007 change in survey methodology.</p>
 
-<p>Details on how condition categories are created can be found in the <a href = https://meps.ahrq.gov/data_stats/conditions.shtml>Condition Categories</a> information table.</p>
+<p>From 1996-2015, household-reported medical conditions were coded into ICD-9 codes, which were then collapsed into broad Condition categories. Starting in 2016, household-reported medical conditions were coded into ICD-10 codes before collapsing into Condition categories. This discontinuity is presented in separate table series. Additional details on how condition categories are created can be found in the <a href = https://meps.ahrq.gov/data_stats/conditions.shtml>Condition Categories</a> information table.</p>
 "
 
 # Prescribed Drugs ------------------------------------------------------------
