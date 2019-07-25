@@ -62,14 +62,12 @@
     select(DUPERSID, event, event_v2X, SEEDOC,
       XP.yy.X, SF.yy.X, MR.yy.X, MD.yy.X, PR.yy.X, OZ.yy.X)
 
-# Create datasets for physician / non-physician office-based / outpatient events
+# Create datasets for physician office-based / outpatient events
   OBD = OBV %>% filter(event_v2X == "OBD")
-  OBO = OBV %>% filter(event_v2X == "OBO")
   OPY = OPT %>% filter(event_v2X == "OPY")
-  OPZ = OPT %>% filter(event_v2X == "OPZ")
 
-  events <- c("DVT", "RX",  "OBV", "OBD", "OBO", "OPT",
-              "OPY", "OPZ", "ERT", "IPT", "HHT")
+  events <- c("DVT", "RX",  "OBV", "OBD", "OPT",
+              "OPY", "ERT", "IPT", "HHT")
 
 # Run for each event dataset
   results <- list()

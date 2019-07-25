@@ -43,8 +43,7 @@ ods graphics off;
     ERTEXP&yy. = ERFEXP&yy. + ERDEXP&yy.; /* Doctor + Facility Expenses for OP, ER, IP events */
     IPTEXP&yy. = IPFEXP&yy. + IPDEXP&yy.;
     OPTEXP&yy. = OPFEXP&yy. + OPDEXP&yy.; /* All Outpatient */
-    OPYEXP&yy. = OPVEXP&yy. + OPSEXP&yy.; /* Physician only */
-    OPZEXP&yy. = OPOEXP&yy. + OPPEXP&yy.; /* non-physician only */
+    OPYEXP&yy. = OPVEXP&yy. + OPSEXP&yy.; /* Outpatient - Physician only */
     OMAEXP&yy. = VISEXP&yy. + OTHEXP&yy.;
 
     TOTUSE&yy. =
@@ -55,7 +54,7 @@ ods graphics off;
 
 %let exp_vars =
   TOTEXP&yy. DVTEXP&yy. RXEXP&yy.  OBVEXP&yy. OBDEXP&yy.
-  OBOEXP&yy. OPTEXP&yy. OPYEXP&yy. OPZEXP&yy. ERTEXP&yy.
+  OPTEXP&yy. OPYEXP&yy. ERTEXP&yy.
   IPTEXP&yy. HHTEXP&yy. OMAEXP&yy.;
 
 data MEPS_gt0; set MEPS;

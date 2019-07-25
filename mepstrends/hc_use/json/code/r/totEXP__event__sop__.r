@@ -23,8 +23,8 @@
   FYC$ind = 1  
 
 # Add aggregate sources of payment for all event types
-  evt <- c("TOT","RX","DVT","OBV","OBD","OBO",
-           "OPF","OPD","OPV","OPS","OPO","OPP",
+  evt <- c("TOT","RX","DVT","OBV","OBD",
+           "OPF","OPD","OPV","OPS",
            "ERF","ERD","IPF","IPD","HHA","HHN",
            "VIS","OTH")
 
@@ -57,7 +57,7 @@
 
   FYC[,sprintf("OPT%s.yy.",sop)] = FYC[,sprintf("OPF%s.yy.",sop)]+FYC[,sprintf("OPD%s.yy.",sop)]
   FYC[,sprintf("OPY%s.yy.",sop)] = FYC[,sprintf("OPV%s.yy.",sop)]+FYC[,sprintf("OPS%s.yy.",sop)]
-  FYC[,sprintf("OPZ%s.yy.",sop)] = FYC[,sprintf("OPO%s.yy.",sop)]+FYC[,sprintf("OPP%s.yy.",sop)]
+  
 
 FYCdsgn <- svydesign(
   id = ~VARPSU,
@@ -67,8 +67,8 @@ FYCdsgn <- svydesign(
   nest = TRUE)
 
 # Loop over events, sops
-  events <- c("TOT", "DVT", "RX",  "OBV", "OBD", "OBO",
-              "OPT", "OPY", "OPZ", "ERT", "IPT", "HHT", "OMA")
+  events <- c("TOT", "DVT", "RX",  "OBV", "OBD",
+              "OPT", "OPY", "ERT", "IPT", "HHT", "OMA")
 
   sops <- c("EXP", "SLF", "PTR", "MCR", "MCD", "OTZ")
 
