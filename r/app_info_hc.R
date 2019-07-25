@@ -33,8 +33,8 @@
 
 # Levels to exclude in checkbox initially -------------------------------------
   subLevels <- c(
-    'Physician office visits', 'Non-physician office visits',
-    'Physician hosp. visits', 'Non-physician hosp. visits')
+    'Physician office visits',
+    'Physician outpatient visits')
 
   exclude_initial <- c(
     "All persons", "Any event", "Any source",

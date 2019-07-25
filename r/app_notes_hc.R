@@ -52,10 +52,10 @@ event <- sprintf("
 <h4>Event type</h4>
 <ul>
 <li>
-  <i>Physician office visits</i> and <i>Non-physician office visits</i> are sub-categories of <i>Office-based events</i>.
+  <i>Physician office visits</i> are a sub-category of <i>Office-based events</i>.
 </li>
 <li>
-  <i>Physician hosp. visits</i> and <i>Non-physician hosp. visits</i> are sub-categories of <i>Outpatient events</i>.
+  <i>Physician outpatient visits</i> are a sub-category of <i>Outpatient events</i>.
 </li>
 <li>%s</li>
 <li>%s</li>

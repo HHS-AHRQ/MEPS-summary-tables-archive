@@ -30,11 +30,9 @@ event_dictionary <-
        "DVT"="Dental visits",
        "RX" ="Prescription medicines",
        "OBV"="Office-based events",
-       "OBD"="Physician office visits",
-       "OBO"="Non-physician office visits",
+       "OBD"="Office-based physician visits",
        "OPT"="Outpatient events",
-       "OPY"="Physician hosp. visits",
-       "OPZ"="Non-physician hosp. visits",
+       "OPY"="Outpatient physician visits",
        "ERT"="Emergency room visits",
        "IPT"="Inpatient stays",
        "HHT"="Home health events",
@@ -65,27 +63,27 @@ delay_dictionary = list(
 # Run table formatter ---------------------------------------------------------
 
 adj = data.frame(
-  stat = c("totPOP", "totEXP", "totEVT", 
-               "meanEVT", "meanEXP", "meanEXP0", "medEXP", 
+  stat = c("totPOP", "totEXP", "totEVT",
+               "meanEVT", "meanEXP", "meanEXP0", "medEXP",
                "pctEXP", "pctPOP", "avgEVT"),
-  
-  denom = c(10^3, 10^6, 10^3,         
+
+  denom = c(10^3, 10^6, 10^3,
             1, 1, 1, 1,
             10^(-2), 10^(-2), 1),
-  
+
   digits = c(0, 0, 0,
              0, 0, 0, 0,
              1, 1, 1),
-  
-  se_digits = c(0, 0, 0,         
-                1, 1, 1, 1,        
+
+  se_digits = c(0, 0, 0,
+                1, 1, 1, 1,
                 2, 2, 2))
 
 adj_use = adj
-adj_use[adj$stat == "totEVT",c('denom', 'digits', 'se_digits')] = c(10^6, 0, 1) 
+adj_use[adj$stat == "totEVT",c('denom', 'digits', 'se_digits')] = c(10^6, 0, 1)
 
-## Format tables 
-format_hc_tables(appKey = 'hc_use',  years = year_list, adj = adj_use) 
+## Format tables
+format_hc_tables(appKey = 'hc_use',  years = year_list, adj = adj_use)
 format_hc_tables(appKey = 'hc_ins',  years = year_list, adj = adj)
 format_hc_tables(appKey = 'hc_care', years = year_list, adj = adj)
 format_hc_tables(appKey = 'hc_cond', years = year_list, adj = adj)

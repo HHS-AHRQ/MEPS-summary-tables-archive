@@ -27,16 +27,14 @@
 	run;
 %mend;
 
-data OBD OBO;
+data OBD;
 	set OB;
 	if event_v2X = 'OBD' then output OBD;
-	if event_v2X = 'OBO' then output OBO;
 run;
 
-data OPY OPZ;
+data OPY;
 	set OP;
 	if event_v2X = 'OPY' then output OPY;
-	if event_v2X = 'OPZ' then output OPZ;
 run;
 
 %avgEVT(RX);
@@ -47,8 +45,6 @@ run;
 
 %avgEVT(OP);
   %avgEVT(OPY);
-  %avgEVT(OPZ);
 
 %avgEVT(OB);
   %avgEVT(OBD);
-  %avgEVT(OBO);

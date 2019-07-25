@@ -4,8 +4,7 @@
     ERTEXP.yy. = ERFEXP.yy. + ERDEXP.yy., # Doctor + Facility Expenses for OP, ER, IP events
     IPTEXP.yy. = IPFEXP.yy. + IPDEXP.yy.,
     OPTEXP.yy. = OPFEXP.yy. + OPDEXP.yy., # All Outpatient
-    OPYEXP.yy. = OPVEXP.yy. + OPSEXP.yy., # Physician only
-    OPZEXP.yy. = OPOEXP.yy. + OPPEXP.yy., # Non-physician only
+    OPYEXP.yy. = OPVEXP.yy. + OPSEXP.yy., # Outpatient - Physician only
     OMAEXP.yy. = VISEXP.yy. + OTHEXP.yy.) # Other medical equipment and services
 
   FYC <- FYC %>% mutate(

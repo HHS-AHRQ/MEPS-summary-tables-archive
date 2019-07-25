@@ -1,6 +1,6 @@
 %let use_vars =
 	TOTUSE&yy. DVTOT&yy.  RXTOT&yy. OBTOTV&yy. OBDRV&yy.
-	OBOTHV&yy. OPTOTV&yy. OPDRV&yy. OPOTHV&yy. ERTOT&yy.
+	OPTOTV&yy. OPDRV&yy.  ERTOT&yy.
 	IPDIS&yy.  HHTOTD&yy. OMAEXP&yy.;
 
 data MEPS_use; set MEPS;

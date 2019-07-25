@@ -3,8 +3,8 @@ demo  = 'results <- svyby(~(TOTEXP.yy. > 0), FUN = svymean, by = ~.by., design =
 
 event = '
 # Loop over event types
-  events <- c("TOT", "DVT", "RX",  "OBV", "OBD", "OBO",
-              "OPT", "OPY", "OPZ", "ERT", "IPT", "HHT", "OMA")
+  events <- c("TOT", "DVT", "RX",  "OBV", "OBD",
+              "OPT", "OPY", "ERT", "IPT", "HHT", "OMA")
 
   results <- list()
   for(ev in events) {
@@ -28,8 +28,8 @@ sop   = '
 
 event_sop = '
 # Loop over events, sops
-  events <- c("TOT", "DVT", "RX",  "OBV", "OBD", "OBO",
-              "OPT", "OPY", "OPZ", "ERT", "IPT", "HHT", "OMA")
+  events <- c("TOT", "DVT", "RX",  "OBV", "OBD",
+              "OPT", "OPY", "ERT", "IPT", "HHT", "OMA")
 
   sops <- c("EXP", "SLF", "PTR", "MCR", "MCD", "OTZ")
 

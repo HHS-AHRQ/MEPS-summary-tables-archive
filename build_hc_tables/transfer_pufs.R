@@ -3,10 +3,10 @@
 # install.packages('dplyr')
 # install.packages('devtools')
 
-library(dplyr)
-library(devtools)
-
-install_github("e-mitchell/meps_r_pkg/MEPS")
+# library(dplyr)
+# library(devtools)
+# 
+# install_github("e-mitchell/meps_r_pkg/MEPS")
 library(MEPS)
 
 fnames = get_puf_names() %>% 

@@ -1,28 +1,28 @@
 %let exp_vars =
 	TOTEXP&yy. DVTEXP&yy. RXEXP&yy.  OBVEXP&yy. OBDEXP&yy.
-	OBOEXP&yy. OPTEXP&yy. OPYEXP&yy. OPZEXP&yy. ERTEXP&yy.
+	OPTEXP&yy. OPYEXP&yy. ERTEXP&yy.
 	IPTEXP&yy. HHTEXP&yy. OMAEXP&yy.
 
 	TOTSLF&yy. DVTSLF&yy.	RXSLF&yy.  OBVSLF&yy. OBDSLF&yy.
-	OBOSLF&yy. OPTSLF&yy.	OPYSLF&yy. OPZSLF&yy. ERTSLF&yy.
+	OPTSLF&yy. OPYSLF&yy. ERTSLF&yy.
 	IPTSLF&yy. HHTSLF&yy.	OMASLF&yy.
 
 	TOTPTR&yy. DVTPTR&yy. RXPTR&yy.  OBVPTR&yy. OBDPTR&yy.
-	OBOPTR&yy. OPTPTR&yy. OPYPTR&yy. OPZPTR&yy.	ERTPTR&yy.
+	OPTPTR&yy. OPYPTR&yy. ERTPTR&yy.
 	IPTPTR&yy. HHTPTR&yy. OMAPTR&yy.
 
 	TOTMCR&yy. DVTMCR&yy. RXMCR&yy. OBVMCR&yy. OBDMCR&yy.
-	OBOMCR&yy. OPTMCR&yy. OPYMCR&yy. OPZMCR&yy. ERTMCR&yy.
+	OPTMCR&yy. OPYMCR&yy. ERTMCR&yy.
 	IPTMCR&yy. HHTMCR&yy. OMAMCR&yy.
 
 	TOTMCD&yy. DVTMCD&yy. RXMCD&yy.  OBVMCD&yy. OBDMCD&yy.
-	OBOMCD&yy. OPTMCD&yy. OPYMCD&yy. OPZMCD&yy. ERTMCD&yy.
+	OPTMCD&yy. OPYMCD&yy. ERTMCD&yy.
 	IPTMCD&yy. HHTMCD&yy. OMAMCD&yy.
 
 	TOTOTZ&yy. DVTOTZ&yy. RXOTZ&yy.  OBVOTZ&yy. OBDOTZ&yy.
-	OBOOTZ&yy. OPTOTZ&yy. OPYOTZ&yy. OPZOTZ&yy. ERTOTZ&yy.
+	OPTOTZ&yy. OPYOTZ&yy. ERTOTZ&yy.
 	IPTOTZ&yy. HHTOTZ&yy. OMAOTZ&yy.;
-	
+
 data MEPS_gt0; set MEPS;
 	array vars &exp_vars.;
 	do over vars;

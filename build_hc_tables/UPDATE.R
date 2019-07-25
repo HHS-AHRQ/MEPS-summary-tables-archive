@@ -8,12 +8,12 @@ source("dictionaries.R")
 source("functions_run.R")
 
 
-apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
-#apps <- c("hc_use", "hc_care", "hc_ins", "hc_pmed")
+#apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
+apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
 
 
 # Year (or years) that needs to be run
-  year_list <- 2016 
+  year_list <- 1996:2016 
   hc_year <- max(year_list)
 
 # Set local directory for storing PUFs
@@ -34,7 +34,7 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
   
   # Create new tables for new data year -- takes about 3 hours
     source("codelist_r.R")
-    run_tables(appKey = 'hc_care', year_list = year_list) # ~20 min
+    run_tables(appKey = 'hc_care', year_list = year_list[year_list >= 2002]) # ~20 min
     run_tables(appKey = 'hc_pmed', year_list = year_list) # 2 min
     run_tables(appKey = 'hc_ins',  year_list = year_list) # 4 min
     run_tables(appKey = 'hc_cond', year_list = year_list[year_list <= 2015]) # ~20 min

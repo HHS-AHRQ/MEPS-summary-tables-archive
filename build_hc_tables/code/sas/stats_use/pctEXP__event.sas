@@ -1,6 +1,6 @@
 %let exp_vars =
 	TOTEXP&yy. DVTEXP&yy. RXEXP&yy.  OBVEXP&yy. OBDEXP&yy.
-	OBOEXP&yy. OPTEXP&yy. OPYEXP&yy. OPZEXP&yy. ERTEXP&yy.
+	OPTEXP&yy. OPYEXP&yy. ERTEXP&yy.
 	IPTEXP&yy. HHTEXP&yy. OMAEXP&yy.;
 
 data MEPS_gt0; set MEPS;

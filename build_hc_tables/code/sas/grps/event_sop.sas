@@ -14,16 +14,15 @@
 		ERT&sop.&yy. = ERF&sop.&yy. + ERD&sop.&yy.; /* Doctor + Facility expenses for OP, ER, IP events */
 		IPT&sop.&yy. = IPF&sop.&yy. + IPD&sop.&yy.;
 		OPT&sop.&yy. = OPF&sop.&yy. + OPD&sop.&yy.; /* All Outpatient */
-		OPY&sop.&yy. = OPV&sop.&yy. + OPS&sop.&yy.; /* Physician only */
-		OPZ&sop.&yy. = OPO&sop.&yy. + OPP&sop.&yy.; /* Non-physician only */
+		OPY&sop.&yy. = OPV&sop.&yy. + OPS&sop.&yy.; /* Outpatient - Physician only */
 		OMA&sop.&yy. = VIS&sop.&yy. + OTH&sop.&yy.;
 	%mend;
 
 	%macro add_event_sops;
 		%let sops = EXP SLF PTR MCR MCD OTZ;
 		%let events =
-				TOT DVT RX  OBV OBD OBO
-				OPF OPD OPV OPS OPO OPP
+				TOT DVT RX  OBV OBD
+				OPF OPD OPV OPS
 				ERF ERD IPF IPD HHA HHN
 				VIS OTH;
 

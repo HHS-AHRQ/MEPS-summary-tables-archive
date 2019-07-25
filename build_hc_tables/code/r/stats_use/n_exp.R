@@ -2,8 +2,8 @@ list(
 demo  = 'results <- svyby(~(PERWT.yy.F > 0), FUN = unwtd.count, by = ~.by., design = subset(FYCdsgn, TOTEXP.yy. > 0))',
 
 event = '
-    events <- c("TOT", "DVT", "RX",  "OBV", "OBD", "OBO",
-                "OPT", "OPY", "OPZ", "ERT", "IPT", "HHT", "OMA")
+    events <- c("TOT", "DVT", "RX",  "OBV", "OBD",
+                "OPT", "OPY", "ERT", "IPT", "HHT", "OMA")
 
   results <- list()
   for(ev in events) {
@@ -24,8 +24,8 @@ event = '
 
   event_sop = '
   # Loop over events, sops
-    events <- c("TOT", "DVT", "RX",  "OBV", "OBD", "OBO",
-                "OPT", "OPY", "OPZ", "ERT", "IPT", "HHT", "OMA")
+    events <- c("TOT", "DVT", "RX",  "OBV", "OBD",
+                "OPT", "OPY", "ERT", "IPT", "HHT", "OMA")
 
     sops <- c("EXP", "SLF", "PTR", "MCR", "MCD", "OTZ")
 
