@@ -65,7 +65,7 @@ done <- function(outfile,...,dir="/"){
 
 run_tables <- function(appKey, year_list) {
   
-  loadPkgs %>% run
+  #loadPkgs %>% run
   
   tbl_dir <- sprintf("data_tables/%s", appKey)
   dir.create(tbl_dir)
