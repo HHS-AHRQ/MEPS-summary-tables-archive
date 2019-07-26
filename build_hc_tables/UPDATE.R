@@ -45,7 +45,7 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
     log_file <- "update_files/update_log.txt"
     source("check_UPDATE.R")
   
-  
+
   ## STOP!! CHECK LOG (update_files/update_log.txt) before proceeding
   
     
