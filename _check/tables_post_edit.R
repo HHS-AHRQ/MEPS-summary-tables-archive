@@ -6,30 +6,27 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 csv_only <- function(vec) vec[grepl('csv',vec)]
 
-setwd("../build_hc_tables/data_tables/hc_cond")
+setwd("../build_hc_tables/data_tables/hc_care")
 
 years <- list.files()
 for(year in years){
    files = list.files(as.character(year)) %>% csv_only
    unlink(sprintf("%s/_DONE.Rdata",year))
    
-   print(c(year,files))
+   print(c(year, files))
    
-   event_files <- "totEVT.csv"
-   
-   for(file in event_files) {
-     fname = sprintf("%s/%s",year,file)
+  
+   for(file in files) {
+     fname = sprintf("%s/%s", year, file)
+     print(fname)
      
-     #print(fname)
-   
-     #unlink(fname)
+     tab <- read.csv(fname)
      
+     tab <- tab %>% filter(colGrp != "adult_nosmok")
+     
+     write.csv(tab, file = fname, row.names = F)
+   
    }
+   
 }
     
-     # 
-     # tab <- tab %>% filter(!rowGrp %in% c("event", "sop"),
-     #                       !colGrp %in% c("event", "sop")) 
-     # 
-     # write.csv(tab, file = fname, row.names = F)
-  

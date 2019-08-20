@@ -12,7 +12,7 @@ Events include all dental visits, prescribed medicine purchases (including refil
 
 EVT2 <- "
 <h4>Utilization (i.e. Number of events)</h4>
-Events include all emergency room visits, home health events, inpatient stays, office-based and outpatient visits, and prescribed medicine purchases (including refills) associated with a medical condition. A <i>home health event</i> is defined as one month during which home health service was received. <i><b>Update 7/2019:</b></i> Utilization counts were edited to include prescription medicine refills (previously, only the initial fill was counted).
+Events include all emergency room visits, home health events, inpatient stays, office-based and outpatient visits, and prescribed medicine purchases (including refills) associated with a medical condition. A <i>home health event</i> is defined as one month during which home health service was received. <i><b>Update 8/2019:</b></i> Utilization counts were edited to include prescription medicine refills (previously, only the initial fill was counted).
 "
 
 EXP <- "
@@ -173,6 +173,11 @@ demographics[["race"]] <-
 usc <- "
 <h4>Usual source of care</h4>
 For each individual family member, the respondent is asked whether there is a particular doctor's office, clinic, health center, or other place that the individual usually goes to if he/she is sick or needs advice about his/her health.
+"
+
+adult_nosmok <- "
+<h4>Adults advised to quit smoking</h4>
+<i><b>Update 8/2019:</b></i> The categories 'Had no visits in the last 12 months' and 'Not ascertained' were removed from this table.
 "
 
 diab_eye <- "

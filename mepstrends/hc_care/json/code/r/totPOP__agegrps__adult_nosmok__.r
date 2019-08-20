@@ -26,10 +26,7 @@
     mutate(
       adult_nosmok = recode_factor(ADNSMK42, .default = "Missing", .missing = "Missing", 
         "1" = "Told to quit",
-        "2" = "Not told to quit",
-        "3" = "Had no visits in the last 12 months",
-        "-9" = "Not ascertained",
-        "-1" = "Inapplicable"))
+        "2" = "Not told to quit"))
 
 # Age groups
 # To compute for all age groups, replace 'agegrps' in the 'svyby' function with 'agegrps_v2X' or 'agegrps_v3X'
@@ -52,5 +49,5 @@ SAQdsgn <- svydesign(
   data = FYC,
   nest = TRUE)
 
-results <- svyby(~adult_nosmok, FUN = svytotal, by = ~agegrps, design = subset(SAQdsgn, ADSMOK42==1 & CHECK53==1))
+results <- svyby(~adult_nosmok, FUN = svytotal, by = ~agegrps, design = subset(SAQdsgn, ADSMOK42==1 & ADNSMK42 %in% c(1,2)))
 print(results)
