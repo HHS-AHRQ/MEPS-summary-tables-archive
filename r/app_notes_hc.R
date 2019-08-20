@@ -52,10 +52,7 @@ event <- sprintf("
 <h4>Event type</h4>
 <ul>
 <li>
-  <i>Physician office visits</i> are a sub-category of <i>Office-based events</i>.
-</li>
-<li>
-  <i>Physician outpatient visits</i> are a sub-category of <i>Outpatient events</i>.
+  <i>Physician office visits</i> are a sub-category of <i>Office-based events</i>, and <i>Physician outpatient visits</i> are a sub-category of <i>Outpatient events</i>. <i><b>Update 8/2019:</b></i> Non-physician office-based and outpatient events are no longer displayed in the tables.
 </li>
 <li>%s</li>
 <li>%s</li>
@@ -177,7 +174,7 @@ For each individual family member, the respondent is asked whether there is a pa
 
 adult_nosmok <- "
 <h4>Adults advised to quit smoking</h4>
-<i><b>Update 8/2019:</b></i> The categories 'Had no visits in the last 12 months' and 'Not ascertained' were removed from this table.
+<i><b>Update 8/2019:</b></i> The distribution of adults advised to quit smoking was updated for all years. The new frequencies and percentages are now based only on the sub-population of adults that smoke (ADSMOK42 = 1).
 "
 
 diab_eye <- "

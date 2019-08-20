@@ -150,24 +150,24 @@ pmed_page <- build_html('hc_pmed', forms = pmed_forms, pivot = T)
 write(as.character(pmed_page), file = "../mepstrends/hc_pmed/index.html")
 
 
-# Medical Conditions -----------------------------------------------------------
-# 
-# cat("hc_cond...")
-# dir.create("../mepstrends/hc_cond/")
-# year_list = 1996:hc_year
-# 
-# load("../formatted_tables/hc_cond/hc_cond.Rdata")
-# 
-# cond_forms <- tagList(
-#   statInput(MASTER_TABLE),
-#   dataViewInput(),
-#   yearInput(year_list),
-#   tags$fieldset(
-#     class = 'hide-if-trend',
-#     rcInput(MASTER_TABLE, type = "col")),
-#   div(class = 'hidden',
-#       rcInput(MASTER_TABLE, type = "row", level_select = F))
-# )
-# 
-# cond_page <- build_html('hc_cond', forms = cond_forms, pivot = T)
-# write(as.character(cond_page), file = "../mepstrends/hc_cond/index.html")
+# Medical Conditions, 1996-2015 -----------------------------------------------
+
+cat("hc_cond...")
+dir.create("../mepstrends/hc_cond/")
+year_list = 1996:2015
+
+load("../formatted_tables/hc_cond/hc_cond.Rdata")
+
+cond_forms <- tagList(
+  statInput(MASTER_TABLE),
+  dataViewInput(),
+  yearInput(year_list),
+  tags$fieldset(
+    class = 'hide-if-trend',
+    rcInput(MASTER_TABLE, type = "col")),
+  div(class = 'hidden',
+      rcInput(MASTER_TABLE, type = "row", level_select = F))
+)
+
+cond_page <- build_html('hc_cond', forms = cond_forms, pivot = T)
+write(as.character(cond_page), file = "../mepstrends/hc_cond/index.html")
