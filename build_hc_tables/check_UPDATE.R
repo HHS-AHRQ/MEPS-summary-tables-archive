@@ -29,6 +29,13 @@ for(app in apps) { cat("\n", app, "\n");
   yr.0_files <- list.files(sprintf("%s/%s", dir, yr.0))
   yr.1_files <- list.files(sprintf("%s/%s", dir, yr.1))
 
+  # WARN IF NO FILES EXIST
+    if(length(yr.0_files) == 0) {
+      sprintf("ERROR: No files found in folder for %s app", app) %>% 
+        write(file = log_file, append = T)
+      next
+    }
+  
   # WARN IF AVAILABLE FILES ARE DIFFERENT
   
     if(!all(yr.0_files == yr.1_files)) {

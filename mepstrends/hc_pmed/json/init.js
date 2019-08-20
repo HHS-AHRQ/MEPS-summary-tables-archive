@@ -187,4 +187,12 @@ var isPivot = true; var initCols = [
 
                   {title: "", className: "coef", searchable: false, render: coefDisplay},
 
-                {title: "", className: "se", searchable: false, render: seDisplay}]; var initLevels = []; var subLevels = ["Physician office visits","Non-physician office visits","Physician hosp. visits","Non-physician hosp. visits"];
+                {title: "", className: "se", searchable: false, render: seDisplay},
+
+                  {title: "", className: "coef", searchable: false, render: coefDisplay},
+
+                {title: "", className: "se", searchable: false, render: seDisplay},
+
+                  {title: "", className: "coef", searchable: false, render: coefDisplay},
+
+                {title: "", className: "se", searchable: false, render: seDisplay}]; var initLevels = []; var subLevels = ["Physician office visits","Physician outpatient visits"];
