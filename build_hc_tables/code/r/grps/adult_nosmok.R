@@ -6,4 +6,7 @@
     mutate(
       adult_nosmok = recode_factor(ADNSMK42, .default = "Missing", .missing = "Missing", 
         "1" = "Told to quit",
-        "2" = "Not told to quit"))
+        "2" = "Not told to quit",
+        "3" = "Had no visits in the last 12 months",
+        "-9" = "Not ascertained",
+        "-1" = "Inapplicable"))

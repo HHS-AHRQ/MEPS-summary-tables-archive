@@ -16,7 +16,7 @@ care_stats <- list(
   diab_foot = 'results <- svyby(~diab_foot, FUN = .FUN., by = ~.by., design = DIABdsgn)',
 
  # adult_nosmok  = 'results <- svyby(~adult_nosmok, FUN = .FUN., by = ~.by., design = subset(SAQdsgn, ADSMOK42==1 & CHECK53==1))',
-  adult_nosmok  = 'results <- svyby(~adult_nosmok, FUN = .FUN., by = ~.by., design = subset(SAQdsgn, ADSMOK42==1 & ADNSMK42 %in% c(1,2)))',
+  adult_nosmok  = 'results <- svyby(~adult_nosmok, FUN = .FUN., by = ~.by., design = subset(SAQdsgn, ADSMOK42==1))',
   adult_routine = 'results <- svyby(~adult_routine, FUN = .FUN., by = ~.by., design = subset(SAQdsgn, ADRTCR42==1 & AGELAST >= 18))',
   adult_illness = 'results <- svyby(~adult_illness, FUN = .FUN., by = ~.by., design = subset(SAQdsgn, ADILCR42==1 & AGELAST >= 18))',
 
