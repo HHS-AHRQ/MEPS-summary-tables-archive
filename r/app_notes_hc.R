@@ -52,7 +52,7 @@ event <- sprintf("
 <h4>Event type</h4>
 <ul>
 <li>
-  <i>Physician office visits</i> are a sub-category of <i>Office-based events</i>, and <i>Physician outpatient visits</i> are a sub-category of <i>Outpatient events</i>. <i><b>Update 8/2019:</b></i> Non-physician office-based and outpatient events are no longer displayed in the tables.
+  <i>Office-based physician visits</i> are a sub-category of <i>Office-based events</i>, and <i>Outpatient physician visits</i> are a sub-category of <i>Outpatient events</i>. <i><b>Update 8/2019:</b></i> Non-physician office-based and outpatient events are no longer displayed in the tables.
 </li>
 <li>%s</li>
 <li>%s</li>

@@ -54,6 +54,7 @@ notes[['hc_care']] <-
        usc = usc,
        diab_eye = diab_eye,
        diab_foot = diab_foot,
+       adult_nosmok = adult_nosmok,
        difficulty = difficulty,
        rsn_ANY = rsn_difficulty,
        rsn_MD = rsn_difficulty,
