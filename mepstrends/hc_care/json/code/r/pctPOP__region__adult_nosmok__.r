@@ -26,8 +26,10 @@
     mutate(
       adult_nosmok = recode_factor(ADNSMK42, .default = "Missing", .missing = "Missing", 
         "1" = "Told to quit",
-        "2" = "Not told to quit"))
-
+        "2" = "Not told to quit",
+        "3" = "Had no visits in the last 12 months",
+        "-9" = "Not ascertained",
+        "-1" = "Inapplicable"))
 # Census region
   if(year == 1996)
     FYC <- FYC %>% mutate(REGION42 = REGION2, REGION31 = REGION1)
@@ -48,5 +50,5 @@ SAQdsgn <- svydesign(
   data = FYC,
   nest = TRUE)
 
-results <- svyby(~adult_nosmok, FUN = svymean, by = ~region, design = subset(SAQdsgn, ADSMOK42==1 & ADNSMK42 %in% c(1,2)))
+results <- svyby(~adult_nosmok, FUN = svymean, by = ~region, design = subset(SAQdsgn, ADSMOK42==1))
 print(results)
