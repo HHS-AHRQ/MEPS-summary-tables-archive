@@ -172,10 +172,10 @@ usc <- "
 For each individual family member, the respondent is asked whether there is a particular doctor's office, clinic, health center, or other place that the individual usually goes to if he/she is sick or needs advice about his/her health.
 "
 
-adult_nosmok <- "
+adult_nosmok <- '
 <h4>Adults advised to quit smoking</h4>
-<i><b>Update 8/2019:</b></i> The distribution of adults advised to quit smoking was updated for all years. The new frequencies and percentages are now based only on the sub-population of adults that smoke (ADSMOK42 = 1).
-"
+<i><b>Update 8/2019:</b></i> The distribution of adults advised to quit smoking was updated for all years. The new frequencies and percentages are now based only on the sub-population of adults that smoke (ADSMOK42 = 1). Care should be taken when comparing 2002 data to later years because the additional response category ("Had no visits in the last 12 months") was added in 2003. The "Not told to quit" category in 2002 likely includes persons who had no visits in the last 12 months. 
+'
 
 diab_eye <- "
 <h4>Eye exam</h4>

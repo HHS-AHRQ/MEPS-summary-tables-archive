@@ -13,7 +13,7 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
 
 
 # Year (or years) that needs to be run
-  year_list <- 1996:2017
+  year_list <- 2017
   hc_year <- max(year_list)
 
 # Set local directory for storing PUFs
