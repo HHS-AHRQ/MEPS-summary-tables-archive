@@ -65,7 +65,7 @@ notes[['hc_care']] <-
 if(write_data)  data_toJSON(appKey = 'hc_care', pivot = F)
 if(write_notes) notes_toJSON(appKey = 'hc_care', notes = notes[['hc_care']])
 
-# Medical conditions ------------------------------------------------
+# Medical conditions, 1996-2015 -----------------------------------------------
 
 notes[['hc_cond']] <- 
   list(totEVT  = EVT2,
@@ -78,6 +78,23 @@ notes[['hc_cond']] <-
 
 if(write_data)  data_toJSON(appKey = 'hc_cond', pivot = T)
 if(write_notes) notes_toJSON(appKey = 'hc_cond', notes = notes[['hc_cond']])
+
+
+# Medical conditions, 2016-current --------------------------------------------
+
+notes[['hc_cond_icd10']] <- 
+  list(totEVT  = EVT2,
+       totEXP  = EXP,
+       meanEXP = EXP,
+       Condition = Condition,
+       event = event_cond,
+       sop   = sop) %>% 
+  append(demographics)
+
+if(write_data)  data_toJSON(appKey = 'hc_cond_icd10', pivot = T)
+if(write_notes) notes_toJSON(appKey = 'hc_cond_icd10', notes = notes[['hc_cond_icd10']])
+
+
 
 # Prescribed Drugs --------------------------------------------------
 

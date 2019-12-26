@@ -21,6 +21,7 @@ add_labels <- function(df, dictionary, key="ind",vars=c("rowLevels","colLevels")
 add_all_labels <- function(df) {
   df %>%
     add_labels(sp_keys) %>%
+    add_labels(spX_keys) %>%
     add_labels(sop_dictionary) %>%
     add_labels(evnt_use) %>% 
     add_labels(evnt_keys) %>%

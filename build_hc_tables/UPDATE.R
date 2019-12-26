@@ -7,13 +7,10 @@ source("../r/functions.R")
 source("dictionaries.R")
 source("functions_run.R")
 
-
-#apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
-apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
-
+apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
 
 # Year (or years) that needs to be run
-  year_list <- 2017
+  year_list <- 2015:2017
   hc_year <- max(year_list)
 
 # Set local directory for storing PUFs
@@ -24,8 +21,8 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
 # Create tables for new data year ---------------------------------------------
 
   ## !! For hc_cond icd10 versions (2016, 2017), need to build tables on secure
-  ## !! LAN, since CCS codes are not on PUFs 
-  
+  ## !! LAN, since CCSR codes are not on PUFs 
+
   # Update text strings for codes (only needed if codes are updated)
     source("build_codes.R")
   
@@ -34,7 +31,7 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_pmed")
   
   # Create new tables for new data year -- takes about 3 hours
     source("codelist_r.R")
-  
+
     run_tables(appKey = 'hc_care', year_list = year_list[year_list >= 2002]) # ~20 min
     run_tables(appKey = 'hc_pmed', year_list = year_list) # 2 min
     run_tables(appKey = 'hc_ins',  year_list = year_list) # 4 min

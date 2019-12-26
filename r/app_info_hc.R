@@ -128,17 +128,37 @@ instructions2 = 'After you select the available options, the table will automati
 
 infoList[['hc_cond']] <- list(
 
-title = "Medical conditions",
+title = "Medical conditions, 1996-2015",
 
 img = list(src="../src/custom/img/icon_cond.png", alt = "pulse"),
 
-preview = "Utilization, spending, and number of people with care for medical conditions by demographic characteristics.",
+preview = "Utilization, spending, and number of people with care for medical conditions by demographic characteristics, based on ICD-9 codes (1996-2015)",
 
-description = "These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex).",
+description = "These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex). For 1996-2015, household-reported conditions are coded into ICD-9 codes, which are then collapsed into the Condition categories in the tables below.",
 
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
 instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+)
+
+
+# Post 2016: CCS codes based on ICD10, from secure LAN
+
+infoList[['hc_cond_icd10']] <- list(
+
+title = "Medical conditions, 2016 and later",
+
+img = list(src="../src/custom/img/icon_cond_icd10.png", alt = "pulse, alternate colors"),
+
+preview = "Utilization, spending, and number of people with care for medical conditions by demographic characteristics, based on ICD-10 codes (2016 and later)",
+
+description = "These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex). Starting in 2016, household-reported conditions are coded into ICD-10 codes, which are then collapsed into the Condition categories in the tables below.",
+
+instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
+
+instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table.
+
+The "Code" tab is not available for this table series, since the tables are constructed from internal files containing fully-specified ICD-10 codes, and cannot be constructed using only the MEPS public use files. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 

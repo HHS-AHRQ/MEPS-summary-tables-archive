@@ -45,6 +45,11 @@ sp_keys <-
        "XPX" = "EXP", "SFX" = "SLF", "PRX" = "PTR",
        "MRX" = "MCR", "MDX" = "MCD", "OZX" = "OTZ") %>% stack
 
+spX_keys <-
+  list("XPX" = "EXP", "SFX" = "SLF", "PRX" = "PTR",
+       "MRX" = "MCR", "MDX" = "MCD", "OZX" = "OTZ") %>% stack
+
+
 sop_dictionary <-
   list("EXP"="Any source",
        "SLF"="Out of pocket",
@@ -89,6 +94,8 @@ adj_use[adj$stat == "totEVT",c('denom', 'digits', 'se_digits')] = c(10^6, 0, 1)
 format_hc_tables(appKey = 'hc_use',  years = year_list, adj = adj_use)
 format_hc_tables(appKey = 'hc_ins',  years = year_list, adj = adj)
 format_hc_tables(appKey = 'hc_care', years = year_list[year_list >= 2002], adj = adj)
-format_hc_tables(appKey = 'hc_cond', years = year_list[year_list <= 2015], adj = adj)
-#format_hc_tables(appKey = 'hc_cond', years = year_list, adj = adj)
 format_hc_tables(appKey = 'hc_pmed', years = year_list, adj = adj)
+
+format_hc_tables(appKey = 'hc_cond',       years = year_list[year_list <= 2015], adj = adj)
+format_hc_tables(appKey = 'hc_cond_icd10', years = year_list[year_list >= 2016], adj = adj)
+

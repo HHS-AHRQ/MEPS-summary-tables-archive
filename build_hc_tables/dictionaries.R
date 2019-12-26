@@ -205,19 +205,19 @@ statList[['hc_care']] <- list(
 
 # Medical Conditions ----------------------------------------------------------
 
-statList[['hc_cond']] = list(
+statList[['hc_cond']] <- statList[['hc_cond_icd10']] <- list(
   "Number of people with care" = "totPOP",
   "Number of events"           = "totEVT",
   "Total expenditures ($)"     = "totEXP",
   "Mean expenditure per person with care ($)"= "meanEXP"
 )
 
-byVars[['hc_cond']] <- 'col'
-colGrps[['hc_cond']] <- extended_grps
-rowGrps[['hc_cond']] <- c("Condition" = "Condition")
+byVars[['hc_cond']] <- byVars[['hc_cond_icd10']] <- 'col'
+colGrps[['hc_cond']] <- colGrps[['hc_cond_icd10']] <- extended_grps
+rowGrps[['hc_cond']] <- rowGrps[['hc_cond_icd10']] <- c("Condition" = "Condition")
 
-rowGrps_R[['hc_cond']] <- rowGrps[['hc_cond']] %>% unlist(use.names = F)
-colGrps_R[['hc_cond']] <- colGrps[['hc_cond']] %>% unlist(use.names = F) %>% add_v2X
+rowGrps_R[['hc_cond']] <- rowGrps_R[['hc_cond_icd10']] <- rowGrps[['hc_cond']] %>% unlist(use.names = F)
+colGrps_R[['hc_cond']] <- colGrps_R[['hc_cond_icd10']] <- colGrps[['hc_cond']] %>% unlist(use.names = F) %>% add_v2X
 
 
 # Prescribed Medicines --------------------------------------------------------

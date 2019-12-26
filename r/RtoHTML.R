@@ -44,6 +44,7 @@ home_body <- tagList(
         ),
         fluidRow(
           column(width = 4, preview_box('hc_cond')),
+          column(width = 4, preview_box('hc_cond_icd10')),
           column(width = 4, preview_box('hc_pmed')),
           column(width = 4)
         )
@@ -150,7 +151,7 @@ pmed_page <- build_html('hc_pmed', forms = pmed_forms, pivot = T)
 write(as.character(pmed_page), file = "../mepstrends/hc_pmed/index.html")
 
 
-# Medical Conditions, 1996-2015 -----------------------------------------------
+# Medical Conditions (1996 - 2015) --------------------------------------------
 
 cat("hc_cond...")
 dir.create("../mepstrends/hc_cond/")
@@ -171,3 +172,27 @@ cond_forms <- tagList(
 
 cond_page <- build_html('hc_cond', forms = cond_forms, pivot = T)
 write(as.character(cond_page), file = "../mepstrends/hc_cond/index.html")
+
+
+# Medical Conditions (2016 - current) -----------------------------------------
+
+cat("hc_cond_icd10...")
+dir.create("../mepstrends/hc_cond_icd10/")
+year_list = 2016
+
+load("../formatted_tables/hc_cond_icd10/hc_cond_icd10.Rdata")
+
+cond_forms <- tagList(
+  statInput(MASTER_TABLE),
+  dataViewInput(),
+  yearInput(year_list),
+  tags$fieldset(
+    class = 'hide-if-trend',
+    rcInput(MASTER_TABLE, type = "col")),
+  div(class = 'hidden',
+      rcInput(MASTER_TABLE, type = "row", level_select = F))
+)
+
+cond_icd10_page <- build_html('hc_cond_icd10', forms = cond_forms, pivot = T, include = c("table", "plot"))
+
+write(as.character(cond_icd10_page), file = "../mepstrends/hc_cond_icd10/index.html")
