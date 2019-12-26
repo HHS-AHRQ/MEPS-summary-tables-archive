@@ -178,7 +178,7 @@ write(as.character(cond_page), file = "../mepstrends/hc_cond/index.html")
 
 cat("hc_cond_icd10...")
 dir.create("../mepstrends/hc_cond_icd10/")
-year_list = 2016
+year_list = 2016:hc_year
 
 load("../formatted_tables/hc_cond_icd10/hc_cond_icd10.Rdata")
 
