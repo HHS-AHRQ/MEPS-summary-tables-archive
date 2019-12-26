@@ -61,7 +61,7 @@ apps <- c("hc_use", "hc_care", "hc_ins", "hc_cond", "hc_cond_icd10", "hc_pmed")
     source("../r/RtoHTML.R", chdir = T)
   
   # Run RtoJSON to update JSON data with new year
-    write_data  = TRUE
+    write_data  = FALSE
     write_notes = TRUE
     source("../r/RtoJSON.R", chdir = T)
   
