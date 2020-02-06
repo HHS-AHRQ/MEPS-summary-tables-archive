@@ -71,7 +71,7 @@ notes[['hc_cond']] <-
   list(totEVT  = EVT2,
        totEXP  = EXP,
        meanEXP = EXP,
-       Condition = Condition,
+       #Condition = Condition,
        event = event_cond,
        sop   = sop) %>% 
   append(demographics)
@@ -86,7 +86,7 @@ notes[['hc_cond_icd10']] <-
   list(totEVT  = EVT2,
        totEXP  = EXP,
        meanEXP = EXP,
-       Condition = Condition,
+       #Condition = Condition,
        event = event_cond,
        sop   = sop) %>% 
   append(demographics)

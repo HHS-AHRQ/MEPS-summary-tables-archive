@@ -230,7 +230,7 @@ build_code <- function(pivot) {
 }
 
 
-build_main <- function(pivot = F, include = c("table", "plot", "code")) {
+build_main <- function(pivot = F, include = c("table", "plot", "code"), app_notes = "") {
   tagList(
     tags$ul(
       id = "meps-tabs", class = "nav nav-pills",
@@ -254,6 +254,9 @@ build_main <- function(pivot = F, include = c("table", "plot", "code")) {
 
         h3('Notes'),
         div(id = 'notes', role = 'region', "aria-live" = 'polite'),
+        
+        app_notes,
+        
         tags$p("This tool is provided as a convenience. It is the responsibility of the user to review
                results for statistical significance and overall reasonableness."),
 
@@ -271,7 +274,7 @@ build_main <- function(pivot = F, include = c("table", "plot", "code")) {
         )
 }
 
-build_html <- function(appKey, forms, pivot = F, include = c("table", "plot", "code")) {
+build_html <- function(appKey, forms, pivot = F, include = c("table", "plot", "code"),...) {
 
   load_js <- tagList(
     tags$script(src = '../src/custom/js/functions.js'),
@@ -283,7 +286,7 @@ build_html <- function(appKey, forms, pivot = F, include = c("table", "plot", "c
   body <- build_body(
     infoList[[appKey]],
     forms = forms,
-    main = build_main(pivot = pivot, include = include))
+    main = build_main(pivot = pivot, include = include,...))
 
   htmlTemplate("../html/template.html", body = body, load_js = load_js, navbar = navbar,
                ahrq_meta = ahrq_meta, ahrq_header = ahrq_header, ahrq_footer = ahrq_footer)

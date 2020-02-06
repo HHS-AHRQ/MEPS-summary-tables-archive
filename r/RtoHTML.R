@@ -153,6 +153,38 @@ write(as.character(pmed_page), file = "../mepstrends/hc_pmed/index.html")
 
 # Medical Conditions (1996 - 2015) --------------------------------------------
 
+# adding these notes statically so the external-link works
+
+cond_notes <- HTML("
+<h4>Conditions</h4>
+<p>Medical conditions are based on conditions for which treatment was received, where treatment includes emergency room visits, home health care, inpatient stays, office-based visits, outpatient visits, and prescription medicine purchases. <i>Other medical equipment and services</i> and <i>dental visits</i> are not included in these tables since medical conditions are not collected for these event types.</p>
+
+<p>Several changes have occurred in the collection and processing of MEPS condition data that may impact analysis of trends over time:
+</p>
+
+<p>(1) Starting in 2007, new survey questions were introduced into MEPS asking participants about whether they had been told they have certain priority health conditions. This change in the survey methodology may have impacted responses for utilization and expenditures related to the following conditions: hypertension, heart disease, cerebrovascular disease, COPD, asthma, hyperlipidemia, cancer, diabetes mellitus, and osteoarthritis.</p>
+
+<p>(2) From 1996-2015, household-reported medical conditions were coded into ICD-9 and CCS codes, which were then collapsed into broad Condition categories. Starting in 2016, household-reported medical conditions were coded into ICD-10 and CCSR codes before collapsing into Condition categories. This discontinuity is presented in separate table series. Extreme care must be taken when comparing data on medical conditions before and after this transition, due to fundamental differences between the ICD-9 and ICD-10 codes, as well as the CCS and CCSR codes. In addition, several of the collapsed condition categories in the MEPS Summary Tables have been updated. For example, \"Appendicitis\" and \"Other GI\" conditions are now included in the \"Other stomach and intestinal disorders\" category.</p>  
+
+<p>The transition from ICD9/CCS codes to ICD10/CCSR codes is an ongoing process. The data in these tables may be updated whenever updated CCSR codes are released. Crosswalks between the CCS[R] and collapsed Condition categories can be found at the 
+<a class='external-link' href='https://github.com/HHS-AHRQ/MEPS/tree/master/Quick_Reference_Guides' target='_blank_'>AHRQ GitHub site
+<img src='../src/custom/img/externallink.gif' alt='External Link'></a>
+
+
+More information on CCS[R] coding can be found at the HCUP website: 
+<ul>
+  <li>
+    ICD9/CCS:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp</a> 
+  </li>
+  <li>
+    ICD10/CCSR:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp</a> 
+  </li>
+</ul>
+</p>
+
+")
+
+
 cat("hc_cond...")
 dir.create("../mepstrends/hc_cond/")
 year_list = 1996:2015
@@ -170,7 +202,7 @@ cond_forms <- tagList(
       rcInput(MASTER_TABLE, type = "row", level_select = F))
 )
 
-cond_page <- build_html('hc_cond', forms = cond_forms, pivot = T)
+cond_page <- build_html('hc_cond', forms = cond_forms, pivot = T, app_notes = cond_notes)
 write(as.character(cond_page), file = "../mepstrends/hc_cond/index.html")
 
 
@@ -193,6 +225,7 @@ cond_forms <- tagList(
       rcInput(MASTER_TABLE, type = "row", level_select = F))
 )
 
-cond_icd10_page <- build_html('hc_cond_icd10', forms = cond_forms, pivot = T, include = c("table", "plot"))
+cond_icd10_page <- build_html('hc_cond_icd10', forms = cond_forms, pivot = T, 
+                              include = c("table", "plot"), app_notes = cond_notes)
 
 write(as.character(cond_icd10_page), file = "../mepstrends/hc_cond_icd10/index.html")
