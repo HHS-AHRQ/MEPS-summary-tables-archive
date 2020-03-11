@@ -134,7 +134,10 @@ img = list(src="../src/custom/img/icon_cond.png", alt = "pulse"),
 
 preview = "Utilization, spending, and number of people with care for medical conditions by demographic characteristics, based on ICD-9 codes (1996-2015)",
 
-description = "These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex). For 1996-2015, household-reported conditions are coded into ICD-9 codes, which are then collapsed into the Condition categories in the tables below.",
+description = HTML("These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. For 1996-2015, household-reported conditions are coded into ICD-9 codes, which are then collapsed into the Condition categories in the tables below.
+(Visit <a class = 'white' href=\"../hc_cond_icd10/\">Medical conditions, 2016 and later</a> for tables based on ICD-10 codes).
+<br><br>
+Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex)."),
 
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
@@ -152,7 +155,9 @@ img = list(src="../src/custom/img/icon_cond_icd10.png", alt = "pulse, alternate 
 
 preview = "Utilization, spending, and number of people with care for medical conditions by demographic characteristics, based on ICD-10 codes (2016 and later)",
 
-description = "These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex). Starting in 2016, household-reported conditions are coded into ICD-10 codes, which are then collapsed into the Condition categories in the tables below.",
+description = HTML("These MEPS summary tables provide statistics on the number of people with care for medical conditions, health care utilization, total expenditures, and mean expenditures per person by medical condition. Starting in 2016, household-reported conditions are coded into ICD-10 codes, which are then collapsed into the Condition categories in the tables below. (Visit <a class = 'white' href=\"../hc_cond/\">Medical conditions, 1996-2015</a> for tables based on ICD-9 codes).
+<br><br>
+Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex)."),
 
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 

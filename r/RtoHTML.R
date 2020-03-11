@@ -164,20 +164,24 @@ cond_notes <- HTML("
 
 <p>(1) Starting in 2007, new survey questions were introduced into MEPS asking participants about whether they had been told they have certain priority health conditions. This change in the survey methodology may have impacted responses for utilization and expenditures related to the following conditions: hypertension, heart disease, cerebrovascular disease, COPD, asthma, hyperlipidemia, cancer, diabetes mellitus, and osteoarthritis.</p>
 
-<p>(2) From 1996-2015, household-reported medical conditions were coded into ICD-9 and CCS codes, which were then collapsed into broad Condition categories. Starting in 2016, household-reported medical conditions were coded into ICD-10 and CCSR codes before collapsing into Condition categories. This discontinuity is presented in separate table series. Extreme care must be taken when comparing data on medical conditions before and after this transition, due to fundamental differences between the ICD-9 and ICD-10 codes, as well as the CCS and CCSR codes. In addition, several of the collapsed condition categories in the MEPS Summary Tables have been updated. For example, \"Appendicitis\" and \"Other GI\" conditions are now included in the \"Other stomach and intestinal disorders\" category.</p>  
+<p>(2) From 1996-2015, household-reported medical conditions were coded into ICD-9 and CCS codes, which were then collapsed into broad Condition categories. Starting in 2016, household-reported medical conditions were coded into ICD-10 and CCSR codes before collapsing into Condition categories. This discontinuity is presented in two separate table series:
+<a href=\"../hc_cond/\">Medical conditions, 1996-2015</a> for conditions based on ICD-9 codes and
+<a href=\"../hc_cond_icd10/\">Medical conditions, 2016 and later</a> for conditions based on ICD-10 codes.
 
-<p>The transition from ICD9/CCS codes to ICD10/CCSR codes is an ongoing process. The data in these tables may be updated whenever updated CCSR codes are released. Crosswalks between the CCS[R] and collapsed Condition categories can be found at the 
+<b><i> Extreme caution must be taken when comparing data on medical conditions before and after this transition, due to fundamental differences between the ICD-9 and ICD-10 codes, as well as the CCS and CCSR codes. In addition, several of the collapsed condition categories in the MEPS Summary Tables have been updated.</i></b> For example, \"Appendicitis\" and \"Other GI\" conditions are now included in the \"Other stomach and intestinal disorders\" category.</p>
+
+<p>The transition from ICD9/CCS codes to ICD10/CCSR codes is an ongoing process. The data in these tables may be updated whenever updated CCSR codes are released. Crosswalks between the CCS[R] and collapsed Condition categories can be found at the
 <a class='external-link' href='https://github.com/HHS-AHRQ/MEPS/tree/master/Quick_Reference_Guides' target='_blank_'>AHRQ GitHub site
 <img src='../src/custom/img/externallink.gif' alt='External Link'></a>
 
 
-More information on CCS[R] coding can be found at the HCUP website: 
+More information on CCS[R] coding can be found at the HCUP website:
 <ul>
   <li>
-    ICD9/CCS:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp</a> 
+    ICD9/CCS:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccs/ccs.jsp</a>
   </li>
   <li>
-    ICD10/CCSR:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp</a> 
+    ICD10/CCSR:  <a href = https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp>https://www.hcup-us.ahrq.gov/toolssoftware/ccsr/ccs_refined.jsp</a>
   </li>
 </ul>
 </p>
@@ -225,7 +229,7 @@ cond_forms <- tagList(
       rcInput(MASTER_TABLE, type = "row", level_select = F))
 )
 
-cond_icd10_page <- build_html('hc_cond_icd10', forms = cond_forms, pivot = T, 
+cond_icd10_page <- build_html('hc_cond_icd10', forms = cond_forms, pivot = T,
                               include = c("table", "plot"), app_notes = cond_notes)
 
 write(as.character(cond_icd10_page), file = "../mepstrends/hc_cond_icd10/index.html")

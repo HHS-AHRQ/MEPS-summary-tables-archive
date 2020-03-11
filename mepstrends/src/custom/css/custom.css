@@ -188,6 +188,11 @@ a:focus{
 .inline{ display:inline-block; }
 .right { float: right; }
 
+.white { color: white; }
+a.white { color: white;}
+a.white:hover { color: #ddd;}
+a.white:visited { color: #ddd;}
+
 .usa-form-large{
   max-width: 600px;
 }
