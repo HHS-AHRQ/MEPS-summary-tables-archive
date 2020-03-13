@@ -1,10 +1,11 @@
 # MEPS summary tables
 
-This repository contains the code needed to create the interactive **Medical Expenditure Panel Survey (MEPS) Household Component summary tables** found on the [MEPS website](https://meps.ahrq.gov/mepsweb/data_stats/quick_tables.jsp). The code is provided for researchers and developers interested in creating similar interactive tables, or in customizing the MEPS summary tables for personal use. The tables created from the code in this repository provide frequently used summary statistics at the national level for:
+This repository contains the code needed to create the interactive [**Medical Expenditure Panel Survey (MEPS) Household Component summary tables**](https://meps.ahrq.gov/mepstrends/home/index.html) found on the [MEPS website](https://meps.ahrq.gov/mepsweb/data_stats/quick_tables.jsp). The code is provided for researchers and developers interested in creating similar interactive tables, or in customizing the MEPS summary tables for personal use. The tables created from the code in this repository provide frequently used summary statistics at the national level for:
 * Health care use, expenditures, and population characteristics
 * Health insurance coverage
 * Accessibility and quality of care
-* Medical conditions
+* Medical conditions, 1996-2015 (based on ICD-9 codes)
+* Medical conditions, 2016 and later (based on ICD-10 codes)
 * Prescribed drug purchases
 
 
