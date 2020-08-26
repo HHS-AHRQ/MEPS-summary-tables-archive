@@ -247,6 +247,7 @@ a.white:visited { color: #ddd;}
   color: white;
 }
 
+
 .preview-box{
   background-color: #015289;
   display: block;
@@ -455,6 +456,10 @@ a.white:visited { color: #ddd;}
 
 .info-box{
   background-color: #015289;
+  color: white;
+}
+
+.info-box a{
   color: white;
 }
 

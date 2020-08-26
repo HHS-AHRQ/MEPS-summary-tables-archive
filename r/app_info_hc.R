@@ -83,7 +83,7 @@ Use the options below to select a statistic of interest, the data view ("Trends 
 
 instructions2 = '
 After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
 
 
@@ -103,7 +103,7 @@ description = "These MEPS summary tables provide statistics on health insurance 
 instructions1 = 'Use the options below to select a statistic (number or percentage of people), variable of interest (insurance coverage category), data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
 instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
 
 
@@ -123,7 +123,7 @@ instructions1 = '
 Use the options below to select a statistic (number or percentage of people), variable of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
 instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
 
 
@@ -145,7 +145,7 @@ Data can be viewed over time or for a single year by event type (such as prescri
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
 instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
 
 
@@ -166,7 +166,7 @@ Data can be viewed over time or for a single year by event type (such as prescri
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
 instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
 
 
@@ -185,5 +185,5 @@ description = "These MEPS summary tables provide statistics on total expenditure
 instructions1 = 'Use the options below to select a statistic of interest, data years, and grouping variable (therapeutic class or generic drug name). After you select the available options, the table will automatically be updated. The table can be sorted by drug name or therapeutic class name, or data values for each year by clicking on the column header.',
 
 instructions2 = 'To view data as a plot, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link"> MEPS GitHub repository</a>.'
+<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.'
 )
