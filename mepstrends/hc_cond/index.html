@@ -12,7 +12,6 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
    
-
   <!-- Use the .htaccess and remove these lines to avoid edge case issues. More info: h5bp.com/i/378 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta charset="utf-8">
@@ -41,7 +40,6 @@
     var navbase = "https://www.ahrq.gov";
   </script>
   <script src="https://www.ahrq.gov/resources/js/libs/modernizr-2.5.3.min.js"></script>
-
 
    <link rel="stylesheet" href="../src/ahrq/css/ahrq_style.css">
    <link rel="stylesheet" href="../src/ahrq/css/third_party.css">
@@ -60,7 +58,6 @@
    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
    
-
 <!-- T:GtAHRQCommon -->
 <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6. chromium.org/developers/how-tos/chrome-frame-getting-started -->
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
@@ -174,7 +171,6 @@
 
 					</header>
 					<!--googleon: all-->
-
 
 
    <header id = "meps-header-container">
@@ -204,8 +200,7 @@
              </a>
              <div class="dropdown-menu em-nav-dropdown-menu" aria-labelledby="hc-dropdown">
 
-               
-<a class="dropdown-item" href="../hc_use/">
+               <a class="dropdown-item" href="../hc_use/">
   <span>Use, expenditures, and population</span>
 </a>
 <a class="dropdown-item" href="../hc_ins/">
@@ -222,8 +217,7 @@
 </a>
 <a class="dropdown-item" href="../hc_pmed/">
   <span>Prescribed drugs</span>
-</a>
-
+</a>
 
              </div>
            </li>
@@ -245,8 +239,7 @@
     <div role = "main" id = "page-container">
 
       <main id="main-content">
-         
-<div class="info-box ">
+         <div class="info-box ">
   <div class="full-screen">
     <h2>
       Medical conditions, 1996-2015
@@ -257,7 +250,7 @@
 <br><br>
 Data can be viewed over time or for a single year by event type (such as prescription medicines or outpatient events), source of payment (such as Medicare or Medicaid), or demographic characteristics (such as age, race, or sex).</p>
     <p>Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.</p>
-    <p>After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.</p>
+    <p>After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.</p>
   </div>
 </div>
 <div class="row full-screen">
@@ -411,11 +404,6 @@ Data can be viewed over time or for a single year by event type (such as prescri
           <span class="tab-title plot-tab">Plot</span>
         </a>
       </li>
-      <li class="">
-        <a data-toggle="tab" href="#code-tab" id="code-pill">
-          <span class="tab-title code-tab">Code</span>
-        </a>
-      </li>
     </ul>
     <div class="tab-content">
       <div id="updating-overlay">
@@ -464,28 +452,6 @@ Data can be viewed over time or for a single year by event type (such as prescri
           <aside id="plot-suppress">Some estimates suppressed due to inadequate precision (see <a target="_blank_" href="https://meps.ahrq.gov/survey_comp/precision_guidelines.shtml">FAQs</a> for details).</aside>
         </div>
       </div>
-      <div id="code-tab" class="tab-pane">
-        <div class="code-select">
-          <label for="code-language">Select programming language:</label>
-          <select id="code-language"><option value="R" selected>R</option>
-<option value="SAS">SAS</option></select>
-          <a id="dl-code" title="" data-original-title="Download code" tabindex="0" class="em-tooltip usa-button download-button">
-            <span class="usa-sr-only">Download code</span>
-          </a>
-        </div>
-        <p>To run the code, first download and unzip the required public use data files from the
-  <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp" target="_blank_">MEPS
-  data files page</a>, and save them to your computer. More information on downloading and analyzing
-  MEPS data in R, SAS, and Stata can be found at the <a class="external-link"
-  href="https://github.com/HHS-AHRQ/MEPS#accessing-meps-hc-data" target="_blank_">AHRQ GitHub site
-  <img src="../src/custom/img/externallink.gif" alt="External Link"></a>. Note that some standard
-  error estimates may differ between R and SAS, since SAS doesn't support any options to adjust for
-  lonely PSUs.</p>
-        <p>The following code can be used to generate the selected estimates, where the SAS transport data
-  files (.ssp) have been saved to the folder 'C:\MEPS'. For trend estimates, example code is shown
-  for the most recent year selected:</p>
-        <pre id="code" role="region" aria-live="polite"></pre>
-      </div>
     </div>
     <div id="hc-info">
       <div id="source" class="in-front"></div>
@@ -493,6 +459,9 @@ Data can be viewed over time or for a single year by event type (such as prescri
       <div id="notes" role="region" aria-live="polite"></div>
       
 <h4>Conditions</h4>
+
+<p><b>Update 9/2020:</b> 2016 and 2017 data tables were updated based on the v2020.2 release of the CCSR crosswalk. (Data tables for later years are based on the CCSRs released on the PUFs).</p>
+
 <p>Medical conditions are based on conditions for which treatment was received, where treatment includes emergency room visits, home health care, inpatient stays, office-based visits, outpatient visits, and prescription medicine purchases. <i>Other medical equipment and services</i> and <i>dental visits</i> are not included in these tables since medical conditions are not collected for these event types.</p>
 
 <p>Several changes have occurred in the collection and processing of MEPS condition data that may impact analysis of trends over time:
@@ -537,8 +506,7 @@ More information on CCS[R] coding can be found at the HCUP website:
       <div id="citation"></div>
     </div>
   </div>
-</div>
-
+</div>
       </main>
 
     </div>
@@ -573,8 +541,7 @@ More information on CCS[R] coding can be found at the HCUP website:
     </div>
   </footer>
 
-  
-<footer>
+  <footer>
   <!-- I put this directly in template.html - Emily
     <div id="top-button-container" class="container_12">
         <a href="#tiptop" id="top-button">Back to top<img src="https://www.ahrq.gov/resources/img/top-button-icon.png"
@@ -732,7 +699,6 @@ More information on CCS[R] coding can be found at the HCUP website:
 -->
 
 <!-- end scripts -->
-
 
   <script src="https://www.ahrq.gov/resources/js/libs/jquery.simplemodal.js"></script>
   <script src="https://www.ahrq.gov/resources/js/plugins.js"></script>
@@ -751,12 +717,10 @@ More information on CCS[R] coding can be found at the HCUP website:
 
   <script type="text/javascript" src="../src/custom/js/basic.js"></script>
 
-  
-<script src="../src/custom/js/functions.js"></script>
+  <script src="../src/custom/js/functions.js"></script>
 <script src="json/init.js"></script>
 <script src="json/notes.js"></script>
-<script src="../src/custom/js/em.js"></script>
-
+<script src="../src/custom/js/em.js"></script>
 
  </body>
 

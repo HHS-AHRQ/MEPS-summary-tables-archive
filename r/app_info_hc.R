@@ -58,7 +58,7 @@ infoList <- list()
 infoList[['home']] <- list(
 
 description =
-'The MEPS Household Component summary tables provide frequently used summary estimates for the U.S. civilian noninstitutionalized population on household medical utilization and expenditures, demographic and socio-economic characteristics, health insurance coverage, access to care and experience with care, medical conditions, and prescribed medicine purchases. Most tables can be stratified by demographic or socio-economic characteristics. Plots from selected data can also be generated, and R and SAS code for calculating selected estimates is available. See <a href="https://meps.ahrq.gov/mepsweb/survey_comp/hc_data_collection.jsp">Sample Design and Data Collection Process</a> for details on the collection of individual data items (e.g., health insurance status, age). The estimates provided in the tables are based on data available in standardized <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp">public use data files.</a> Pages have been optimized for Chrome, Firefox, and Safari.'
+'The MEPS Household Component summary tables provide frequently used summary estimates for the U.S. civilian noninstitutionalized population on household medical utilization and expenditures, demographic and socio-economic characteristics, health insurance coverage, access to care and experience with care, medical conditions, and prescribed medicine purchases. Most tables can be stratified by demographic or socio-economic characteristics. Plots from selected data can also be generated. See <a href="https://meps.ahrq.gov/mepsweb/survey_comp/hc_data_collection.jsp">Sample Design and Data Collection Process</a> for details on the collection of individual data items (e.g., health insurance status, age). The estimates provided in the tables are based on data available in standardized <a href="https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp">public use data files.</a> Pages have been optimized for Chrome, Firefox, and Safari.'
 
 )
 
@@ -82,7 +82,7 @@ instructions1 = '
 Use the options below to select a statistic of interest, the data view ("Trends over time" or "Cross-sectional"), data years, and grouping variables. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by up to two grouping variables. Once a grouping variable is selected, a dropdown menu will appear, enabling selection of specific levels in each group.',
 
 instructions2 = '
-After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 
@@ -101,7 +101,7 @@ description = "These MEPS summary tables provide statistics on health insurance 
 
 instructions1 = 'Use the options below to select a statistic (number or percentage of people), variable of interest (insurance coverage category), data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
-instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 
@@ -120,7 +120,7 @@ description = "These MEPS summary tables provide statistics on accessibility and
 instructions1 = '
 Use the options below to select a statistic (number or percentage of people), variable of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
-instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+instructions2 = 'After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 
@@ -141,7 +141,7 @@ Data can be viewed over time or for a single year by event type (such as prescri
 
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
-instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 
@@ -161,9 +161,7 @@ Data can be viewed over time or for a single year by event type (such as prescri
 
 instructions1 = 'Use the options below to select a statistic of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.',
 
-instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table.
-
-The "Code" tab is not available for this table series, since the tables are constructed from internal files containing fully-specified ICD-10 codes, and cannot be constructed using only the MEPS public use files. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+instructions2 = 'After you select the available options, the table will automatically be updated. The table can be sorted by condition name or data value by clicking on the column header. To view the data as a plot, with line graphs for trends over time and grouped bar graphs for the cross-sectional view, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )
 
 
@@ -181,5 +179,5 @@ description = "These MEPS summary tables provide statistics on total expenditure
 
 instructions1 = 'Use the options below to select a statistic of interest, data years, and grouping variable (therapeutic class or generic drug name). After you select the available options, the table will automatically be updated. The table can be sorted by drug name or therapeutic class name, or data values for each year by clicking on the column header.',
 
-instructions2 = 'To view data as a plot, select up to 10 rows by clicking in the table. The "Code" tab displays R and SAS code needed to replicate the data shown in the table. The generated table, plot, and codes can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
+instructions2 = 'To view data as a plot, select up to 10 rows by clicking in the table. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox.'
 )

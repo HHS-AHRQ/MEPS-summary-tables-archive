@@ -274,7 +274,7 @@ build_main <- function(pivot = F, include = c("table", "plot", "code"), app_note
         )
 }
 
-build_html <- function(appKey, forms, pivot = F, include = c("table", "plot", "code"),...) {
+build_html <- function(appKey, forms, pivot = F, include = c("table", "plot"),...) {
 
   load_js <- tagList(
     tags$script(src = '../src/custom/js/functions.js'),
