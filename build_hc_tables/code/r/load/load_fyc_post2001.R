@@ -1,5 +1,5 @@
 # Load FYC file
-  FYC <- read.xport('.PUFdir./.FYC..ssp');
+  FYC <- read_sas('.PUFdir./.FYC..sas7bdat');
   year <- .year.
   
   FYC <- FYC %>%

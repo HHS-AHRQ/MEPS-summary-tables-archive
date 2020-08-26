@@ -2,7 +2,7 @@
 
 This folder contains code to create summary data tables from MEPS household component (HC) public use files (PUFs).
 
-To create / update the tables, open [UPDATE.R](UPDATE.R) in RStudio and edit the *year_list* variable to include the years you want to run, and set the *mydir* variable to a local directory where you want to store the PUF .ssp files. This code then sources other R codes as follows:
+To create / update the tables, open [UPDATE.R](UPDATE.R) in RStudio and edit the *year_list* variable to include the years you want to run, and set the *mydir* variable to a local directory where you want to store the PUF (.ssp or .sas7bdat) files. This code then sources other R codes as follows:
 
 1. **build_codes.R**: Pulls R and SAS code outlines for each table series from **codelist_r.R** and **codelist_sas.R** to create complete codes for each statistic and group option ('year' is left as a macro variable). Code outlines are created from code snippets stored in the [code](code) folder.
 

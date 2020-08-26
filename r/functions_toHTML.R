@@ -221,7 +221,7 @@ build_code <- function(pivot) {
 
       tags$p(
   "The following code can be used to generate the selected estimates, where the SAS transport data
-  files (.ssp) have been saved to the folder 'C:\\MEPS'. For trend estimates, example code is shown
+  files (.ssp or .sas7bdat) have been saved to the folder 'C:\\MEPS'. For trend estimates, example code is shown
   for the most recent year selected:"),
 
       tags$pre(id = 'code', role = 'region', 'aria-live' = 'polite')
@@ -254,9 +254,9 @@ build_main <- function(pivot = F, include = c("table", "plot", "code"), app_note
 
         h3('Notes'),
         div(id = 'notes', role = 'region', "aria-live" = 'polite'),
-        
+
         app_notes,
-        
+
         tags$p("This tool is provided as a convenience. It is the responsibility of the user to review
                results for statistical significance and overall reasonableness."),
 

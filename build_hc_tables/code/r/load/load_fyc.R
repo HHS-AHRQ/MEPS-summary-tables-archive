@@ -1,5 +1,5 @@
 # Load FYC file
-  FYC <- read.xport('.PUFdir./.FYC..ssp');
+  FYC <- read_sas('.PUFdir./.FYC..sas7bdat');
   year <- .year.
 
   if(year <= 2001) FYC <- FYC %>% mutate(VARPSU = VARPSU.yy., VARSTR=VARSTR.yy.)
