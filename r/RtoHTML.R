@@ -157,6 +157,9 @@ write(as.character(pmed_page), file = "../mepstrends/hc_pmed/index.html")
 
 cond_notes <- HTML("
 <h4>Conditions</h4>
+
+<p><b>Update 9/2020:</b> 2016 and 2017 data tables were updated based on the v2020.2 release of the CCSR crosswalk. (Data tables for later years are based on the CCSRs released on the PUFs).</p>
+
 <p>Medical conditions are based on conditions for which treatment was received, where treatment includes emergency room visits, home health care, inpatient stays, office-based visits, outpatient visits, and prescription medicine purchases. <i>Other medical equipment and services</i> and <i>dental visits</i> are not included in these tables since medical conditions are not collected for these event types.</p>
 
 <p>Several changes have occurred in the collection and processing of MEPS condition data that may impact analysis of trends over time:
