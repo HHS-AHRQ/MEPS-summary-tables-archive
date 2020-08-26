@@ -9,7 +9,7 @@
   options(survey.lonely.psu="adjust")
 
 # Load FYC file
-  FYC <- read.xport('C:/MEPS/.FYC..ssp');
+  FYC <- read_sas('C:/MEPS/.FYC..sas7bdat');
   year <- .year.
 
   if(year <= 2001) FYC <- FYC %>% mutate(VARPSU = VARPSU.yy., VARSTR=VARSTR.yy.)
@@ -66,12 +66,12 @@
   FYCsub <- FYC %>% select(insurance,ind, DUPERSID, PERWT.yy.F, VARSTR, VARPSU)
 
 # Load event files
-  RX <- read.xport('C:/MEPS/.RX..ssp') %>% rename(EVNTIDX = LINKIDX)
-  IPT <- read.xport('C:/MEPS/.IP..ssp')
-  ERT <- read.xport('C:/MEPS/.ER..ssp')
-  OPT <- read.xport('C:/MEPS/.OP..ssp')
-  OBV <- read.xport('C:/MEPS/.OB..ssp')
-  HHT <- read.xport('C:/MEPS/.HH..ssp')
+  RX <- read_sas('C:/MEPS/.RX..sas7bdat') %>% rename(EVNTIDX = LINKIDX)
+  IPT <- read_sas('C:/MEPS/.IP..sas7bdat')
+  ERT <- read_sas('C:/MEPS/.ER..sas7bdat')
+  OPT <- read_sas('C:/MEPS/.OP..sas7bdat')
+  OBV <- read_sas('C:/MEPS/.OB..sas7bdat')
+  HHT <- read_sas('C:/MEPS/.HH..sas7bdat')
 
 # Stack events (condition data not collected for dental visits and other medical expenses)
   stacked_events <- stack_events(RX, IPT, ERT, OPT, OBV, HHT)
@@ -84,11 +84,11 @@
            XP.yy.X, SF.yy.X, MR.yy.X, MD.yy.X, PR.yy.X, OZ.yy.X)
 
 # Read in event-condition linking file
-  clink1 = read.xport('C:/MEPS/.CLNK..ssp') %>%
+  clink1 = read_sas('C:/MEPS/.CLNK..sas7bdat') %>%
     select(DUPERSID,CONDIDX,EVNTIDX)
 
 # Read in conditions file and merge with condition_codes, link file
-  cond <- read.xport('C:/MEPS/.Conditions..ssp') %>%
+  cond <- read_sas('C:/MEPS/.Conditions..sas7bdat') %>%
     select(DUPERSID, CONDIDX, CCCODEX) %>%
     mutate(CCS_Codes = as.numeric(as.character(CCCODEX))) %>%
     left_join(condition_codes, by = "CCS_Codes") %>%

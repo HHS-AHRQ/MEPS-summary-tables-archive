@@ -9,7 +9,7 @@
   options(survey.lonely.psu="adjust")
 
 # Load FYC file
-  FYC <- read.xport('C:/MEPS/.FYC..ssp');
+  FYC <- read_sas('C:/MEPS/.FYC..sas7bdat');
   year <- .year.
 
   if(year <= 2001) FYC <- FYC %>% mutate(VARPSU = VARPSU.yy., VARSTR=VARSTR.yy.)

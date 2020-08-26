@@ -11,14 +11,14 @@
 year <- .year.
 
 # Load RX file
-  RX <- read.xport("C:/MEPS/.RX..ssp")
+  RX <- read_sas("C:/MEPS/.RX..sas7bdat")
   
   if(year <= 2001) RX <- RX %>% mutate(VARPSU = VARPSU.yy., VARSTR = VARSTR.yy.)
   if(year <= 1998) RX <- RX %>% rename(PERWT.yy.F = WTDPER.yy.)
 
 # For 1996-2013, merge with RX Multum Lexicon Addendum files
   if(year <= 2013) {
-    Multum <- read.xport("C:/MEPS/.Multum..ssp")
+    Multum <- read_sas("C:/MEPS/.Multum..sas7bdat")
     RX <- RX %>%
       select(-starts_with("TC"), -one_of("PREGCAT", "RXDRGNAM")) %>%
       left_join(Multum, by = c("DUPERSID", "RXRECIDX"))

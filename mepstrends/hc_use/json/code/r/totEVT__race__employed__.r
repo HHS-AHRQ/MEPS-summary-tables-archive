@@ -9,7 +9,7 @@
   options(survey.lonely.psu="adjust")
 
 # Load FYC file
-  FYC <- read.xport('C:/MEPS/.FYC..ssp');
+  FYC <- read_sas('C:/MEPS/.FYC..sas7bdat');
   year <- .year.
 
   if(year <= 2001) FYC <- FYC %>% mutate(VARPSU = VARPSU.yy., VARSTR=VARSTR.yy.)
@@ -81,13 +81,13 @@
   FYCsub <- FYC %>% select(race,employed,ind, DUPERSID, PERWT.yy.F, VARSTR, VARPSU)
 
 # Load event files
-  RX <- read.xport('C:/MEPS/.RX..ssp')
-  DVT <- read.xport('C:/MEPS/.DV..ssp')
-  IPT <- read.xport('C:/MEPS/.IP..ssp')
-  ERT <- read.xport('C:/MEPS/.ER..ssp')
-  OPT <- read.xport('C:/MEPS/.OP..ssp')
-  OBV <- read.xport('C:/MEPS/.OB..ssp')
-  HHT <- read.xport('C:/MEPS/.HH..ssp')
+  RX <- read_sas('C:/MEPS/.RX..sas7bdat')
+  DVT <- read_sas('C:/MEPS/.DV..sas7bdat')
+  IPT <- read_sas('C:/MEPS/.IP..sas7bdat')
+  ERT <- read_sas('C:/MEPS/.ER..sas7bdat')
+  OPT <- read_sas('C:/MEPS/.OP..sas7bdat')
+  OBV <- read_sas('C:/MEPS/.OB..sas7bdat')
+  HHT <- read_sas('C:/MEPS/.HH..sas7bdat')
 
 # Define sub-levels for office-based and outpatient
 #  To compute estimates for these sub-events, replace 'event' with 'event_v2X'
