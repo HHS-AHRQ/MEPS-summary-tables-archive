@@ -7,8 +7,8 @@ add_labels <- function(df, dictionary, key="ind",vars=c("rowLevels","colLevels")
   dictionary <- dictionary %>% mutate_if(is.factor, as.character)
   vars <- vars[vars %in% colnames(df)]
   for(var in vars){
+    df$temp <- df[,var]
     df <- df %>%
-      mutate_(temp = var) %>%
       left_join(dictionary,by = c("temp" = key)) %>%
       mutate(temp = coalesce(values, temp))
     if(replace) newvar = var else newvar = paste0(var, "_label")
@@ -206,13 +206,14 @@ format_hc_tables <- function(appKey, years, adj) {
   # Loop through years
   
   for(year in years) { cat(year,"..")
+    
     out_fmt <- sprintf("%s/DY%s.csv", fmt_dir, year)
     yrX <- paste0(substr(year, 3, 4), "X")
     
     # Load sample size data files
     n_df <- read.csv(sprintf("%s/%s/n.csv", dir, year), stringsAsFactors = F) %>%
       rm_v2 %>% dedup %>% add_all_labels
-    
+
     if(has_nexp) {
       n_exp <- read.csv(sprintf("%s/%s/n_exp.csv", dir, year), stringsAsFactors = F) %>%
         rm_v2 %>% dedup %>% add_all_labels
@@ -238,7 +239,8 @@ format_hc_tables <- function(appKey, years, adj) {
       tbs[[st]] <- tb_stat
     }
     
-    full_tbls <- bind_rows(tbs) %>% rm_v2 %>% dedup %>% add_all_labels 
+    full_tbls <- bind_rows(tbs) %>% rm_v2 %>% 
+      dedup %>% add_all_labels 
     
     if(has_n) full_tbls <- full_tbls %>% left_join(n_df)
     if(has_nexp) full_tbls <- full_tbls %>% left_join(n_exp)
@@ -378,5 +380,6 @@ format_hc_tables <- function(appKey, years, adj) {
     
     write.csv(fmt_tbl, file = out_fmt, row.names = F) 
   } # end for year in years
+  
 }
 

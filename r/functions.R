@@ -87,11 +87,14 @@ switch_labels <- function(df){
 reverse <- function(df) df[nrow(df):1,]
 
 dedup <- function(df){
+  chk_vars <- c("Year", "stat", "rowGrp", "colGrp", "rowLevels", "colLevels")
+  df_vars <- chk_vars[chk_vars %in% colnames(df)]
   df %>%
     reverse %>%
-    distinct(Year,stat,rowGrp,colGrp,rowLevels,colLevels,.keep_all=TRUE) %>%
+    distinct_at(df_vars,.keep_all=TRUE) %>%
     reverse
 }
+
 
 rsub <- function(string,...,type='r') {
   repl = switch(type,
