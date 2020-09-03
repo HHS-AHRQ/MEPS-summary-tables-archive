@@ -119,9 +119,9 @@ build_body <- function(info, forms, main) {
     div(class = 'info-box ',
         div(class='full-screen',
             h2(info$title, tags$img(src = info$img$src, alt = info$img$alt, class = "app-image")),
-            p(info$description),
-            p(HTML(info$instructions1)),
-            p(HTML(info$instructions2)))),
+            tags$p(info$description),
+            tags$p(HTML(info$instructions1)),
+            tags$p(HTML(info$instructions2)))),
 
     fluidRow(class = "full-screen",
              column(id = "meps-form-container", width=12, class="col-md-3",
