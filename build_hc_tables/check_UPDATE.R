@@ -26,6 +26,10 @@ for(app in apps) { cat("\n", app, "\n");
   yr.3 <- hc_year - 3
   yr.4 <- hc_year - 4
   
+  if(app == "hc_cond_icd10") {
+   yr.3 <- yr.4 <- yr.2
+  }
+  
   yr.0_files <- list.files(sprintf("%s/%s", dir, yr.0))
   yr.1_files <- list.files(sprintf("%s/%s", dir, yr.1))
 
@@ -40,7 +44,7 @@ for(app in apps) { cat("\n", app, "\n");
   
     if(!all(yr.0_files == yr.1_files)) {
       sprintf("WARNING: Not all statistic files are equivalent for %s app, %s vs %s", 
-              app, yr, yr.1) %>% 
+              app, yr.0, yr.1) %>% 
         write(file = log_file, append = T)
     }
   
@@ -58,6 +62,16 @@ for(app in apps) { cat("\n", app, "\n");
     s.2 <- read.csv(sprintf("%s/%s/%s",dir,yr.2,csv), stringsAsFactors = F)
     s.3 <- read.csv(sprintf("%s/%s/%s",dir,yr.3,csv), stringsAsFactors = F)
     s.4 <- read.csv(sprintf("%s/%s/%s",dir,yr.4,csv), stringsAsFactors = F)
+    
+    # for hc_use, make duplicates for row/col
+    if(app == "hc_use") {
+      s.0 <- bind_rows(s.0, switch_labels(s.0))
+      s.1 <- bind_rows(s.1, switch_labels(s.1))
+      s.2 <- bind_rows(s.2, switch_labels(s.2))
+      s.3 <- bind_rows(s.3, switch_labels(s.3))
+      s.4 <- bind_rows(s.4, switch_labels(s.4))
+    }
+    
     
     by <- c("colGrp", "rowGrp", "colLevels", "rowLevels")
     by <- by[by %in% colnames(s.0)]

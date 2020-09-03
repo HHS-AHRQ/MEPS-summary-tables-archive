@@ -7,18 +7,18 @@ add_v3X <- function(names) names %>% append(c('agegrps_v2X', 'agegrps_v3X'))
 formatNum <- function(x, d) {
   xnum = x[!is.na(x)]
   dnum = d[!is.na(x)]
-  
+
   spf <- paste0("%.",dnum,"f")
   fm_digits <- sprintf(spf, xnum)
   new_x <- prettyNum(fm_digits, big.mark = ",", preserve.width = "none")
-  
+
   x[!is.na(x)] <- new_x
   return(x)
 }
 
 findKey <- function(nm, keys) {
   keys = as.character(keys)
-  str = keys[sapply(keys, function(x) grepl(x, nm)) %>% which]  
+  str = keys[sapply(keys, function(x) grepl(x, nm)) %>% which]
   if(length(str) == 0) return(NA)
   return(str)
 }
@@ -27,20 +27,20 @@ findKey <- function(nm, keys) {
 getItem <- function(list, keys) {
   slist <- list
   default_code <- NULL
-  
+
   for(i in 1:(length(keys)+1)) {
-    
+
     if("DEFAULT" %in% names(slist)){
       default_code <- slist[["DEFAULT"]]
     }
-    
+
     if(length(slist) == 1) {
       return(slist)
     } else if(keys[i] %in% names(slist)) {
       slist <- slist[[keys[i]]]
     }
   }
-  
+
   return(default_code)
 }
 
@@ -86,13 +86,19 @@ switch_labels <- function(df){
 
 reverse <- function(df) df[nrow(df):1,]
 
-dedup <- function(df){
+dedup <- function(df, rev = T){
   chk_vars <- c("Year", "stat", "rowGrp", "colGrp", "rowLevels", "colLevels")
   df_vars <- chk_vars[chk_vars %in% colnames(df)]
-  df %>%
-    reverse %>%
-    distinct_at(df_vars,.keep_all=TRUE) %>%
-    reverse
+  if(rev) {
+    out <- df %>%
+      reverse %>%
+      distinct_at(df_vars,.keep_all=TRUE) %>%
+      reverse
+  } else {
+    out <- df %>%
+      distinct_at(df_vars,.keep_all=TRUE)
+  }
+  return(out)
 }
 
 
@@ -100,7 +106,7 @@ rsub <- function(string,...,type='r') {
   repl = switch(type,
                 'r'='\\.%s\\.',
                 'sas'='&%s\\.')
-  
+
   sub_list = list(...) %>% unlist
   for(l in names(sub_list)){
     original <- sprintf(repl,l)
@@ -119,6 +125,3 @@ reorder_levels <- function(df,new_levels){
     arrange(levels) %>%
     mutate(levels = as.character(levels))
 }
-
-
-
