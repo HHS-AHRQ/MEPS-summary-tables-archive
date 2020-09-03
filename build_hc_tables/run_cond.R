@@ -1,6 +1,7 @@
 # Create directory and define subgroups, stats --------------------------------
 
-appKey <- 'hc_cond'
+#appKey <- 'hc_cond'
+appKey <- "hc_cond_icd10"
 
 tbl_dir <- sprintf("data_tables/%s", appKey)
 dir.create(tbl_dir)
@@ -12,7 +13,7 @@ demo_grps <- col_grps %>% pop("event", "sop")
 
 # Run for specified year(s) ---------------------------------------------------
 
-for(year in year_list[year_list <= 2015]) {
+for(year in year_list[year_list >= 2018]) {
   
   dir.create(sprintf('%s/%s', tbl_dir, year))
   

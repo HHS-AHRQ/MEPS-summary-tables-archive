@@ -1,10 +1,34 @@
 
 # Load conditions PUF file
   cond_puf <- read_MEPS(year = year, type = "Conditions") %>%
-    select(DUPERSID, CONDIDX, starts_with("CCC"))
+    select(DUPERSID, CONDIDX, starts_with("CC"))
 
-  cond <- cond_puf %>% mutate(CCS = CCCODEX)
+
+# Merge condition cdes
   
+ccs_url <- "https://raw.githubusercontent.com/HHS-AHRQ/MEPS/master/Quick_Reference_Guides/meps_ccs_conditions.csv"
+ccsr_url <- "https://raw.githubusercontent.com/HHS-AHRQ/MEPS/master/Quick_Reference_Guides/meps_ccsr_conditions.csv"
+
+
+  if(year < 2018) {
+    condition_codes <- read_csv(ccs_url) %>%
+      setNames(c("CCS", "CCS_desc", "Condition"))
+    
+    cond <- cond_puf %>% mutate(CCS = CCCODEX) %>%
+      mutate(CCS_Codes = as.numeric(as.character(CCS))) %>%
+      left_join(condition_codes, by = "CCS_Codes")
+    
+  } else {
+    
+    condition_codes <- read_csv(ccsr_url) %>% 
+      setNames(c("CCSR", "CCSR_desc", "Condition"))
+    
+    # Convert multiple CCSRs to separate lines 
+    cond <- cond_puf %>% 
+      gather(CCSRnum, CCSR, CCSR1X:CCSR3X) %>% 
+      filter(CCSR != "") %>%
+      left_join(condition_codes)
+  }
   
 # Load event files
   RX  <- read_MEPS(year = year, type = "RX") %>% rename(EVNTIDX = LINKIDX)
@@ -32,10 +56,8 @@
            XPX, SFX, MRX, MDX, PRX, OZX)
 
   
-# Merge condition_codes, link file
+# Merge link file
   cond <- cond %>%
-    mutate(CCS_Codes = as.numeric(as.character(CCS))) %>%
-    left_join(condition_codes, by = "CCS_Codes") %>%
     full_join(clink1, by = c("DUPERSID", "CONDIDX")) %>%
     distinct(DUPERSID, EVNTIDX, Condition, .keep_all=T)
   
