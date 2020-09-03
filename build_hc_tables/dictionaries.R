@@ -2,7 +2,7 @@
 
 statList <- byVars <-
   colGrps <- rowGrps <- rowGrps_R <- colGrps_R <- list()
-  
+
 # Shared groups for HC tables -------------------------------------------------
 
 demo_grps <- list(
@@ -180,6 +180,7 @@ care_freq <- '
       "-7" = "Don\'t know/Non-response",
       "-8" = "Don\'t know/Non-response",
       "-9" = "Don\'t know/Non-response",
+      "-15" = "Don\'t know/Non-response",
       "-1" = "Inapplicable"'
 
 care_freq_sas <- '
@@ -192,6 +193,7 @@ proc format;
   -7 = "Don\'t know/Non-response"
   -8 = "Don\'t know/Non-response"
   -9 = "Don\'t know/Non-response"
+  -15 = "Don\'t know/Non-response"
   -1 = "Inapplicable"
   . = "Missing";
 run;

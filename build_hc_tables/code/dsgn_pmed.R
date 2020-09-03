@@ -1,6 +1,6 @@
 
 DRGpers <- RX %>%
-  filter(RXNDC != "-9" & RXDRGNAM != "-9") %>%
+  filter(!RXNDC %in% c("-9","-15") & !RXDRGNAM %in% c("-9","-15")) %>%
   group_by(DUPERSID, VARSTR, VARPSU, PERWTF, RXDRGNAM) %>%
   summarise(n_RX = sum(count), RXXPX = sum(RXXPX)) %>%
   mutate(count = 1) %>%
