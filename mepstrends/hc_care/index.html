@@ -245,11 +245,11 @@
       Accessibility and quality of care
       <img src="../src/custom/img/icon_care.png" alt="ambulance" class="app-image"/>
     </h2>
-    <p>These MEPS summary tables provide statistics on accessibility and quality of care, such as percentage of the population with a usual source of care, persons with difficulty accessing needed care, persons with diabetes care, and patient-reported quality of doctor's visits. Data can be viewed over time or for a single year by demographic characteristics (such as age, race, or sex).</p>
-    <p>
-Use the options below to select a statistic (number or percentage of people), variable of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.</p>
-    <p>After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button <img height = "25px" src = "../src/custom/img/download-white.png"> under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
-<a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"> MEPS GitHub repository</a>.</p>
+    These MEPS summary tables provide statistics on accessibility and quality of care, such as percentage of the population with a usual source of care, persons with difficulty accessing needed care, persons with diabetes care, and patient-reported quality of doctor's visits. Data can be viewed over time or for a single year by demographic characteristics (such as age, race, or sex).
+    
+Use the options below to select a statistic (number or percentage of people), variable of interest, data view ("Trends over time" or "Cross-sectional"), and data years. If you select "Trends over time", you can choose a range of years. The "Cross-sectional" view displays a single year, which can be stratified by a grouping variable. Once a grouping variable is selected, a dropdown will appear, enabling selection of specific levels in each group.
+    After you select the available options, the table will automatically be updated. The data can be viewed as a plot under the "Plot" tab, with line graphs for trends over time and grouped bar graphs for the cross-sectional view. The generated tables and plots can be downloaded with the download button &lt;img height = "25px" src = "../src/custom/img/download-white.png"&gt; under each tab. To view standard errors in the table or 95% confidence intervals in the plot, select the "Show standard errors" checkbox. Example R, SAS, and Stata code for generating selected tables are available at the
+&lt;a href = "https://github.com/HHS-AHRQ/MEPS/tree/master/Stata#summary-tables-examples" class = "external-link" target="_blank"&gt; MEPS GitHub repository&lt;/a&gt;.
   </div>
 </div>
 <div class="row full-screen">
@@ -462,6 +462,7 @@ Use the options below to select a statistic (number or percentage of people), va
         <div id="table-footnotes" role="region" aria-live="polite">
           <aside id="suppress"> -- Estimates suppressed due to inadequate precision (see <a target="_blank_" href="https://meps.ahrq.gov/survey_comp/precision_guidelines.shtml">FAQs</a> for details).</aside>
           <aside id="RSE">* Relative standard error is greater than 30%</aside>
+          <aside id="DNC">DNC: Data not collected. Starting in 2017, most variables pertaining to quality of care and access to care are only collected in odd years.</aside>
         </div>
       </div>
       <div id="plot-tab" class="tab-pane">

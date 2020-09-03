@@ -195,4 +195,12 @@ var isPivot = true; var initCols = [
 
                   {title: "", className: "coef", searchable: false, render: coefDisplay},
 
+                {title: "", className: "se", searchable: false, render: seDisplay},
+
+                  {title: "", className: "coef", searchable: false, render: coefDisplay},
+
+                {title: "", className: "se", searchable: false, render: seDisplay},
+
+                  {title: "", className: "coef", searchable: false, render: coefDisplay},
+
                 {title: "", className: "se", searchable: false, render: seDisplay}]; var initLevels = []; var subLevels = ["Office-based physician visits","Outpatient physician visits"];
