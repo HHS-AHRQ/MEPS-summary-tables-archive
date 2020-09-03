@@ -90,11 +90,28 @@ adj = data.frame(
 adj_use = adj
 adj_use[adj$stat == "totEVT",c('denom', 'digits', 'se_digits')] = c(10^6, 0, 1)
 
+
+## For hc_care, get all possible row/cols, to fill in for years that don't collect data
+
+care_tables_list <- list()
+for(year in 2015:2017) {
+  care_tables_list[[paste0("DY",year)]] <- 
+    read.csv(str_glue("../formatted_tables/hc_care/DY{year}.csv"))
+}
+
+care_categories <- bind_rows(care_tables_list) %>% 
+  select(-coef, -se) %>%
+  distinct
+
+
 ## Format tables
 format_hc_tables(appKey = 'hc_use',  years = year_list, adj = adj_use)
 format_hc_tables(appKey = 'hc_ins',  years = year_list, adj = adj)
-format_hc_tables(appKey = 'hc_care', years = year_list[year_list >= 2002], adj = adj)
 format_hc_tables(appKey = 'hc_pmed', years = year_list, adj = adj)
+
+format_hc_tables(
+  appKey = 'hc_care', years = year_list[year_list >= 2002], 
+  adj = adj, all_possible = care_categories)
 
 format_hc_tables(appKey = 'hc_cond',       years = year_list[year_list <= 2015], adj = adj)
 format_hc_tables(appKey = 'hc_cond_icd10', years = year_list[year_list >= 2016], adj = adj)

@@ -186,7 +186,7 @@ format_tbl <- function(df, appKey) {
 }
 
 
-format_hc_tables <- function(appKey, years, adj) {
+format_hc_tables <- function(appKey, years, adj, all_possible = NA) {
   
   dir <- sprintf("data_tables/%s", appKey)
   if(missing(years)) years <- list.files(dir)
@@ -245,13 +245,27 @@ format_hc_tables <- function(appKey, years, adj) {
     if(has_n) full_tbls <- full_tbls %>% left_join(n_df)
     if(has_nexp) full_tbls <- full_tbls %>% left_join(n_exp)
     
+    # Remove 'OBO' and 'OPZ' -- no longer including non-phys events in output tables
+    full_tbls <- full_tbls %>%
+      filter(
+        !colLevels %in% c('OBO', 'OPZ'),
+        !rowLevels %in% c('OBO', 'OPZ'))
+    
     fmt_tbl <- full_tbls %>%
       left_join(adj) %>%
       format_tbl(appKey = appKey) %>% 
       filter(!rowLevels %in% c("Missing", "Inapplicable")) %>%
-      filter(!colLevels %in% c("Missing", "Inapplicable")) %>% 
+      filter(!colLevels %in% c("Missing", "Inapplicable")) 
+    
+
+    # Do this before creating caption...to avoid mixing up row and col order
+    if(appKey == "hc_use")
+      fmt_tbl <- rbind(fmt_tbl, fmt_tbl %>% switch_labels) %>% dedup
+
+    fmt_tbl <- fmt_tbl %>% 
       add_totals('row') %>% 
-      add_totals('col')
+      add_totals('col') %>% 
+      dedup  # If 'Any event' is already calculated, remove the version added in 'add_totals'
     
     
     # Remove impossible combinations (i.e. insurance 65+ for ages < 65)
@@ -292,11 +306,7 @@ format_hc_tables <- function(appKey, years, adj) {
           )
       }
     
-    # Do this before creating caption...to avoid mixing up row and col order
-    if(appKey == "hc_use")
-      fmt_tbl <- rbind(fmt_tbl, fmt_tbl %>% switch_labels) %>% dedup
-    
-    
+
     # Add stat/row/col labels and groups
     fmt_tbl <- fmt_tbl %>% 
       rename(row_var = rowGrp, col_var = colGrp, stat_var = stat) %>% 
@@ -377,6 +387,30 @@ format_hc_tables <- function(appKey, years, adj) {
         col_var  = factor(col_var, levels = cols)) %>%
       
       arrange(stat_var, row_var, col_var)
+    
+    # Fill in with 'DNC' (data not collected) for hc_care app, for even/odd years
+    if(appKey == "hc_care" & year >= 2018) {
+      
+      fill_categories <- full_join(
+        fmt_tbl %>% mutate(current_year = TRUE),
+        all_possible %>% mutate(universe = TRUE))
+
+      missing_categories <- fill_categories %>% 
+        filter(is.na(current_year), universe) %>%
+        count(col_var) %>% pull(col_var)
+
+      if(year %% 2 == 0) {
+        
+        miss_even <- missing_categories %>% grep("adult|child|rsn|difficulty", ., value = T)
+        
+        fmt_tbl <- fill_categories %>%
+          mutate(
+            skipped = (is.na(current_year) & universe & col_var %in% miss_even),
+            coef = ifelse(skipped, "DNC", coef),
+            se   = ifelse(skipped, "DNC", se)) %>%
+          select(-current_year, -universe, -skipped)
+      }
+    }
     
     write.csv(fmt_tbl, file = out_fmt, row.names = F) 
   } # end for year in years

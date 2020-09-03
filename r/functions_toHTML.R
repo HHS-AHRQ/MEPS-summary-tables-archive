@@ -133,7 +133,7 @@ build_body <- function(info, forms, main) {
 }
 
 
-build_table <- function(pivot) {
+build_table <- function(pivot, include_DNC = FALSE) {
   suppressed_HTML <-
     sprintf(
       ' -- Estimates suppressed due to inadequate precision (see %s for details).',
@@ -165,7 +165,10 @@ build_table <- function(pivot) {
       tags$div(
         id = "table-footnotes", role = "region", 'aria-live' = "polite",
         tags$aside(id = "suppress", HTML(suppressed_HTML)),
-        tags$aside(id = "RSE", "* Relative standard error is greater than 30%")
+        tags$aside(id = "RSE", "* Relative standard error is greater than 30%"),
+        if(include_DNC) {
+          tags$aside(id = "DNC", "DNC: Data not collected. Starting in 2017, most variables pertaining to quality of care and access to care are only collected in odd years.")
+        }
       )
   )
 }
@@ -230,7 +233,7 @@ build_code <- function(pivot) {
 }
 
 
-build_main <- function(pivot = F, include = c("table", "plot", "code"), app_notes = "") {
+build_main <- function(pivot = F, include = c("table", "plot", "code"), app_notes = "",...) {
   tagList(
     tags$ul(
       id = "meps-tabs", class = "nav nav-pills",
@@ -243,7 +246,7 @@ build_main <- function(pivot = F, include = c("table", "plot", "code"), app_note
         div(id = 'updating-overlay',
             div(id = 'updating-text', 'Updating, please wait...')),
 
-        if("table" %in% include) { build_table(pivot) },
+        if("table" %in% include) { build_table(pivot,...) },
         if("plot"  %in% include) { build_plot(pivot) },
         if("code"  %in% include) { build_code(pivot) }
     ),

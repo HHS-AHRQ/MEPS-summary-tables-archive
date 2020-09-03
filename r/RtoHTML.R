@@ -127,7 +127,7 @@ care_forms <- tagList(
     rcInput(MASTER_TABLE, type = "row"))
 )
 
-care_page <- build_html('hc_care', forms = care_forms, pivot = F)
+care_page <- build_html('hc_care', forms = care_forms, pivot = F, include_DNC = T)
 write(as.character(care_page), file = "../mepstrends/hc_care/index.html")
 
 

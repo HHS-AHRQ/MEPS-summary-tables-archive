@@ -48,14 +48,39 @@ for(year in year_list[year_list >= 2002]) {
       
       res <- list()
       
-      res[["usc"]] = svyby(~usc, FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & HAVEUS42 >= 0 & LOCATN42 >= -1))
+      res[["usc"]] = 
+        svyby(~usc, FUN = func, by = by_form, 
+              design = subset(FYCdsgn, ACCELI42==1 & HAVEUS42 >= 0 & LOCATN42 >= -1))
+    
+      difficulty_vars <- c(
+        paste0("delay_",  c("ANY", "MD", "DN", "PM")),
+        paste0("afford_", c("ANY", "MD", "DN", "PM")),
+        paste0("insure_", c("ANY", "MD", "DN", "PM")),
+        paste0("other_",  c("ANY", "MD", "DN", "PM"))
+      )
       
-      res[["difficulty"]] = svyby(~delay_ANY + delay_MD + delay_DN + delay_PM, FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1))
-      
-      res[["rsn_ANY"]] = svyby(~afford_ANY + insure_ANY + other_ANY, FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_ANY==1))
-      res[["rsn_MD"]]  = svyby(~afford_MD + insure_MD + other_MD,    FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_MD==1))
-      res[["rsn_DN"]]  = svyby(~afford_DN + insure_DN + other_DN,    FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_DN==1))
-      res[["rsn_PM"]]  = svyby(~afford_PM + insure_PM + other_PM,    FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_PM==1))
+      if(all(difficulty_vars %in% colnames(FYC))) {
+        
+        res[["difficulty"]] = 
+          svyby(~delay_ANY + delay_MD + delay_DN + delay_PM, 
+                FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1))
+        
+        res[["rsn_ANY"]] = 
+          svyby(~afford_ANY + insure_ANY + other_ANY, 
+                FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_ANY==1))
+        
+        res[["rsn_MD"]]  = 
+          svyby(~afford_MD + insure_MD + other_MD,    
+                FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_MD==1))
+        
+        res[["rsn_DN"]]  = 
+          svyby(~afford_DN + insure_DN + other_DN,    
+                FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_DN==1))
+        
+        res[["rsn_PM"]]  = 
+          svyby(~afford_PM + insure_PM + other_PM,    
+                FUN = func, by = by_form, design = subset(FYCdsgn, ACCELI42==1 & delay_PM==1))
+      }
       
       res[["diab_a1c"]]  = svyby(~diab_a1c,  FUN = func, by = by_form, design = DIABdsgn)
       res[["diab_eye"]]  = svyby(~diab_eye,  FUN = func, by = by_form, design = DIABdsgn)
@@ -63,27 +88,59 @@ for(year in year_list[year_list >= 2002]) {
       res[["diab_chol"]] = svyby(~diab_chol, FUN = func, by = by_form, design = DIABdsgn)
       res[["diab_foot"]] = svyby(~diab_foot, FUN = func, by = by_form, design = DIABdsgn)
       
-      res[["adult_nosmok"]]  = svyby(~adult_nosmok,  FUN = func, by = by_form, design = subset(SAQdsgn, ADSMOK42==1 & CHECK53==1))
-      res[["adult_routine"]] = svyby(~adult_routine, FUN = func, by = by_form, design = subset(SAQdsgn, ADRTCR42==1 & AGELAST >= 18))
-      res[["adult_illness"]] = svyby(~adult_illness, FUN = func, by = by_form, design = subset(SAQdsgn, ADILCR42==1 & AGELAST >= 18))
+      qual_vars <- c("routine", "illness", "time", "listen", "rating", "respect", "explain")
       
-      res[["child_dental"]]  = svyby(~child_dental,  FUN = func, by = by_form, design = subset(FYCdsgn, child_2to17==1))
-      res[["child_routine"]] = svyby(~child_routine, FUN = func, by = by_form, design = subset(FYCdsgn, CHRTCR42==1 & AGELAST < 18))
-      res[["child_illness"]] = svyby(~child_illness, FUN = func, by = by_form, design = subset(FYCdsgn, CHILCR42==1 & AGELAST < 18))
+      qual_vars_adult <- paste0("adult_", qual_vars)
+      qual_vars_child <- paste0("child_", qual_vars)
       
-      adult_dsgn <- subset(SAQdsgn, ADAPPT42 >= 1 & AGELAST >= 18)
-      res[["adult_time"]]    = svyby(~adult_time,    FUN = func, by = by_form, design = adult_dsgn)
-      res[["adult_listen"]]  = svyby(~adult_listen,  FUN = func, by = by_form, design = adult_dsgn)
-      res[["adult_rating"]]  = svyby(~adult_rating,  FUN = func, by = by_form, design = adult_dsgn)
-      res[["adult_respect"]] = svyby(~adult_respect, FUN = func, by = by_form, design = adult_dsgn)
-      res[["adult_explain"]] = svyby(~adult_explain, FUN = func, by = by_form, design = adult_dsgn)
       
-      child_dsgn <- subset(FYCdsgn, CHAPPT42 >= 1 & AGELAST < 18)
-      res[["child_time"]]    = svyby(~child_time,    FUN = func, by = by_form, design = child_dsgn)
-      res[["child_listen"]]  = svyby(~child_listen,  FUN = func, by = by_form, design = child_dsgn)
-      res[["child_rating"]]  = svyby(~child_rating,  FUN = func, by = by_form, design = child_dsgn)
-      res[["child_respect"]] = svyby(~child_respect, FUN = func, by = by_form, design = child_dsgn)
-      res[["child_explain"]] = svyby(~child_explain, FUN = func, by = by_form, design = child_dsgn)
+      # Adult quality of care variables
+
+      if("adult_nosmok" %in% colnames(FYC)) {
+      res[["adult_nosmok"]]  = 
+        svyby(~adult_nosmok,  FUN = func, by = by_form, 
+              design = subset(SAQdsgn, ADSMOK42==1))
+      }
+      
+      if(all(qual_vars_adult %in% colnames(FYC))) {
+        res[["adult_routine"]] = 
+          svyby(~adult_routine, FUN = func, by = by_form, 
+                design = subset(SAQdsgn, ADRTCR42==1 & AGELAST >= 18))
+    
+        res[["adult_illness"]] = 
+          svyby(~adult_illness, FUN = func, by = by_form, 
+                design = subset(SAQdsgn, ADILCR42==1 & AGELAST >= 18))
+        
+        adult_dsgn <- subset(SAQdsgn, ADAPPT42 >= 1 & AGELAST >= 18)
+        res[["adult_time"]]    = svyby(~adult_time,    FUN = func, by = by_form, design = adult_dsgn)
+        res[["adult_listen"]]  = svyby(~adult_listen,  FUN = func, by = by_form, design = adult_dsgn)
+        res[["adult_rating"]]  = svyby(~adult_rating,  FUN = func, by = by_form, design = adult_dsgn)
+        res[["adult_respect"]] = svyby(~adult_respect, FUN = func, by = by_form, design = adult_dsgn)
+        res[["adult_explain"]] = svyby(~adult_explain, FUN = func, by = by_form, design = adult_dsgn)
+      }
+      
+      # Child quality of care variables (only odd years starting 2017, except child_dental)
+      
+      res[["child_dental"]]  = 
+        svyby(~child_dental,  FUN = func, by = by_form, 
+              design = subset(FYCdsgn, child_2to17==1))
+      
+      if(all(qual_vars_child %in% colnames(FYC))) {
+        res[["child_routine"]] = 
+          svyby(~child_routine, FUN = func, by = by_form, 
+                design = subset(FYCdsgn, CHRTCR42==1 & AGELAST < 18))
+        
+        res[["child_illness"]] = 
+          svyby(~child_illness, FUN = func, by = by_form, 
+                design = subset(FYCdsgn, CHILCR42==1 & AGELAST < 18))
+        
+        child_dsgn <- subset(FYCdsgn, CHAPPT42 >= 1 & AGELAST < 18)
+        res[["child_time"]]    = svyby(~child_time,    FUN = func, by = by_form, design = child_dsgn)
+        res[["child_listen"]]  = svyby(~child_listen,  FUN = func, by = by_form, design = child_dsgn)
+        res[["child_rating"]]  = svyby(~child_rating,  FUN = func, by = by_form, design = child_dsgn)
+        res[["child_respect"]] = svyby(~child_respect, FUN = func, by = by_form, design = child_dsgn)
+        res[["child_explain"]] = svyby(~child_explain, FUN = func, by = by_form, design = child_dsgn)
+      }
       
       # Format and output to csv ----------------------------------------------
       stat_se = p(stat, "_se")
