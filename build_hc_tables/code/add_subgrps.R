@@ -273,7 +273,6 @@
     IPTEXP = IPFEXP + IPDEXP,
     OPTEXP = OPFEXP + OPDEXP, # All Outpatient
     OPYEXP = OPVEXP + OPSEXP, # Physician only
-    OPZEXP = OPOEXP + OPPEXP, # Non-physician only
     OMAEXP = VISEXP + OTHEXP) # Other medical equipment and services
   
   FYC <- FYC %>% mutate(
@@ -285,8 +284,8 @@
 
   
 # Add aggregate sources of payment for all event types ------------------------
-  evt <- c("TOT","RX","DVT","OBV","OBD","OBO",
-           "OPF","OPD","OPV","OPS","OPO","OPP",
+  evt <- c("TOT","RX","DVT","OBV","OBD",
+           "OPF","OPD","OPV","OPS", 
            "ERF","ERD","IPF","IPD","HHA","HHN",
            "VIS","OTH")
   
@@ -312,5 +311,4 @@
   
   FYC[,p("OPT",sop)] = FYC[,p("OPF",sop)] + FYC[,p("OPD",sop)]
   FYC[,p("OPY",sop)] = FYC[,p("OPV",sop)] + FYC[,p("OPS",sop)]
-  FYC[,p("OPZ",sop)] = FYC[,p("OPO",sop)] + FYC[,p("OPP",sop)]
   
