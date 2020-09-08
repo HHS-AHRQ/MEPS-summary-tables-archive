@@ -168,13 +168,13 @@ build_table <- function(pivot, include_DNC = FALSE) {
         tags$aside(id = "RSE", "* Relative standard error is greater than 30%"),
         if(include_DNC) {
           tags$aside(
-            id = "DNC", 
-            HTML("DNC: Data not collected. The MEPS survey instrument re-design in 2018 affected some of the \"Access to Care\" and \"Quality of Care\" variables. Some of these variables will be collected every other year, while others were completely dropped from the survey and are no longer collected. Please refer to the 
-                 <a href = 'https://meps.ahrq.gov/data_stats/download_data/pufs/h209/h209doc.shtml'>
-                 2018 Full-Year File Documentation
+            id = "DNC",
+            HTML("<b>DNC</b>: Data not collected. The MEPS survey instrument re-design in 2018 affected some of the \"Access to Care\" and \"Quality of Care\" variables. Some of these variables will be collected every other year, while others were completely dropped from the survey and are no longer collected. Please refer to the 
+                 <a target = '_blank' href = 'https://meps.ahrq.gov/data_stats/download_data/pufs/h209/h209doc.shtml'>
+                 2018 Full-Year Consolidated File Documentation
                  </a>
-                 and 
-                 </a href = 'https://meps.ahrq.gov/mepsweb/survey_comp/survey.jsp#Questionnaires'>
+                 and
+                 <a target = '_blank' href = 'https://meps.ahrq.gov/mepsweb/survey_comp/survey.jsp#Questionnaires'>
                  Survey Questionnaires
                  </a> for more details."))
         }

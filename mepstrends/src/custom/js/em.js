@@ -479,12 +479,14 @@ $('#meps-table').hide(); // hide until new data is imported
     }
 
     var dlSource = newSource.replace('<b>','').replace('</b>','');
+    var dncNote = $('#DNC').text().split(".",1);
 
     var csv = $.grep(
       ['"'+fullCaption.replace(" (standard errors)","")+'"', coefCSV,
        '"'+seCaption.replace(" (standard errors)","") +'"', seCSV,
        $('#suppress').text(),
        $('#RSE').text(),
+       dncNote,
        '"'+dlSource+'"'], Boolean).join("\n");
 
     downloadFile({file: csv, filename: 'meps-table-' + shortDate() + '.csv'});
