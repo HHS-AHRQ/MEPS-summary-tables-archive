@@ -3,6 +3,7 @@ library(tidyverse)
 library(survey)
 library(MEPS)
 library(haven)
+library(htmltools)
 
 source("../r/functions.R")
 source("dictionaries.R")

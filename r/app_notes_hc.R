@@ -7,7 +7,7 @@ Percentages may not sum to 100 due to rounding.
 
 EVT <- "
 <h4>Utilization</h4>
-Events include all dental visits, prescribed medicine purchases (including refills), office-based and outpatient visits, emergency room visits, inpatient stays, and home health events. A <i>home health event</i> is defined as one month during which home health service was received. <i>Other medical equipment and services</i> are not included in utilization estimates because information for these events is collected per interview (e.g. eyeglasses) or per year (e.g. wheelchairs, hearing aids) for each person, rather than on a per-purchase basis.
+Events include all dental visits, prescribed medicine purchases (including refills), office-based and outpatient visits, emergency room visits, inpatient stays, and home health events. A <i>home health event</i> is defined as one month during which home health service was received. <i>Other medical equipment and services</i> are not included in utilization estimates because information for these events is collected per interview or per year for each person, rather than on a per-purchase basis.
 "
 
 EVT2 <- "
@@ -63,7 +63,7 @@ event <- sprintf("
 <li>%s</li>
 <li>%s</li>
 <li>
-  <i>Other medical equipment and services</i> are expenses for medical equipment such as eyeglasses, hearing aids, or wheelchairs.
+  <i>Other medical equipment and services</i> are expenses for medical equipment such as eyeglasses, hearing aids, or wheelchairs. Starting in Panel 21 Round 5 and Panel 22 Round 3 (the last half of 2017), questions about Other Medical expenses are asked in every round (previously only questions about glasses/contact lenses were asked every round). The increased frequency of questions and reduced length of reference periods likely led to more reporting due to improved recall.
 </li>
 </ul>
 ", hh, rx)
